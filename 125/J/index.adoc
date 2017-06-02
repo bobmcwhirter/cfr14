@@ -1,0 +1,158 @@
+# Flight Operations
+:toc:
+
+## § 125.311
+
+### Flight crewmembers at controls.
+
+. Except as provided in paragraph (b) of this section, each required flight crewmember on flight deck duty must remain at the assigned duty station with seat belt fastened while the airplane is taking off or landing and while it is en route.
+. A required flight crewmember may leave the assigned duty station—
+.. If the crewmember's absence is necessary for the performance of duties in connection with the operation of the airplane;
+.. If the crewmember's absence is in connection with physiological needs; or
+.. If the crewmember is taking a rest period and relief is provided—
+... In the case of the assigned pilot in command, by a pilot qualified to act as pilot in command.
+... In the case of the assigned second in command, by a pilot qualified to act as second in command of that airplane during en route operations. However, the relief pilot need not meet the recent experience requirements of § 125.285.
+
+## § 125.313
+
+### Manipulation of controls when carrying passengers.
+
+No pilot in command may allow any person to manipulate the controls of an airplane while carrying passengers during flight, nor may any person manipulate the controls while carrying passengers during flight, unless that person is a qualified pilot of the certificate holder operating that airplane.
+
+## § 125.315
+
+### Admission to flight deck.
+
+. No person may admit any person to the flight deck of an airplane unless the person being admitted is—
+.. A crewmember;
+.. An FAA inspector or an authorized representative of the National Transportation Safety Board who is performing official duties; or
+.. Any person who has the permission of the pilot in command.
+. No person may admit any person to the flight deck unless there is a seat available for the use of that person in the passenger compartment, except—
+              
+.. An FAA inspector or an authorized representative of the Administrator or National Transportation Safety Board who is checking or observing flight operations; or
+.. A certificated airman employed by the certificate holder whose duties require an airman certificate.
+
+## § 125.317
+
+### Inspector's credentials: Admission to pilots' compartment: Forward observer's seat.
+
+. Whenever, in performing the duties of conducting an inspection, an FAA inspector presents an Aviation Safety Inspector credential, FAA Form 110A, to the pilot in command of an airplane operated by the certificate holder, the inspector must be given free and uninterrupted access to the pilot compartment of that airplane. However, this paragraph does not limit the emergency authority of the pilot in command to exclude any person from the pilot compartment in the interest of safety.
+. A forward observer's seat on the flight deck, or forward passenger seat with headset or speaker, must be provided for use by the Administrator while conducting en route inspections. The suitability of the location of the seat and the headset or speaker for use in conducting en route inspections is determined by the Administrator.
+
+## § 125.319
+
+### Emergencies.
+
+. In an emergency situation that requires immediate decision and action, the pilot in command may take any action considered necessary under the circumstances. In such a case, the pilot in command may deviate from prescribed operations, procedures and methods, weather minimums, and this chapter, to the extent required in the interests of safety.
+. In an emergency situation arising during flight that requires immediate decision and action by appropriate management personnel in the case of operations conducted with a flight following service and which is known to them, those personnel shall advise the pilot in command of the emergency, shall ascertain the decision of the pilot in command, and shall have the decision recorded. If they cannot communicate with the pilot, they shall declare an emergency and take any action that they consider necessary under the circumstances.
+. Whenever emergency authority is exercised, the pilot in command or the appropriate management personnel shall keep the appropriate ground radio station fully informed of the progress of the flight. The person declaring the emergency shall send a written report of any deviation, through the operator's director of operations, to the Administrator within 10 days, exclusive of Saturdays, Sundays, and Federal holidays, after the flight is completed or, in the case of operations outside the United States, upon return to the home base.
+
+## § 125.321
+
+### Reporting potentially hazardous meteorological conditions and irregularities of ground and navigation facilities.
+
+Whenever the pilot in command encounters a meteorological condition or an irregularity in a ground facility or navigation aid in flight, the knowledge of which the pilot in command considers essential to the safety of other flights, the pilot in command shall notify an appropriate ground station as soon as practicable.
+
+## § 125.323
+
+### Reporting mechanical irregularities.
+
+The pilot in command shall ensure that all mechanical irregularities occurring during flight are entered in the maintenance log of the airplane at the next place of landing. Before each flight, the pilot in command shall ascertain the status of each irregularity entered in the log at the end of the preceding flight.
+
+## § 125.325
+
+### Instrument approach procedures and IFR landing minimums.
+
+No person may make an instrument approach at an airport except in accordance with IFR weather minimums and unless the type of instrument approach procedure to be used is listed in the certificate holder's operations specifications.
+
+## § 125.327
+
+### Briefing of passengers before flight.
+
+. Before each takeoff, each pilot in command of an airplane carrying passengers shall ensure that all passengers have been orally briefed on—
+.. *Smoking.* Each passenger shall be briefed on when, where, and under what conditions smoking is prohibited. This briefing shall include a statement that the Federal Aviation Regulations require passenger compliance with the lighted passenger information signs, posted placards, areas designated for safety purposes as no smoking areas, and crewmember instructions with regard to these items.
+.. *The use of safety belts, including instructions on how to fasten and unfasten the safety belts.* Each passenger shall be briefed on when, where, and under what conditions the safety belt must be fastened about him or her. This briefing shall include a statement that the Federal Aviation Regulations require passenger compliance with lighted passenger information signs and crewmember instructions concerning the use of safety belts.
+.. The placement of seat backs in an upright position before takeoff and landing;
+.. Location and means for opening the passenger entry door and emergency exits;
+.. Location of survival equipment;
+.. If the flight involves extended overwater operation, ditching procedures and the use of required flotation equipment;
+.. If the flight involves operations above 12,000 feet MSL, the normal and emergency use of oxygen; and
+.. Location and operation of fire extinguishers.
+. Before each takeoff, the pilot in command shall ensure that each person who may need the assistance of another person to move expeditiously to an exit if an emergency occurs and that person's attendant, if any, has received a briefing as to the procedures to be followed if an evacuation occurs. This paragraph does not apply to a person who has been given a briefing before a previous leg of a flight in the same airplane.
+. The oral briefing required by paragraph (a) of this section shall be given by the pilot in command or a member of the crew. It shall be supplemented by printed cards for the use of each passenger containing—
+.. A diagram and method of operating the emergency exits; and
+.. Other instructions necessary for the use of emergency equipment on board the airplane.
+. The certificate holder shall describe in its manual the procedure to be followed in the briefing required by paragraph (a) of this section.
+. If the airplane does not proceed directly over water after takeoff, no part of the briefing required by paragraph (a)(6) of this section has to be given before takeoff but the briefing required by paragraph (a)(6) must be given before reaching the overwater part of the flight.
+
+## § 125.328
+
+### Prohibition on crew interference.
+
+No person may assault, threaten, intimidate, or interfere with a crewmember in the performance of the crewmember's duties aboard an aircraft being operated under this part.
+
+## § 125.329
+
+### Minimum altitudes for use of autopilot.
+
+. *Definitions.* For purpose of this section—
+.. Altitudes for takeoff/initial climb and go-around/missed approach are defined as above the airport elevation.
+.. Altitudes for enroute operations are defined as above terrain elevation.
+.. Altitudes for approach are defined as above the touchdown zone elevation (TDZE), unless the altitude is specifically in reference to DA (H) or MDA, in which case the altitude is defined by reference to the DA(H) or MDA itself.
+. *Takeoff and initial climb.* No person may use an autopilot for takeoff or initial climb below the higher of 500 feet or an altitude that is no lower than twice the altitude loss specified in the Airplane Flight Manual (AFM), except as follows—
+.. At a minimum engagement altitude specified in the AFM; or
+.. At an altitude specified by the Administrator, whichever is greater.
+. *Enroute.* No person may use an autopilot enroute, including climb and descent, below the following—
+.. 500 feet;
+.. At an altitude that is no lower than twice the altitude loss specified in the AFM for an autopilot malfunction in cruise conditions; or
+.. At an altitude specified by the Administrator, whichever is greater.
+. *Approach.* No person may use an autopilot at an altitude lower than 50 feet below the DA(H) or MDA for the instrument procedure being flown, except as follows—
+.. For autopilots with an AFM specified altitude loss for approach operations—
+... An altitude no lower than twice the specified altitude loss if higher than 50 feet below the MDA or DA(H);
+... An altitude no lower than 50 feet higher than the altitude loss specified in the AFM, when the following conditions are met—
+... An altitude no lower than the higher of the altitude loss specified in the AFM or 50 feet above the TDZE, when the following conditions are met—
+... A greater altitude specified by the Administrator.
+.. For autopilots with AFM specified approach altitude limitations, the greater of—
+... The minimum use altitude specified for the coupled approach mode selected;
+... 50 feet; or
+... An altitude specified by Administrator.
+.. For autopilots with an AFM specified negligible or zero altitude loss for an autopilot approach mode malfunction, the greater of—
+... 50 feet; or
+... An altitude specified by Administrator.
+.. If executing an autopilot coupled go-around or missed approach using a certificated and functioning autopilot in accordance with paragraph (e) in this section.
+. *Go-Around/Missed Approach.* No person may engage an autopilot during a go-around or missed approach below the minimum engagement altitude specified for takeoff and initial climb in paragraph (b) in this section. An autopilot minimum use altitude does not apply to a go-around/missed approach initiated with an engaged autopilot. Performing a go-around or missed approach with an engaged autopilot must not adversely affect safe obstacle clearance.
+. *Landing.* Notwithstanding paragraph (d) of this section, autopilot minimum use altitudes do not apply to autopilot operations when an approved automatic landing system mode is being used for landing. Automatic landing systems must be authorized in an operations specification issued to the operator.
+
+(A) Reported weather conditions are less than the basic VFR weather conditions in § 91.155 of this chapter;
+
+(B) Suitable visual references specified in § 91.175 of this chapter have been established on the instrument approach procedure; and
+
+(C) The autopilot is coupled and receiving both lateral and vertical path references;
+
+(A) Reported weather conditions are equal to or better than the basic VFR weather conditions in § 91.155 of this chapter; and
+
+(B) The autopilot is coupled and receiving both lateral and vertical path references; or
+
+## § 125.331
+
+### Carriage of persons without compliance with the passenger-carrying provisions of this part.
+
+The following persons may be carried aboard an airplane without complying with the passenger-carrying requirements of this part:
+
+. A crewmember.
+. A person necessary for the safe handling of animals on the airplane.
+. A person necessary for the safe handling of hazardous materials (as defined in subchapter C of title 49 CFR).
+. A person performing duty as a security or honor guard accompanying a shipment made by or under the authority of the U.S. Government.
+. A military courier or a military route supervisor carried by a military cargo contract operator if that carriage is specifically authorized by the appropriate military service.
+. An authorized representative of the Administrator conducting an en route inspection.
+. A person authorized by the Administrator.
+
+## § 125.333
+
+### Stowage of food, beverage, and passenger service equipment during airplane movement on the surface, takeoff, and landing.
+
+. No certificate holder may move an airplane on the surface, take off, or land when any food, beverage, or tableware furnished by the certificate holder is located at any passenger seat.
+. No certificate holder may move an airplane on the surface, take off, or land unless each food and beverage tray and seat back tray table is secured in its stowed position.
+. No certificate holder may permit an airplane to move on the surface, take off, or land unless each passenger serving cart is secured in its stowed position.
+. Each passenger shall comply with instructions given by a crewmember with regard to compliance with this section.
+

@@ -1,0 +1,66 @@
+# General
+:toc:
+
+## § 125.1
+
+### Applicability.
+
+. Except as provided in paragraphs (b), (c) and (d) of this section, this part prescribes rules governing the operations of U.S.-registered civil airplanes which have a seating configuration of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more when common carriage is not involved.
+. The rules of this part do not apply to the operations of airplanes specified in paragraph (a) of this section, when—
+.. They are required to be operated under part 121, 129, 135, or 137 of this chapter;
+.. They have been issued restricted, limited, or provisional airworthiness certificates, special flight permits, or experimental certificates;
+.. They are being operated by a part 125 certificate holder without carrying passengers or cargo under part 91 for training, ferrying, positioning, or maintenance purposes;
+.. They are being operated under part 91 by an operator certificated to operate those airplanes under the rules of parts 121, 135, or 137 of this chapter, they are being operated under the applicable rules of part 121 or part 135 of this chapter by an applicant for a certificate under part 119 of this chapter or they are being operated by a foreign air carrier or a foreign person engaged in common carriage solely outside the United States under part 91 of this chapter;
+.. They are being operated under a deviation authority issued under § 125.3;
+.. They are being operated under part 91, subpart K by a fractional owner as defined in § 91.1001 of this chapter; or
+.. They are being operated by a fractional ownership program manager as defined in § 91.1001 of this chapter, for training, ferrying, positioning, maintenance, or demonstration purposes under part 91 of this chapter and without carrying passengers or cargo for compensation or hire except as permitted for demonstration flights under § 91.501(b)(3) of this chapter.
+. The rules of this part, except § 125.247, do not apply to the operation of airplanes specified in paragraph (a) when they are operated outside the United States by a person who is not a citizen of the United States.
+. The provisions of this part apply to each person on board an aircraft being operated under this part, unless otherwise specified.
+. This part also establishes requirements for operators to take actions to support the continued airworthiness of each airplane.
+
+## § 125.3
+
+### Deviation authority.
+
+. The Administrator may, upon consideration of the circumstances of a particular operation, issue deviation authority providing relief from specified sections of part 125. This deviation authority will be issued as a Letter of Deviation Authority.
+. A Letter of Deviation Authority may be terminated or amended at any time by the Administrator.
+. A request for deviation authority must be submitted to the nearest Flight Standards District Office, not less than 60 days prior to the date of intended operations. A request for deviation authority must contain a complete statement of the circumstances and justification for the deviation requested.
+. After February 2, 2012, no deviation authority from the flight data recorder requirements of this part will be granted. Any previously issued deviation from the flight data recorder requirements of this part is no longer valid.
+
+## § 125.5
+
+### Operating certificate and operations specifications required.
+
+. After February 3, 1981, no person may engage in operations governed by this part unless that person holds a certificate and operations specification or appropriate deviation authority.
+. Applicants who file an application before June 1, 1981 shall continue to operate under the rules applicable to their operations on February 2, 1981 until the application for an operating certificate required by this part has been denied or the operating certificate and operations specifications required by this part have been issued.
+. The rules of this part which apply to a certificate holder also apply to any person who engages in any operation governed by this part without an appropriate certificate and operations specifications required by this part or a Letter of Deviation Authority issued under § 125.3.
+
+## § 125.7
+
+### Display of certificate.
+
+. The certificate holder must display a true copy of the certificate in each of its aircraft.
+. Each operator holding a Letter of Deviation Authority issued under this part must carry a true copy in each of its airplanes.
+
+## § 125.9
+
+### Definitions.
+
+. For the purposes of this part, *maximum payload capacity* means:
+.. For an airplane for which a maximum zero fuel weight is prescribed in FAA technical specifications, the maximum zero fuel weight, less empty weight, less all justifiable airplane equipment, and less the operating load (consisting of minimum flightcrew, foods and beverages and supplies and equipment related to foods and beverages, but not including disposable fuel or oil):
+.. For all other airplanes, the maximum certificated takeoff weight of an airplane, less the empty weight, less all justifiable airplane equipment, and less the operating load (consisting of minimum fuel load, oil, and flightcrew). The allowance for the weight of the crew, oil, and fuel is as follows:
+... Crew—200 pounds for each crewmember required under this chapter
+... Oil—350 pounds.
+... Fuel—the minimum weight of fuel required under this chapter for a flight between domestic points 174 nautical miles apart under VFR weather conditions that does not involve extended overwater operations.
+. For the purposes of this part, *empty weight* means the weight of the airframe, engines, propellers, and fixed equipment. Empty weight excludes the weight of the crew and payload, but includes the weight of all fixed ballast, unusable fuel supply, undrainable oil, total quantity of engine coolant, and total quantity of hydraulic fluid.
+. For the purposes of this part, *maximum zero fuel weight* means the maximum permissible weight of an airplane with no disposable fuel or oil. The zero fuel weight figure may be found in either the airplane type certificate data sheet or the approved Airplane Flight Manual, or both.
+. For the purposes of this section, *justifiable airplane equipment* means any equipment necessary for the operation of the airplane. It does not include equipment or ballast specifically installed, permanently or otherwise, for the purpose of altering the empty weight of an airplane to meet the maximum payload capacity.
+
+## § 125.11
+
+### Certificate eligibility and prohibited operations.
+
+. No person is eligible for a certificate or operations specifications under this part if the person holds the appropriate operating certificate and/or operations specifications necessary to conduct operations under part 121, 129 or 135 of this chapter.
+. No certificate holder may conduct any operation which results directly or indirectly from any person's holding out to the public to furnish transportation.
+. No person holding operations specifications under this part may operate or list on its operations specifications any aircraft listed on any operations specifications or other required aircraft listing under part 121, 129, or 135 of this chapter.
+

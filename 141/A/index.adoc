@@ -1,0 +1,172 @@
+# General
+:toc:
+
+## § 141.1
+
+### Applicability.
+
+This part prescribes the requirements for issuing pilot school certificates, provisional pilot school certificates, and associated ratings, and the general operating rules applicable to a holder of a certificate or rating issued under this part.
+
+## § 141.3
+
+### Certificate required.
+
+No person may operate as a certificated pilot school without, or in violation of, a pilot school certificate or provisional pilot school certificate issued under this part.
+
+## § 141.5
+
+### Requirements for a pilot school certificate.
+
+The FAA may issue a pilot school certificate with the appropriate ratings if, within the 24 calendar months before the date application is made, the applicant—
+
+. Completes the application for a pilot school certificate on the form and in the manner prescribed by the FAA;
+. Has held a provisional pilot school certificate;
+. Meets the applicable requirements under subparts A through C of this part for the school certificate and associated ratings sought;
+. Has established a pass rate of 80 percent or higher on the first attempt for all knowledge tests leading to a certificate or rating, practical tests leading to a certificate or rating, or end-of-course tests for an approved training course specified in appendix K of this part.
+. Has graduated at least 10 different people from the school's approved training courses.
+
+## § 141.7
+
+### Provisional pilot school certificate.
+
+An applicant that meets the applicable requirements of subparts A, B, and C of this part, but does not meet the recent training activity requirements of § 141.5(d) of this part, may be issued a provisional pilot school certificate with ratings.
+
+## § 141.9
+
+### Examining authority.
+
+The FAA issues examining authority to a pilot school for a training course if the pilot school and its training course meet the requirements of subpart D of this part.
+
+## § 141.11
+
+### Pilot school ratings.
+
+. The ratings listed in paragraph (b) of this section may be issued to an applicant for:
+.. A pilot school certificate, provided the applicant meets the requirements of § 141.5 of this part; or
+.. A provisional pilot school certificate, provided the applicant meets the requirements of § 141.7 of this part.
+. An applicant may be authorized to conduct the following courses:
+.. *Certification and rating courses.* (Appendixes A through J).
+... Recreational pilot course.
+... Private pilot course.
+... Commercial pilot course.
+... Instrument rating course.
+... Airline transport pilot course.
+... Flight instructor course.
+... Flight instructor instrument course.
+... Ground instructor course.
+... Additional aircraft category or class rating course.
+... Aircraft type rating course.
+.. *Special preparation courses.* (Appendix K).
+... Pilot refresher course.
+... Flight instructor refresher course.
+... Ground instructor refresher course.
+... Agricultural aircraft operations course.
+... Rotorcraft external-load operations course.
+... Special operations course.
+... Test pilot course.
+... Airline transport pilot certification training program.
+.. *Pilot ground school course.* (Appendix L).
+
+## § 141.13
+
+### Application for issuance, amendment, or renewal.
+
+. Application for an original certificate and rating, an additional rating, or the renewal of a certificate under this part must be made on a form and in a manner prescribed by the Administrator.
+. Application for the issuance or amendment of a certificate or rating must be accompanied by two copies of each proposed training course curriculum for which approval is sought.
+
+## § 141.17
+
+### Duration of certificate and examining authority.
+
+. Unless surrendered, suspended, or revoked, a pilot school's certificate or a provisional pilot school's certificate expires:
+.. On the last day of the 24th calendar month from the month the certificate was issued;
+.. Except as provided in paragraph (b) of this section, on the date that any change in ownership of the school occurs;
+.. On the date of any change in the facilities upon which the school's certificate is based occurs; or
+.. Upon notice by the Administrator that the school has failed for more than 60 days to maintain the facilities, aircraft, or personnel required for any one of the school's approved training courses.
+. A change in the ownership of a pilot school or provisional pilot school does not terminate that school's certificate if, within 30 days after the date that any change in ownership of the school occurs:
+.. Application is made for an appropriate amendment to the certificate; and
+.. No change in the facilities, personnel, or approved training courses is involved.
+. An examining authority issued to the holder of a pilot school certificate expires on the date that the pilot school certificate expires, or is surrendered, suspended, or revoked.
+
+## § 141.18
+
+### Carriage of narcotic drugs, marijuana, and depressant or stimulant drugs or substances.
+
+If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of § 91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
+
+## § 141.19
+
+### Display of certificate.
+
+. Each holder of a pilot school certificate or a provisional pilot school certificate must display that certificate in a place in the school that is normally accessible to the public and is not obscured.
+. A certificate must be made available for inspection upon request by:
+.. The Administrator;
+.. An authorized representative of the National Transportation Safety Board; or
+.. A Federal, State, or local law enforcement officer.
+
+## § 141.21
+
+### Inspections.
+
+Each holder of a certificate issued under this part must allow the Administrator to inspect its personnel, facilities, equipment, and records to determine the certificate holder's:
+
+. Eligibility to hold its certificate;
+. Compliance with 49 U.S.C. 40101 *et seq.,* formerly the Federal Aviation Act of 1958, as amended; and
+. Compliance with the Federal Aviation Regulations.
+
+## § 141.23
+
+### Advertising limitations.
+
+. The holder of a pilot school certificate or a provisional pilot school certificate may not make any statement relating to its certification and ratings that is false or designed to mislead any person contemplating enrollment in that school.
+. The holder of a pilot school certificate or a provisional pilot school certificate may not advertise that the school is certificated unless it clearly differentiates between courses that have been approved under part 141 of this chapter and those that have not been approved under part 141 of this chapter.
+. The holder of a pilot school certificate or a provisional pilot school certificate must promptly remove:
+.. From vacated premises, all signs indicating that the school was certificated by the Administrator; or
+              
+.. All indications (including signs), wherever located, that the school is certificated by the Administrator when its certificate has expired or has been surrendered, suspended, or revoked.
+
+## § 141.25
+
+### Business office and operations base.
+
+. Each holder of a pilot school or a provisional pilot school certificate must maintain a principal business office with a mailing address in the name shown on its certificate.
+. The facilities and equipment at the principal business office must be adequate to maintain the files and records required to operate the business of the school.
+. The principal business office may not be shared with, or used by, another pilot school.
+. Before changing the location of the principal business office or the operations base, each certificate holder must notify the FAA Flight Standards District Office having jurisdiction over the area of the new location, and the notice must be:
+.. Submitted in writing at least 30 days before the change of location; and
+.. Accompanied by any amendments needed for the certificate holder's approved training course outline.
+. A certificate holder may conduct training at an operations base other than the one specified in its certificate, if:
+.. The Administrator has inspected and approved the base for use by the certificate holder; and
+.. The course of training and any needed amendments have been approved for use at that base.
+
+## § 141.26
+
+### Training agreements.
+
+. A training center certificated under part 142 of this chapter may provide the training, testing, and checking for pilot schools certificated under this part and is considered to meet the requirements of this part, provided—
+.. There is a training agreement between the certificated training center and the pilot school;
+.. The training, testing, and checking provided by the certificated training center is approved and conducted under part 142;
+.. The pilot school certificated under this part obtains the Administrator's approval for a training course outline that includes the training, testing, and checking to be conducted under this part and the training, testing, and checking to be conducted under part 142; and
+.. Upon completion of the training, testing, and checking conducted under part 142, a copy of each student's training record is forwarded to the part 141 school and becomes part of the student's permanent training record.
+. A pilot school that provides flight training for an institution of higher education that holds a letter of authorization under § 61.169 of this chapter must have a training agreement with that institution of higher education.
+
+## § 141.27
+
+### Renewal of certificates and ratings.
+
+. *Pilot school.* (1) A pilot school may apply for renewal of its school certificate and ratings within 30 days preceding the month the pilot school's certificate expires, provided the school meets the requirements prescribed in paragraph (a)(2) of this section for renewal of its certificate and ratings.
+. *Provisional pilot school.* (1) Except as provided in paragraph (b)(3) of this section, a provisional pilot school may not have its provisional pilot school certificate or the ratings on that certificate renewed.
+
+(2) A pilot school may have its school certificate and ratings renewed for an additional 24 calendar months if the Administrator determines the school's personnel, aircraft, facility and airport, approved training courses, training records, and recent training ability and quality meet the requirements of this part.
+
+(3) A pilot school that does not meet the renewal requirements in paragraph (a)(2) of this section, may apply for a provisional pilot school certificate if the school meets the requirements of § 141.7 of this part.
+
+(2) A provisional pilot school may apply for a pilot school certificate and associated ratings provided that school meets the requirements of § 141.5 of this part.
+              
+
+(3) A former provisional pilot school may apply for another provisional pilot school certificate, provided 180 days have elapsed since its last provisional pilot school certificate expired.
+
+## § 141.29
+
+### Reserved
+

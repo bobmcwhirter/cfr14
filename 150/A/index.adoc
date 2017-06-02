@@ -1,0 +1,103 @@
+# General Provisions
+:toc:
+
+## § 150.1
+
+### Scope and purpose.
+
+This part prescribes the procedures, standards, and methodology governing the development, submission, and review of airport noise exposure maps and airport noise compatibility programs, including the process for evaluating and approving or disapproving those programs. It prescribes single systems for—(a) measuring noise at airports and surrounding areas that generally provides a highly reliable relationship between projected noise exposure and surveyed reaction of people to noise; and (b) determining exposure of individuals to noise that results from the operations of an airport. This part also identifies those land uses which are normally compatible with various levels of exposure to noise by individuals. It provides technical assistance to airport operators, in conjunction with other local, State, and Federal authorities, to prepare and execute appropriate noise compatibility planning and implementation programs.
+
+## § 150.3
+
+### Applicability.
+
+This part applies to the airport noise compatibility planning activities of the operators of “public use airports,” including heliports, as that term is used in section 47501(2) as amended (49 U.S.C. 47501 *et seq.*) and as defined in section 47102(17) of 49 U.S.C.
+
+## § 150.5
+
+### Limitations of this part.
+
+. Pursuant to 49 U.S.C. 47501 *et seq.,* this part provides for airport noise compatibility planning and land use programs necessary to the purposes of those provisions. No submittal of a map, or approval or disapproval, in whole or part, of any map or program submitted under this part is a determination concerning the acceptability or unacceptability of that land use under Federal, State, or local law.
+. Approval of a noise compatibility program under this part is neither a commitment by the FAA to financially assist in the implementation of the program, nor a determination that all measures covered by the program are eligible for grant-in-aid funding from the FAA.
+. Approval of a noise compatibility program under this part does not by itself constitute an FAA implementing action. A request for Federal action or approval to implement specific noise compatibility measures may be required, and an FAA decision on the request may require an environmental assessment of the proposed action, pursuant to the National Environmental Policy Act (42 U.S.C. 4332 *et seq.*) and guidelines.
+              
+. Acceptance of a noise exposure map does not constitute an FAA determination that any specific parcel of land lies within a particular noise contour. Responsibility for interpretation of the effects of noise contours upon subjacent land uses, including the relationship between noise contours and specific properties, rests with the sponsor or with other state or local government.
+
+## § 150.7
+
+### Definitions.
+
+As used in this part, unless the context requires otherwise, the following terms have the following meanings.
+
+*Airport* means any public use airport, including heliports, as defined by the ASNA Act, including: (a) Any airport which is used or to be used for public purposes, under the control of a public agency, the landing area of which is publicly owned; (b) any privately owned reliever airport; and (c) any privately owned airport which is determined by the Secretary to enplane annually 2,500 or more passengers and receive scheduled passenger service of aircraft, which is used or to be used for public purposes.
+
+*Airport noise compatibility program* and *program* mean that program, and all revisions thereto, reflected in documents (and revised documents) developed in accordance with appendix B of this part, including the measures proposed or taken by the airport operator to reduce existing noncompatible land uses and to prevent the introduction of additional noncompatible land uses within the area.
+
+*Airport Operator* means, the operator of an airport as defined in the ASNA Act.
+
+*ASNA Act* means 49 U.S.C. 47501 *et seq.*
+              
+
+*Average sound level* means the level, in decibels, of the mean-square, A-weighted sound pressure during a specified period, with reference to the square of the standard reference sound pressure of 20 micropascals.
+
+*Compatible land use* means the use of land that is identified under this part as normally compatible with the outdoor noise environment (or an adequately attenuated noise level reduction for any indoor activities involved) at the location because the yearly day-night average sound level is at or below that identified for that or similar use under appendix A (Table 1) of this part.
+
+*Day-night average sound level* (DNL) means the 24-hour average sound level, in decibels, for the period from midnight to midnight, obtained after the addition of ten decibels to sound levels for the periods between midnight and 7 a.m., and between 10 p.m., and midnight, local time. The symbol for DNL is L*dn*.
+
+*Noise exposure map* means a scaled, geographic depiction of an airport, its noise contours, and surrounding area developed in accordance with section A150.1 of Appendix A of this part, including the accompanying documentation setting forth the required descriptions of forecast aircraft operations at that airport during the fifth calendar year (or later) beginning after submission of the map, together with the ways, if any, those operations will affect the map (including noise contours and the forecast land uses).
+
+*Noise level reduction* (NLR) means the amount of noise level reduction in decibels achieved through incorporation of noise attenuation (between outdoor and indoor levels) in the design and construction of a structure.
+
+*Noncompatible land use* means the use of land that is identified under this part as normally not compatible with the outdoor noise environment (or an adequately attenuated noise reduction level for the indoor activities involved at the location) because the yearly day-night average sound level is above that identified for that or similar use under appendix A (Table 1) of this part.
+
+*Regional Airports Division Manager* means the Airports Division Manager having responsibility for the geographic area in which the airport in question is located.
+
+*Restriction affecting flight procedures* means any requirement, limitation, or other action affecting the operation of aircraft, in the air or on the ground.
+
+*Sound exposure level* means the level, in decibels, of the time integral of squared A-weighted sound pressure during a specified period or event, with reference to the square of the standard reference sound pressure of 20 micropascals and a duration of one second.
+
+*Yearly day-night average sound level* (YDNL) means the 365-day average, in decibels, day-night average sound level. The symbol for YDNL is also L*dn*.
+
+## § 150.9
+
+### Designation of noise systems.
+
+For purposes of this part, the following designations apply:
+
+. The noise at an airport and surrounding areas covered by a noise exposure map must be measured in A-weighted sound pressure level (L*A*) in units of decibels (dBA) in accordance with the specifications and methods prescribed under appendix A of this part.
+. The exposure of individuals to noise resulting from the operation of an airport must be established in terms of yearly day-night average sound level (YDNL) calculated in accordance with the specifications and methods prescribed under appendix A of this part.
+. Uses of computer models to create noise contours must be in accordance with the criteria prescribed under appendix A of this part.
+
+## § 150.11
+
+### Identification of land uses.
+
+For the purposes of this part, uses of land which are normally compatible or noncompatible with various noise exposure levels to individuals around airports must be identified in accordance with the criteria prescribed under appendix A of this part. Determination of land use must be based on professional planning criteria and procedures utilizing comprehensive, or master, land use planning, zoning, and building and site designing, as appropriate. If more than one current or future land use is permissible, determination of compatibility must be based on that use most adversely affected by noise.
+
+## § 150.13
+
+### Incorporations by reference.
+
+. *General.* This part prescribes certain standards and procedures which are not set forth in full text in the rule. Those standards and procedures are hereby incorporated by reference and were approved for incorporation by reference by the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.
+. *Changes to incorporated matter.* Incorporated matter which is subject to subsequent change is incorporated by reference according to the specific reference and to the identification statement. Adoption of any subsequent change in incorporated matter that affects compliance with standards and procedures of this part will be made under 14 CFR part 11 and 1 CFR part 51.
+. *Identification statement.* The complete title or description which identifies each published matter incorporated by reference in this part is as follows:
+              
+. *Availability for purchase.* Published material incorporated by reference in this part may be purchased at the price established by the publisher or distributor at the following mailing addresses.
+              
+. *Availability for inspection.* A copy of each publication incorporated by reference in this part is available for public inspection at the following locations:
+.. FAA Office of the Chief Counsel, Rules Docket, AGC-200, Federal Aviation Administration Headquarters Building, 800 Independence Avenue, SW., Washington, DC 20591.
+.. The respective Regional Offices of the Federal Aviation Administration as follows. The most current mailing address, phone numbers, and States covered by each region are available on the FAA's Web site at *http://www.faa.gov/arp/index.cfm?nav = hq.*
+              
+... New England Regional Office, 12 New England Executive Park, Burlington, Massachusetts 01803.
+... Eastern Regional Office, Airports Division, 1 Aviation Plaza, Jamaica, NY 11434-4809.
+              
+... Southern Regional Office, Federal Aviation Administration, ATTN: ASO-600, P.O. Box 20636, Atlanta, GA 30320-0631.
+... Great Lakes Regional Office, 2300 East Devon, Des Plaines, Illinois 60018.
+... Central Regional Office, Federal Aviation Administration, ACE-600, 901 Locust, Kansas City, MO 64106-2325.
+... Southwest Regional Office, Federal Aviation Administration, 2601 Meacham Blvd., Fort Worth, TX 76137-4298.
+... Northwest Mountain Regional Office, Federal Aviation Administration, Airports Division, 1601 Lind Avenue SW., Suite 315, Renton, WA 98055-4056.
+... Western Pacific Regional Office, 15000 Aviation Boulevard, Hawthorne, California (P.O. Box 92007, Worldway Postal Center, Los Angeles) 90009.
+... Alaskan Regional Office, 222 W. 7th Avenue #14, Anchorage, AK 9951.
+.. National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.*
+              
+

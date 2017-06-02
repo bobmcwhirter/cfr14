@@ -1,0 +1,104 @@
+# Reevaluation of Stage 3 Restrictions
+:toc:
+
+## § 161.401
+
+### Scope.
+
+This subpart applies to an airport imposing a noise or access restriction on the operation of Stage 3 aircraft that first became effective after October 1, 1990, and had either been agreed to in compliance with the procedures in subpart B of this part or approved by the FAA in accordance with the procedures in subpart D of this part. This subpart does not apply to Stage 2 restrictions imposed by airports. This subpart does not apply to Stage 3 restrictions specifically exempted in § 161.7.
+
+## § 161.403
+
+### Criteria for reevaluation.
+
+. A request for reevaluation must be submitted by an aircraft operator.
+. An aircraft operator must demonstrate to the satisfaction of the FAA that there has been a change in the noise environment of the affected airport and that a review and reevaluation pursuant to the criteria in § 161.305 is therefore justified.
+.. A change in the noise environment sufficient to justify reevaluation is either a DNL change of 1.5 dB or greater (from the restriction's anticipated target noise level result) over noncompatible land uses, or a change of 17 percent or greater in the noncompatible land uses, within an airport noise study area. For approved restrictions, calculation of change shall be based on the divergence of actual noise impact of the restriction from the estimated noise impact of the restriction predicted in the analysis required in § 161.305(e)(2)(i)(A)(*1*)(*ii*). The change in the noise environment or in the noncompatible land uses may be either an increase or decrease in noise or in noncompatible land uses. An aircraft operator may submit to the FAA reasons why a change that does not fall within either of these parameters justifies reevaluation, and the FAA will consider such arguments on a case-by-case basis.
+.. A change in the noise environment justifies reevaluation if the change is likely to result in the restriction not meeting one or more of the conditions for approval set forth in § 161.305 of this part for approval. The aircraft operator must demonstrate that such a result is likely to occur.
+. A reevaluation may not occur less than 2 years after the date of the FAA approval. The FAA will normally apply the same 2-year requirement to agreements under subpart B of this part that affect Stage 3 aircraft operations. An aircraft operator may submit to the FAA reasons why an agreement under subpart B of this part should be reevaluated in less than 2 years, and the FAA will consider such arguments on a case-by-case basis.
+. An aircraft operator must demonstrate that it has made a good faith attempt to resolve locally any dispute over a restriction with the affected parties, including the airport operator, before requesting reevaluation by the FAA. Such demonstration and certification shall document all attempts of local dispute resolution.
+
+## § 161.405
+
+### Request for reevaluation.
+
+. A request for reevaluation submitted to the FAA by an aircraft operator must include the following information:
+.. The name of the airport and associated cities and states;
+.. A clear, concise description of the restriction and any sanctions for noncompliance, whether the restriction was approved by the FAA or agreed to by the airport operator and aircraft operators, the date of the approval or agreement, and a copy of the restriction as incorporated in a local ordinance, airport rule, lease, or other document;
+.. The quantified change in the noise environment using methodology specified in this part;
+.. Evidence of the relationship between this change and the likelihood that the restriction does not meet one or more of the conditions in § 161.305;
+              
+.. The aircraft operator's status under the restriction (e.g., currently affected operator, potential new entrant) and an explanation of the aircraft operator's specific objection; and
+.. A description and evidence of the aircraft operator's attempt to resolve the dispute locally with the affected parties, including the airport operator.
+. The FAA will evaluate the aircraft operator's submission and determine whether or not a reevaluation is justified. The FAA may request additional information from the airport operator or any other party and may convene an informal meeting to gather facts relevant to its determination.
+. The FAA will notify the aircraft operator in writing, with a copy to the affected airport operator, of its determination.
+.. If the FAA determines that a reevaluation is not justified, it will indicate the reasons for this decision.
+.. If the FAA determines that a reevaluation is justified, the aircraft operator will be notified to complete its analysis and to begin the public notice procedure, as set forth in this subpart.
+
+## § 161.407
+
+### Notice of reevaluation.
+
+. After receiving an FAA determination that a reevaluation is justified, an aircraft operator desiring continuation of the reevaluation process shall publish a notice of request for reevaluation in an areawide newspaper or newspapers that either singly or together has general circulation throughout the airport noise study area (or the airport vicinity for agreements where an airport noise study area has not been delineated); post a notice in the airport in a prominent location accessible to airport users and the public; and directly notify in writing the following parties:
+.. The airport operator, other aircraft operators providing scheduled passenger or cargo service at the airport, operators of aircraft based at the airport, potential new entrants that are known to be interested in serving the airport, and aircraft operators known to be routinely providing nonscheduled service;
+.. The Federal Aviation Administration;
+.. Each Federal, State, and local agency with land-use control jurisdiction within the airport noise study area (or the airport vicinity for agreements where an airport noise study area has not been delineated);
+.. Fixed-base operators and other airport tenants whose operations may be affected by the agreement or the restriction;
+.. Community groups and business organizations that are known to be interested in the restriction; and
+.. Any other party that commented on the original restriction.
+. Each notice provided in accordance with paragraph (a) of this section shall include:
+.. The name of the airport and associated cities and states;
+.. A clear, concise description of the restriction, including whether the restriction was approved by the FAA or agreed to by the airport operator and aircraft operators, and the date of the approval or agreement;
+.. The name of the aircraft operator requesting a reevaluation, and a statement that a reevaluation has been requested and that the FAA has determined that a reevaluation is justified;
+.. A brief discussion of the reasons why a reevaluation is justified;
+.. An analysis prepared in accordance with § 161.409 of this part supporting the aircraft operator's reevaluation request, or an announcement of where the analysis is available for public inspection;
+.. An invitation to comment on the analysis supporting the proposed reevaluation, with a minimum 45-day comment period;
+.. Information on how to request a copy of the analysis (if not in the notice); and
+.. The address for submitting comments to the aircraft operator, including identification of a contact person.
+
+## § 161.409
+
+### Required analysis by reevaluation petitioner.
+
+. An aircraft operator that has petitioned the FAA to reevaluate a restriction shall assume the burden of analysis for the reevaluation.
+              
+. The aircraft operator's analysis shall be made available for public review under the procedures in § 161.407 and shall include the following:
+.. A copy of the restriction or the language of the agreement as incorporated in a local ordinance, airport rule, lease, or other document;
+.. The aircraft operator's status under the restriction (e.g., currently affected operator, potential new entrant) and an explanation of the aircraft operator's specific objection to the restriction;
+.. The quantified change in the noise environment using methodology specified in this part;
+.. Evidence of the relationship between this change and the likelihood that the restriction does not meet one or more of the conditions in § 161.305; and
+.. Sufficient data and analysis selected from § 161.305, as applicable to the restriction at issue, to support the contention made in paragraph (b)(4) of this section. This is to include either an adequate environmental assessment of the impacts of discontinuing all or part of a restriction in accordance with the aircraft operator's petition, or adequate information supporting a categorical exclusion under FAA orders implementing the National Environmental Policy Act of 1969 (42 U.S.C. 4321).
+. The amount of analysis may vary with the complexity of the restriction, the number and nature of the conditions in § 161.305 that are alleged to be unsupported, and the amount of previous analysis developed in support of the restriction. The aircraft operator may incorporate analysis previously developed in support of the restriction, including previous environmental documentation to the extent applicable. The applicant is responsible for providing substantial evidence, as described in § 161.305, that one or more of the conditions are not supported.
+
+## § 161.411
+
+### Comment by interested parties.
+
+. Each aircraft operator requesting a reevaluation shall establish a docket or similar method for receiving and considering comments and shall make comments available for inspection to interested parties specified in paragraph (b) of this section upon request. Comments must be retained for two years.
+. Each aircraft operator shall promptly notify interested parties if it makes a substantial change in its analysis that affects either the costs or benefits analyzed, or the criteria in § 161.305, differently from the analysis made available for comment in accordance with § 161.407. Interested parties include those who received direct notice under paragraph (a) of § 161.407 and those who have commented on the reevaluation. If an aircraft operator revises its analysis, it shall make the revised analysis available to an interested party upon request and shall extend the comment period at least 45 days from the date the revised analysis is made available.
+
+## § 161.413
+
+### Reevaluation procedure.
+
+. Each aircraft operator requesting a reevaluation shall submit to the FAA:
+.. The analysis described in § 161.409;
+.. Evidence that the public review process was carried out in accordance with §§ 161.407 and 161.411, including the aircraft operator's summary of the comments received; and
+.. A request that the FAA complete a reevaluation of the restriction and issue findings.
+. Following confirmation by the FAA that the aircraft operator's documentation is complete according to the requirements of this subpart, the FAA will publish a notice of reevaluation in the *Federal Register* and provide for a 45-day comment period during which interested parties may submit comments to the FAA. The FAA will specifically solicit comments from the affected airport operator and affected local governments. A submission that is not complete will be returned to the aircraft operator with a letter indicating the deficiency, and no notice will be published. No further action will be taken by the FAA until a complete submission is received.
+. The FAA will review all submitted documentation and comments pursuant to the conditions of § 161.305. To the extent necessary, the FAA may request additional information from the aircraft operator, airport operator, and others known to have information material to the reevaluation, and may convene an informal meeting to gather facts relevant to a reevaluation finding.
+
+## § 161.415
+
+### Reevaluation action.
+
+. Upon completing the reevaluation, the FAA will issue appropriate orders regarding whether or not there is substantial evidence that the restriction meets the criteria in § 161.305 of this part.
+. If the FAA's reevaluation confirms that the restriction meets the criteria, the restriction may remain as previously agreed to or approved. If the FAA's reevaluation concludes that the restriction does not meet the criteria, the FAA will withdraw a previous approval of the restriction issued under subpart D of this part to the extent necessary to bring the restriction into compliance with this part or, with respect to a restriction agreed to under subpart B of this part, the FAA will specify which criteria are not met.
+. The FAA will publish a notice of its reevaluation findings in the *Federal Register* and notify in writing the aircraft operator that petitioned the FAA for reevaluation and the affected airport operator.
+
+## § 161.417
+
+### Notification of status of restrictions and agreements not meeting conditions-of-approval criteria.
+
+If the FAA has withdrawn all or part of a previous approval made under subpart D of this part, the relevant portion of the Stage 3 restriction must be rescinded. The operator of the affected airport shall notify the FAA of the operator's action with regard to a restriction affecting Stage 3 aircraft operations that has been found not to meet the criteria of § 161.305. Restrictions in agreements determined by the FAA not to meet conditions for approval may not be enforced with respect to Stage 3 aircraft operations.
+

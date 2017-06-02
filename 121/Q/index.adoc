@@ -1,0 +1,53 @@
+# Flight Time Limitations and Rest Requirements: Domestic Operations
+:toc:
+
+## § 121.470
+
+### Applicability.
+
+This subpart prescribes flight time limitations and rest requirements for domestic all-cargo operations, except that:
+
+. Certificate holders conducting operations with airplanes having a passenger seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, may comply with the applicable requirements of §§ 135.261 through 135.273 of this chapter.
+. Certificate holders conducting scheduled operations entirely within the States of Alaska or Hawaii with airplanes having a passenger seat configuration of more than 30 seats, excluding each crewmember seat, or a payload capacity of more than 7,500 pounds, may comply with the requirements of this subpart or subpart R of this part for those operations.
+. A certificate holder may apply the flightcrew member flight time and duty limitations and requirements of part 117 of this chapter. A certificate holder may choose to apply part 117 to its—
+.. Cargo operations conducted under contract to a U.S. government agency.
+.. All-cargo operations not conducted under contract to a U.S. Government agency,
+.. A certificate holder may elect to treat operations in paragraphs (c)(1) and (c)(2) of this section differently but, once having decided to conduct those operations under part 117, may not segregate those operations between this subpart and part 117.
+
+## § 121.471
+
+### Flight time limitations and rest requirements: All flight crewmembers.
+
+. No certificate holder conducting domestic operations may schedule any flight crewmember and no flight crewmember may accept an assignment for flight time in scheduled air transportation or in other commercial flying if that crewmember's total flight time in all commercial flying will exceed—
+.. 1,000 hours in any calendar year;
+.. 100 hours in any calendar month;
+.. 30 hours in any 7 consecutive days;
+.. 8 hours between required rest periods.
+. Except as provided in paragraph (c) of this section, no certificate holder conducting domestic operations may schedule a flight crewmember and no flight crewmember may accept an assignment for flight time during the 24 consecutive hours preceding the scheduled completion of any flight segment without a scheduled rest period during that 24 hours of at least the following:
+.. 9 consecutive hours of rest for less than 8 hours of scheduled flight time.
+.. 10 consecutive hours of rest for 8 or more but less than 9 hours of scheduled flight time.
+.. 11 consecutive hours of rest for 9 or more hours of scheduled flight time.
+. A certificate holder may schedule a flight crewmember for less than the rest required in paragraph (b) of this section or may reduce a scheduled rest under the following conditions:
+.. A rest required under paragraph (b)(1) of this section may be scheduled for or reduced to a minimum of 8 hours if the flight crewmember is given a rest period of at least 10 hours that must begin no later than 24 hours after the commencement of the reduced rest period.
+.. A rest required under paragraph (b)(2) of this section may be scheduled for or reduced to a minimum of 8 hours if the flight crewmember is given a rest period of at least 11 hours that must begin no later than 24 hours after the commencement of the reduced rest period.
+.. A rest required under paragraph (b)(3) of this section may be scheduled for or reduced to a minimum of 9 hours if the flight crewmember is given a rest period of at least 12 hours that must begin no later than 24 hours after the commencement of the reduced rest period.
+.. No certificate holder may assign, nor may any flight crewmember perform any flight time with the certificate holder unless the flight crewmember has had at least the minimum rest required under this paragraph.
+. Each certificate holder conducting domestic operations shall relieve each flight crewmember engaged in scheduled air transportation from all further duty for at least 24 consecutive hours during any 7 consecutive days.
+. No certificate holder conducting domestic operations may assign any flight crewmember and no flight crewmember may accept assignment to any duty with the air carrier during any required rest period.
+. Time spent in transportation, not local in character, that a certificate holder requires of a flight crewmember and provides to transport the crewmember to an airport at which he is to serve on a flight as a crewmember, or from an airport at which he was relieved from duty to return to his home station, is not considered part of a rest period.
+. A flight crewmember is not considered to be scheduled for flight time in excess of flight time limitations if the flights to which he is assigned are scheduled and normally terminate within the limitations, but due to circumstances beyond the control of the certificate holder (such as adverse weather conditions), are not at the time of departure expected to reach their destination within the scheduled time.
+
+## § 121.473
+
+### Fatigue risk management system.
+
+. No certificate holder may exceed any provision of this subpart unless approved by the FAA under a Fatigue Risk Management System.
+. The Fatigue Risk Management System must include:
+.. A fatigue risk management policy.
+.. An education and awareness training program.
+.. A fatigue reporting system.
+.. A system for monitoring flightcrew fatigue.
+.. An incident reporting process.
+              
+.. A performance evaluation.
+

@@ -1,0 +1,149 @@
+# Crewmember Flight Time and Duty Period Limitations and Rest Requirements
+:toc:
+
+## § 135.261
+
+### Applicability.
+
+Sections 135.263 through 135.273 of this part prescribe flight time limitations, duty period limitations, and rest requirements for operations conducted under this part as follows:
+
+. Section 135.263 applies to all operations under this subpart.
+. Section 135.265 applies to:
+.. Scheduled passenger-carrying operations except those conducted solely within the state of Alaska. “Scheduled passenger-carrying operations” means passenger-carrying operations that are conducted in accordance with a published schedule which covers at least five round trips per week on at least one route between two or more points, includes dates or times (or both), and is openly advertised or otherwise made readily available to the general public, and
+.. Any other operation under this part, if the operator elects to comply with § 135.265 and obtains an appropriate operations specification amendment.
+. Sections 135.267 and 135.269 apply to any operation that is not a scheduled passenger-carrying operation and to any operation conducted solely within the State of Alaska, unless the operator elects to comply with § 135.265 as authorized under paragraph (b)(2) of this section.
+. Section 135.271 contains special daily flight time limits for operations conducted under the helicopter emergency medical evacuation service (HEMES).
+. Section 135.273 prescribes duty period limitations and rest requirements for flight attendants in all operations conducted under this part.
+
+## § 135.263
+
+### Flight time limitations and rest requirements: All certificate holders.
+
+. A certificate holder may assign a flight crewmember and a flight crewmember may accept an assignment for flight time only when the applicable requirements of §§ 135.263 through 135.271 are met.
+. No certificate holder may assign any flight crewmember to any duty with the certificate holder during any required rest period.
+. Time spent in transportation, not local in character, that a certificate holder requires of a flight crewmember and provides to transport the crewmember to an airport at which he is to serve on a flight as a crewmember, or from an airport at which he was relieved from duty to return to his home station, is not considered part of a rest period.
+. A flight crewmember is not considered to be assigned flight time in excess of flight time limitations if the flights to which he is assigned normally terminate within the limitations, but due to circumstances beyond the control of the certificate holder or flight crewmember (such as adverse weather conditions), are not at the time of departure expected to reach their destination within the planned flight time.
+
+## § 135.265
+
+### Flight time limitations and rest requirements: Scheduled operations.
+
+. No certificate holder may schedule any flight crewmember, and no flight crewmember may accept an assignment, for flight time in scheduled operations or in other commercial flying if that crewmember's total flight time in all commercial flying will exceed—
+.. 1,200 hours in any calendar year.
+.. 120 hours in any calendar month.
+.. 34 hours in any 7 consecutive days.
+.. 8 hours during any 24 consecutive hours for a flight crew consisting of one pilot.
+              
+.. 8 hours between required rest periods for a flight crew consisting of two pilots qualified under this part for the operation being conducted.
+. Except as provided in paragraph (c) of this section, no certificate holder may schedule a flight crewmember, and no flight crewmember may accept an assignment, for flight time during the 24 consecutive hours preceding the scheduled completion of any flight segment without a scheduled rest period during that 24 hours of at least the following:
+.. 9 consecutive hours of rest for less than 8 hours of scheduled flight time.
+.. 10 consecutive hours of rest for 8 or more but less than 9 hours of scheduled flight time.
+.. 11 consecutive hours of rest for 9 or more hours of scheduled flight time.
+. A certificate holder may schedule a flight crewmember for less than the rest required in paragraph (b) of this section or may reduce a scheduled rest under the following conditions:
+.. A rest required under paragraph (b)(1) of this section may be scheduled for or reduced to a minimum of 8 hours if the flight crewmember is given a rest period of at least 10 hours that must begin no later than 24 hours after the commencement of the reduced rest period.
+.. A rest required under paragraph (b)(2) of this section may be scheduled for or reduced to a minimum of 8 hours if the flight crewmember is given a rest period of at least 11 hours that must begin no later than 24 hours after the commencement of the reduced rest period.
+.. A rest required under paragraph (b)(3) of this section may be scheduled for or reduced to a minimum of 9 hours if the flight crewmember is given a rest period of at least 12 hours that must begin no later than 24 hours after the commencement of the reduced rest period.
+. Each certificate holder shall relieve each flight crewmember engaged in scheduled air transportation from all further duty for at least 24 consecutive hours during any 7 consecutive days.
+
+## § 135.267
+
+### Flight time limitations and rest requirements: Unscheduled one- and two-pilot crews.
+
+. No certificate holder may assign any flight crewmember, and no flight crewmember may accept an assignment, for flight time as a member of a one- or two-pilot crew if that crewmember's total flight time in all commercial flying will exceed—
+.. 500 hours in any calendar quarter.
+.. 800 hours in any two consecutive calendar quarters.
+.. 1,400 hours in any calendar year.
+. Except as provided in paragraph (c) of this section, during any 24 consecutive hours the total flight time of the assigned flight when added to any other commercial flying by that flight crewmember may not exceed—
+.. 8 hours for a flight crew consisting of one pilot; or
+.. 10 hours for a flight crew consisting of two pilots qualified under this part for the operation being conducted.
+. A flight crewmember's flight time may exceed the flight time limits of paragraph (b) of this section if the assigned flight time occurs during a regularly assigned duty period of no more than 14 hours and—
+.. If this duty period is immediately preceded by and followed by a required rest period of at least 10 consecutive hours of rest;
+.. If flight time is assigned during this period, that total flight time when added to any other commercial flying by the flight crewmember may not exceed—
+... 8 hours for a flight crew consisting of one pilot; or
+... 10 hours for a flight crew consisting of two pilots; and
+.. If the combined duty and rest periods equal 24 hours.
+. Each assignment under paragraph (b) of this section must provide for at least 10 consecutive hours of rest during the 24-hour period that precedes the planned completion time of the assignment.
+. When a flight crewmember has exceeded the daily flight time limitations in this section, because of circumstances beyond the control of the certificate holder or flight crewmember (such as adverse weather conditions), that flight crewmember must have a rest period before being assigned or accepting an assignment for flight time of at least—
+.. 11 consecutive hours of rest if the flight time limitation is exceeded by not more than 30 minutes;
+.. 12 consecutive hours of rest if the flight time limitation is exceeded by more than 30 minutes, but not more than 60 minutes; and
+.. 16 consecutive hours of rest if the flight time limitation is exceeded by more than 60 minutes.
+. The certificate holder must provide each flight crewmember at least 13 rest periods of at least 24 consecutive hours each in each calendar quarter.
+
+## § 135.269
+
+### Flight time limitations and rest requirements: Unscheduled three- and four-pilot crews.
+
+. No certificate holder may assign any flight crewmember, and no flight crewmember may accept an assignment, for flight time as a member of a three- or four-pilot crew if that crewmember's total flight time in all commercial flying will exceed—
+.. 500 hours in any calendar quarter.
+.. 800 hours in any two consecutive calendar quarters.
+.. 1,400 hours in any calendar year.
+. No certificate holder may assign any pilot to a crew of three or four pilots, unless that assignment provides—
+.. At least 10 consecutive hours of rest immediately preceding the assignment;
+.. No more than 8 hours of flight deck duty in any 24 consecutive hours;
+.. No more than 18 duty hours for a three-pilot crew or 20 duty hours for a four-pilot crew in any 24 consecutive hours;
+.. No more than 12 hours aloft for a three-pilot crew or 16 hours aloft for a four-pilot crew during the maximum duty hours specified in paragraph (b)(3) of this section;
+.. Adequate sleeping facilities on the aircraft for the relief pilot;
+.. Upon completion of the assignment, a rest period of at least 12 hours;
+.. For a three-pilot crew, a crew which consists of at least the following:
+... A pilot in command (PIC) who meets the applicable flight crewmember requirements of subpart E of part 135;
+... A PIC who meets the applicable flight crewmember requirements of subpart E of part 135, except those prescribed in §§ 135.244 and 135.247; and
+... A second in command (SIC) who meets the SIC qualifications of § 135.245.
+.. For a four-pilot crew, at least three pilots who meet the conditions of paragraph (b)(7) of this section, plus a fourth pilot who meets the SIC qualifications of § 135.245.
+. When a flight crewmember has exceeded the daily flight deck duty limitation in this section by more than 60 minutes, because of circumstances beyond the control of the certificate holder or flight crewmember, that flight crewmember must have a rest period before the next duty period of at least 16 consecutive hours.
+. A certificate holder must provide each flight crewmember at least 13 rest periods of at least 24 consecutive hours each in each calendar quarter.
+
+## § 135.271
+
+### Helicopter hospital emergency medical evacuation service (HEMES).
+
+. No certificate holder may assign any flight crewmember, and no flight crewmember may accept an assignment for flight time if that crewmember's total flight time in all commercial flight will exceed—
+.. 500 hours in any calendar quarter.
+.. 800 hours in any two consecutive calendar quarters.
+.. 1,400 hours in any calendar year.
+. No certificate holder may assign a helicopter flight crewmember, and no flight crewmember may accept an assignment, for hospital emergency medical evacuation service helicopter operations unless that assignment provides for at least 10 consecutive hours of rest immediately preceding reporting to the hospital for availability for flight time.
+. No flight crewmember may accrue more than 8 hours of flight time during any 24-consecutive hour period of a HEMES assignment, unless an emergency medical evacuation operation is prolonged. Each flight crewmember who exceeds the daily 8 hour flight time limitation in this paragraph must be relieved of the HEMES assignment immediately upon the completion of that emergency medical evacuation operation and must be given a rest period in compliance with paragraph (h) of this section.
+. Each flight crewmember must receive at least 8 consecutive hours of rest during any 24 consecutive hour period of a HEMES assignment. A flight crewmember must be relieved of the HEMES assignment if he or she has not or cannot receive at least 8 consecutive hours of rest during any 24 consecutive hour period of a HEMES assignment.
+. A HEMES assignment may not exceed 72 consecutive hours at the hospital.
+. An adequate place of rest must be provided at, or in close proximity to, the hospital at which the HEMES assignment is being performed.
+. No certificate holder may assign any other duties to a flight crewmember during a HEMES assignment.
+. Each pilot must be given a rest period upon completion of the HEMES assignment and prior to being assigned any further duty with the certificate holder of—
+.. At least 12 consecutive hours for an assignment of less than 48 hours.
+.. At least 16 consecutive hours for an assignment of more than 48 hours.
+... The certificate holder must provide each flight crewmember at least 13 rest periods of at least 24 consecutive hours each in each calendar quarter.
+
+## § 135.273
+
+### Duty period limitations and rest time requirements.
+
+. For purposes of this section—
+. Except as provided in paragraph (c) of this section, a certificate holder may assign a duty period to a flight attendant only when the applicable duty period limitations and rest requirements of this paragraph are met.
+.. Except as provided in paragraphs (b)(4), (b)(5), and (b)(6) of this section, no certificate holder may assign a flight attendant to a scheduled duty period of more than 14 hours.
+.. Except as provided in paragraph (b)(3) of this section, a flight attendant scheduled to a duty period of 14 hours or less as provided under paragraph (b)(1) of this section must be given a scheduled rest period of at least 9 consecutive hours. This rest period must occur between the completion of the scheduled duty period and the commencement of the subsequent duty period.
+.. The rest period required under paragraph (b)(2) of this section may be scheduled or reduced to 8 consecutive hours if the flight attendant is provided a subsequent rest period of at least 10 consecutive hours; this subsequent rest period must be scheduled to begin no later than 24 hours after the beginning of the reduced rest period and must occur between the completion of the scheduled duty period and the commencement of the subsequent duty period.
+.. A certificate holder may assign a flight attendant to a scheduled duty period of more than 14 hours, but no more than 16 hours, if the certificate holder has assigned to the flight or flights in that duty period at least one flight attendant in addition to the minimum flight attendant complement required for the flight or flights in that duty period under the certificate holder's operations specifications.
+.. A certificate holder may assign a flight attendant to a scheduled duty period of more than 16 hours, but no more than 18 hours, if the certificate holder has assigned to the flight or flights in that duty period at least two flight attendants in addition to the minimum flight attendant complement required for the flight or flights in that duty period under the certificate holder's operations specifications.
+.. A certificate holder may assign a flight attendant to a scheduled duty period of more than 18 hours, but no more than 20 hours, if the scheduled duty period includes one or more flights that land or take off outside the 48 contiguous states and the District of Columbia, and if the certificate holder has assigned to the flight or flights in that duty period at least three flight attendants in addition to the minimum flight attendant complement required for the flight or flights in that duty period under the certificate holder's operations specifications.
+.. Except as provided in paragraph (b)(8) of this section, a flight attendant scheduled to a duty period of more than 14 hours but no more than 20 hours, as provided in paragraphs (b)(4), (b)(5), and (b)(6) of this section, must be given a scheduled rest period of at least 12 consecutive hours. This rest period must occur between the completion of the scheduled duty period and the commencement of the subsequent duty period.
+.. The rest period required under paragraph (b)(7) of this section may be scheduled or reduced to 10 consecutive hours if the flight attendant is provided a subsequent rest period of at least 14 consecutive hours; this subsequent rest period must be scheduled to begin no later than 24 hours after the beginning of the reduced rest period and must occur between the completion of the scheduled duty period and the commencement of the subsequent duty period.
+.. Notwithstanding paragraphs (b)(4), (b)(5), and (b)(6) of this section, if a certificate holder elects to reduce the rest period to 10 hours as authorized by paragraph (b)(8) of this section, the certificate holder may not schedule a flight attendant for a duty period of more than 14 hours during the 24-hour period commencing after the beginning of the reduced rest period.
+.. No certificate holder may assign a flight attendant any duty period with the certificate holder unless the flight attendant has had at least the minimum rest required under this section.
+.. No certificate holder may assign a flight attendant to perform any duty with the certificate holder during any required rest period.
+.. Time spent in transportation, not local in character, that a certificate holder requires of a flight attendant and provides to transport the flight attendant to an airport at which that flight attendant is to serve on a flight as a crewmember, or from an airport at which the flight attendant was relieved from duty to return to the flight attendant's home station, is not considered part of a rest period.
+.. Each certificate holder must relieve each flight attendant engaged in air transportation from all further duty for at least 24 consecutive hours during any 7 consecutive calendar days.
+.. A flight attendant is not considered to be scheduled for duty in excess of duty period limitations if the flights to which the flight attendant is assigned are scheduled and normally terminate within the limitations but due to circumstances beyond the control of the certificate holder (such as adverse weather conditions) are not at the time of departure expected to reach their destination within the scheduled time.
+. Notwithstanding paragraph (b) of this section, a certificate holder may apply the flight crewmember flight time and duty limitations and rest requirements of this part to flight attendants for all operations conducted under this part provided that—
+.. The certificate holder establishes written procedures that—
+... Apply to all flight attendants used in the certificate holder's operation;
+... Include the flight crewmember requirements contained in subpart F of this part, as appropriate to the operation being conducted, except that rest facilities on board the aircraft are not required; and
+... Include provisions to add one flight attendant to the minimum flight attendant complement for each flight crewmember who is in excess of the minimum number required in the aircraft type certificate data sheet and who is assigned to the aircraft under the provisions of subpart F of this part, as applicable.
+... Are approved by the Administrator and described or referenced in the certificate holder's operations specifications; and
+.. Whenever the Administrator finds that revisions are necessary for the continued adequacy of duty period limitation and rest requirement procedures that are required by paragraph (c)(1) of this section and that had been granted final approval, the certificate holder must, after notification by the Administrator, make any changes in the procedures that are found necessary by the Administrator. Within 30 days after the certificate holder receives such notice, it may file a petition to reconsider the notice with the certificate-holding district office. The filing of a petition to reconsider stays the notice, pending decision by the Administrator. However, if the Administrator finds that there is an emergency that requires immediate action in the interest of safety, the Administrator may, upon a statement of the reasons, require a change effective without stay.
+
+*Calendar day* means the period of elapsed time, using Coordinated Universal Time or local time, that begins at midnight and ends 24 hours later at the next midnight.
+
+*Duty period* means the period of elapsed time between reporting for an assignment involving flight time and release from that assignment by the certificate holder. The time is calculated using either Coordinated Universal Time or local time to reflect the total elapsed time.
+
+*Flight attendant* means an individual, other than a flight crewmember, who is assigned by the certificate holder, in accordance with the required minimum crew complement under the certificate holder's operations specifications or in addition to that minimum complement, to duty in an aircraft during flight time and whose duties include but are not necessarily limited to cabin-safety-related responsibilities.
+
+*Rest period* means the period free of all responsibility for work or duty should the occasion arise.
+

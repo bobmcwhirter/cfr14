@@ -1,0 +1,25 @@
+# General
+:toc:
+
+## § 171.71
+
+### Materials incorporated by reference.
+
+Copies of standards, recommended practices and documents incorporated by reference in this part are available for the use of interested persons at any FAA Regional Office and FAA Headquarters. An historical file of these materials is maintained at Headquarters, Federal Aviation Administration, 800 Independence Avenue SW., Washington, DC 20590.
+
+## § 171.73
+
+### Alternative forms of reports.
+
+On a case-by-case basis, a Regional Administrator may accept any report in a format other than the FAA form required by this part if he is satisfied that the report contains all the information required on the FAA form and can be processed by FAA as conveniently as the FAA form.
+
+## § 171.75
+
+### Submission of requests.
+
+. Requests for approval of facilities not having design and operational characteristics identical to those of facilities currently approved under this part, including requests for deviations from this part for such facilities, must be submitted to the Director, Advanced Systems Design Service.
+. The following requests must be submitted to the Regional Administrator of the region in which the facility is located:
+.. Requests for approval of facilities that have design and operational characteristics identical to those of facilities currently approved under this part, including requests for deviations from this part for such facilities.
+.. Requests for deviations from this part for facilities currently approved under this part.
+.. Requests for modification of facilities currently approved under this part.
+

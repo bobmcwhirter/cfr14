@@ -1,0 +1,19 @@
+# Airplane Requirements
+:toc:
+
+## § 125.91
+
+### Airplane requirements: General.
+
+. No certificate holder may operate an airplane governed by this part unless it—
+.. Carries an appropriate current airworthiness certificate issued under this chapter; and
+.. Is in an airworthy condition and meets the applicable airworthiness requirements of this chapter, including those relating to identification and equipment.
+. No person may operate an airplane unless the current empty weight and center of gravity are calculated from the values established by actual weighing of the airplane within the preceding 36 calendar months.
+. Paragraph (b) of this section does not apply to airplanes issued an original airworthiness certificate within the preceding 36 calendar months.
+
+## § 125.93
+
+### Airplane limitations.
+
+No certificate holder may operate a land airplane (other than a DC-3, C-46, CV-240, CV-340, CV-440, CV-580, CV-600, CV-640, or Martin 404) in an extended overwater operation unless it is certificated or approved as adequate for ditching under the ditching provisions of part 25 of this chapter.
+

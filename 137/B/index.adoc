@@ -1,0 +1,65 @@
+# Certification Rules
+:toc:
+
+## § 137.11
+
+### Certificate required.
+
+. Except as provided in paragraphs (c) and (d) of this section, no person may conduct agricultural aircraft operations without, or in violation of, an agricultural aircraft operator certificate issued under this part.
+. Notwithstanding part 133 of this chapter, an operator may, if he complies with this part, conduct agricultural aircraft operations with a rotorcraft with external dispensing equipment in place without a rotorcraft external-load operator certificate.
+. A Federal, State, or local government conducting agricultural aircraft operations with public aircraft need not comply with this subpart.
+. The holder of a rotorcraft external-load operator certificate under part 133 of this chapter conducting an agricultural aircraft operation, involving only the dispensing of water on forest fires by rotorcraft external-load means, need not comply with this subpart.
+
+## § 137.15
+
+### Application for certificate.
+
+An application for an agricultural aircraft operator certificate is made on a form and in a manner prescribed by the Administrator, and filed with the FAA Flight Standards District Office that has jurisdiction over the area in which the applicant's home base of operations is located.
+
+## § 137.17
+
+### Amendment of certificate.
+
+. An agricultural aircraft operator certificate may be amended—
+.. On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429) and part 13 of this chapter; or
+.. Upon application by the holder of that certificate.
+. An application to amend an agricultural aircraft operator certificate is submitted on a form and in a manner prescribed by the Administrator. The applicant must file the application with the FAA Flight Standards District Office having jurisdiction over the area in which the applicant's home base of operations is located at least 15 days before the date that it proposes the amendment become effective, unless a shorter filing period is approved by that office.
+. The Flight Standards District Office grants a request to amend a certificate if it determines that safety in air commerce and the public interest so allow.
+. Within 30 days after receiving a refusal to amend, the holder may petition the Director, Flight Standards Service, to reconsider the refusal.
+
+## § 137.19
+
+### Certification requirements.
+
+. *General.* An applicant for a private agricultural aircraft operator certificate is entitled to that certificate if he shows that he meets the requirements of paragraphs (b), (d), and (e) of this section. An applicant for a commercial agricultural aircraft operator certificate is entitled to that certificate if he shows that he meets the requirements of paragraphs (c), (d), and (e) of this section. However, if an applicant applies for an agricultural aircraft operator certificate containing a prohibition against the dispensing of economic poisons, that applicant is not required to demonstrate the knowledge required in paragraphs (e)(1) (ii) through (iv) of this section.
+. *Private operator—pilot.* The applicant must hold a current U.S. private, commercial, or airline transport pilot certificate and be properly rated for the aircraft to be used.
+. *Commercial operator—pilots.* The applicant must have available the services of at least one person who holds a current U.S. commercial or airline transport pilot certificate and who is properly rated for the aircraft to be used. The applicant himself may be the person available.
+. *Aircraft.* The applicant must have at least one certificated and airworthy aircraft, equipped for agricultural operation.
+. *Knowledge and skill tests.* The applicant must show, or have the person who is designated as the chief supervisor of agricultural aircraft operations for him show, that he has satisfactory knowledge and skill regarding agricultural aircraft operations, as described in paragraphs (e) (1) and (2) of this section.
+.. The test of knowledge consists of the following:
+... Steps to be taken before starting operations, including survey of the area to be worked.
+... Safe handling of economic poisons and the proper disposal of used containers for those poisons.
+... The general effects of economic poisons and agricultural chemicals on plants, animals, and persons, with emphasis on those normally used in the areas of intended operations; and the precautions to be observed in using poisons and chemicals.
+... Primary symptoms of poisoning of persons from economic poisons, the appropriate emergency measures to be taken, and the location of poison control centers.
+... Performance capabilities and operating limitations of the aircraft to be used.
+... Safe flight and application procedures.
+.. The test of skill consists of the following maneuvers that must be shown in any of the aircraft specified in paragraph (d) of this section, and at that aircraft's maximum certificated take-off weight, or the maximum weight established for the special purpose load, whichever is greater:
+... Short-field and soft-field takeoffs (airplanes and gyroplanes only).
+... Approaches to the working area.
+... Flare-outs.
+... Swath runs.
+... Pullups and turnarounds.
+... Rapid deceleration (quick stops) in helicopters only.
+
+## § 137.21
+
+### Duration of certificate.
+
+An agricultural aircraft operator certificate is effective until it is surrendered, suspended, or revoked. The holder of an agricultural aircraft operator certificate that is suspended or revoked shall return it to the Administrator.
+
+## § 137.23
+
+### Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
+
+If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of § 91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
+

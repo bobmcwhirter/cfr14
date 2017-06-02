@@ -1,0 +1,38 @@
+# Airport Certification Manual
+:toc:
+
+## § 139.201
+
+### General requirements.
+
+. No person may operate an airport subject to this part unless that person adopts and complies with an Airport Certification Manual, as required under this part, that—
+.. Has been approved by the Administrator;
+.. Contains only those items authorized by the Administrator;
+.. Is in printed form and signed by the certificate holder acknowledging the certificate holder's responsibility to operate the airport in compliance with the Airport Certification Manual approved by the Administrator; and
+.. Is in a form that is easy to revise and organized in a manner helpful to the preparation, review, and approval processes, including a revision log. In addition, each page or attachment must include the date of the Administrator's initial approval or approval of the latest revision.
+. Each holder of an Airport Operating Certificate must—
+.. Keep its Airport Certification Manual current at all times;
+.. Maintain at least one complete and current copy of its approved Airport Certification Manual on the airport, which will be available for inspection by the Administrator; and
+.. Furnish the applicable portions of the approved Airport Certification Manual to airport personnel responsible for its implementation.
+. Each certificate holder must ensure that the Regional Airports Division Manager is provided a complete copy of its most current approved Airport Certification Manual, as specified under paragraph (b)(2) of this section, including any amendments approved under § 139.205.
+. FAA Advisory Circulars contain methods and procedures for the development of Airport Certification Manuals that are acceptable to the Administrator.
+
+## § 139.203
+
+### Contents of Airport Certification Manual.
+
+. Except as otherwise authorized by the Administrator, each certificate holder must include in the Airport Certification Manual a description of operating procedures, facilities and equipment, responsibility assignments, and any other information needed by personnel concerned with operating the airport in order to comply with applicable provisions of subpart D of this part and paragraph (b) of this section.
+. Except as otherwise authorized by the Administrator, the certificate holder must include in the Airport Certification Manual the following elements, as appropriate for its class:
+
+## § 139.205
+
+### Amendment of Airport Certification Manual.
+
+. Under § 139.3, the Regional Airports Division Manager may amend any Airport Certification Manual approved under this part, either—
+.. Upon application by the certificate holder or
+.. On the Regional Airports Division Manager's own initiative, if the Regional Airports Division Manager determines that safety in air transportation requires the amendment.
+. A certificate holder must submit in writing a proposed amendment to its Airport Certification Manual to the Regional Airports Division Manager at least 30 days before the proposed effective date of the amendment, unless a shorter filing period is allowed by the Regional Airports Division Manager.
+. At any time within 30 days after receiving a notice of refusal to approve the application for amendment, the certificate holder may petition the Associate Administrator for Airports to reconsider the refusal to amend.
+. In the case of amendments initiated by the FAA, the Regional Airports Division Manager notifies the certificate holder of the proposed amendment, in writing, fixing a reasonable period (but not less than 7 days) within which the certificate holder may submit written information, views, and arguments on the amendment. After considering all relevant material presented, the Regional Airports Division Manager notifies the certificate holder within 30 days of any amendment adopted or rescinds the notice. The amendment becomes effective not less than 30 days after the certificate holder receives notice of it, except that, prior to the effective date, the certificate holder may petition the Associate Administrator for Airports to reconsider the amendment, in which case its effective date is stayed pending a decision by the Associate Administrator for Airports.
+. Notwithstanding the provisions of paragraph (d) of this section, if the Regional Airports Division Manager finds there is an emergency requiring immediate action with respect to safety in air transportation, the Regional Airports Division Manager may issue an amendment, effective without stay on the date the certificate holder receives notice of it. In such a case, the Regional Airports Division Manager incorporates the finding of the emergency and a brief statement of the reasons for the finding in the notice of the amendment. Within 30 days after the issuance of such an emergency amendment, the certificate holder may petition the Associate Administrator for Airports to reconsider either the finding of an emergency, the amendment itself, or both. This petition does not automatically stay the effectiveness of the emergency amendment.
+

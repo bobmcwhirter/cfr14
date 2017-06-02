@@ -1,0 +1,98 @@
+# Certification Rules
+:toc:
+
+## § 133.11
+
+### Certificate required.
+
+. No person subject to this part may conduct rotorcraft external-load operations within the United States without, or in violation of the terms of, a Rotorcraft External-Load Operator Certificate issued by the Administrator under § 133.17.
+. No person holding a Rotorcraft External-Load Operator Certificate may conduct rotorcraft external-load operations subject to this part under a business name that is not on that certificate.
+
+## § 133.13
+
+### Duration of certificate.
+
+Unless sooner surrendered, suspended, or revoked, a Rotorcraft External-Load Operator Certificate expires at the end of the twenty-fourth month after the month in which it is issued or renewed.
+
+## § 133.14
+
+### Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
+
+If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of § 91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
+
+## § 133.15
+
+### Application for certificate issuance or renewal.
+
+Application for an original certificate or renewal of a certificate issued under this part is made on a form, and in a manner, prescribed by the Administrator. The form may be obtained from an FAA Flight Standards District Office. The completed application is sent to the district office that has jurisdiction over the area in which the applicant's home base of operation is located.
+
+## § 133.17
+
+### Requirements for issuance of a rotorcraft external-load operator certificate.
+
+If an applicant shows that he complies with §§ 133.19, 133.21, and 133.23, the Administrator issues a Rotorcraft External-Load Operator Certificate to him with an authorization to operate specified rotorcraft with those classes of rotorcraft-load combinations for which he complies with the applicable provisions of subpart D of this part.
+
+## § 133.19
+
+### Rotorcraft.
+
+. The applicant must have the exclusive use of at least one rotorcraft that—
+.. Was type certificated under, and meets the requirements of, part 27 or 29 of this chapter (but not necessarily with external-load-carrying attaching means installed) or of § 21.25 of this chapter for the special purpose of rotorcraft external-load operations;
+.. Complies with the certification provisions in subpart D of this part that apply to the rotorcraft-load combinations for which authorization is requested; and
+.. Has a valid standard or restricted category airworthiness certificate.
+. For the purposes of paragraph (a) of this section, a person has exclusive use of a rotorcraft if he has the sole possession, control, and use of it for flight, as owner, or has a written agreement (including arrangements for the performance of required maintenance) giving him that possession, control, and use for at least six consecutive months.
+
+## § 133.21
+
+### Personnel.
+
+. The applicant must hold, or have available the services of at least one person who holds, a current commercial or airline transport pilot certificate, with a rating appropriate for the rotorcraft prescribed in § 133.19, issued by the Administrator.
+. The applicant must designate one pilot, who may be the applicant, as chief pilot for rotorcraft external-load operations. The applicant also may designate qualified pilots as assistant chief pilots to perform the functions of the chief pilot when the chief pilot is not readily available. The chief pilot and assistant chief pilots must be acceptable to the Administrator and each must hold a current Commercial or Airline Transport Pilot Certificate, with a rating appropriate for the rotorcraft prescribed in § 133.19.
+. The holder of a Rotorcraft External-Load Operator Certificate shall report any change in designation of chief pilot or assistant chief pilot immediately to the FAA certificate-holding office. The new chief pilot must be designated and must comply with § 133.23 within 30 days or the operator may not conduct further operations under the Rotorcraft External-Load Operator Certificate unless otherwise authorized by the FAA certificate-holding office.
+
+## § 133.22
+
+### Employment of former FAA employees.
+
+. Except as specified in paragraph (c) of this section, no certificate holder may knowingly employ or make a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2 years—
+.. Served as, or was directly responsible for the oversight of, a Flight Standards Service aviation safety inspector; and
+.. Had direct responsibility to inspect, or oversee the inspection of, the operations of the certificate holder.
+. For the purpose of this section, an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the agency if the individual makes any written or oral communication on behalf of the certificate holder to the agency (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a Flight Standards Service aviation safety inspector.
+. The provisions of this section do not prohibit a certificate holder from knowingly employing or making a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual was employed by the certificate holder before October 21, 2011.
+
+## § 133.23
+
+### Knowledge and skill.
+
+. Except as provided in paragraph (d) of this section, the applicant, or the chief pilot designated in accordance with § 133.21(b), must demonstrate to the Administrator satisfactory knowledge and skill regarding rotorcraft external-load operations as set forth in paragraphs (b) and (c) of this section.
+. The test of knowledge (which may be oral or written, at the option of the applicant) covers the following subjects:
+.. Steps to be taken before starting operations, including a survey of the flight area.
+.. Proper method of loading, rigging, or attaching the external load.
+.. Performance capabilities, under approved operating procedures and limitations, of the rotorcraft to be used.
+.. Proper instructions of flight crew and ground workers.
+.. Appropriate rotorcraft-load combination flight manual.
+. The test of skill requires appropriate maneuvers for each class requested. The appropriate maneuvers for each load class must be demonstrated in the rotorcraft prescribed in § 133.19.
+.. Takeoffs and landings.
+.. Demonstration of directional control while hovering.
+.. Acceleration from a hover.
+.. Flight at operational airspeeds.
+.. Approaches to landing or working area.
+.. Maneuvering the external load into the release position.
+.. Demonstration of winch operation, if a winch is installed to hoist the external load.
+. Compliance with paragraphs (b) and (c) of this section need not be shown if the Administrator finds, on the basis of the applicant's (or his designated chief pilot's) previous experience and safety record in rotorcraft external-load operations, that his knowledge and skill are adequate.
+
+## § 133.25
+
+### Amendment of certificate.
+
+. The holder of a Rotorcraft External-Load Certificate may apply to the FAA Flight Standards District Office having jurisdiction over the area in which the applicant's home base of operation is located, or to the Flight Standards District Office nearest the area in which operations are to be conducted, for an amendment of the applicant's certificate, to add or delete a rotorcraft-load combination authorization, by executing the appropriate portion of the form used in applying for a Rotorcraft External-Load Operator Certificate. If the applicant for the amendment shows compliance with §§ 133.19, and 133.49, the Flight Standards District Office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
+. The holder of a rotorcraft external-load certificate may apply for an amendment to add or delete a rotorcraft authorization by submitting to the certificate-holding FAA Flight Standards District Office a new list of rotorcraft, by registration number, with the classes of rotorcraft-load combinations for which authorization is requested.
+
+## § 133.27
+
+### Availability, transfer, and surrender of certificate.
+
+. Each holder of a rotorcraft external-load operator certificate shall keep that certificate and a list of authorized rotorcraft at the home base of operations and shall make it available for inspection by the Administrator upon request.
+. Each person conducting a rotorcraft external-load operation shall carry a facsimile of the Rotorcraft External-Load Operator Certificate in each rotorcraft used in the operation.
+. If the Administrator suspends or revokes a Rotorcraft External-Load Operator Certificate, the holder of that certificate shall return it to the Administrator. If the certificate holder, for any other reason, discontinues operations under his certificate, and does not resume operations within two years, he shall return the certificate to the FAA Flight Standards District Office having jurisdiction over the area in which his home base of operations is located.
+

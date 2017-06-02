@@ -1,0 +1,258 @@
+# General
+:toc:
+
+## § 129.1
+
+### Applicability and definitions.
+
+. *Foreign air carrier operations in the United States.* This part prescribes rules governing the operation within the United States of each foreign air carrier holding the following:
+.. A permit issued by the U.S. Department of Transportation under 49 U.S.C. 41301 through 41306, or
+.. Other appropriate economic or exemption authority issued by the U.S. Department of Transportation.
+              
+. *Operations of U.S.-registered aircraft solely outside the United States.* In addition to the operations specified under paragraph (a) of this section, §§ 129.5, 129.7, 129.9, 129.11, 129.14, 129.20 and 129.24, and subpart B of this part also apply to operations of U.S.-registered aircraft operated solely outside the United States in common carriage by a foreign person or foreign air carrier.
+. *Definitions.* For the purpose of this part—
+.. *Foreign person* means any person who is not a citizen of the United States and who operates a U.S.-registered aircraft in common carriage solely outside the United States.
+.. *Years in service* means the calendar time elapsed since an aircraft was issued its first U.S. or first foreign airworthiness certificate.
+
+## § 129.5
+
+### Operations specifications.
+
+. Each foreign air carrier conducting operations within the United States, and each foreign air carrier or foreign person operating U.S.-registered aircraft solely outside the United States in common carriage must conduct its operations in accordance with operations specifications issued by the Administrator under this part.
+. Each foreign air carrier conducting operations within the United States must conduct its operations in accordance with the Standards contained in Annex 1 (Personnel Licensing), Annex 6 (Operation of Aircraft), Part I (International Commercial Air Transport—Aeroplanes) or Part III (International Operations—Helicopters), as appropriate, and in Annex 8 (Airworthiness of Aircraft) to the Convention on International Civil Aviation.
+. No foreign air carrier may operate to or from locations within the United States without, or in violation of, appropriate operations specifications.
+. No foreign air carrier or foreign person shall operate U.S.-registered aircraft solely outside the United States in common carriage without, or in violation of, appropriate operations specifications.
+. Each foreign air carrier must keep each of its employees and other persons used in its operations informed of the provisions of its operations specifications that apply to that employee's or person's duties and responsibilities.
+. Operations specifications issued under this part are effective until—
+.. The foreign air carrier or foreign person surrenders them to the FAA;
+.. The Administrator suspends or terminates the operations specifications; or
+.. The operations specifications are amended as provided in § 129.11.
+. Within 30 days after a foreign air carrier or foreign person terminates operations under part 129 of this subchapter, the operations specifications must be surrendered by the foreign air carrier or foreign person to the responsible Flight Standards District Office.
+. No person operating under this part may operate or list on its operations specifications any airplane listed on operations specifications issued under part 125 of this chapter.
+
+## § 129.7
+
+### Application, issuance, or denial of operations specifications.
+
+. A foreign air carrier or foreign person applying to the FAA for operations specifications under this part must submit an application—
+.. In a form and manner prescribed by the Administrator; and
+.. At least 90 days before the intended date of operation.
+. An authorized officer or employee of the applicant, having knowledge of the matters stated in the application, must sign the application and certify in writing that the statements in the application are true. The application must include two copies of the appropriate written authority issued to that officer or employee by the applicant.
+. A foreign applicant may be issued operations specifications, if after review, the Administrator finds the applicant—
+.. Meets the applicable requirements of this part;
+              
+.. Holds the economic or exemption authority required by the Department of Transportation, applicable to the operations to be conducted;
+.. Complies with the applicable security requirements of 49 CFR chapter XII;
+.. Is properly and adequately equipped to conduct the operations described in the operations specifications; and
+.. Holds a valid air operator certificate issued by the State of the Operator.
+. An application may be denied if the Administrator finds that the applicant is not properly or adequately equipped to conduct the operations to be described in the operations specifications.
+
+## § 129.9
+
+### Contents of operations specifications.
+
+. The contents of operations specifications issued to a foreign air carrier conducting operations within the United States under § 129.1(a) shall include:
+.. The specific location and mailing address of the applicant's principal place of business in the State of the Operator and, if different, the address that will serve as the primary point of contact for correspondence between the FAA and the foreign air carrier;
+.. Within 1 year after February 10, 2011, the designation of an agent for service within the United States, including the agent's full name and office address or usual place of residence;
+.. The certificate number and validity of the foreign air carrier's Air Operator Certificate issued by the State of the Operator;
+.. Each regular and alternate airport to be used in scheduled operations;
+.. The type of aircraft and registration markings of each aircraft;
+.. The approved maintenance program and minimum equipment list for United States registered aircraft authorized for use; and
+.. Any other item the Administrator determines is necessary.
+. The contents of operations specifications issued to a foreign air carrier or foreign person operating U.S.-registered aircraft solely outside the United States in common carriage in accordance with § 129.1(b) shall include—
+.. The specific location and mailing address of the principal place of business in the State of the Operator and, if different, the address that will serve as the primary point of contact for correspondence between the FAA and the foreign air carrier or foreign person;
+.. Within 1 year after February 10, 2011, the designation of an agent for service within the United States, including the agent's full name and office address or usual place of residence;
+.. In the case of a foreign air carrier, the certificate number and validity of the foreign air carrier's Air Operator Certificate issued by the State of the Operator;
+.. Any other business names under which the foreign air carrier or foreign person may operate;
+.. The type, registration markings, and serial number of each United States registered aircraft authorized for use;
+.. The approved maintenance program and minimum equipment list for United States registered aircraft authorized for use; and
+.. Any other item the Administrator determines is necessary.
+
+## § 129.11
+
+### Amendment, suspension and termination of operations specifications.
+
+. The Administrator may amend any operations specifications issued under this part if—
+.. The Administrator determines that safety in air commerce and the public interest require the amendment; or
+.. The foreign air carrier or foreign person applies for an amendment, and the Administrator determines that safety in air commerce and the public interest allows the amendment.
+. The Administrator may suspend or terminate any operations specifications issued under this part if the Administrator determines that safety in air commerce and the public interest require the suspension or termination;
+              
+. Except as provided in paragraphs (f) and (g) of this section, when the Administrator initiates an action to amend, suspend or terminate a foreign air carrier or foreign person's operations specifications, the following procedure applies:
+.. The responsible Flight Standards District Office notifies the foreign air carrier or foreign person in writing of the proposed amendment, suspension or termination.
+.. The responsible Flight Standards District Office sets a reasonable period (but not less than 7 days) within which the foreign air carrier or foreign person may submit written information, views, and arguments on the amendment, suspension or termination.
+.. After considering all material presented, the responsible Flight Standards District Office notifies the foreign air carrier or foreign person of—
+... The adoption of the proposed amendment, suspension or termination;
+... The partial adoption of the proposed amendment, suspension or termination; or
+... The withdrawal of the proposed amendment, suspension or termination.
+.. If the responsible Flight Standards District Office issues an action to amend, suspend or terminate the operations specifications, it becomes effective not less than 30 days after the foreign air carrier or foreign person receives notice of it unless—
+... The responsible Flight Standards District Office finds under paragraph (g) of this section that there is an emergency requiring immediate action with respect to safety in air commerce; or
+... The foreign air carrier or foreign person petitions for reconsideration of the amendment, suspension or termination under paragraph (e) of this section.
+. When the foreign air carrier or foreign person applies for an amendment to its operations specifications, the following procedure applies:
+.. The foreign air carrier or foreign person must file an application to amend its operations specifications—
+... At least 90 days before the date proposed by the applicant for the amendment to become effective in cases of mergers; acquisitions of airline operational assets that require an additional showing to Department of Transportation for economic authority; major changes in the type of operation; and resumption of operations following a suspension of operations as a result of bankruptcy actions, unless a shorter time is approved by the Administrator.
+... At least 30 days before the date proposed by the applicant for the amendment to become effective in all other cases.
+.. The application must be submitted to the responsible Flight Standards District Office in a form and manner prescribed by the Administrator.
+.. After considering all material presented, the responsible Flight Standards District Office notifies the foreign air carrier or foreign person of—
+... The adoption of the applied for amendment;
+... The partial adoption of the applied for amendment; or
+... The denial of the applied for amendment.
+.. If the responsible Flight Standards District Office approves the amendment, following coordination with the foreign air carrier or foreign person regarding its implementation, the amendment is effective on the date the responsible Flight Standards District Office approves it.
+. The foreign air carrier or foreign person may petition for reconsideration of a full or partial adoption of an amendment, a denial of an amendment or a suspension or termination of operations specifications.
+. When a foreign air carrier or foreign person seeks reconsideration of a decision from the responsible Flight Standards District Office concerning the amendment, suspension or termination of operations specifications, the following procedure applies:
+.. The foreign air carrier or foreign person must petition for reconsideration of that decision within 30 days after the date that the foreign air carrier or foreign person receives a notice of the decision.
+.. The foreign air carrier or foreign person must address its petition to the Director, Flight Standards Service.
+              
+.. A petition for reconsideration, if filed within the 30-day period, suspends the effectiveness of any amendment, suspension or termination issued by the responsible Flight Standards District Office unless the responsible Flight Standards District Office has found, under paragraph (g) of this section, that an emergency exists requiring immediate action with respect to safety in air transportation or air commerce.
+. If the responsible Flight Standards District Office finds that an emergency exists requiring immediate action with respect to safety in air commerce or air transportation that makes the procedures set out in this section impracticable or contrary to the public interest, that office may make the amendment, suspension or termination effective on the day the foreign air carrier or foreign person receives notice of it. In the notice to the foreign air carrier or foreign person, the responsible Flight Standards District Office will articulate the reasons for its finding that an emergency exists requiring immediate action with respect to safety in air transportation or air commerce or that makes it impracticable or contrary to the public interest to stay the effectiveness of the amendment, suspension or termination.
+
+## § 129.13
+
+### Airworthiness and registration certificates.
+
+. No foreign air carrier may operate any aircraft within the United States unless that aircraft carries a current registration certificate and displays the nationality and registration markings of the State of Registry, and an airworthiness certificate issued or validated by:
+.. The State of Registry; or
+.. The State of the Operator, provided that the State of the Operator and the State of Registry have entered into an agreement under Article 83*bis* of the Convention on International Civil Aviation that covers the aircraft.
+. No foreign air carrier may operate a foreign aircraft within the United States except in accordance with the limitations on maximum certificated weights prescribed for that aircraft and that operation by the country of manufacture of the aircraft.
+
+## § 129.14
+
+### Maintenance program and minimum equipment list requirements for U.S.-registered aircraft.
+
+. Each foreign air carrier and each foreign person operating a U.S.-registered aircraft within or outside the United States in common carriage must ensure that each aircraft is maintained in accordance with a program approved by the Administrator in the operations specifications.
+. No foreign air carrier or foreign person may operate a U.S.-registered aircraft with inoperable instruments or equipment unless the following conditions are met:
+.. A master minimum equipment list exists for the aircraft type.
+.. The foreign operator submits for review and approval its aircraft minimum equipment list based on the master minimum equipment list, to the FAA Flight Standards District Office having geographic responsibility for the operator. The foreign operator must show, before minimum equipment list approval can be obtained, that the maintenance procedures used under its maintenance program are adequate to support the use of its minimum equipment list.
+.. For leased aircraft maintained and operated under a U.S. operator's continuous airworthiness maintenance program and FAA-approved minimum equipment list, the foreign operator submits the U.S. operator's approved continuous airworthiness maintenance program and approved aircraft minimum equipment list to the FAA office prescribed in paragraph (b)(2) of this section for review and evaluation. The foreign operator must show that it is capable of operating under the lessor's approved maintenance program and that it is also capable of meeting the maintenance and operational requirements specified in the lessor's approved minimum equipment list.
+              
+.. The FAA operations specification permitting the operator to use an approved minimum equipment list is carried aboard the aircraft. An approved minimum equipment list, as authorized by the operations specifications, constitutes an approved change to the type design without requiring recertification.
+.. The approved minimum equipment list provides for the operation of the aircraft with certain instruments and equipment in an inoperable condition.
+.. The aircraft records available to the pilot must include an entry describing the inoperable instruments and equipment.
+.. The aircraft is operated under all applicable conditions and limitations contained in the minimum equipment list and the operations specification authorizing the use of the list.
+
+## § 129.15
+
+### Flightcrew member certificates.
+
+Each person acting as a flightcrew member must hold a certificate or license that shows the person's ability to perform duties in connection with the operation of the aircraft. The certificate or license must have been issued or rendered valid by:
+
+. The State in which the aircraft is registered; or
+. The State of the Operator, provided that the State of the Operator and the State of Registry have entered into an agreement under Article 83*bis* of the Convention on International Civil Aviation that covers the aircraft.
+
+## § 129.17
+
+### Aircraft communication and navigation equipment for operations under IFR or over the top.
+
+. *Aircraft navigation equipment requirements—General.* No foreign air carrier may conduct operations under IFR or over the top unless—
+.. The en route navigation aids necessary for navigating the aircraft along the route (e.g., ATS routes, arrival and departure routes, and instrument approach procedures, including missed approach procedures if a missed approach routing is specified in the procedure) are available and suitable for use by the aircraft navigation equipment required by this section;
+.. The aircraft used in those operations is equipped with at least the following—
+... Except as provided in paragraph (c) of this section, two approved independent navigation systems suitable for navigating the aircraft along the route to be flown within the degree of accuracy required for ATC;
+... One marker beacon receiver providing visual and aural signals; and
+... One ILS receiver; and
+.. Any RNAV system used to meet the navigation equipment requirements of this section is authorized in the foreign air carrier's operations specifications.
+. *Aircraft communication equipment requirements.* No foreign air carrier may operate an aircraft under IFR or over the top, unless it is equipped with—
+.. At least two independent communication systems necessary under normal operating conditions to fulfill the functions specified in § 121.347(a) of this chapter; and
+.. At least one of the communication systems required by paragraph (b)(1) of this section must have two-way voice communication capability.
+. *Use of a single independent navigation system for operations under IFR or over the top.* Notwithstanding the requirements of paragraph (a)(2)(i) of this section, the aircraft may be equipped with a single independent navigation system suitable for navigating the aircraft along the route to be flown within the degree of accuracy required for ATC if:
+.. It can be shown that the aircraft is equipped with at least one other independent navigation system suitable, in the event of loss of the navigation capability of the single independent navigation system permitted by this paragraph at any point along the route, for proceeding safely to a suitable airport and completing an instrument approach; and
+.. The aircraft has sufficient fuel so that the flight may proceed safely to a suitable airport by use of the remaining navigation system, and complete an instrument approach and land.
+. *VOR navigation equipment.* If VOR navigation equipment is required by paragraph (a) or (c) of this section, no foreign air carrier may operate an aircraft unless it is equipped with at least one approved DME or suitable RNAV system.
+
+## § 129.18
+
+### Collision avoidance system.
+
+Effective January 1, 2005, any airplane you, as a foreign air carrier, operate under part 129 must be equipped and operated according to the following table:
+
+## § 129.19
+
+### Air traffic rules and procedures.
+
+. Each pilot must be familiar with the applicable rules, the navigational and communications facilities, and the air traffic control and other procedures, of the areas to be traversed by him within the United States.
+. Each foreign air carrier shall establish procedures to assure that each of its pilots has the knowledge required by paragraph (a) of this section and shall check the ability of each of its pilots to operate safely according to applicable rules and procedures.
+. Each foreign air carrier shall conform to the practices, procedures, and other requirements prescribed by the Administrator for U.S. air carriers for the areas to be operated in.
+
+## § 129.20
+
+### Digital flight data recorders.
+
+No person may operate an aircraft under this part that is registered in the United States unless it is equipped with one or more approved flight recorders that use a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The flight data recorder must record the parameters that would be required to be recorded if the aircraft were operated under part 121, 125, or 135 of this chapter, and must be installed by the compliance times required by those parts, as applicable to the aircraft.
+
+## § 129.21
+
+### Control of traffic.
+
+. Subject to applicable immigration laws and regulations, each foreign air carrier must furnish sufficient personnel necessary to provide two-way voice communications between its aircraft and stations at places where the FAA finds that communication is necessary but cannot be maintained in a language with which station operators are familiar.
+. Each person furnished by a foreign air carrier under paragraph (a) of this section must be able to speak English and the language necessary to maintain communications with its aircraft and must assist station operators in directing traffic.
+
+## § 129.22
+
+### Communication and navigation equipment for rotorcraft operations under VFR over routes navigated by pilotage.
+
+. No foreign air carrier may operate a rotorcraft under VFR over routes that can be navigated by pilotage unless the rotorcraft is equipped with the radio communication equipment necessary under normal operating conditions to fulfill the following:
+.. Communicate with at least one appropriate station from any point on the route;
+.. Communicate with appropriate air traffic control facilities from any point within Class B, Class C, or Class D airspace, or within a Class E surface area designated for an airport in which flights are intended; and
+.. Receive meteorological information from any point en route.
+. No foreign air carrier may operate a rotorcraft at night under VFR over routes that can be navigated by pilotage unless that rotorcraft is equipped with—
+.. Radio communication equipment necessary under normal operating conditions to fulfill the functions specified in paragraph (a) of this section; and
+.. Navigation equipment suitable for the route to be flown.
+
+## § 129.23
+
+### Transport category cargo service airplanes: Increased zero fuel and landing weights.
+
+. Notwithstanding the applicable structural provisions of the transport category airworthiness regulations, but subject to paragraphs (b) through (g) of this section, a foreign air carrier may operate (for cargo service only) any of the following transport category airplanes (certificated under part 4b of the Civil Air Regulations effective before March 13, 1956) at increased zero fuel and landing weights—
+.. DC-6A, DC-6B, DC-7B, and DC-7C; and
+.. L-1049 B, C, D, E, F, G, and H, and the L-1649A when modified in accordance with supplemental type certificate SA 4-1402.
+. The zero fuel weight (maximum weight of the airplane with no disposable fuel and oil) and the structural landing weight may be increased beyond the maximum approved in full compliance with applicable rules only if the Administrator finds that—
+.. The increase is not likely to reduce seriously the structural strength;
+.. The probability of sudden fatigue failure is not noticeably increased;
+.. The flutter, deformation, and vibration characteristics do not fall below those required by applicable regulations; and
+.. All other applicable weight limitations will be met.
+. No zero fuel weight may be increased by more than five percent, and the increase in the structural landing weight may not exceed the amount, in pounds, of the increase in zero fuel weight.
+. Each airplane must be inspected in accordance with the approved special inspection procedures, for operations at increased weights, established and issued by the manufacturer of the type of airplane.
+. A foreign air carrier may not operate an airplane under this section unless the country of registry requires the airplane to be operated in accordance with the passenger-carrying transport category performance operating limitations in part 121 or the equivalent.
+. The Airplane Flight Manual for each airplane operated under this section must be appropriately revised to include the operating limitations and information needed for operation at the increased weights.
+. Each airplane operated at an increased weight under this section must, before it is used in passenger service, be inspected under the special inspection procedures for return to passenger service established and issued by the manufacturer and approved by the Administrator.
+
+## § 129.24
+
+### Cockpit voice recorders.
+
+No person may operate an aircraft under this part that is registered in the United States unless it is equipped with an approved cockpit voice recorder that meets the standards of TSO-C123a, or later revision. The cockpit voice recorder must record the information that would be required to be recorded if the aircraft were operated under part 121, 125, or 135 of this chapter, and must be installed by the compliance times required by that part, as applicable to the aircraft.
+
+## § 129.25
+
+### Airplane security.
+
+Foreign air carriers conducting operations under this part must comply with the applicable security requirements in 49 CFR chapter XII.
+
+## § 129.28
+
+### Flightdeck security.
+
+. After August 20, 2002, except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by § 129.1(a), may operate:
+.. A passenger carrying transport category airplane within the United States, except for overflights, unless the airplane is equipped with a door between the passenger and pilot compartment that incorporates features to restrict the unwanted entry of persons into the flightdeck that are operable from the flightdeck only; or
+.. A transport category all-cargo airplane within the United States, except for overflights, that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, unless the door incorporates features to restrict the unwanted entry of persons into the flightdeck that are operable from the flightdeck only.
+. To the extent necessary to meet the requirements of paragraph (a) of this section, the requirements of § 129.13(a) to maintain airworthiness certification are waived until April 9, 2003. After that date, the requirements of § 129.13(a) apply in full.
+. After April 9, 2003, except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by § 129.1(a) may operate a passenger carrying transport category airplane, or a transport category all-cargo airplane that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except for overflights, unless the airplane's flightdeck door installation meets the requirements of paragraphs (c)(1) and(2) of this section or an alternative standard found acceptable to the Administrator.
+.. Except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by § 129.1(a) may operate:
+... After April 9, 2003, a passenger carrying transport category airplane within the United States, except on overflights, unless the airplane's flightdeck door installation meets the requirements of paragraphs (c)(2) and (c)(3) of this section or an alternative standard found acceptable to the Administrator.
+... After October 1, 2003, a transport category all-cargo airplane that had a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except on overflights, unless the airplane's flightdeck door installation meets the requirements of paragraphs (c)(2) and (c)(3) of this section or an alternative standard found acceptable to the Administrator; or the operator must implement a security program approved by the Transportation Security Administration (TSA) for the operation of all airplanes in that operator's fleet.
+.. The door must resist forcible intrusion by unauthorized persons and be capable of withstanding impacts of 300 joules (221.3 foot-pounds) at the critical locations on the door, as well as a 1,113-newton (250 pounds) constant tensile load on the knob or handle, and
+.. The door must resist penetration by small arms fire and fragmentation devices to a level equivalent to Level IIIa of the National Institute of Justice Standard (NIJ) 0101.04.
+. After August 20, 2002, no foreign air carrier covered by § 129.1 may operate a passenger carrying transport category airplane, or a transport category all-cargo airplane that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except for overflights, unless the carrier has procedures in place that are acceptable to the civil aviation authority responsible for oversight of the foreign air carriers operating under this part to prevent access to the flightdeck except as authorized as follows:
+.. No person other than a person who is assigned to perform duty on the flight deck may have a key to the flight deck door that will provide access to the flightdeck.
+.. Except when it is necessary to permit access and egress by persons authorized in accordance with paragraph (d)(3) of this section, a pilot in command of an airplane that has a lockable flight deck door in accordance with § 129.28(a) and that is carrying passengers shall ensure that the door separating the flight crew compartment from the passenger compartment is closed and locked at all times when the airplane is being operated.
+.. No person may admit any person to the flight deck of an airplane unless the person being admitted is—
+... A crewmember,
+... An inspector of the civil aviation authority responsible for oversight of the part 129 operator, or
+... Any other person authorized by the civil aviation authority responsible for oversight of the part 129 operator.
+. The requirements of paragraph (a) through (d) except (d)(3), do not apply to transport category passenger carrying airplanes originally type certificated with a maximum passenger seating configuration of 19 seats or less, or to all-cargo airplanes with a payload capacity of 7,500 pounds or less.
+
+## § 129.29
+
+### Smoking prohibitions.
+
+. No person may smoke and no operator may permit smoking in any aircraft lavatory.
+. Unless otherwise authorized by the Secretary of Transportation, no person may smoke and no operator may permit smoking anywhere on the aircraft (including the passenger cabin and the flight deck) during scheduled passenger foreign air transportation or during any scheduled passenger interstate or intrastate air transportation.
+

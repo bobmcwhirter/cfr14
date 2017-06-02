@@ -1,0 +1,178 @@
+# Personnel and Flight Training Equipment Requirements
+:toc:
+
+## § 142.45
+
+### Applicability.
+
+This subpart prescribes the personnel and flight training equipment requirements for a certificate holder that is training to meet the requirements of part 61 of this chapter.
+
+## § 142.47
+
+### Training center instructor eligibility requirements.
+
+. A certificate holder may not employ a person as an instructor in a flight training course that is subject to approval by the Administrator unless that person—
+.. Is at least 18 years of age;
+.. Is able to read, write, and speak and understand in the English language;
+.. If instructing in an aircraft in flight, is qualified in accordance with subpart H of this chapter;
+.. Satisfies the requirements of paragraph (c) of this section; and
+.. Meets at least one of the following requirements—
+... Except as allowed by paragraph (a)(5)(ii) of this section, meets the aeronautical experience requirements of § 61.129 (a), (b), (c), or (e) of this chapter, as applicable, excluding the required hours of instruction in preparation for the commercial pilot practical test;
+... If instructing in flight simulator or flight training device that represents an airplane requiring a type rating or if instructing in a curriculum leading to the issuance of an airline transport pilot certificate or an added rating to an airline transport pilot certificate, meets the aeronautical experience requirements of § 61.159, § 61.161, or § 61.163 of this chapter, as applicable; or
+... Is employed as a flight simulator instructor or a flight training device instructor for a training center providing instruction and testing to meet the requirements of part 61 of this chapter on August 1, 1996.
+. A training center must designate each instructor in writing to instruct in each approved course, prior to that person functioning as an instructor in that course.
+. Prior to initial designation, each instructor shall:
+.. Complete at least 8 hours of ground training on the following subject matter:
+... Instruction methods and techniques.
+... Training policies and procedures.
+... The fundamental principles of the learning process.
+... Instructor duties, privileges, responsibilities, and limitations.
+... Proper operation of simulation controls and systems.
+... Proper operation of environmental control and warning or caution panels.
+... Limitations of simulation.
+... Minimum equipment requirements for each curriculum.
+... Revisions to the training courses.
+... Cockpit resource management and crew coordination.
+.. Satisfactorily complete a written test—
+... On the subjects specified in paragraph (c)(1) of this section; and
+... That is accepted by the Administrator as being of equivalent difficulty, complexity, and scope as the tests provided by the Administrator for the flight instructor airplane and instrument flight instructor knowledge tests.
+
+## § 142.49
+
+### Training center instructor and evaluator privileges and limitations.
+
+. A certificate holder may allow an instructor to provide:
+.. Instruction for each curriculum for which that instructor is qualified.
+.. Testing and checking for which that instructor is qualified.
+.. Instruction, testing, and checking intended to satisfy the requirements of any part of this chapter.
+. A training center whose instructor or evaluator is designated in accordance with the requirements of this subpart to conduct training, testing, or checking in qualified and approved flight training equipment, may allow its instructor or evaluator to give endorsements required by part 61 of this chapter if that instructor or evaluator is authorized by the Administrator to instruct or evaluate in a part 142 curriculum that requires such endorsements.
+. A training center may not allow an instructor to—
+.. Excluding briefings and debriefings, conduct more than 8 hours of instruction in any 24-consecutive-hour period;
+.. Provide flight training equipment instruction unless that instructor meets the requirements of § 142.53 (a)(1) through (a)(4), and § 142.53(b), as applicable; or
+.. Provide flight instruction in an aircraft unless that instructor—
+... Meets the requirements of § 142.53(a)(1), (a)(2), and (a)(5);
+... Is qualified and authorized in accordance with subpart H of part 61 of this chapter;
+... Holds certificates and ratings specified by part 61 of this chapter appropriate to the category, class, and type aircraft in which instructing;
+... If instructing or evaluating in an aircraft in flight while serving as a required crewmember, holds at least a valid second class medical certificate; and
+... Meets the recency of experience requirements of part 61 of this chapter.
+
+## § 142.51
+
+### Reserved
+
+## § 142.53
+
+### Training center instructor training and testing requirements.
+
+. Except as provided in paragraph (c) of this section, prior to designation and every 12 calendar months beginning the first day of the month following an instructor's initial designation, a certificate holder must ensure that each of its instructors meets the following requirements:
+.. Each instructor must satisfactorily demonstrate to an authorized evaluator knowledge of, and proficiency in, instructing in a representative segment of each curriculum for which that instructor is designated to instruct under this part.
+.. Each instructor must satisfactorily complete an approved course of ground instruction in at least—
+... The fundamental principles of the learning process;
+... Elements of effective teaching, instruction methods, and techniques;
+... Instructor duties, privileges, responsibilities, and limitations;
+... Training policies and procedures;
+... Cockpit resource management and crew coordination; and
+... Evaluation.
+.. Each instructor who instructs in a qualified and approved flight simulator or flight training device must satisfactorily complete an approved course of training in the operation of the flight simulator, and an approved course of ground instruction, applicable to the training courses the instructor is designated to instruct.
+.. The flight simulator training course required by paragraph (a)(3) of this section which must include—
+... Proper operation of flight simulator and flight training device controls and systems;
+... Proper operation of environmental and fault panels;
+... Limitations of simulation; and
+... Minimum equipment requirements for each curriculum.
+              
+.. Each flight instructor who provides training in an aircraft must satisfactorily complete an approved course of ground instruction and flight training in an aircraft, flight simulator, or flight training device.
+.. The approved course of ground instruction and flight training required by paragraph (a)(5) of this section which must include instruction in—
+... Performance and analysis of flight training procedures and maneuvers applicable to the training courses that the instructor is designated to instruct;
+... Technical subjects covering aircraft subsystems and operating rules applicable to the training courses that the instructor is designated to instruct;
+... Emergency operations;
+... Emergency situations likely to develop during training; and
+... Appropriate safety measures.
+.. Each instructor who instructs in qualified and approved flight training equipment must pass a written test and annual proficiency check—
+... In the flight training equipment in which the instructor will be instructing; and
+... On the subject matter and maneuvers of a representative segment of each curriculum for which the instructor will be instructing.
+. In addition to the requirements of paragraphs (a)(1) through (a)(7) of this section, each certificate holder must ensure that each instructor who instructs in a flight simulator that the Administrator has approved for all training and all testing for the airline transport pilot certification test, aircraft type rating test, or both, has met at least one of the following three requirements:
+.. Each instructor must have performed 2 hours in flight, including three takeoffs and three landings as the sole manipulator of the controls of an aircraft of the same category and class, and, if a type rating is required, of the same type replicated by the approved flight simulator in which that instructor is designated to instruct;
+.. Each instructor must have participated in an approved line-observation program under part 121 or part 135 of this chapter, and that—
+... Was accomplished in the same airplane type as the airplane represented by the flight simulator in which that instructor is designated to instruct; and
+... Included line-oriented flight training of at least 1 hour of flight during which the instructor was the sole manipulator of the controls in a flight simulator that replicated the same type aircraft for which that instructor is designated to instruct; or
+.. Each instructor must have participated in an approved in-flight observation training course that—
+... Consisted of at least 2 hours of flight time in an airplane of the same type as the airplane replicated by the flight simulator in which the instructor is designated to instruct; and
+... Included line-oriented flight training of at least 1 hour of flight during which the instructor was the sole manipulator of the controls in a flight simulator that replicated the same type aircraft for which that instructor is designated to instruct.
+. An instructor who satisfactorily completes a curriculum required by paragraph (a) or (b) of this section in the calendar month before or after the month in which it is due is considered to have taken it in the month in which it was due for the purpose of computing when the next training is due.
+. The Administrator may give credit for the requirements of paragraph (a) or (b) of this section to an instructor who has satisfactorily completed an instructor training course for a part 121 or part 135 certificate holder if the Administrator finds such a course equivalent to the requirements of paragraph (a) or (b) of this section.
+
+## § 142.54
+
+### Airline transport pilot certification training program.
+
+No certificate holder may use a person nor may any person serve as an instructor in a training program approved to meet the requirements of § 61.156 of this chapter unless the instructor:
+
+. Holds an airline transport pilot certificate with an airplane category multiengine class rating;
+              
+. Has at least 2 years of experience as a pilot in command in operations conducted under § 91.1053(a)(2)(i) or § 135.243(a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under part 121 of this chapter;
+. Except for the holder of a flight instructor certificate, receives initial training on the following topics:
+.. The fundamental principles of the learning process;
+.. Elements of effective teaching, instruction methods, and techniques;
+.. Instructor duties, privileges, responsibilities, and limitations;
+.. Training policies and procedures; and
+.. Evaluation.
+. If providing training in a flight simulation training device—
+.. Holds an aircraft type rating for the aircraft represented by the flight simulation training device utilized in the training program and have received training and evaluation within the preceding 12 months from the certificate holder on the maneuvers that will be demonstrated in the flight simulation training device; and
+.. Satisfies the requirements of § 142.53(a)(4).
+. A certificate holder may not issue a graduation certificate to a student unless that student has completed all the curriculum requirements of the course.
+. A certificate holder must conduct evaluations to ensure that training techniques, procedures, and standards are acceptable to the Administrator.
+
+## § 142.55
+
+### Training center evaluator requirements.
+
+. Except as provided by paragraph (d) of this section, a training center must ensure that each person authorized as an evaluator—
+.. Is approved by the Administrator;
+.. Is in compliance with §§ 142.47, 142.49, and 142.53 and applicable sections of part 183 of this chapter; and
+.. Prior to designation, and except as provided in paragraph (b) of this section, every 12-calendar-month period following initial designation, the certificate holder must ensure that the evaluator satisfactorily completes a curriculum that includes the following:
+... Evaluator duties, functions, and responsibilities;
+... Methods, procedures, and techniques for conducting required tests and checks;
+... Evaluation of pilot performance; and
+... Management of unsatisfactory tests and subsequent corrective action; and
+.. If evaluating in qualified and approved flight training equipment must satisfactorily pass a written test and annual proficiency check in a flight simulator or aircraft in which the evaluator will be evaluating.
+. An evaluator who satisfactorily completes a curriculum required by paragraph (a) of this section in the calendar month before or the calendar month after the month in which it is due is considered to have taken it in the month is which it was due for the purpose of computing when the next training is due.
+. The Administrator may give credit for the requirements of paragraph (a)(3) of this section to an evaluator who has satisfactorily completed an evaluator training course for a part 121 or part 135 certificate holder if the Administrator finds such a course equivalent to the requirements of paragraph (a)(3) of this section.
+. An evaluator who is qualified under subpart Y of part 121 of this chapter shall be authorized to conduct evaluations under the Advanced Qualification Program without complying with the requirements of this section.
+
+## § 142.57
+
+### Aircraft requirements.
+
+. An applicant for, or holder of, a training center certificate must ensure that each aircraft used for flight instruction and solo flights meets the following requirements:
+.. Except for flight instruction and solo flights in a curriculum for agricultural aircraft operations, external load operations, and similar aerial work operations, the aircraft must have an FAA standard airworthiness certificate or a foreign equivalent of an FAA standard airworthiness certificate, acceptable to the Administrator.
+.. The aircraft must be maintained and inspected in accordance with—
+... The requirements of part 91, subpart E, of this chapter; and
+... An approved program for maintenance and inspection.
+.. The aircraft must be equipped as provided in the training specifications for the approved course for which it is used.
+. Except as provided in paragraph (c) of this section, an applicant for, or holder of, a training center certificate must ensure that each aircraft used for flight instruction is at least a two-place aircraft with engine power controls and flight controls that are easily reached and that operate in a conventional manner from both pilot stations.
+. Airplanes with controls such as nose-wheel steering, switches, fuel selectors, and engine air flow controls that are not easily reached and operated in a conventional manner by both pilots may be used for flight instruction if the certificate holder determines that the flight instruction can be conducted in a safe manner considering the location of controls and their nonconventional operation, or both.
+
+## § 142.59
+
+### Flight simulators and flight training devices.
+
+. An applicant for, or holder of, a training center certificate must show that each flight simulator and flight training device used for training, testing, and checking (except AQP) will be or is specifically qualified and approved by the Administrator for—
+.. Each maneuver and procedure for the make, model, and series of aircraft, set of aircraft, or aircraft type simulated, as applicable; and
+.. Each curriculum or training course in which the flight simulator or flight training device is used, if that curriculum or course is used to satisfy any requirement of 14 CFR chapter I.
+. The approval required by paragraph (a)(2) of this section must include—
+.. The set of aircraft, or type aircraft;
+.. If applicable, the particular variation within type, for which the training, testing, or checking is being conducted; and
+.. The particular maneuver, procedure, or crewmember function to be performed.
+. Each qualified and approved flight simulator or flight training device used by a training center must—
+.. Be maintained to ensure the reliability of the performances, functions, and all other characteristics that were required for qualification;
+.. Be modified to conform with any modification to the aircraft being simulated if the modification results in changes to performance, function, or other characteristics required for qualification;
+.. Be given a functional preflight check each day before being used; and
+.. Have a discrepancy log in which the instructor or evaluator, at the end of each training session, enters each discrepancy.
+. Unless otherwise authorized by the Administrator, each component on a qualified and approved flight simulator or flight training device used by a training center must be operative if the component is essential to, or involved in, the training, testing, or checking of airmen.
+. Training centers shall not be restricted to specific—
+.. Route segments during line-oriented flight training scenarios; and
+.. Visual data bases replicating a specific customer's bases of operation.
+. Training centers may request evaluation, qualification, and continuing evaluation for qualification of flight simulators and flight training devices without—
+.. Holding an air carrier certificate; or
+.. Having a specific relationship to an air carrier certificate holder.
+

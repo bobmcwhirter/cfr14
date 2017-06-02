@@ -1,0 +1,47 @@
+# Energy Conservation in Airport Aid Program
+:toc:
+
+## § 152.601
+
+### Purpose.
+
+This subpart implements section 403 of the Powerplant and Industrial Fuel Use Act of 1978 (92 Stat. 3318; Pub. L. 95-620) in order to encourage conservation of petroleum and natural gas by recipients of Federal financial assistance.
+
+## § 152.603
+
+### Applicability.
+
+This subpart applies to each recipient of Federal financial assistance from the Federal Aviation Administration through the Airport Development Aid Program (ADAP) unless otherwise excluded by definition.
+
+## § 152.605
+
+### Definitions.
+
+As used in this subpart—
+
+*Building construction* means construction of any building which receives Federal assistance under the program, which will exceed $200,000 in construction cost.
+
+*Energy assessment* means an analysis of total energy requirements of a building, which, within the scope of the proposed construction activity, and at a level of detail appropriate to that scope, considers the following:
+
+. Overall design of the facility or modification, and alternative designs;
+. Materials and techniques used in construction or rehabilitation;
+. Special or innovative conservation features that may be used;
+. Fuel requirements for heating, cooling, and operations essential to the function of the structure, projected over the life of the facility and including projected costs of this fuel; and
+. Kind of energy to be used, including—
+.. Consideration of opportunities for using fuels other than petroleum and natural gas, and
+.. Consideration of using alternative, renewable energy sources.
+
+*Major building modification* means modification of any building which receives Federal assistance under the program, which will exceed $200,000 in construction cost.
+
+## § 152.607
+
+### Building design requirements.
+
+Each sponsor shall perform an energy assessment for each federally-assisted building construction or major building modification project proposed at the airport. The building design, construction, and operation shall incorporate, to the extent consistent with good engineering practice, the most cost-effective energy conservation features identified in the energy assessment.
+
+## § 152.609
+
+### Energy conservation practices.
+
+Each sponsor shall require fuel and energy conservation practices in the operation and maintenance of the airport and shall encourage airport tenants to use these practices.
+

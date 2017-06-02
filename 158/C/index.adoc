@@ -1,0 +1,137 @@
+# Collection, Handling, and Remittance of PFC's
+:toc:
+
+## § 158.41
+
+### General.
+
+This subpart contains the requirements for notification, collection, handling and remittance of PFC's.
+
+## § 158.43
+
+### Public agency notification to collect PFC's.
+
+. Following approval of an application to impose a PFC under subpart B of this part, the public agency shall notify the air carriers and foreign air carriers required to collect PFC's at its airport of the Administrator's approval. Each notified carrier shall notify its agents, including other issuing carriers, of the collection requirement.
+. The notification shall be in writing and contain at a minimum the following information:
+.. The level of PFC to be imposed.
+.. The total revenue to be collected.
+.. The charge effective date will always be the first day of the month; however, it must be at least 30 days after the date the public agency notified the air carriers of the FAA's approval to impose the PFC.
+.. The proposed charge expiration date.
+.. A copy of the Administrator's notice of approval.
+.. The address where remittances and reports are to be filed by carriers.
+. The public agency must notify air carriers required to collect PFCs at its airport and the FAA of changes in the charge expiration date at least 30 days before the existing charge expiration date or new charge expiration date, whichever comes first. Each notified air carrier must notify its agents, including other issuing carriers, of such changes.
+. The public agency shall provide a copy of the notification to the appropriate FAA Airports office.
+
+## § 158.45
+
+### Collection of PFC's on tickets issued in the U.S.
+
+. On and after the charge effective date, tickets issued in the U.S. shall include the required PFC except as provided in paragraphs (c) and (d) of this section.
+.. Issuing carriers shall be responsible for all funds from time of collection to remittance.
+.. The appropriate charge is the PFC in effect at the time the ticket is issued.
+.. Issuing carriers and their agents shall collect PFCs based on the itinerary at the time of issuance.
+... Any change in itinerary initiated by a passenger that requires an adjustment to the amount paid by the passenger is subject to collection or refund of the PFC as appropriate.
+... Failure to travel on a nonrefundable or expired ticket is not a change in itinerary. If the ticket purchaser is not permitted any fare refund on the unused ticket, the ticket purchaser is not permitted a refund of any PFC associated with that ticket.
+. Issuing carriers and their agents shall note as a separate item on each air travel ticket upon which a PFC is shown, the total amount of PFC's paid by the passenger and the airports for which the PFC's are collected.
+. For each one-way trip shown on the complete itinerary of an air travel ticket, issuing air carriers and their agents shall collect a PFC from a passenger only for the first two airports where PFC's are imposed. For each round trip, a PFC shall be collected only for enplanements at the first two enplaning airports and the last two enplaning airports where PFC's are imposed.
+. In addition to the restriction in paragraph (c) of this section, issuing carriers and their agents shall not collect PFC's from a passenger covered by any of the other limitations described in § 158.9(a).
+. Collected PFC's shall be distributed as noted on the air travel ticket.
+. Issuing carriers and their agents shall stop collecting the PFC's on the charge expiration date stated in a notice from the public agency, or as required by the Administrator.
+
+## § 158.47
+
+### Collection of PFC's on tickets issued outside the U.S.
+
+. For tickets issued outside the U.S., an air carrier or foreign air carrier may follow the requirements of either § 158.45 or this section, unless the itinerary is for travel wholly within the U.S. Air carriers and foreign air carriers must comply with § 158.45 where the itinerary is for travel wholly within the U.S. regardless of where the ticket is issued.
+. Notwithstanding any other provisions of this part, no foreign airline is required to collect a PFC on air travel tickets issued on its own ticket stock unless it serves a point or points in the U.S.
+. If an air carrier or foreign air carrier elects not to comply with § 158.45 for tickets issued outside the U.S.—
+.. The carrier is required to collect PFC's on such tickets only for the public agency controlling the last airport at which the passenger is enplaned prior to departure from the U.S.
+.. The carrier may collect the PFC either at the time the ticket is issued or at the time the passenger is last enplaned prior to departure from the U.S. The carrier may vary the method of collection among its flights.
+.. The carrier shall provide a written record to the passenger that a PFC has been collected. Such a record shall appear on or with the air travel ticket and shall include the same information as required by § 158.45(b), but need not be preprinted on the ticket stock.
+.. Issuing carriers and their agents shall collect PFCs based on the itinerary at the time of issuance.
+... Any change in itinerary initiated by a passenger that requires an adjustment to the amount paid by the passenger is subject to collection or refund of the PFC as appropriate.
+... Failure to travel on a nonrefundable or expired ticket is not a change in itinerary. If the ticket purchaser is not permitted any fare refund on the unused ticket, the ticket purchaser is not permitted a refund of any PFC associated with that ticket.
+. With respect to a flight on which the air carrier or foreign air carrier chooses to collect the PFC at the time the air travel ticket is issued—
+.. The carrier and its agents shall collect the required PFC on tickets issued on or after the charge effective date.
+.. The carrier is not required to collect PFC's at the time of enplanement for tickets sold by other air carriers or foreign air carriers or their agents.
+. With respect to a flight on which the air carrier or foreign air carrier chooses to collect the PFC at the time of enplanement, the carrier shall examine the air travel ticket of each passenger enplaning at the airport on and after the charge effective date and shall collect the PFC from any passenger whose air travel ticket does not include a written record indicating that the PFC was collected at the time of issuance.
+. Collected PFC's shall be distributed as noted on the written record provided to the passenger.
+. Collecting carriers shall be responsible for all funds from time of collection to remittance.
+. Collecting carriers and their agents shall stop collecting the PFC on the charge expiration date stated in a notice from the public agency, or as required by the Administrator.
+
+## § 158.49
+
+### Handling of PFC's.
+
+. Collecting carriers shall establish and maintain a financial management system to account for PFC's in accordance with the Department of Transportation's Uniform System of Accounts and Reports (14 CFR part 241). For carriers not subject to 14 CFR part 241, such carriers shall establish and maintain an accounts payable system to handle PFC revenue with subaccounts for each public agency to which such carrier remits PFC revenue.
+. Collecting carriers must account for PFC revenue separately. PFC revenue may be commingled with the air carrier's other sources of revenue except for covered air carriers discussed in paragraph (c) of this section. PFC revenues held by an air carrier or an agent of the air carrier after collection are held in trust for the beneficial interest of the public agency imposing the PFC. Such air carrier or agent holds neither legal nor equitable interest in the PFC revenues except for any handling fee or interest collected on unremitted proceeds as authorized in § 158.53.
+. A covered air carrier must segregate PFC revenue in a designated separate PFC account. Regardless of the amount of PFC revenue in the covered air carrier's account at the time the bankruptcy petition is filed, the covered air carrier must deposit into the separate PFC account an amount equal to the average monthly liability for PFCs collected under this section by such air carrier or any of its agents.
+. All collecting air carriers must disclose the existence and amount of PFC funds regarded as trust funds in their financial statements.
+
+(i) The covered air carrier is required to create one PFC account to cover all PFC revenue it collects. The designated PFC account is solely for PFC transactions and the covered air carrier must make all PFC transactions from that PFC account. The covered air carrier is not required to create separate PFC accounts for each airport where a PFC is imposed.
+
+(ii) The covered air carrier must transfer PFCs from its general accounts into the separate PFC account in an amount equal to the average monthly liability for PFCs as the “PFC reserve.” The PFC reserve must equal a one-month average of the sum of the total PFCs collected by the covered air carrier, net of any credits or handling fees allowed by law, during the past 12-month period of PFC collections immediately before entering bankruptcy.
+
+(iii) The minimum PFC reserve balance must never fall below the fixed amount defined in paragraph (c)(1)(ii) of this section.
+
+(iv) A covered air carrier may continue to deposit the PFCs it collects into its general operating accounts combined with ticket sales revenue. However, at least once every business day, the covered air carrier must remove all PFC revenue (Daily PFC amount) from those accounts and transfer it to the new PFC account. An estimate based on 1/30 of the PFC reserve balance is permitted in substitution of the Daily PFC amount.
+
+(A) In the event a covered air carrier ceases operations while still owing PFC remittances, the PFC reserve fund may be used to make those remittances. If there is any balance in the PFC reserve fund after all PFC remittances are made, that balance will be returned to the covered air carrier's general account.
+
+(B) In the event a covered air carrier emerges from bankruptcy protection and ceases to be a covered air carrier, any balance remaining in the PFC reserve fund after any outstanding PFC obligations are met will be returned to the air carrier's general account.
+
+(v) If the covered air carrier uses an estimate rather than the daily PFC amount, the covered air carrier shall reconcile the estimated amount with the actual amount of PFCs collected for the prior month (Actual Monthly PFCs). This reconciliation must take place no later than the 20th day of the month (or the next business day if the date is not a business day). In the event the Actual Monthly PFCs are greater than the aggregate estimated PFC amount, the covered air carrier will, within one business day of the reconciliation, deposit the difference into the PFC account. If the Actual Monthly PFCs are less than the aggregate estimated PFC amount, the covered air carrier will be entitled to a credit in the amount of the difference to be applied to the daily PFC amount due.
+
+(vi) The covered air carrier is permitted to recalculate and reset the PFC reserve and daily PFC amount on each successive anniversary date of its bankruptcy petition using the methodology described above.
+
+(2) If a covered air carrier or its agent fails to segregate PFC revenue in violation of paragraph (c)(1) of this section, the trust fund status of such revenue shall not be defeated by an inability of any party to identify and trace the precise funds in the accounts of the air carrier.
+
+(3) A covered air carrier and its agents may not grant to any third party any security or other interest in PFC revenue.
+
+(4) A covered air carrier that fails to comply with any requirement of paragraph (c) of this section, or causes an eligible public agency to spend funds to recover or retain payment of PFC revenue, must compensate that public agency for those cost incurred to recover the PFCs owed.
+              
+
+(5) The provisions of paragraph (b) of this section that allow the commingling of PFCs with other air carrier revenue do not apply to a covered air carrier.
+
+## § 158.51
+
+### Remittance of PFC's.
+
+Passenger facility charges collected by carriers shall be remitted to the public agency on a monthly basis. PFC revenue recorded in the accounting system of the carrier, as set forth in § 158.49 of this part, shall be remitted to the public agency no later than the last day of the following calendar month (or if that date falls on a weekend or holiday, the first business day thereafter).
+
+## § 158.53
+
+### Collection compensation.
+
+. As compensation for collecting, handling, and remitting the PFC revenue, the collecting air carrier is entitled to:
+.. $0.11 of each PFC collected.
+.. Any interest or other investment return earned on PFC revenue between the time of collection and remittance to the public agency.
+. A covered air carrier that fails to designate a separate PFC account is prohibited from collecting interest on the PFC revenue. Where a covered air carrier maintains a separate PFC account in compliance with § 158.49(c), it will receive the interest on PFC accounts as described in paragraph (a)(2) of this section.
+. Collecting air carriers may provide collection cost data periodically to the FAA after the agency issues a notice in the *Federal Register* that specifies the information and deadline for filing the information. Submission of the information is voluntary. The requested information must include data on interest earned by the air carriers on PFC revenue and air carrier collection, handling, and remittance costs in the following categories:
+
+(i) Credit card fees;
+
+(ii) Audit fees;
+
+(iii) PFC disclosure fees;
+
+(iv) Reservations costs;
+
+(v) Passenger service costs;
+
+(vi) Revenue accounting, data entry, accounts payable, tax, and legal fees;
+
+(vii) Corporate property department costs;
+
+(viii) Training for reservations agents, ticket agents, and other departments;
+
+(ix) Ongoing carrier information systems costs;
+
+(x) Ongoing computer reservations systems costs; and
+
+(xi) Airline Reporting Corporation fees.
+
+(2) The FAA may determine a new compensation level based on an analysis of the data provided under paragraph (c)(1) of this section, if the data is submitted by carriers representing at least 75 percent of PFCs collected nationwide.
+
+(3) Any new compensation level determined by the FAA under paragraph (c)(2) of this section will replace the level identified in paragraph (a)(1) of this section.
+

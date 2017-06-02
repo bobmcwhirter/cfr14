@@ -1,0 +1,23 @@
+# General
+:toc:
+
+## § 137.1
+
+### Applicability.
+
+. This part prescribes rules governing—
+.. Agricultural aircraft operations within the United States; and
+.. The issue of commercial and private agricultural aircraft operator certificates for those operations.
+. In a public emergency, a person conducting agricultural aircraft operations under this part may, to the extent necessary, deviate from the operating rules of this part for relief and welfare activities approved by an agency of the United States or of a State or local government.
+. Each person who, under the authority of this section, deviates from a rule of this part shall, within 10 days after the deviation send to the nearest FAA Flight Standards District Office a complete report of the aircraft operation involved, including a description of the operation and the reasons for it.
+
+## § 137.3
+
+### Definition of terms.
+
+For the purposes of this part—
+
+*Agricultural aircraft operation* means the operation of an aircraft for the purpose of (1) dispensing any economic poison, (2) dispensing any other substance intended for plant nourishment, soil treatment, propagation of plant life, or pest control, or (3) engaging in dispensing activities directly affecting agriculture, horticulture, or forest preservation, but not including the dispensing of live insects.
+
+*Economic poison* means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any insects, rodents, nematodes, fungi, weeds, and other forms of plant or animal life or viruses, except viruses on or in living man or other animals, which the Secretary of Agriculture shall declare to be a pest, and (2) any substance or mixture of substances intended for use as a plant regulator, defoliant or desiccant.
+

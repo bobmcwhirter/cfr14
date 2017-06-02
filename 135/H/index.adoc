@@ -1,0 +1,410 @@
+# Training
+:toc:
+
+## § 135.321
+
+### Applicability and terms used.
+
+. Except as provided in § 135.3, this subpart prescribes the requirements applicable to—
+.. A certificate holder under this part which contracts with, or otherwise arranges to use the services of a training center certificated under part 142 to perform training, testing, and checking functions;
+.. Each certificate holder for establishing and maintaining an approved training program for crewmembers, check airmen and instructors, and other operations personnel employed or used by that certificate holder; and
+.. Each certificate holder for the qualification, approval, and use of aircraft simulators and flight training devices in the conduct of the program.
+. For the purposes of this subpart, the following terms and definitions apply:
+.. *Initial training.* The training required for crewmembers who have not qualified and served in the same capacity on an aircraft.
+.. *Transition training.* The training required for crewmembers who have qualified and served in the same capacity on another aircraft.
+.. *Upgrade training.* The training required for crewmembers who have qualified and served as second in command on a particular aircraft type, before they serve as pilot in command on that aircraft.
+.. *Differences training.* The training required for crewmembers who have qualified and served on a particular type aircraft, when the Administrator finds differences training is necessary before a crewmember serves in the same capacity on a particular variation of that aircraft.
+.. *Recurrent training.* The training required for crewmembers to remain adequately trained and currently proficient for each aircraft, crewmember position, and type of operation in which the crewmember serves.
+.. *In flight.* The maneuvers, procedures, or functions that must be conducted in the aircraft.
+.. *Training center.* An organization governed by the applicable requirements of part 142 of this chapter that conducts training, testing, and checking under contract or other arrangement to certificate holders subject to the requirements of this part.
+.. *Requalification training.* The training required for crewmembers previously trained and qualified, but who have become unqualified due to not having met within the required period the—
+... Recurrent pilot testing requirements of § 135.293;
+... Instrument proficiency check requirements of § 135.297; or
+... Line checks required by § 135.299.
+
+## § 135.323
+
+### Training program: General.
+
+. Each certificate holder required to have a training program under § 135.341 shall:
+.. Establish and implement a training program that satisfies the requirements of this subpart and that ensures that each crewmember, aircraft dispatcher, flight instructor and check airman is adequately trained to perform his or her assigned duties. Prior to implementation, the certificate holder must obtain initial and final FAA approval of the training program.
+.. Provide adequate ground and flight training facilities and properly qualified ground instructors for the training required by this subpart.
+              
+.. Provide and keep current for each aircraft type used and, if applicable, the particular variations within the aircraft type, appropriate training material, examinations, forms, instructions, and procedures for use in conducting the training and checks required by this subpart.
+.. Provide enough flight instructors, check airmen, and simulator instructors to conduct required flight training and flight checks, and simulator training courses allowed under this subpart.
+. Whenever a crewmember who is required to take recurrent training under this subpart completes the training in the calendar month before, or the calendar month after, the month in which that training is required, the crewmember is considered to have completed it in the calendar month in which it was required.
+. Each instructor, supervisor, or check airman who is responsible for a particular ground training subject, segment of flight training, course of training, flight check, or competence check under this part shall certify as to the proficiency and knowledge of the crewmember, flight instructor, or check airman concerned upon completion of that training or check. That certification shall be made a part of the crewmember's record. When the certification required by this paragraph is made by an entry in a computerized recordkeeping system, the certifying instructor, supervisor, or check airman, must be identified with that entry. However, the signature of the certifying instructor, supervisor, or check airman, is not required for computerized entries.
+. Training subjects that apply to more than one aircraft or crewmember position and that have been satisfactorily completed during previous training while employed by the certificate holder for another aircraft or another crewmember position, need not be repeated during subsequent training other than recurrent training.
+. Aircraft simulators and other training devices may be used in the certificate holder's training program if approved by the Administrator.
+
+## § 135.324
+
+### Training program: Special rules.
+
+. Other than the certificate holder, only another certificate holder certificated under this part or a training center certificated under part 142 of this chapter is eligible under this subpart to conduct training, testing, and checking under contract or other arrangement to those persons subject to the requirements of this subpart.
+. A certificate holder may contract with, or otherwise arrange to use the services of, a training center certificated under part 142 of this chapter to conduct training, testing, and checking required by this part only if the training center—
+.. Holds applicable training specifications issued under part 142 of this chapter;
+.. Has facilities, training equipment, and courseware meeting the applicable requirements of part 142 of this chapter;
+.. Has approved curriculums, curriculum segments, and portions of curriculum segments applicable for use in training courses required by this subpart; and
+.. Has sufficient instructor and check airmen qualified under the applicable requirements of §§ 135.337 through 135.340 to provide training, testing, and checking to persons subject to the requirements of this subpart.
+
+## § 135.325
+
+### Training program and revision: Initial and final approval.
+
+. To obtain initial and final approval of a training program, or a revision to an approved training program, each certificate holder must submit to the Administrator—
+.. An outline of the proposed or revised curriculum, that provides enough information for a preliminary evaluation of the proposed training program or revision; and
+.. Additional relevant information that may be requested by the Administrator.
+. If the proposed training program or revision complies with this subpart, the Administrator grants initial approval in writing after which the certificate holder may conduct the training under that program. The Administrator then evaluates the effectiveness of the training program and advises the certificate holder of deficiencies, if any, that must be corrected.
+. The Administrator grants final approval of the proposed training program or revision if the certificate holder shows that the training conducted under the initial approval in paragraph (b) of this section ensures that each person who successfully completes the training is adequately trained to perform that person's assigned duties.
+. Whenever the Administrator finds that revisions are necessary for the continued adequacy of a training program that has been granted final approval, the certificate holder shall, after notification by the Administrator, make any changes in the program that are found necessary by the Administrator. Within 30 days after the certificate holder receives the notice, it may file a petition to reconsider the notice with the Administrator. The filing of a petition to reconsider stays the notice pending a decision by the Administrator. However, if the Administrator finds that there is an emergency that requires immediate action in the interest of safety, the Administrator may, upon a statement of the reasons, require a change effective without stay.
+
+## § 135.327
+
+### Training program: Curriculum.
+
+. Each certificate holder must prepare and keep current a written training program curriculum for each type of aircraft for each crewmember required for that type aircraft. The curriculum must include ground and flight training required by this subpart.
+. Each training program curriculum must include the following:
+.. A list of principal ground training subjects, including emergency training subjects, that are provided.
+.. A list of all the training devices, mockups, systems trainers, procedures trainers, or other training aids that the certificate holder will use.
+.. Detailed descriptions or pictorial displays of the approved normal, abnormal, and emergency maneuvers, procedures and functions that will be performed during each flight training phase or flight check, indicating those maneuvers, procedures and functions that are to be performed during the inflight portions of flight training and flight checks.
+
+## § 135.329
+
+### Crewmember training requirements.
+
+. Each certificate holder must include in its training program the following initial and transition ground training as appropriate to the particular assignment of the crewmember:
+.. Basic indoctrination ground training for newly hired crewmembers including instruction in at least the—
+... Duties and responsibilities of crewmembers as applicable;
+... Appropriate provisions of this chapter;
+... Contents of the certificate holder's operating certificate and operations specifications (not required for flight attendants); and
+... Appropriate portions of the certificate holder's operating manual.
+.. The initial and transition ground training in §§ 135.345 and 135.349, as applicable.
+.. Emergency training in § 135.331.
+.. Crew resource management training in § 135.330.
+. Each training program must provide the initial and transition flight training in § 135.347, as applicable.
+. Each training program must provide recurrent ground and flight training in § 135.351.
+. Upgrade training in §§ 135.345 and 135.347 for a particular type aircraft may be included in the training program for crewmembers who have qualified and served as second in command on that aircraft.
+. In addition to initial, transition, upgrade and recurrent training, each training program must provide ground and flight training, instruction, and practice necessary to ensure that each crewmember—
+.. Remains adequately trained and currently proficient for each aircraft, crewmember position, and type of operation in which the crewmember serves; and
+              
+.. Qualifies in new equipment, facilities, procedures, and techniques, including modifications to aircraft.
+
+## § 135.330
+
+### Crew resource management training.
+
+. Each certificate holder must have an approved crew resource management training program that includes initial and recurrent training. The training program must include at least the following:
+.. Authority of the pilot in command;
+.. Communication processes, decisions, and coordination, to include communication with Air Traffic Control, personnel performing flight locating and other operational functions, and passengers;
+.. Building and maintenance of a flight team;
+.. Workload and time management;
+.. Situational awareness;
+.. Effects of fatigue on performance, avoidance strategies and countermeasures;
+.. Effects of stress and stress reduction strategies; and
+.. Aeronautical decision-making and judgment training tailored to the operator's flight operations and aviation environment.
+. After March 22, 2013, no certificate holder may use a person as a flightcrew member or flight attendant unless that person has completed approved crew resource management initial training with that certificate holder.
+. For flightcrew members and flight attendants, the Administrator, at his or her discretion, may credit crew resource management training completed with that certificate holder before March 22, 2013, toward all or part of the initial CRM training required by this section.
+. In granting credit for initial CRM training, the Administrator considers training aids, devices, methods and procedures used by the certificate holder in a voluntary CRM program included in a training program required by § 135.341, § 135.345, or § 135.349.
+
+## § 135.331
+
+### Crewmember emergency training.
+
+. Each training program must provide emergency training under this section for each aircraft type, model, and configuration, each crewmember, and each kind of operation conducted, as appropriate for each crewmember and the certificate holder.
+. Emergency training must provide the following:
+.. Instruction in emergency assignments and procedures, including coordination among crewmembers.
+.. Individual instruction in the location, function, and operation of emergency equipment including—
+... Equipment used in ditching and evacuation;
+... First aid equipment and its proper use; and
+... Portable fire extinguishers, with emphasis on the type of extinguisher to be used on different classes of fires.
+.. Instruction in the handling of emergency situations including—
+... Rapid decompression;
+... Fire in flight or on the surface and smoke control procedures with emphasis on electrical equipment and related circuit breakers found in cabin areas;
+... Ditching and evacuation;
+... Illness, injury, or other abnormal situations involving passengers or crewmembers; and
+... Hijacking and other unusual situations.
+.. Review of the certificate holder's previous aircraft accidents and incidents involving actual emergency situations.
+. Each crewmember must perform at least the following emergency drills, using the proper emergency equipment and procedures, unless the Administrator finds that, for a particular drill, the crewmember can be adequately trained by demonstration:
+.. Ditching, if applicable.
+.. Emergency evacuation.
+.. Fire extinguishing and smoke control.
+              
+.. Operation and use of emergency exits, including deployment and use of evacuation chutes, if applicable.
+.. Use of crew and passenger oxygen.
+.. Removal of life rafts from the aircraft, inflation of the life rafts, use of life lines, and boarding of passengers and crew, if applicable.
+.. Donning and inflation of life vests and the use of other individual flotation devices, if applicable.
+. Crewmembers who serve in operations above 25,000 feet must receive instruction in the following:
+.. Respiration.
+.. Hypoxia.
+.. Duration of consciousness without supplemental oxygen at altitude.
+.. Gas expansion.
+.. Gas bubble formation.
+.. Physical phenomena and incidents of decompression.
+
+## § 135.335
+
+### Approval of aircraft simulators and other training devices.
+
+. Training courses using aircraft simulators and other training devices may be included in the certificate holder's training program if approved by the Administrator.
+. Each aircraft simulator and other training device that is used in a training course or in checks required under this subpart must meet the following requirements:
+.. It must be specifically approved for—
+... The certificate holder; and
+... The particular maneuver, procedure, or crewmember function involved.
+.. It must maintain the performance, functional, and other character- istics that are required for approval.
+.. Additionally, for aircraft simulators, it must be—
+... Approved for the type aircraft and, if applicable, the particular variation within type for which the training or check is being conducted; and
+... Modified to conform with any modification to the aircraft being simulated that changes the performance, functional, or other characteristics required for approval.
+. A particular aircraft simulator or other training device may be used by more than one certificate holder.
+. In granting initial and final approval of training programs or revisions to them, the Administrator considers the training devices, methods and procedures listed in the certificate holder's curriculum under § 135.327.
+
+## § 135.336
+
+### Airline transport pilot certification training program.
+
+. A certificate holder may obtain approval to establish and implement a training program to satisfy the requirements of § 61.156 of this chapter. The training program must be separate from the air carrier training program required by this part.
+. No certificate holder may use a person nor may any person serve as an instructor in a training program approved to meet the requirements of § 61.156 of this chapter unless the instructor:
+.. Holds an airline transport pilot certificate with an airplane category multiengine class rating;
+.. Has at least 2 years of experience as a pilot in command in operations conducted under § 91.1053(a)(2)(i) of this chapter, § 135.243(a)(1) of this part, or as a pilot in command or second in command in any operation conducted under part 121 of this chapter;
+.. Except for the holder of a flight instructor certificate, receives initial training on the following topics:
+... The fundamental principles of the learning process;
+... Elements of effective teaching, instruction methods, and techniques;
+... Instructor duties, privileges, responsibilities, and limitations;
+... Training policies and procedures; and
+... Evaluation.
+.. If providing training in a flight simulation training device, holds an aircraft type rating for the aircraft represented by the flight simulation training device utilized in the training program and have received training and evaluation within the preceding 12 months from the certificate holder on:
+... Proper operation of flight simulator and flight training device controls and systems;
+              
+... Proper operation of environmental and fault panels;
+... Data and motion limitations of simulation;
+... Minimum equipment requirements for each curriculum; and
+... The maneuvers that will be demonstrated in the flight simulation training device.
+. A certificate holder may not issue a graduation certificate to a student unless that student has completed all the curriculum requirements of the course.
+. A certificate holder must conduct evaluations to ensure that training techniques, procedures, and standards are acceptable to the Administrator.
+
+## § 135.337
+
+### Qualifications: Check airmen (aircraft) and check airmen (simulator).
+
+. For the purposes of this section and § 135.339:
+.. A check airman (aircraft) is a person who is qualified to conduct flight checks in an aircraft, in a flight simulator, or in a flight training device for a particular type aircraft.
+.. A check airman (simulator) is a person who is qualified to conduct flight checks, but only in a flight simulator, in a flight training device, or both, for a particular type aircraft.
+.. Check airmen (aircraft) and check airmen (simulator) are those check airmen who perform the functions described in §§ 135.321 (a) and 135.323(a)(4) and (c).
+. No certificate holder may use a person, nor may any person serve as a check airman (aircraft) in a training program established under this subpart unless, with respect to the aircraft type involved, that person—
+.. Holds the airman certificates and ratings required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the training phases for the aircraft, including recurrent training, that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the proficiency or competency checks that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the applicable training requirements of § 135.339;
+.. Holds at least a Class III medical certificate unless serving as a required crewmember, in which case holds a Class I or Class II medical certificate as appropriate.
+.. Has satisfied the recency of experience requirements of § 135.247; and
+.. Has been approved by the Administrator for the check airman duties involved.
+. No certificate holder may use a person, nor may any person serve as a check airman (simulator) in a training program established under this subpart unless, with respect to the aircraft type involved, that person meets the provisions of paragraph (b) of this section, or—
+.. Holds the applicable airman certificates and ratings, except medical certificate, required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the appropriate training phases for the aircraft, including recurrent training, that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the appropriate proficiency or competency checks that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the applicable training requirements of § 135.339; and
+.. Has been approved by the Administrator for the check airman (simulator) duties involved.
+. Completion of the requirements in paragraphs (b) (2), (3), and (4) or (c) (2), (3), and (4) of this section, as applicable, shall be entered in the individual's training record maintained by the certificate holder.
+. Check airmen who do not hold an appropriate medical certificate may function as check airmen (simulator), but may not serve as flightcrew members in operations under this part.
+. A check airman (simulator) must accomplish the following—
+              
+.. Fly at least two flight segments as a required crewmember for the type, class, or category aircraft involved within the 12-month preceding the performance of any check airman duty in a flight simulator; or
+.. Satisfactorily complete an approved line-observation program within the period prescribed by that program and that must precede the performance of any check airman duty in a flight simulator.
+. The flight segments or line-observation program required in paragraph (f) of this section are considered to be completed in the month required if completed in the calendar month before or the calendar month after the month in which they are due.
+
+## § 135.338
+
+### Qualifications: Flight instructors (aircraft) and flight instructors (simulator).
+
+. For the purposes of this section and § 135.340:
+.. A flight instructor (aircraft) is a person who is qualified to instruct in an aircraft, in a flight simulator, or in a flight training device for a particular type, class, or category aircraft.
+.. A flight instructor (simulator) is a person who is qualified to instruct in a flight simulator, in a flight training device, or in both, for a particular type, class, or category aircraft.
+.. Flight instructors (aircraft) and flight instructors (simulator) are those instructors who perform the functions described in § 135.321(a) and 135.323 (a)(4) and (c).
+. No certificate holder may use a person, nor may any person serve as a flight instructor (aircraft) in a training program established under this subpart unless, with respect to the type, class, or category aircraft involved, that person—
+.. Holds the airman certificates and ratings required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the training phases for the aircraft, including recurrent training, that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the proficiency or competency checks that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the applicable training requirements of § 135.340;
+.. Holds at least a Class III medical certificate; and
+.. Has satisfied the recency of experience requirements of § 135.247.
+. No certificate holder may use a person, nor may any person serve as a flight instructor (simulator) in a training program established under this subpart, unless, with respect to the type, class, or category aircraft involved, that person meets the provisions of paragraph (b) of this section, or—
+.. Holds the airman certificates and ratings, except medical certificate, required to serve as a pilot in command in operations under this part except before March 19, 1997 that person need not hold a type rating for the type, class, or category of aircraft involved.
+.. Has satisfactorily completed the appropriate training phases for the aircraft, including recurrent training, that are required to serve as a pilot in command in operations under this part;
+.. Has satisfactorily completed the appropriate proficiency or competency checks that are required to serve as a pilot in command in operations under this part; and
+.. Has satisfactorily completed the applicable training requirements of § 135.340.
+. Completion of the requirements in paragraphs (b) (2), (3), and (4) or (c) (2), (3), and (4) of this section, as applicable, shall be entered in the individual's training record maintained by the certificate holder.
+. An airman who does not hold a medical certificate may function as a flight instructor in an aircraft if functioning as a non-required crewmember, but may not serve as a flightcrew member in operations under this part.
+. A flight instructor (simulator) must accomplish the following—
+.. Fly at least two flight segments as a required crewmember for the type, class, or category aircraft involved within the 12-month period preceding the performance of any flight instructor duty in a flight simulator; or
+              
+.. Satisfactorily complete an approved line-observation program within the period prescribed by that program preceding the performance of any flight instructor duty in a flight simulator.
+. The flight segments or line-observation program required in paragraph (f) of this section are considered completed in the month required if completed in the calendar month before, or in the calendar month after, the month in which they are due.
+
+## § 135.339
+
+### Initial and transition training and checking: Check airmen (aircraft), check airmen (simulator).
+
+. No certificate holder may use a person nor may any person serve as a check airman unless—
+.. That person has satisfactorily completed initial or transition check airman training; and
+.. Within the preceding 24 calendar months, that person satisfactorily conducts a proficiency or competency check under the observation of an FAA inspector or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an aircraft, in a flight simulator, or in a flight training device. This paragraph applies after March 19, 1997.
+. The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before or the calendar month after the month in which it is due.
+. The initial ground training for check airmen must include the following:
+.. Check airman duties, functions, and responsibilities.
+.. The applicable Code of Federal Regulations and the certificate holder's policies and procedures.
+.. The applicable methods, procedures, and techniques for conducting the required checks.
+.. Proper evaluation of student performance including the detection of—
+... Improper and insufficient training; and
+... Personal characteristics of an applicant that could adversely affect safety.
+.. The corrective action in the case of unsatisfactory checks.
+.. The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the aircraft.
+. The transition ground training for check airmen must include the approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the aircraft to which the check airman is in transition.
+. The initial and transition flight training for check airmen (aircraft) must include the following—
+.. The safety measures for emergency situations that are likely to develop during a check;
+.. The potential results of improper, untimely, or nonexecution of safety measures during a check;
+.. Training and practice in conducting flight checks from the left and right pilot seats in the required normal, abnormal, and emergency procedures to ensure competence to conduct the pilot flight checks required by this part; and
+.. The safety measures to be taken from either pilot seat for emergency situations that are likely to develop during checking.
+. The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
+. The initial and transition flight training for check airmen (simulator) must include the following:
+.. Training and practice in conducting flight checks in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight checks required by this part. This training and practice must be accomplished in a flight simulator or in a flight training device.
+.. Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight checks required by this part.
+
+## § 135.340
+
+### Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator).
+
+. No certificate holder may use a person nor may any person serve as a flight instructor unless—
+.. That person has satisfactorily completed initial or transition flight instructor training; and
+.. Within the preceding 24 calendar months, that person satisfactorily conducts instruction under the observation of an FAA inspector, an operator check airman, or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an aircraft, in a flight simulator, or in a flight training device. This paragraph applies after March 19, 1997.
+. The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before, or the calendar month after, the month in which it is due.
+. The initial ground training for flight instructors must include the following:
+.. Flight instructor duties, functions, and responsibilities.
+.. The applicable Code of Federal Regulations and the certificate holder's policies and procedures.
+.. The applicable methods, procedures, and techniques for conducting flight instruction.
+.. Proper evaluation of student performance including the detection of—
+... Improper and insufficient training; and
+... Personal characteristics of an applicant that could adversely affect safety.
+.. The corrective action in the case of unsatisfactory training progress.
+.. The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the aircraft.
+.. Except for holders of a flight instructor certificate—
+... The fundamental principles of the teaching-learning process;
+... Teaching methods and procedures; and
+... The instructor-student relationship.
+. The transition ground training for flight instructors must include the approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the type, class, or category aircraft to which the flight instructor is in transition.
+. The initial and transition flight training for flight instructors (aircraft) must include the following—
+.. The safety measures for emergency situations that are likely to develop during instruction;
+.. The potential results of improper or untimely safety measures during instruction;
+.. Training and practice from the left and right pilot seats in the required normal, abnormal, and emergency maneuvers to ensure competence to conduct the flight instruction required by this part; and
+.. The safety measures to be taken from either the left or right pilot seat for emergency situations that are likely to develop during instruction.
+. The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
+. The initial and transition flight training for a flight instructor (simulator) must include the following:
+.. Training and practice in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight instruction required by this part. These maneuvers and procedures must be accomplished in full or in part in a flight simulator or in a flight training device.
+.. Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight instruction required by this part.
+
+## § 135.341
+
+### Pilot and flight attendant crewmember training programs.
+
+. Each certificate holder, other than one who uses only one pilot in the certificate holder's operations, shall establish and maintain an approved pilot training program, and each certificate holder who uses a flight attendant crewmember shall establish and maintain an approved flight attendant training program, that is appropriate to the operations to which each pilot and flight attendant is to be assigned, and will ensure that they are adequately trained to meet the applicable knowledge and practical testing requirements of §§ 135.293 through 135.301. However, the Administrator may authorize a deviation from this section if the Administrator finds that, because of the limited size and scope of the operation, safety will allow a deviation from these requirements. This deviation authority does not extend to the training provided under § 135.336.
+. Each certificate holder required to have a training program by paragraph (a) of this section shall include in that program ground and flight training curriculums for—
+.. Initial training;
+.. Transition training;
+.. Upgrade training;
+.. Differences training; and
+.. Recurrent training.
+. Each certificate holder required to have a training program by paragraph (a) of this section shall provide current and appropriate study materials for use by each required pilot and flight attendant.
+. The certificate holder shall furnish copies of the pilot and flight attendant crewmember training program, and all changes and additions, to the assigned representative of the Administrator. If the certificate holder uses training facilities of other persons, a copy of those training programs or appropriate portions used for those facilities shall also be furnished. Curricula that follow FAA published curricula may be cited by reference in the copy of the training program furnished to the representative of the Administrator and need not be furnished with the program.
+
+## § 135.343
+
+### Crewmember initial and recurrent training requirements.
+
+No certificate holder may use a person, nor may any person serve, as a crewmember in operations under this part unless that crewmember has completed the appropriate initial or recurrent training phase of the training program appropriate to the type of operation in which the crewmember is to serve since the beginning of the 12th calendar month before that service. This section does not apply to a certificate holder that uses only one pilot in the certificate holder's operations.
+
+## § 135.345
+
+### Pilots: Initial, transition, and upgrade ground training.
+
+Initial, transition, and upgrade ground training for pilots must include instruction in at least the following, as applicable to their duties:
+
+. General subjects—
+.. The certificate holder's flight locating procedures;
+.. Principles and methods for determining weight and balance, and runway limitations for takeoff and landing;
+.. Enough meteorology to ensure a practical knowledge of weather phenomena, including the principles of frontal systems, icing, fog, thunderstorms, windshear and, if appropriate, high altitude weather situations;
+.. Air traffic control systems, procedures, and phraseology;
+.. Navigation and the use of navigational aids, including instrument approach procedures;
+.. Normal and emergency communication procedures;
+.. Visual cues before and during descent below DA/DH or MDA;
+.. ETOPS, if applicable;
+.. After August 13, 2008, passenger recovery plan for any passenger-carrying operation (other than intrastate operations wholly within the state of Alaska) in the North Polar area; and
+.. Other instructions necessary to ensure the pilot's competence.
+. For each aircraft type—
+.. A general description;
+.. Performance characteristics;
+.. Engines and propellers;
+              
+.. Major components;
+.. Major aircraft systems (i.e., flight controls, electrical, and hydraulic), other systems, as appropriate, principles of normal, abnormal, and emergency operations, appropriate procedures and limitations;
+.. Knowledge and procedures for—
+... Recognizing and avoiding severe weather situations;
+... Escaping from severe weather situations, in case of inadvertent encounters, including low-altitude windshear (except that rotorcraft pilots are not required to be trained in escaping from low-altitude windshear);
+... Operating in or near thunderstorms (including best penetrating altitudes), turbulent air (including clear air turbulence), icing, hail, and other potentially hazardous meteorological conditions; and
+... Operating airplanes during ground icing conditions, (i.e., any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane), if the certificate holder expects to authorize takeoffs in ground icing conditions, including:
+.. Operating limitations;
+.. Fuel consumption and cruise control;
+.. Flight planning;
+.. Each normal and emergency procedure; and
+.. The approved Aircraft Flight Manual, or equivalent.
+
+(A) The use of holdover times when using deicing/anti-icing fluids;
+
+(B) Airplane deicing/anti-icing procedures, including inspection and check procedures and responsibilities;
+
+(C) Communications;
+
+(D) Airplane surface contamination (i.e., adherence of frost, ice, or snow) and critical area identification, and knowledge of how contamination adversely affects airplane performance and flight characteristics;
+
+(E) Types and characteristics of deicing/anti-icing fluids, if used by the certificate holder;
+
+(F) Cold weather preflight inspection procedures;
+
+(G) Techniques for recognizing contamination on the airplane;
+
+## § 135.347
+
+### Pilots: Initial, transition, upgrade, and differences flight training.
+
+. Initial, transition, upgrade, and differences training for pilots must include flight and practice in each of the maneuvers and procedures in the approved training program curriculum.
+. The maneuvers and procedures required by paragraph (a) of this section must be performed in flight, except to the extent that certain maneuvers and procedures may be performed in an aircraft simulator, or an appropriate training device, as allowed by this subpart.
+. If the certificate holder's approved training program includes a course of training using an aircraft simulator or other training device, each pilot must successfully complete—
+.. Training and practice in the simulator or training device in at least the maneuvers and procedures in this subpart that are capable of being performed in the aircraft simulator or training device; and
+.. A flight check in the aircraft or a check in the simulator or training device to the level of proficiency of a pilot in command or second in command, as applicable, in at least the maneuvers and procedures that are capable of being performed in an aircraft simulator or training device.
+
+## § 135.349
+
+### Flight attendants: Initial and transition ground training.
+
+Initial and transition ground training for flight attendants must include instruction in at least the following—
+
+. General subjects—
+.. The authority of the pilot in command; and
+.. Passenger handling, including procedures to be followed in handling deranged persons or other persons whose conduct might jeopardize safety.
+. For each aircraft type—
+              
+.. A general description of the aircraft emphasizing physical characteristics that may have a bearing on ditching, evacuation, and inflight emergency procedures and on other related duties;
+.. The use of both the public address system and the means of communicating with other flight crewmembers, including emergency means in the case of attempted hijacking or other unusual situations; and
+.. Proper use of electrical galley equipment and the controls for cabin heat and ventilation.
+
+## § 135.351
+
+### Recurrent training.
+
+. Each certificate holder must ensure that each crewmember receives recurrent training and is adequately trained and currently proficient for the type aircraft and crewmember position involved.
+. Recurrent ground training for crewmembers must include at least the following:
+.. A quiz or other review to determine the crewmember's knowledge of the aircraft and crewmember position involved.
+.. Instruction as necessary in the subjects required for initial ground training by this subpart, as appropriate, including low-altitude windshear training and training on operating during ground icing conditions as prescribed in § 135.341 and described in § 135.345, crew resource management training as prescribed in § 135.330, and emergency training as prescribed in § 135.331.
+. Recurrent flight training for pilots must include, at least, flight training in the maneuvers or procedures in this subpart, except that satisfactory completion of the check required by § 135.293 within the preceding 12 calendar months may be substituted for recurrent flight training.
+
+## § 135.353
+
+### Reserved
+

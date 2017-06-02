@@ -1,0 +1,123 @@
+# National Parks Air Tour Management
+:toc:
+
+## § 136.31
+
+### Applicability.
+
+. This part restates and paraphrases several sections of the National Parks Air Tour Management Act of 2000, including section 803 (codified at 49 U.S.C. 40128) and sections 806 and 809. This subpart clarifies the requirements for the development of an air tour management plan for each park in the national park system where commercial air tour operations are flown.
+. Except as provided in paragraph (c) of this section, this subpart applies to each commercial air tour operator who conducts a commercial air tour operation over—
+.. A unit of the national park system;
+.. Tribal lands as defined in this subpart; or
+.. Any area within one-half mile outside the boundary of any unit of the national park system.
+. This subpart does not apply to a commercial air tour operator conducting a commercial air tour operation—
+.. Over the Grand Canyon National Park;
+.. Over that portion of tribal lands within or abutting the Grand Canyon National Park;
+.. Over any land or waters located in the State of Alaska; or
+.. While flying over or near the Lake Mead Recreation Area, solely as a transportation route, to conduct a commercial air tour over the Grand Canyon National Park.
+
+## § 136.33
+
+### Definitions.
+
+For purposes of this subpart—
+
+. *Commercial air tour operator* means any person who conducts a commercial air tour operation.
+              
+. *Existing commercial air tour operator* means a commercial air tour operator that was actively engaged in the business of providing commercial air tour operations over a national park at any time during the 12-month period ending on April 5, 2000.
+. *New entrant commercial air tour operator* means a commercial air tour operator that—
+.. Applies for operating authority as a commercial air tour operator for a national park or tribal lands; and
+.. Has not engaged in the business of providing commercial air tour operations over the national park or tribal lands for the 12-month period preceding enactment.
+. *Commercial air tour operation*—
+.. Means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within 1/2 mile outside the boundary of any national park, or over tribal lands, during which the aircraft flies—
+... Below 5,000 feet above ground level (except for the purpose of takeoff or landing, or as necessary for the safe operation of an aircraft as determined under the rules and regulations of the Federal Aviation Administration requiring the pilot-in-command to take action to ensure the safe operation of the aircraft);
+... Less than 1 mile laterally from any geographic feature within the park (unless more than 1/2 mile outside the boundary); or
+... Except as provided in § 136.35.
+.. The Administrator may consider the following factors in determining whether a flight is a commercial air tour operation for purposes of this subpart—
+... Whether there was a holding out to the public of willingness to conduct a sightseeing flight for compensation or hire;
+... Whether a narrative that referred to areas or points of interest on the surface below the route of the flight was provided by the person offering the flight;
+... The area of operation;
+... The frequency of flights conducted by the person offering the flight;
+... The route of flight;
+... The inclusion of sightseeing flights as part of any travel arrangement package offered by the person offering the flight;
+... Whether the flight would have been canceled based on poor visibility of the surface below the route of the flight; and
+... Any other factors that the Administrator and Director consider appropriate.
+.. For purposes of § 136.35, means any flight conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park.
+. *National park* means any unit of the national park system. (See title 16 of the U.S. Code, section 1, *et seq.*)
+. *Tribal lands* means that portion of Indian country (as that term is defined in section 1151 of title 18 of the U.S. Code) that is within or abutting a national park.
+. *Administrator* means the Administrator of the Federal Aviation Administration.
+. *Director* means the Director of the National Park Service.
+. *Superintendent* means the duly appointed representative of the National Park Service for a particular unit of the national park system.
+
+## § 136.35
+
+### Prohibition of commercial air tour operations over the Rocky Mountain National Park.
+
+All commercial air tour operations in the airspace over the Rocky Mountain National Park are prohibited regardless of altitude.
+
+## § 136.37
+
+### Overflights of national parks and tribal lands.
+
+. *General.* A commercial air tour operator may not conduct commercial air tour operations over a national park or tribal land except—
+.. In accordance with this section;
+.. In accordance with conditions and limitations prescribed for that operator by the Administrator; and
+              
+.. In accordance with any applicable air tour management plan for the park or tribal lands.
+. *Application for operating authority.* Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
+. *Number of operations authorized.* In determining the number of authorizations to issue to provide commercial air tour operations over a national park, the Administrator, in cooperation with the Director, shall take into consideration the provisions of the air tour management plan, the number of existing commercial air tour operators and current level of service and equipment provided by any such operators, and the financial viability of each commercial air tour operation.
+. *Cooperation with National Park Service.* Before granting an application under this subpart, the Administrator, in cooperation with the Director, shall develop an air tour management plan in accordance with § 136.39 and implement such a plan.
+. *Time limit on response to applications.* Every effort will be made to act on any application under this subpart and issue a decision on the application not later than 24 months after it is received or amended.
+. *Priority.* In acting on applications under this paragraph to provide commercial air tour operations over a national park, the Administrator shall give priority to an application under this paragraph in any case where a new entrant commercial air tour operator is seeking operating authority with respect to that national park.
+. *Exception.* Notwithstanding this section, commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of this chapter if—
+.. Such activity is permitted under part 119 of this chapter;
+.. The operator secures a letter of agreement from the Administrator and the Superintendent for that park describing the conditions under which the operations will be conducted; and
+.. The number of operations under this exception is limited to not more than a total of 5 flights by all operators in any 30-day period over a particular park.
+. *Special rule for safety requirement.* Notwithstanding § 136.41, an existing commercial air tour operator shall apply, not later than January 23, 2003 for operating authority under part 119 of this chapter, for certification under part 121 or part 135 of this chapter. A new entrant commercial air tour operator shall apply for such authority before conducting commercial air tour operations over a national park or tribal lands that are within or abut a national park. The Administrator shall make every effort to act on such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
+
+## § 136.39
+
+### Air tour management plans (ATMP).
+
+. *Establishment.* The Administrator, in cooperation with the Director, shall establish an air tour management plan for any national park or tribal land for which such a plan is not in effect whenever a person applies for authority to conduct a commercial air tour operation over the park. The air tour management plan shall be developed by means of a public process in accordance with paragraph (d) of this section. The objective of any air tour management plan is to develop acceptable and effective measures to mitigate or prevent the significant adverse impacts, if any, of commercial air tour operations upon the natural and cultural resources, visitor experiences, and tribal lands.
+. *Environmental determination.* In establishing an air tour management plan under this section, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
+. *Contents.* An air tour management plan for a park—
+.. May prohibit commercial air tour operations in whole or in part;
+.. May establish conditions for the conduct of commercial air tour operations, including, but not limited to, commercial air tour routes, maximum number of flights per unit of time, maximum and minimum altitudes, time of day restrictions, restrictions for particular events, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
+.. Shall apply to all commercial air tour operations within 1/2 mile outside the boundary of a national park;
+.. Shall include incentives (such as preferred commercial air tour routes and altitudes, and relief from caps and curfews) for the adoption of quiet technology aircraft by commercial air tour operators conducting commercial air tour operations at the park;
+.. Shall provide for the initial allocation of opportunities to conduct commercial air tour operations if the plan includes a limitation on the number of commercial air tour operations for any time period; and
+.. Shall justify and document the need for measures taken pursuant to paragraphs (c)(1) through (c)(5) of this section and include such justification in the record of decision.
+. *Procedure.* In establishing an ATMP for a national park or tribal lands, the Administrator and Director shall—
+.. Hold at least one public meeting with interested parties to develop the air tour management plan;
+.. Publish the proposed plan in the *Federal Register* for notice and comment and make copies of the proposed plan available to the public;
+.. Comply with the regulations set forth in 40 CFR 1501.3 and 1501.5 through 1501.8 (for the purposes of complying with 40 CFR 1501.3 and 1501.5 through 1501.8, the Federal Aviation Administration is the lead agency and the National Park Service is a cooperating agency); and
+.. Solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in paragraph (d)(3) of this section.
+. *Amendments.* The Administrator, in cooperation with the Director, may make amendments to an air tour management plan. Any such amendments will be published in the *Federal Register* for notice and comment. A request for amendment of an ATMP will be made in accordance with § 11.25 of this chapter as a petition for rulemaking.
+
+## § 136.41
+
+### Interim operating authority.
+
+. *General.* Upon application for operating authority, the Administrator shall grant interim operating authority under this section to a commercial air tour operator for commercial air tour operations over a national park or tribal land for which the operator is an existing commercial air tour operator.
+. *Requirements and limitations.* Interim operating authority granted under this section—
+.. Shall provide annual authorization only for the greater of—
+... The number of flights used by the operator to provide the commercial air tour operations within the 12-month period prior to April 5, 2000; or
+... The average number of flights per 12-month period used by the operator to provide such operations within the 36-month period prior to April 5, 2000, and for seasonal operations, the number of flights so used during the season or seasons covered by that 12-month period;
+.. May not provide for an increase in the number of commercial air tour operations conducted during any time period by the commercial air tour operator above the number the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
+.. Shall be published in the *Federal Register* to provide notice and opportunity for comment;
+.. May be revoked by the Administrator for cause;
+              
+.. Shall terminate 180 days after the date on which an air tour management plan is established for the park and tribal lands;
+.. Shall promote protection of national park resources, visitor experiences, and tribal lands;
+.. Shall promote safe commercial air tour operations;
+.. Shall promote the adoption of quiet technology, as appropriate, and
+.. Shall allow for modifications of the interim operating authority based on experience if the modification improves protection of national park resources and values and of tribal lands.
+. *New entrant operators.* The Administrator, in cooperation with the Director, may grant interim operating authority under this paragraph (c) to an air tour operator for a national park or tribal lands for which that operator is a new entrant air tour operator if the Administrator determines the authority is necessary to ensure competition in the provision of commercial air tour operations over the park or tribal lands.
+.. *Limitation.* The Administrator may not grant interim operating authority under this paragraph (c) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or if the Director determines that it would create a noise problem at the park or on the tribal lands.
+.. *ATMP limitation.* The Administrator may grant interim operating authority under this paragraph (c) only if the ATMP for the park or tribal lands to which the application relates has not been developed within 24 months after April 5, 2000.
+
+## §§ 136.43-136.49
+
+### Reserved
+

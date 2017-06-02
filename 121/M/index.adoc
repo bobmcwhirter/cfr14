@@ -1,0 +1,154 @@
+# Airman and Crewmember Requirements
+:toc:
+
+## § 121.381
+
+### Applicability.
+
+This subpart prescribes airman and crewmember requirements for all certificate holders.
+
+## § 121.383
+
+### Airman: Limitations on use of services.
+
+. No certificate holder may use any person as an airman nor may any person serve as an airman unless that person—
+.. Holds an appropriate current airman certificate issued by the FAA;
+.. Has any required appropriate current airman and medical certificates in his possession while engaged in operations under this part; and
+.. Is otherwise qualified for the operation for which he is to be used.
+. Each airman covered by paragraph (a)(2) of this section shall present either or both certificates for inspection upon the request of the Administrator.
+. [Reserved]
+. No certificate holder may use the services of any person as a pilot on an airplane engaged in operations under this part if that person has reached his or her 65th birthday.
+. No pilot may serve as a pilot in operations under this part if that person has reached his or her 65th birthday.
+
+## § 121.385
+
+### Composition of flight crew.
+
+. No certificate holder may operate an airplane with less than the minimum flight crew in the airworthiness certificate or the airplane Flight Manual approved for that type airplane and required by this part for the kind of operation being conducted.
+. In any case in which this part requires the performance of two or more functions for which an airman certificate is necessary, that requirement is not satisfied by the performance of multiple functions at the same time by one airman.
+. The minimum pilot crew is two pilots and the certificate holder shall designate one pilot as pilot in command and the other second in command.
+. On each flight requiring a flight engineer at least one flight crewmember, other than the flight engineer, must be qualified to provide emergency performance of the flight engineer's functions for the safe completion of the flight if the flight engineer becomes ill or is otherwise incapacitated. A pilot need not hold a flight engineer's certificate to perform the flight engineer's functions in such a situation.
+
+## § 121.387
+
+### Flight engineer.
+
+No certificate holder may operate an airplane for which a type certificate was issued before January 2, 1964, having a maximum certificated takeoff weight of more than 80,000 pounds without a flight crewmember holding a current flight engineer certificate. For each airplane type certificated after January 1, 1964, the requirement for a flight engineer is determined under the type certification requirements of § 25.1523.
+
+## § 121.389
+
+### Flight navigator and specialized navigation equipment.
+
+. No certificate holder may operate an airplane outside the 48 contiguous States and the District of Columbia, when its position cannot be reliably fixed for a period of more than 1 hour, without—
+.. A flight crewmember who holds a current flight navigator certificate; or
+.. Specialized means of navigation approved in accordance with § 121.355 which enables a reliable determination to be made of the position of the airplane by each pilot seated at his duty station.
+. Notwithstanding paragraph (a) of this section, the Administrator may also require a flight navigator or special navigation equipment, or both, when specialized means of navigation are necessary for 1 hour or less. In making this determination, the Administrator considers—
+.. The speed of the airplane;
+.. Normal weather conditions en route;
+.. Extent of air traffic control;
+.. Traffic congestion;
+.. Area of navigational radio coverage at destination;
+.. Fuel requirements;
+.. Fuel available for return to point of departure or alternates;
+.. Predication of flight upon operation beyond the point of no return; and
+.. Any other factors he determines are relevant in the interest of safety.
+. Operations where a flight navigator or special navigation equipment, or both, are required are specified in the operations specifications of the air carrier or commercial operator.
+
+## § 121.391
+
+### Flight attendants.
+
+. Except as specified in § 121.393 and § 121.394, each certificate holder must provide at least the following flight attendants on board each passenger-carrying airplane when passengers are on board:
+.. For airplanes having a maximum payload capacity of more than 7,500 pounds and having a seating capacity of more than 9 but less than 51 passengers—one flight attendant.
+.. For airplanes having a maximum payload capacity of 7,500 pounds or less and having a seating capacity of more than 19 but less than 51 passengers—one flight attendant.
+.. For airplanes having a seating capacity of more than 50 but less than 101 passengers—two flight attendants.
+.. For airplanes having a seating capacity of more than 100 passengers—two flight attendants plus one additional flight attendant for each unit (or part of a unit) of 50 passenger seats above a seating capacity of 100 passengers.
+. If, in conducting the emergency evacuation demonstration required under § 121.291 (a) or (b), the certificate holder used more flight attendants than is required under paragraph (a) of this section for the maximum seating capacity of the airplane used in the demonstration, he may not, thereafter, take off that airplane—
+.. In its maximum seating capacity configuration with fewer flight attendants than the number used during the emergency evacuation demonstration; or
+.. In any reduced seating capacity configuration with fewer flight attendants than the number required by paragraph (a) of this section for that seating capacity plus the number of flight attendants used during the emergency evacuation demonstration that were in excess of those required under paragraph (a) of this section.
+. The number of flight attendants approved under paragraphs (a) and (b) of this section are set forth in the certificate holder's operations specifications.
+. During takeoff and landing, flight attendants required by this section shall be located as near as practicable to required floor level exists and shall be uniformly distributed throughout the airplane in order to provide the most effective egress of passengers in event of an emergency evacuation. During taxi, flight attendants required by this section must remain at their duty stations with safety belts and shoulder harnesses fastened except to perform duties related to the safety of the airplane and its occupants.
+
+## § 121.392
+
+### Personnel identified as flight attendants.
+
+. Any person identified by the certificate holder as a flight attendant on an aircraft in operations under this part must be trained and qualified in accordance with subparts N and O of this part. This includes:
+.. Flight attendants provided by the certificate holder in excess of the number required by § 121.391(a); and
+.. Flight attendants provided by the certificate holder when flight attendants are not required by § 121.391(a).
+. A qualifying flight attendant who is receiving operating experience on an aircraft in operations under subpart O of this part must be identified to passengers as a qualifying flight attendant.
+
+## § 121.393
+
+### Crewmember requirements at stops where passengers remain on board.
+
+At stops where passengers remain on board, the certificate holder must meet the following requirements:
+
+. On each airplane for which a flight attendant is not required by § 121.391(a), the certificate holder must ensure that a person who is qualified in the emergency evacuation procedures for the airplane, as required in § 121.417, and who is identified to the passengers, remains:
+.. On board the airplane; or
+.. Nearby the airplane, in a position to adequately monitor passenger safety, and:
+... The airplane engines are shut down; and
+... At least one floor level exit remains open to provide for the deplaning of passengers.
+. On each airplane for which flight attendants are required by § 121.391(a), but the number of flight attendants remaining on board is fewer than required by § 121.391(a), the certificate holder must meet the following requirements:
+.. The certificate holder shall ensure that:
+... The airplane engines are shut down;
+... At least one floor level exit remains open to provide for the deplaning of passengers; and
+... the number of flight attendants on board is at least half the number required by § 121.391(a), rounded down to the next lower number in the case of fractions, but never fewer than one.
+.. The certificate holder may substitute for the required flight attendants other persons qualified in the emergency evacuation procedures for that aircraft as required in § 121.417, if these persons are identified to the passengers.
+.. If only one flight attendant or other qualified person is on board during a stop, that flight attendant or other qualified person shall be located in accordance with the certificate holder's FAA-approved operating procedures. If more than one flight attendant or other qualified person is on board, the flight attendants or other qualified persons shall be spaced throughout the cabin to provide the most effective assistance for the evacuation in case of an emergency.
+
+## § 121.394
+
+### Flight attendant requirements during passenger boarding and deplaning.
+
+. During passenger boarding, on each airplane for which more than one flight attendant is required by § 121.391, the certificate holder may:
+.. Reduce the number of required flight attendants by one, provided that:
+... The flight attendant that leaves the aircraft remains within the immediate vicinity of the door through which passengers are boarding;
+... The flight attendant that leaves the aircraft only conducts safety duties related to the flight being boarded;
+... The airplane engines are shut down; and
+... At least one floor level exit remains open to provide for passenger egress; or
+.. Substitute a pilot or flight engineer employed by the certificate holder and trained and qualified on that type airplane for one flight attendant, provided the certificate holder—
+... Describes in the manual required by § 121.133:
+... Ensures that the following requirements are met:
+. During passenger deplaning, on each airplane for which more than one flight attendant is required by § 121.391, the certificate holder may reduce the number of flight attendants required by that paragraph provided:
+.. The airplane engines are shut down;
+.. At least one floor level exit remains open to provide for passenger egress; and
+.. The number of flight attendants on board is at least half the number required by § 121.391, rounded down to the next lower number in the case of fractions, but never fewer than one.
+. If only one flight attendant is on the airplane during passenger boarding or deplaning, that flight attendant must be located in accordance with the certificate holder's FAA-approved operating procedures. If more than one flight attendant is on the airplane during passenger boarding or deplaning, the flight attendants must be evenly distributed throughout the airplane cabin, in the vicinity of the floor-level exits, to provide the most effective assistance in the event of an emergency.
+. The time spent by any crewmember conducting passenger boarding or deplaning duties is considered duty time.
+
+(A) The necessary functions to be performed by the substitute pilot or flight engineer in an emergency, to include a situation requiring an emergency evacuation. The certificate holder must show those functions are realistic, can be practically accomplished, and will meet any reasonably anticipated emergency; and
+
+(B) How other regulatory functions performed by a flight attendant will be accomplished by the substitute pilot or flight engineer on the airplane.
+
+(A) The substitute pilot or flight engineer is not assigned to operate the flight for which that person is substituting for a required flight attendant.
+
+(B) The substitute pilot or flight engineer is trained in all assigned flight attendant duties regarding passenger handling.
+
+(C) The substitute pilot or flight engineer meets the emergency training requirements for flight attendants in evacuation management and evacuation commands, as appropriate, and frequency of performance drills regarding operation of exits in the normal and emergency modes on that type aircraft.
+
+(D) The substitute pilot or flight engineer is in possession of all items required for duty.
+
+(E) The substitute pilot or flight engineer is located in the passenger cabin.
+
+(F) The substitute pilot or flight engineer is identified to the passengers.
+
+(G) The substitution of a pilot or flight engineer for a required flight attendant does not interfere with the safe operation of the flight.
+
+(H) The airplane engines are shut down.
+
+(I) At least one floor-level exit remains open to provide for passenger egress.
+
+## § 121.395
+
+### Aircraft dispatcher: Domestic and flag operations.
+
+Each certificate holder conducting domestic or flag operations shall provide enough qualified aircraft dispatchers at each dispatch center to ensure proper operational control of each flight.
+
+## § 121.397
+
+### Emergency and emergency evacuation duties.
+
+. Each certificate holder shall, for each type and model of airplane, assigned to each category of required crewmember, as appropriate, the necessary functions to be performed in an emergency or a situation requiring emergency evacuation. The certificate holder shall show those functions are realistic, can be practically accomplished, and will meet any reasonably anticipated emergency including the possible incapacitation of individual crewmembers or their inability to reach the passenger cabin because of shifting cargo in combination cargo-passenger airplanes.
+. The certificate holder shall describe in its manual the functions of each category of required crewmembers under paragraph (a) of this section.
+

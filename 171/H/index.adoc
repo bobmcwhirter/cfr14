@@ -1,0 +1,95 @@
+# VHF Marker Beacons
+:toc:
+
+## § 171.201
+
+### Scope.
+
+. This subpart sets forth minimum requirements for the approval and operation of non-Federal VHF marker beacon facilities that are to be involved in the approval of instrument flight rules and air traffic control procedures related to those facilities.
+. [Reserved]
+
+## § 171.203
+
+### Requests for IFR procedure.
+
+. Each person who requests an IFR procedure which will incorporate the use of a VHF marker beacon facility that he owns must submit the following information with that request:
+.. A description of the facility and evidence that the equipment meets the performance requirements of § 171.207 and is installed in accordance with § 171.209.
+.. A proposed procedure for operating the facility.
+.. A proposed maintenance organization and a maintenance manual that meets the requirements of § 171.211.
+.. A statement of intent to meet the requirement of this subpart.
+.. A showing that the facility has an acceptable level of operational reliability, and an acceptable standard of performance. Previous equivalent operational experience may be shown to comply with this subparagraph.
+. After the Federal Aviation Administration inspects and evaluates the facility, it advises the owner of the results and of any required changes in the facility or the maintenance manual or maintenance organization. The owner shall then correct the deficiencies, if any, and operate the facility for an in-service evaluation by the Federal Aviation Administration.
+
+## § 171.205
+
+### Minimum requirements for approval.
+
+. The following are the minimum requirements that must be met before the Federal Aviation Administration will approve an IFR procedure which incorporates the use of a non-Federal VHF marker beacon facility under this subpart:
+              
+.. The facility's performances, as determined by air and ground inspection, must meet the requirements of § 171.207.
+.. The installation of the equipment must meet the requirements of § 171.209.
+.. The owner must agree to operate and maintain the facility in accordance with § 171.211.
+.. The owner must agree to furnish periodic reports, as set forth in § 171.213, and agree to allow the Federal Aviation Administration to inspect the facility and its operation whenever necessary.
+.. The owner must assure the Federal Aviation Administration that he will not withdraw the facility from service without the permission of the Federal Aviation Administration.
+.. The owner must bear all costs of meeting the requirements of this section and of any flight or ground inspections made before the facility is commissioned, except that the Federal Aviation Administration may bear certain of these costs subject to budgetary limitations and policy established by the Administrator.
+. If the applicant for approval meets the requirements of paragraph (a) of this section, the Federal Aviation Administration commissions the facility as a prerequisite to its approval for use in an IFR procedure. The approval is withdrawn at any time the facility does not continue to meet those requirements.
+
+## § 171.207
+
+### Performance requirements.
+
+. VHF Marker Beacons must meet the performance requirements set forth in the “International Standards and Recommended Practices, Aeronautical Telecommunications, Part I, paragraphs 3.1.6 and 3.6.” (Annex 10 to the Convention on International Civil Aviation) except those portions that pertain to identification. Identification of a marker beacon (75 MHz) must be in accordance with “U.S. Standard Flight Inspection Manual,” § 219.
+. The facility must perform in accordance with recognized and accepted good electronic engineering practices for the desired service. The facility must be checked periodically during the in-service test evaluation period for calibration and stability. These tests and ground tests of the marker radiation characteristics must be conducted in accordance with the maintenance manual required by § 171.211(b).
+. It must be shown during ground inspection of the design features of the equipment that there will not be conditions that will allow unsafe operations because of component failure or deterioration.
+. Flight inspection to determine the adequacy of the facility's operational performance and compliance with applicable “Standards and Recommended Practices” are conducted in accordance with the “U.S. Standard Flight Inspection Manual.” The original test is made by the Federal Aviation Administration and later tests must be made under arrangements, satisfactory to the Federal Aviation Administration, that are made by the owner.
+
+## § 171.209
+
+### Installation requirements.
+
+. The facility must be installed according to accepted good engineering practices, applicable electric and safety codes, and Federal Communications Commission requirements.
+. The facility must have a reliable source of suitable primary power.
+. Dual transmitting equipment may be required, if applicable, to support certain IFR procedures.
+. At facilities within or immediately adjacent to controlled airspace and that are intended for use as instrument approach aids for an airport, there must be ground-air communications or reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communication facility. Compliance with this paragraph need not be shown at airports where an adjacent Federal Aviation Administration facility can communicate with aircraft on the ground at the airport and during the entire proposed instrument approach procedure. In addition, at low traffic density airports within or immediately adjacent to controlled airspace, and where extensive delays are not a factor, the requirements of this paragraph may be reduced to reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communications facility, if an adjacent Federal Aviation Administration facility can communicate with aircraft during the proposed instrument approach procedure, at least down to the minimum en route altitude for the controlled airspace area.
+
+## § 171.211
+
+### Maintenance and operations requirements.
+
+. The owner of the facility shall establish an adequate maintenance system and provide qualified maintenance personnel to maintain the facility at the level attained at the time it was commissioned. Each person who maintains a facility shall meet at a minimum the Federal Communications Commission's licensing requirements and show that he has the special knowledge and skills needed to maintain the facility, including proficiency in maintenance procedures and the use of specialized test equipment.
+. The owner must prepare, and obtain approval of, and each person who operates or maintains the facility shall comply with, an operations and maintenance manual that sets forth procedures for operations, preventive maintenance, and emergency maintenance, including instructions on each of the following:
+.. Physical security of the facility.
+.. Maintenance and operations by authorized persons only.
+.. Federal Communications Commission's requirements for operating and maintenance personnel.
+.. Posting of licenses and signs.
+.. Relations between the facility and Federal Aviation Administration air traffic control facilities, with a description of the boundaries of controlled airspace over or near the facility, instructions for relaying air traffic control instructions and information (if applicable).
+.. Notice to the Administrator of any suspension of service.
+.. Detailed arrangements for maintenance, flight inspection, and servicing, stating the frequency of servicing.
+.. Keeping of station logs and other technical reports, and the submission of reports required by § 171.213.
+.. Monitoring of the facility, at least once each half hour, to assure continuous operation.
+.. Inspections by U.S. personnel.
+.. Names, addresses, and telephone numbers of persons to be notified in an emergency.
+.. Shutdowns for routine maintenance and issue of “Notices to Airmen” for routine or emergency shutdowns (private use facilities may omit the “Notice to Airmen”).
+.. Commissioning of the facility.
+.. An acceptable procedure for amending or revising the manual.
+.. The following information concerning the facility:
+... Location by latitude and longitude to the nearest second, and its position with respect to airport layouts.
+... The type, make, and model of the basic radio equipment that will provide the service.
+... The station power emission and frequency.
+... The hours of operation.
+... Station identification call letters and methods of station identification, whether by Morse Code or recorded voice announcement, and the time spacing of the identification.
+. If the owner desires to modify the facility, he shall submit the proposal to the Federal Aviation Administration and meet applicable requirements of the Federal Communications Commission, and must not allow any modification to be made without specific approval by the Federal Aviation Administration.
+. The owner's maintenance personnel shall participate in initial inspections made by the Federal Aviation Administration. In the case of subsequent inspections, the owner or his representative shall participate.
+. The owner shall provide a stock of spare parts, of such a quantity to make possible the prompt replacement of components that fail or deteriorate in service.
+. The owner shall shut down the facility by ceasing radiation, and shall issue a “Notice to Airmen” that the facility is out of service (except that private use facilities may omit “Notices to Airmen”) upon receiving two successive pilot reports of its malfunctioning.
+
+## § 171.213
+
+### Reports.
+
+The owner of each facility to which this subpart applies shall make the following reports, at the times indicated, to the Federal Aviation Administration Regional Office for the area in which the facility is located:
+
+. Record of meter readings and adjustments (Form FAA-198). To be filled out by the owner or his maintenance representative with the equipment adjustments and meter readings as of the time of commissioning, with one copy to be kept in the permanent records of the facility and two copies to the appropriate Regional Office of the Federal Aviation Administration. The owner must revise the form after any major repair, modification, or retuning, to reflect an accurate record of facility operation and adjustment.
+. Facility maintenance log (FAA Form 6030-1). This form is a permanent record of all equipment malfunctioning met in maintaining the facility, including information on the kind of work and adjustments made, equipment failures, causes (if determined), and corrective action taken. The owner shall keep the original of each report at the facility and send a copy to the appropriate Regional Office of the Federal Aviation Administration at the end of the month in which it is prepared.
+. Radio equipment operation record (Form FAA-418), containing a complete record of meter readings, recorded on each scheduled visit to the facility. The owner shall keep the original of each month's record at the facility and send a copy of it to the appropriate Regional Office of the Federal Aviation Administration.
+

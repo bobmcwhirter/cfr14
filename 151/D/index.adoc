@@ -1,0 +1,104 @@
+# Rules and Procedures for Advance Planning and Engineering Proposals
+:toc:
+
+## § 151.111
+
+### Advance planning proposals: General.
+
+. Each advance planning and engineering proposal must relate to an airport layout plan or plans and specifications for the development of a new airport, or the further development of an existing airport. Each proposal must relate to a specific airport, either existing or planned, and may not be for general area planning.
+. Each proposal for the development or further development of an airport must have as its objective either the development of an airport layout plan, under § 151.5(a), or the development of plans designed to lead to a project application, under §§ 151.21(c) and 151.27, or both.
+. Each proposal must relate to planning and engineering for an airport that—
+.. Is in a location shown on the National Airport Plan; and
+.. Is not served by scheduled air carrier service and located in a large or medium hub, as identified in the current edition of “Airport Activity Statistics of Certificated Route Air Carriers” (published jointly by FAA and the Civil Aeronautics Board), that is available for inspection at any FAA Area or Regional Office, or for sale by the Superintendent of Documents, Government Printing Office, Washington, D.C. 20402.
+. Each proposal must relate to future airport development projects eligible under subparts B and C.
+
+## § 151.113
+
+### Advance planning proposals: Sponsor eligibility.
+
+The sponsor of an advance planning and engineering proposal must be a public agency, as defined in § 151.37(a), and must be legally, financially, and otherwise able to—
+
+. Make the certifications, representations, and warranties required in the advance planning proposal, FAA Form 3731;
+. Enter into and perform the advance planning agreement;
+. Provide enough funds to pay all estimated proposal costs not borne by the United States; and
+. Meet any other applicable requirements of the Federal Airport Act and this subpart.
+
+## § 151.115
+
+### Advance planning proposals: Cosponsorship and agency.
+
+Any two or more public agencies desiring to jointly participate in an advance planning proposal may cosponsor it. The cosponsorship and agency requirements and procedures set forth in § 151.33, except § 151.33(a)(1), also apply to advance planning proposals. In addition, the sponsor eligibility requirements set forth in § 151.113 must be met by each participating public agency.
+
+## § 151.117
+
+### Advance planning proposals: Procedures; application.
+
+. Each eligible sponsor desiring to obtain Federal aid for the purpose of advance planning and engineering must submit a completed FAA Form 3731, “Advance Planning Proposal”, to the Area Manager.
+. The airport layout plan, if in existence, must accompany the advance planning proposal. If the advance planning proposal includes preparation of plans and specifications, enough details to identify the items of development to be covered by the plans and specifications must be shown. The proposal must be accompanied by evidentiary material establishing the basis for the estimated costs under the proposal, such as an offer from an engineering firm containing a schedule of services and charges therefor.
+
+## § 151.119
+
+### Advance planning proposals: Procedures; funding.
+
+The funding information required by § 151.23, except the last sentence, also is required in connection with an advance planning proposal. The sponsor's share of estimated proposal costs may not consist of or include the value of donated labor, materials, or equipment.
+
+## § 151.121
+
+### Procedures: Offer; sponsor assurances.
+
+Each sponsor must adopt the following covenant implementing the exclusive rights provisions of section 308(a) of the Federal Aviation Act of 1958, that is incorporated by reference into Part I of the Advance Planning Agreement:
+              
+
+## § 151.123
+
+### Procedures: Offer; amendment; acceptance; advance planning agreement.
+
+. The procedures and requirements of § 151.29 also apply to approved advance planning proposals. FAA's offer and the sponsor's acceptance constitute an advance planning grant agreement between the sponsor and the United States. The United States does not pay any of the advance planning costs incurred before the advance planning grant agreement is executed.
+. No grant is made unless the sponsor intends to begin airport development within three years after the date of sponsor's written acceptance of a grant offer. The sponsor's intention must be evidenced by an appropriate written statement in the proposal.
+
+## § 151.125
+
+### Allowable advance planning costs.
+
+. The United States' share of the allowable costs of an advance planning proposal is stated in the advance planning grant agreement, but is not more than 50 percent of the total cost of the necessary and reasonable planning and engineering services.
+. The allowable advance planning costs consist of planning and engineering expenses necessarily incurred in effecting the advance planning proposal. Allowable cost items include—
+.. Location surveys, such as preliminary topographic and soil exploration;
+.. Site evaluation;
+.. Preliminary engineering, such as stage construction outlines, cost estimates, and cost/benefit evaluation reports;
+.. Contract drawings and specifications;
+.. Testing; and
+.. Incidental costs incurred to accomplish the proposal, that would not have been incurred otherwise.
+. To qualify as allowable, the advance planning costs paid or incurred by the sponsor must be—
+.. Reasonably necessary and directly related to the planning or engineering included in the proposal as approved by FAA;
+.. Reasonable in amount; and
+.. Verified by sufficient evidence.
+
+## § 151.127
+
+### Accounting and audit.
+
+The requirements of § 151.55 relating to accounting and audit of project costs are also applicable to advance planning proposal costs. However, the requirement of segregating and grouping costs applies only to § 151.55(a) (5) and (7) classifications.
+
+## § 151.129
+
+### Payments.
+
+. The United States' share of advance planning costs is paid in two installments unless the advance planning grant agreement provides otherwise. Upon request by sponsor, the first payment may be made in an amount not more than 50 percent of the maximum obligation of the United States stipulated in the advance planning grant agreement upon certification by sponsor that 50 percent or more of the proposed work has been completed. The final payment is made upon the sponsor's request after—
+.. The conditions of the advance planning grant agreement have been met;
+.. Evidence of cost of each item has been submitted; and
+.. Audit of submitted evidence or audit of sponsor's records, if considered desirable by FAA, has been made.
+. When the advance planning proposal relates to the selection of an airport site, the advance planning grant agreement provides that Federal funds are paid to the sponsor only after the site is selected and the Administrator is satisfied that the site selected for the airport is reasonably consistent with existing plans of public agencies for development of the area in which the site is located, and will contribute to the accomplishment of the purposes of the Federal-aid Airport Program.
+
+## § 151.131
+
+### Forms.
+
+The forms used for the purpose of obtaining an advance planning and engineering grant are as follows:
+
+. *Advance planning proposal, FAA Form 3731*—(1) *Part I.* This part of the form contains a request for the grant of Federal funds under the Federal Airport Act for the purpose of aiding in financing a proposal for the development of an airport layout plan or plans, or both, designed to lead to a project application, with spaces provided for inserting information needed for considering the request, including the location of the airport, a description of the plan or plans to be developed, and the estimate of planning and engineering costs.
+. *Advance planning agreement, FAA Form 3732*—(1) *Part I.* This part of the form contains an offer by the United States to pay a specified percentage not to exceed 50% of the allowable proposal costs, as described therein, on specific terms relating to the carrying out of the proposal, allowability of costs, payment of the United States' share and sponsor's agreement to comply with the exclusive rights provision of section 308(a) of the Federal Aviation Act of 1958.
+
+(2) *Part II.* This part of the form includes the sponsor's representation that it will comply with the provisions of part 15 of the Federal Aviation Regulations (14 CFR part 15), and representations concerning its legal authority to undertake the proposal, the availability of funds for its share of the proposal costs, its intention to initiate construction of a safe, useful and usable airport facility shown on an airport layout plan developed under the proposal, or initiate the construction of the item or items of airport development shown on the plans developed under the proposal and designed to lead to a project application, or both, within three years after the date of acceptance of the offer. It also includes the sponsor's representation as to the method of financing the intended construction, approval of other agencies, defaults, possible disabilities, and a statement concerning accept- ance to be executed by the sponsor and certified by its attorney.
+
+(2) *Part II.* This part of the form contains the acceptance of the offer by the sponsor, execution of the acceptance by the sponsor, and the certification by the sponsor's attorney.
+

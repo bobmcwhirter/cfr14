@@ -1,0 +1,88 @@
+# Certification
+:toc:
+
+## § 139.101
+
+### General requirements.
+
+. Except as otherwise authorized by the Administrator, no person may operate an airport specified under § 139.1 of this part without an Airport Operating Certificate or in violation of that certificate, the applicable provisions, or the approved Airport Certification Manual.
+. Each certificate holder shall adopt and comply with an Airport Certification Manual as required under § 139.203.
+. Persons required to have an Airport Operating Certificate under this part shall submit their Airport Certification Manual to the FAA for approval, in accordance with the following schedule:
+.. Class I airports—6 months after June 9, 2004.
+.. Class II, III, and IV airports—12 months after June 9, 2004.
+
+## § 139.103
+
+### Application for certificate.
+
+Each applicant for an Airport Operating Certificate must—
+
+. Prepare and submit an application, in a form and in the manner prescribed by the Administrator, to the Regional Airports Division Manager.
+. Submit with the application, two copies of an Airport Certification Manual prepared in accordance with subpart C of this part.
+
+## § 139.105
+
+### Inspection authority.
+
+Each applicant for, or holder of, an Airport Operating Certificate must allow the Administrator to make any inspections, including unannounced inspections, or tests to determine compliance with 49 U.S.C. 44706 and the requirements of this part.
+
+## § 139.107
+
+### Issuance of certificate.
+
+An applicant for an Airport Operating Certificate is entitled to a certificate if—
+
+. The applicant provides written documentation that air carrier service will begin on a date certain.
+. The applicant meets the provisions of § 139.103.
+. The Administrator, after investigation, finds the applicant is properly and adequately equipped and able to provide a safe airport operating environment in accordance with—
+.. Any limitation that the Administrator finds necessary to ensure safety in air transportation.
+.. The requirements of the Airport Certification Manual, as specified under § 139.203.
+.. Any other provisions of this part that the Administrator finds necessary to ensure safety in air transportation.
+. The Administrator approves the Airport Certification Manual.
+
+## § 139.109
+
+### Duration of certificate.
+
+An Airport Operating Certificate issued under this part is effective until the certificate holder surrenders it or the certificate is suspended or revoked by the Administrator.
+
+## § 139.111
+
+### Exemptions.
+
+. An applicant or a certificate holder may petition the Administrator under 14 CFR part 11, General Rulemaking Procedures, of this chapter for an exemption from any requirement of this part.
+. Under 49 U.S.C. 44706(c), the Administrator may exempt an applicant or a certificate holder that enplanes annually less than one-quarter of 1 percent of the total number of passengers enplaned at all air carrier airports from all, or part, of the aircraft rescue and firefighting equipment requirements of this part on the grounds that compliance with those requirements is, or would be, unreasonably costly, burdensome, or impractical.
+.. Each petition filed under this paragraph must—
+... Be submitted in writing at least 120 days before the proposed effective date of the exemption;
+... Set forth the text of §§ 139.317 or 139.319 from which the exemption is sought;
+... Explain the interest of the certificate holder in the action requested, including the nature and extent of relief sought; and
+... Contain information, views, or arguments that demonstrate that the requirements of §§ 139.317 or 139.319 would be unreasonably costly, burdensome, or impractical.
+.. Information, views, or arguments provided under paragraph (b)(1) of this section shall include the following information pertaining to the airport for which the Airport Operating Certificate is held:
+... An itemized cost to comply with the requirement from which the exemption is sought;
+... Current staffing levels;
+... The current annual financial report, such as a single audit report or FAA Form 5100-127, Operating and Financial Summary;
+... Annual passenger enplanement data for the previous 12 calendar months;
+... The type and frequency of air carrier operations served;
+... A history of air carrier service;
+... Anticipated changes to air carrier service;
+. Each petition filed under this section must be submitted in duplicate to the—
+.. Regional Airports Division Manager and
+.. Federal Docket Management System, as specified under 14 CFR part 11.
+
+## § 139.113
+
+### Deviations.
+
+In emergency conditions requiring immediate action for the protection of life or property, the certificate holder may deviate from any requirement of subpart D of this part, or the Airport Certification Manual, to the extent required to meet that emergency. Each certificate holder who deviates from a requirement under this section must, within 14 days after the emergency, notify the Regional Airports Division Manager of the nature, extent, and duration of the deviation. When requested by the Regional Airports Division Manager, the certificate holder must provide this notification in writing.
+
+## § 139.115
+
+### Falsification, reproduction, or alteration of applications, certificates, reports, or records.
+
+. No person shall make or cause to be made:
+.. Any fraudulent or intentionally false statement on any application for a certificate or approval under this part.
+.. Any fraudulent or intentionally false entry in any record or report that is required to be made, kept, or used to show compliance with any requirement under this part.
+.. Any reproduction, for a fraudulent purpose, of any certificate or approval issued under this part.
+.. Any alteration, for a fraudulent purpose, of any certificate or approval issued under this part.
+. The commission by any owner, operator, or other person acting on behalf of a certificate holder of an act prohibited under paragraph (a) of this section is a basis for suspending or revoking any certificate or approval issued under this part and held by that certificate holder and any other certificate issued under this title and held by the person committing the act.
+

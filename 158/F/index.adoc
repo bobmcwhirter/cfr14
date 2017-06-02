@@ -1,0 +1,29 @@
+# Reduction in Airport Improvement Program Apportionment
+:toc:
+
+## § 158.91
+
+### General.
+
+This subpart describes the required reduction in funds apportioned to a large or medium hub airport that imposes a PFC.
+
+## § 158.93
+
+### Public agencies subject to reduction.
+
+The funds apportioned under 49 U.S.C. 47114 to a public agency for a specific primary commercial service airport that it controls are reduced if—
+
+. Such airport enplanes 0.25 percent or more of the total annual enplanements in the U.S., and
+. The public agency imposes a PFC at such airport.
+
+## § 158.95
+
+### Implementation of reduction.
+
+. A reduction in apportioned funds will not take effect until the first fiscal year following the year in which the collection of the PFC is begun and will be applied in each succeeding fiscal year in which the public agency imposes the PFC.
+. The reduction in apportioned funds is calculated at the beginning of each fiscal year and shall be an amount equal to—
+.. In the case of a fee of $3 or less, 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; and
+              
+.. In the case of a fee of more than $3, 75 percent of the projected revenues from the fee in the fiscal year but not by more than 75 percent of the amount that otherwise would be apportioned under this section.
+. If the projection of PFC revenue in a fiscal year is inaccurate, the reduction in apportioned funds may be increased or decreased in the following fiscal year, except that any further reduction shall not cause the total reduction to exceed 50 percent of such apportioned amount as would otherwise be apportioned in any fiscal year.
+

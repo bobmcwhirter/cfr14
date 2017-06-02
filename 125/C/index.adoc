@@ -1,0 +1,52 @@
+# Manual Requirements
+:toc:
+
+## § 125.71
+
+### Preparation.
+
+. Each certificate holder shall prepare and keep current a manual setting forth the certificate holder's procedures and policies acceptable to the Administrator. This manual must be used by the certificate holder's flight, ground, and maintenance personnel in conducting its operations. However, the Administrator may authorize a deviation from this paragraph if the Administrator finds that, because of the limited size of the operation, all or part of the manual is not necessary for guidance of flight, ground, or maintenance personnel.
+. Each certificate holder shall maintain at least one copy of the manual at its principal operations base.
+. The manual must not be contrary to any applicable Federal regulations, foreign regulation applicable to the certificate holder's operations in foreign countries, or the certificate holder's operating certificate or operations specifications.
+. A copy of the manual, or appropriate portions of the manual (and changes and additions) shall be made available to maintenance and ground operations personnel by the certificate holder and furnished to—
+.. Its flight crewmembers; and
+.. The FAA Flight Standards district office charged with the overall inspection of its operations.
+. Each employee of the certificate holder to whom a manual or appropriate portions of it are furnished under paragraph (d)(1) of this section shall keep it up to date with the changes and additions furnished to them.
+. For the purpose of complying with paragraph (d) of this section, a certificate holder may furnish the persons listed therein with the maintenance part of its manual in printed form or other form, acceptable to the Administrator, that is retrievable in the English language. If the certificate holder furnishes the maintenance part of the manual in other than printed form, it must ensure there is a compatible reading device available to those persons that provides a legible image of the maintenance information and instructions or a system that is able to retrieve the maintenance information and instructions in the English language.
+. If a certificate holder conducts airplane inspections or maintenance at specified stations where it keeps the approved inspection program manual, it is not required to carry the manual aboard the airplane en route to those stations.
+
+## § 125.73
+
+### Contents.
+
+Each manual shall have the date of the last revision and revision number on each revised page. The manual must include—
+
+. The name of each management person who is authorized to act for the certificate holder, the person's assigned area of responsibility, and the person's duties, responsibilities, and authority;
+. Procedures for ensuring compliance with airplane weight and balance limitations;
+. Copies of the certificate holder's operations specifications or appropriate extracted information, including area of operations authorized, category and class of airplane authorized, crew complements, and types of operations authorized;
+. Procedures for complying with accident notification requirements;
+. Procedures for ensuring that the pilot in command knows that required airworthiness inspections have been made and that the airplane has been approved for return to service in compliance with applicable maintenance requirements;
+. Procedures for reporting and recording mechanical irregularities that come to the attention of the pilot in command before, during, and after completion of a flight;
+. Procedures to be followed by the pilot in command for determining that mechanical irregularities or defects reported for previous flights have been corrected or that correction has been deferred;
+. Procedures to be followed by the pilot in command to obtain maintenance, preventive maintenance, and servicing of the airplane at a place where previous arrangements have not been made by the operator, when the pilot is authorized to so act for the operator;
+. Procedures for the release for, or continuation of, flight if any item of equipment required for the particular type of operation becomes inoperative or unserviceable en route;
+. Procedures for refueling airplanes, eliminating fuel contamination, protecting from fire (including electrostatic protection), and supervising and protecting passengers during refueling;
+. Procedures to be followed by the pilot in command in the briefing under § 125.327;
+. Flight locating procedures, when applicable;
+. Procedures for ensuring compliance with emergency procedures, including a list of the functions assigned each category of required crewmembers in connection with an emergency and emergency evacuation;
+. The approved airplane inspection program;
+. Procedures and instructions to enable personnel to recognize hazardous materials, as defined in title 49 CFR, and if these materials are to be carried, stored, or handled, procedures and instructions for—
+.. Accepting shipment of hazardous material required by title 49 CFR, to assure proper packaging, marking, labeling, shipping documents, compatibility of articles, and instructions on their loading, storage, and handling;
+.. Notification and reporting hazardous material incidents as required by title 49 CFR; and
+.. Notification of the pilot in command when there are hazardous materials aboard, as required by title 49 CFR;
+. Procedures for the evacuation of persons who may need the assistance of another person to move expeditiously to an exit if an emergency occurs;
+. The identity of each person who will administer tests required by this part, including the designation of the tests authorized to be given by the person; and
+. Other procedures and policy instructions regarding the certificate holder's operations that are issued by the certificate holder.
+
+## § 125.75
+
+### Airplane flight manual.
+
+. Each certificate holder shall keep a current approved Airplane Flight Manual or approved equivalent for each type airplane that it operates.
+. Each certificate holder shall carry the approved Airplane Flight Manual or the approved equivalent aboard each airplane it operates. A certificate holder may elect to carry a combination of the manuals required by this section and § 125.71. If it so elects, the certificate holder may revise the operating procedures sections and modify the presentation of performance from the applicable Airplane Flight Manual if the revised operating procedures and modified performance data presentation are approved by the Administrator.
+

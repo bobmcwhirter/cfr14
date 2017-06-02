@@ -1,0 +1,47 @@
+# General
+:toc:
+
+## § 145.1
+
+### Applicability.
+
+This part describes how to obtain a repair station certificate. This part also contains the rules a certificated repair station must follow related to its performance of maintenance, preventive maintenance, or alterations of an aircraft, airframe, aircraft engine, propeller, appliance, or component part to which part 43 applies. It also applies to any person who holds, or is required to hold, a repair station certificate issued under this part.
+
+## § 145.3
+
+### Definition of terms.
+
+For the purposes of this part, the following definitions apply:
+
+. *Accountable manager* means the person designated by the certificated repair station who is responsible for and has the authority over all repair station operations that are conducted under part 145, including ensuring that repair station personnel follow the regulations and serving as the primary contact with the FAA.
+. *Article* means an aircraft, airframe, aircraft engine, propeller, appliance, or component part.
+. *Directly in charge* means having the responsibility for the work of a certificated repair station that performs maintenance, preventive maintenance, alterations, or other functions affecting aircraft airworthiness. A person directly in charge does not need to physically observe and direct each worker constantly but must be available for consultation on matters requiring instruction or decision from higher authority.
+. *Line maintenance means*—
+.. Any unscheduled maintenance resulting from unforeseen events; or
+.. Scheduled checks that contain servicing and/or inspections that do not require specialized training, equipment, or facilities.
+
+## § 145.5
+
+### Certificate and operations specifications requirements.
+
+. No person may operate as a certificated repair station without, or in violation of, a repair station certificate, ratings, or operations specifications issued under this part.
+. The certificate and operations specifications issued to a certificated repair station must be available on the premises for inspection by the public and the FAA.
+
+## § 145.12
+
+### Repair station records: Falsification, reproduction, alteration, or omission.
+
+. No person may make or cause to be made:
+.. Any fraudulent or intentionally false entry in:
+... Any application for a repair station certificate or rating (including in any document used in support of that application); or
+... Any record or report that is made, kept, or used to show compliance with any requirement under this part;
+.. Any reproduction, for fraudulent purpose, of any application (including any document used in support of that application), record, or report under this part; or
+.. Any alteration, for fraudulent purpose, of any application (including any document used in support of that application), record, or report under this part.
+. No person may, by omission, knowingly conceal or cause to be concealed, a material fact in:
+.. Any application for a repair station certificate or rating (including in any document used in support of that application); or
+.. Any record or report that is made, kept, or used to show compliance with any requirement under this part.
+. The commission by any person of an act prohibited under paragraphs (a) or (b) of this section is a basis for any one or any combination of the following:
+.. Suspending or revoking the repair station certificate and any certificate, approval, or authorization issued by the FAA and held by that person.
+.. A civil penalty.
+.. The denial of an application under this part.
+

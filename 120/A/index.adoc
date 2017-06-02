@@ -1,0 +1,52 @@
+# General
+:toc:
+
+## § 120.1
+
+### Applicability.
+
+This part applies to the following persons:
+
+. All air carriers and operators certificated under part 119 of this chapter authorized to conduct operations under part 121 or part 135 of this chapter, all air traffic control facilities not operated by the FAA or by or under contract to the U.S. military; and all operators as defined in 14 CFR 91.147.
+. All individuals who perform, either directly or by contract, a safety-sensitive function listed in subpart E or subpart F of this part.
+. All part 145 certificate holders who perform safety-sensitive functions and elect to implement a drug and alcohol testing program under this part.
+. All contractors who elect to implement a drug and alcohol testing program under this part.
+
+## § 120.3
+
+### Purpose.
+
+The purpose of this part is to establish a program designed to help prevent accidents and injuries resulting from the use of prohibited drugs or the misuse of alcohol by employees who perform safety-sensitive functions in aviation.
+
+## § 120.5
+
+### Procedures.
+
+Each employer having a drug and alcohol testing program under this part must ensure that all drug and alcohol testing conducted pursuant to this part complies with the procedures set forth in 49 CFR part 40.
+
+## § 120.7
+
+### Definitions.
+
+For the purposes of this part, the following definitions apply:
+
+. *Accident* means an occurrence associated with the operation of an aircraft which takes place between the time any individual boards the aircraft with the intention of flight and all such individuals have disembarked, and in which any individual suffers death or serious injury, or in which the aircraft receives substantial damage.
+. *Alcohol* means the intoxicating agent in beverage alcohol, ethyl alcohol, or other low molecular weight alcohols, including methyl or isopropyl alcohol.
+. *Alcohol concentration (or content)* means the alcohol in a volume of breath expressed in terms of grams of alcohol per 210 liters of breath as indicated by an evidential breath test under subpart F of this part.
+. *Alcohol* use means the consumption of any beverage, mixture, or preparation, including any medication, containing alcohol.
+. *Contractor* is an individual or company that performs a safety-sensitive function by contract for an employer or another contractor.
+. *Covered employee* means an individual who performs, either directly or by contract, a safety-sensitive function listed in §§ 120.105 and 120.215 for an employer (as defined in paragraph (i) of this section). For purposes of pre-employment testing only, the term “covered employee” includes an individual applying to perform a safety-sensitive function.
+. *DOT agency* means an agency (or “operating administration”) of the United States Department of Transportation administering regulations requiring drug and alcohol testing (14 CFR parts 61, 65, 121, and 135; 46 CFR part 16; 49 CFR parts 199, 219, and 382) in accordance with 49 CFR part 40.
+. *Employee* is an individual who is hired, either directly or by contract, to perform a safety-sensitive function for an employer, as defined in paragraph (i) of this section. An employee is also an individual who transfers into a position to perform a safety-sensitive function for an employer.
+. *Employer* is a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operator as defined in § 91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military. An employer may use a contract employee who is not included under that employer's FAA-mandated drug and alcohol testing program to perform a safety-sensitive function only if that contract employee is included under the contractor's FAA-mandated drug and alcohol testing program and is performing a safety-sensitive function on behalf of that contractor (i.e., within the scope of employment with the contractor.)
+. *Hire* means retaining an individual for a safety-sensitive function as a paid employee, as a volunteer, or through barter or other form of compensation.
+. *Performing* (a safety-sensitive function): an employee is considered to be performing a safety-sensitive function during any period in which he or she is actually performing, ready to perform, or immediately available to perform such function.
+. *Positive rate for random drug testing* means the number of verified positive results for random drug tests conducted under subpart E of this part, plus the number of refusals of random drug tests required by subpart E of this part, divided by the total number of random drug test results (*i.e.,* positives, negatives, and refusals) under subpart E of this part.
+. *Prohibited drug* means marijuana, cocaine, opiates, phencyclidine (PCP), and amphetamines, as specified in 49 CFR 40.85.
+. *Refusal to submit to alcohol test* means that a covered employee has engaged in conduct including but not limited to that described in 49 CFR 40.261, or has failed to remain readily available for post-accident testing as required by subpart F of this part.
+. *Refusal to submit to drug test* means that an employee engages in conduct including but not limited to that described in 49 CFR 40.191.
+. *Safety-sensitive function* means a function listed in §§ 120.105 and 120.215.
+. *Verified negative drug test result* means a drug test result from an HHS-certified laboratory that has undergone review by an MRO and has been determined by the MRO to be a negative result.
+. *Verified positive drug test result* means a drug test result from an HHS-certified laboratory that has undergone review by an MRO and has been determined by the MRO to be a positive result.
+. *Violation rate for random alcohol testing* means the number of 0.04, and above, random alcohol confirmation test results conducted under subpart F of this part, plus the number of refusals of random alcohol tests required by subpart F of this part, divided by the total number of random alcohol screening tests (including refusals) conducted under subpart F of this part.
+

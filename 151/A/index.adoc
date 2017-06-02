@@ -1,0 +1,118 @@
+# General Requirements
+:toc:
+
+## § 151.1
+
+### Applicability.
+
+This part prescribes the policies and procedures for administering the Federal-aid Airport Program under the Federal Airport Act, as amended (49 U.S.C. 1101 *et seq.*).
+
+## § 151.3
+
+### National Airport Plan.
+
+. Under the Federal Airport Act, the FAA prepares each year a “National Airport Plan” for developing public airports in the United States, Puerto Rico, the Virgin Islands, and Guam. In terms of general location and type of development, the National Airport Plan specifies the maximum limits of airport development that is necessary to provide a system of public airports adequate to anticipate and meet the needs of civil aeronautics.
+. If, within the forecast period, an airport will have a substantial aeronautical necessity, it may be included in the National Airport Plan. Only work on an airport included in the current Plan is eligible for inclusion in the Federal-aid Airport Program to be undertaken within currently available appropriations and authorizations. However, the inclusion of an airport in the National Airport Plan does not commit the United States to include it in the Federal-aid Airport Program. In addition, the local community concerned is not required to proceed with planning or development of an airport included in the National Airport Plan.
+
+## § 151.5
+
+### General policies.
+
+. *Airport layout plan.* As used in this part, “airport layout plan” means the basic plan for the layout of an eligible airport that shows, as a minimum—
+.. The present boundaries of the airport and of the offsite areas that the sponsor owns or controls for airport purposes, and of their proposed additions;
+.. The location and nature of existing and proposed airport facilities (such as runways, taxiways, aprons, terminal buildings, hangars, and roads) and of their proposed modifications and extensions; and
+.. The location of existing and proposed non-aviation areas, and of their existing improvements.
+              
+. *Safe, useful, and usable unit.* Except as provided in paragraph (d) of this section, each advance planning and engineering proposal or airport development project must provide for the planning or development of—
+.. An airport or unit of an airport that is safe, useful, and usable; or
+.. An additional facility that increases the safety, usefulness, or usability of an airport.
+. *National defense needs.* The needs of national defense are fully considered in administering the Federal-aid Airport Program. However, approval of an advance planning and engineering proposal or a project application is limited to planning or airport development necessary for civil aviation.
+. *Stage development.* In any case in which airport development can be accomplished more economically under stage construction, federal funds may be programmed in advance for the development over two or more years under two or more grant agreements. In such a case, the FAA makes a tentative allocation of funds for both the current and future fiscal years, rather than allocating the entire federal share in one fiscal year. A grant agreement is made only during the fiscal year in which funds are authorized to be obligated. Advance planning and engineering grants are not made under this paragraph.
+
+## § 151.7
+
+### Grants of funds: General policies.
+
+. *Compliance with sponsorship requirements.* The FAA authorizes the expenditure of funds under the Federal-aid Airport Program for airport planning and engineering or for airport development only if the Administrator is satisfied that the sponsor has met or will meet the requirements established by existing and proposed agreements with the United States with respect to any airport that the sponsor owns or controls.
+.. Agreements with the United States to which this requirement of compliance applies include—
+... Any grant agreement made under the Federal-aid Airport Program;
+... Any covenant in a conveyance under section 16 of the Federal Airport Act;
+... Any covenant in a conveyance of surplus airport property either under section 13(g) of the Surplus Property Act (50 U.S.C. App. 1622(g)) or under Regulation 16 of the War Assets Administration; and
+... Any AP-4 agreement made under the terminated Development Landing Areas National Defense Program and the Development Civil Landing Areas Program.
+              
+.. If it appears that a sponsor has failed to comply with a requirement of an agreement with the United States with respect to an airport, the FAA notifies him of this fact and affords him an opportunity to submit materials to refute the allegation of noncompliance or to achieve compliance.
+.. If a project is otherwise eligible under the Federal-aid Airport Program, a grant may be made to a sponsor who has not complied with an agreement if the sponsor shows—
+... That the noncompliance is caused by factors beyond his control; or
+... That the following circumstances exist:
+. (*b*) The sponsor is taking reasonable action promptly to correct the deficiency or the deficiency relates to an obligation that is no longer required for the safe and efficient use of the airport under existing law and policy.
+.. The advance planning and engineering proposal involves more than $1,000 in United States funds; and
+.. The project application involves more than $5,000 in U.S. funds.
+. *Previously obligated work.* Unless the Administrator specifically authorizes it, no advance planning and engineering proposal or project application may include any planning, engineering, or construction work included in a prior agreement with the United States obligating the sponsor or any other non-U.S. public agency to do the work, and entitling the sponsor or any other non-United States public agency to payment of U.S. funds for all or part of the work.
+
+(*a*) The noncompliance consisted of a failure, through mistake or ignorance, to perform minor conditions in old agreements with the Federal Government; and
+
+(b) *Small proposals and projects.* Unless there is otherwise a special need for U.S. participation, the FAA includes an advance planning and engineering proposal or an airport development project in the Federal-aid Airport Program only if—
+
+## § 151.9
+
+### Runway clear zones: General.
+
+. Whenever funds are allocated for developing new runways or landing strips, or to improve or repair existing runways, the sponsor must own, acquire, or agree to acquire, runway clear zones. Exceptions are considered (on the basis of a full statement of facts by the sponsor) upon a showing of uneconomical acquisition costs, or lack of necessity for the acquisition.
+. For the purpose of this part, a runway clear zone is an area at ground level which begins at the end of each primary surface defined in § 77.27(a) and extends with the width of each approach surface defined in § 77.27 (b) and (c), to terminate directly below each approach surface slope at the point, or points, where the slope reaches a height of 50 feet above the elevation of the runway or 50 feet above the terrain at the outer extremity of the clear zone, whichever distance is shorter.
+. For the purposes of this section, an airport operator or owner is considered to have an adequate property interest if it has an easement (or a covenant running with the land) giving it enough control to rid the clear zone of all obstructions (objects so far as they project above the approach surfaces established by § 77.27 (b) and (c) of part 77 of this chapter), and to prevent the creation of future obstructions; together with the right of entrance and exit for those purposes, to ensure the safe and unrestricted passage of aircraft in and over the area.
+
+## § 151.11
+
+### Runway clear zones; requirements.
+
+. In projects involving grants-in-aid under the Federal-aid Airport Program, a sponsor must own, acquire, or agree to acquire an adequate property interest in runway clear zone areas as prescribed in paragraph (b), (c), (d), or (e) of this section, as applicable. Property interests that a sponsor acquires to meet the requirements of this section are eligible for inclusion in the Program.
+. On new airports, the sponsor must own, acquire, or agree to acquire adequate property interests in runway clear zone areas (in connection with initial land acquisition) for all eligible runways or landing strips, without substantial deviation from standard configuration and length.
+. On existing airports where new runways or landing strips are developed, the sponsor must own, acquire, or agree to acquire adequate property interests in runway clear zone areas for each runway and landing strip to be developed or extended, to the extent that the Administrator determines practical and feasible considering all facts presented by the airport owner or operator, preferably without substantial deviation from standard configuration and length.
+. On existing airports where improvements are made to runways or landing strips, the sponsor must own, acquire, or agree to acquire adequate property interests in runway clear zone areas for each runway or landing strip that is to be improved to the extent that the Administrator determines is practical and feasible with regard to standard configuration, length, and property interests, considering all facts presented by the airport owner or operator. Any development that improves a specific runway or landing strip is considered to be a runway improvement, including runway lighting and the developing or lighting of taxiways serving a runway.
+. On existing airports where substantial improvements are made that do not benefit a specific runway or landing strip, such as overall grading or drainage, terminal area or building developments, the sponsor must own, acquire, or agree to acquire adequate property interests in runway clear zone areas for the dominant runway or landing strip to the extent that the Administrator determines is practical and feasible, with regard to standard configuration, length, and property interests, considering all facts presented by the airport owner or operator.
+. If a sponsor or other public agency shows that it is legally able to prevent the future erection or creation of obstructions in the runway clear zone area, and adopts protective measures to prohibit their future erection or creation, that showing is acceptable for the purposes of paragraphs (d) and (e) of this section in place of an adequate property interest (except for rights required for removing existing obstructions). In such a case, there must be an agreement between the FAA and the sponsor for removing or marking or lighting (to be determined in each case) any existing obstruction to air navigation In each case, the sponsor must furnish information as to the specific height limitations established and as to the current and foreseeable future use of the property to which they apply. The information must include an acceptable legal opinion of the validity of the measures adopted, including a conclusion that the height limitations are not unreasonable in view of current and foreseeable future use of the property, and are a reasonable exercise of the police power, together with the reasons or basis supporting the opinion.
+. The authority exercised by the Administrator under paragraphs (b), (c), (d), and (e) of this section to allow a deviation from, or the extent of conformity to, standard configuration or length of runway clear zones, or to determine the adequacy of property interests therein, is also exercised by Regional Directors.
+
+## § 151.13
+
+### Federal-aid Airport Program: Policy affecting landing aid requirements.
+
+. *Landing aid requirements.* No project for developing or improving an airport may be approved for the Program unless it provides for acquiring or installing such of the following landing aids as the Administrator determines are needed for the safe and efficient use of the airport by aircraft, considering the category of the airport and the type and volume of traffic using it:
+.. Land needed for installing approach lighting systems (ALS).
+.. In-runway lighting.
+.. High intensity runway lighting.
+.. Runway distance markers.
+. *Specific landing aid requirements.* The landing aids set forth in paragraphs (a) (1) through (4) of this section are required for the safe and efficient use of airports by aircraft in the following cases:
+.. Lands for installing approach lighting systems are required as part of a project if the installing of the components of the system on the airport is in an approved FAA budget, unless the sponsor has already acquired the land necessary for the system or is otherwise undertaking to acquire that land. If the sponsor is otherwise undertaking to acquire the land, the grant agreement for the project must obligate the sponsor to complete the acquisition within a time limit prescribed by the Administrator. The Administrator immediately notifies a sponsor when a budget is approved providing for installing an approach lighting system at the airport concerned.
+              
+.. In-runway lighting is required as part of a project:
+... If the project includes:
+. (*c*) Reconstruction of a designated instrument landing runway equipped, or programed by the FAA, with funds then available therefor, to be equipped with an IFR precision approach system including ALS and ILS, if the reconstruction requires the closing of the runway; or
+. (*d*) Any other airport development on an airport whose designated instrument landing runway is equipped, or programed by the FAA, with funds then available therefor, to be equipped with an IFR precision approach system including ALS and ILS; and
+. (*e*) Effect on landing and takeoff minima; and
+. (*f*) In the case of projects under paragraph (b)(2)(i)(*d*) of this section, whether installing in-runway lighting requires closing the runway for so long a time that the adverse effect on safety of its closing would outweigh the contribution to safety that would be gained by the in-runway lights or whether it would unduly interfere with the efficiency of aircraft operations.
+
+(*a*) Construction of a new runway designated by the FAA as an instrument landing runway for which the installation of an IFR precision approach system including ALS and ILS, has been programmed by the FAA with funds then available therefor;
+
+(*b*) An extension of 3,000 feet or more (usable for landing purposes) of the approach end of a designated instrument landing runway equipped, or programed by the FAA, with funds then available therefor, to be equipped, with an IFR precision approach system including ALS and ILS;
+
+(ii) Only if a study of the airport shows that in-runway lighting is required for the safe and efficient use of the airport by aircraft, after the Administrator considers the following:
+
+(*a*) The type and volume of flight activity;
+
+(*b*) Other existing or planned navigational aids;
+
+(*c*) Airport environmental factors such as local weather conditions and adjacent geographic profiles;
+
+(*d*) Approach and departure paths;
+
+(3) High intensity runway edge lighting on the designated instrument landing runway is required as a part of a project whenever that runway is equipped or programmed for the installation of an ILS and high intensity runway edge lights are not then installed on the runway or included in another project. A project for extending a runway that has high intensity runway edge lights on the existing runway requires, as a part of the project, the extension of the high intensity runway edge lights.
+
+(4) Runway distance markers whose design standards have been approved and published by the FAA are required as a part of a project on a case-by-case basis if, after reviewing the pertinent facts and circumstances of the case, the Administrator determines that they are needed for the safe and efficient use of the airport by aircraft.
+
+## § 151.15
+
+### Federal-aid Airport Program: Policy affecting runway or taxiway remarking.
+
+No project for developing or improving an airport may be approved for the Program unless it provides for runway or taxiway remarking if the present marking is obliterated by construction, alteration or repair work included in a FAAP project or by the required routing of construction equipment used therein.
+

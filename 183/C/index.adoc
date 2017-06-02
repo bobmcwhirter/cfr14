@@ -1,0 +1,97 @@
+# Kinds of Designations: Privileges
+:toc:
+
+## § 183.21
+
+### Aviation Medical Examiners.
+
+An Aviation Medical Examiner may—
+              
+
+. Accept applications for physical examinations necessary for issuing medical certificates under part 67 of this chapter;
+. Under the general supervision of the Federal Air Surgeon or the appropriate senior regional flight surgeon, conduct those physical examinations;
+. Issue or deny medical certificates in accordance with part 67 of this chapter, subject to reconsideration by the Federal Air Surgeon or his or her authorized representatives within the FAA; and
+. [Reserved]
+. As requested, participate in investigating aircraft accidents.
+
+## § 183.23
+
+### Pilot examiners.
+
+Any pilot examiner, instrument rating examiner, or airline transport pilot examiner may—
+
+. As authorized in his designation, accept applications for flight tests necessary for issuing pilot certificates and ratings under this chapter;
+. Under the general supervision of the appropriate local Flight Standards Inspector, conduct those tests;
+. In the discretion of the appropriate local Flight Standards Inspector, issue temporary pilot certificates and ratings to qualified applicants; and
+. Accept an application for a remote pilot certificate with a small UAS rating and verify the identity of the applicant in a form and manner acceptable to the Administrator.
+
+## § 183.25
+
+### Technical personnel examiners.
+
+. A designated mechanic examiner (DME) (airframe and power plant) may—
+.. Accept applications for, and conduct, mechanic, oral and practical tests necessary for issuing mechanic certificates under part 65 of this chapter; and
+.. In the discretion of the appropriate local Flight Standards Inspector, issue temporary mechanic certificates to qualified applicants.
+. A designated parachute rigger examiner (DPRE) may—
+.. Accept applications for, and conduct, oral and practical tests necessary for issuing parachute rigger certificates under part 65 of this chapter; and
+.. In the discretion of the appropriate local Flight Standards Inspector, issue temporary parachute rigger certificates to qualified applicants.
+. An air traffic control tower operator examiner may—
+.. Accept applications for, and conduct, written and practical tests necessary for issuing control tower operator certificates under part 65 of this chapter; and
+.. In the discretion of the Associate Administrator for Air Traffic issue temporary control tower operator certificates to qualified applicants.
+. A designated flight engineer examiner (DFEE) may—
+.. Accept applications for, and conduct, oral and practical tests necessary for issuing flight engineer certificates under part 63 of this chapter; and
+.. In the discretion of the appropriate local Flight Standards Inspector, issue temporary flight engineer certificates to qualified applicants.
+. A designated flight navigator examiner (DFNE) may—
+.. Accept applications for, and conduct, oral and practical tests necessary for issuing flight navigator certificates under part 63 of this chapter; and
+.. In the discretion of the appropriate local Flight Standards Inspector, issue temporary flight navigator certificates to qualified applicants.
+. A designated aircraft dispatcher examiner (DADE) may—
+.. Accept applications for, and conduct, written and practical tests necessary for issuing aircraft dispatcher certificates under part 65 of this chapter; and
+              
+.. In the discretion of the appropriate local Flight Standards Inspector, issue temporary aircraft dispatcher certificates to qualified applicants.
+
+## § 183.27
+
+### Designated aircraft maintenance inspectors.
+
+A designated aircraft maintenance inspector (DAMI) may approve maintenance on civil aircraft used by United States military flying clubs in foreign countries.
+
+## § 183.29
+
+### Designated engineering representatives.
+
+. A structural engineering representative may approve structural engineering information and other structural considerations within limits prescribed by and under the general supervision of the Administrator, whenever the representative determines that information and other structural considerations comply with the applicable regulations of this chapter.
+. A power plant engineering representative may approve information relating to power plant installations within limitations prescribed by and under the general supervision of the Administrator whenever the representative determines that information complies with the applicable regulations of this chapter.
+. A systems and equipment engineering representative may approve engineering information relating to equipment and systems, other than those of a structural, powerplant, or radio nature, within limits prescribed by and under the general supervision of the Administrator, whenever the representative determines that information complies with the applicable regulations of this chapter.
+. A radio engineering representative may approve engineering information relating to the design and operating characteristics of radio equipment, within limits prescribed by and under the general supervision of the Administrator whenever the representative determines that information complies with the applicable regulations of this chapter.
+. An engine engineering representative may approve engineering information relating to engine design, operation and service, within limits prescribed by and under the general supervision of the Administrator, whenever the representative determines that information complies with the applicable regulations of this chapter.
+. A propeller engineering representative may approve engineering information relating to propeller design, operation, and maintenance, within limits prescribed by and under the general supervision of the Administrator whenever the representative determines that information complies with the applicable regulations of this chapter.
+. A flight analyst representative may approve flight test information, within limits prescribed by and under the general supervision of the Administrator, whenever the representative determines that information complies with the applicable regulations of this chapter.
+. A flight test pilot representative may make flight tests, and prepare and approve flight test information relating to compliance with the regulations of this chapter, within limits prescribed by and under the general supervision of the Administrator.
+. An acoustical engineering representative may witness and approve aircraft noise certification tests and approve measured noise data and evaluated noise data analyses, within the limits prescribed by, and under the general supervision of, the Administrator, whenever the representative determines that the noise test, test data, and associated analyses are in conformity with the applicable regulations of this chapter. Those regulations include, where appropriate, the methodologies and any equivalencies previously approved by the Director of Environment and Energy, for that noise test series. No designated acoustical engineering representative may determine that a type design change is not an acoustical change, or approve equivalencies to prescribed noise procedures or standards.
+
+## § 183.31
+
+### Designated manufacturing inspection representatives.
+
+A designated manufacturing inspection representative (DMIR) may, within limits prescribed by, and under the general supervision of, the Administrator, do the following:
+
+. Issue—
+.. Original airworthiness certificates for aircraft and airworthiness approvals for engines, propellers, and product parts that conform to the approved design requirements and are in a condition for safe operation;
+.. Export certificates of airworthiness and airworthiness approval tags in accordance with subpart L of part 21 of this chapter;
+.. Experimental certificates for aircraft for which the manufacturer holds the type certificate and which have undergone changes to the type design requiring a flight test; and
+.. Special flight permits to export aircraft.
+. Conduct any inspections that may be necessary to determine that—
+.. Prototype products and related parts conform to design specifications; and
+.. Production products and related parts conform to the approved type design and are in condition for safe operation.
+. Perform functions authorized by this section for the manufacturer, or the manufacturer's supplier, at any location authorized by the FAA.
+
+## § 183.33
+
+### Designated Airworthiness Representative.
+
+A Designated Airworthiness Representative (DAR) may, within limits prescribed by and under the general supervision of the Administrator, do the following:
+
+. Perform examination, inspection, and testing services necessary to issue, and to determine the continuing effectiveness of, certificates, including issuing certificates, as authorized by the Director of Flight Standards Service in the area of maintenance or as authorized by the Director of Aircraft Certification Service in the areas of manufacturing and engineering.
+. Charge a fee for his or her services.
+. Perform authorized functions at any authorized location.
+

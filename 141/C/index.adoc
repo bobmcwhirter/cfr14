@@ -1,0 +1,75 @@
+# Training Course Outline and Curriculum
+:toc:
+
+## § 141.51
+
+### Applicability.
+
+This subpart prescribes the curriculum and course outline requirements for the issuance of a pilot school certificate or provisional pilot school certificate and ratings.
+
+## § 141.53
+
+### Approval procedures for a training course: General.
+
+. *General.* An applicant for a pilot school certificate or provisional pilot school certificate must obtain the Administrator's approval of the outline of each training course for which certification and rating is sought.
+. *Application.* (1) An application for the approval of an initial or amended training course must be submitted in duplicate to the FAA Flight Standards District Office having jurisdiction over the area where the school is based.
+. *Training courses.* An applicant for a pilot school certificate or provisional pilot school certificate may request approval for the training courses specified under § 141.11(b).
+. *Additional rules for internet based training courses.* An application for an initial or amended training course offered through an internet based medium must comply with the following:
+.. All amendments must be identified numerically by page, date, and screen. Minor editorial and typographical changes do not require FAA approval, provided the school notifies the FAA within 30 days of their insertion.
+.. For monitoring purposes, the school must provide the FAA an acceptable means to log-in and log-off from a remote location to review all elements of the course as viewed by attendees and to by-pass the normal attendee restrictions.
+.. The school must incorporate adequate security measures into its internet-based courseware information system and into its operating and maintenance procedures to ensure the following fundamental areas of security and protection:
+... Integrity.
+... Identification/Authentication.
+... Confidentiality.
+... Availability.
+... Access control.
+
+(2) An application for the approval of an initial or amended training course must be submitted at least 30 days before any training under that course, or any amendment thereto, is scheduled to begin.
+
+(3) An application for amending a training course must be accompanied by two copies of the amendment.
+
+## § 141.55
+
+### Training course: Contents.
+
+. Each training course for which approval is requested must meet the minimum curriculum requirements in accordance with the appropriate appendix of this part.
+. Except as provided in paragraphs (d) and (e) of this section, each training course for which approval is requested must meet the minimum ground and flight training time requirements in accordance with the appropriate appendix of this part.
+. Each training course for which approval is requested must contain:
+.. A description of each room used for ground training, including the room's size and the maximum number of students that may be trained in the room at one time, unless the course is provided via an internet-based training medium;
+.. A description of each type of audiovisual aid, projector, tape recorder, mockup, chart, aircraft component, and other special training aids used for ground training;
+.. A description of each flight simulator or flight training device used for training;
+.. A listing of the airports at which training flights originate and a description of the facilities, including pilot briefing areas that are available for use by the school's students and personnel at each of those airports;
+.. A description of the type of aircraft including any special equipment used for each phase of training;
+.. The minimum qualifications and ratings for each instructor assigned to ground or flight training; and
+.. A training syllabus that includes the following information—
+              
+... The prerequisites for enrolling in the ground and flight portion of the course that include the pilot certificate and rating (if required by this part), training, pilot experience, and pilot knowledge;
+... A detailed description of each lesson, including the lesson's objectives, standards, and planned time for completion;
+... A description of what the course is expected to accomplish with regard to student learning;
+... The expected accomplishments and the standards for each stage of training; and
+... A description of the checks and tests to be used to measure a student's accomplishments for each stage of training.
+. A pilot school may request and receive initial approval for a period of not more than 24 calendar months for any training course under this part that does not meet the minimum ground and flight training time requirements, provided the following provisions are met:
+.. The school holds a pilot school certificate issued under this part and has held that certificate for a period of at least 24 consecutive calendar months preceding the month of the request;
+.. In addition to the information required by paragraph (c) of this section, the training course specifies planned ground and flight training time requirements for the course;
+.. The school does not request the training course to be approved for examining authority, nor may that school hold examining authority for that course; and
+.. The practical test or knowledge test for the course is to be given by—
+... An FAA inspector; or
+... An examiner who is not an employee of the school.
+. A pilot school may request and receive final approval for any training course under this part that does not meet the minimum ground and flight training time requirements, provided the following conditions are met:
+.. The school has held initial approval for that training course for at least 24 calendar months.
+.. The school has—
+... Trained at least 10 students in that training course within the preceding 24 calendar months and recommended those students for a pilot, flight instructor, or ground instructor certificate or rating; and
+... At least 80 percent of those students passed the practical or knowledge test, as appropriate, on the first attempt, and that test was given by—
+.. In addition to the information required by paragraph (c) of this section, the training course specifies planned ground and flight training time requirements for the course.
+.. The school does not request that the training course be approved for examining authority nor may that school hold examining authority for that course.
+
+(A) An FAA inspector; or
+
+(B) An examiner who is not an employee of the school.
+
+## § 141.57
+
+### Special curricula.
+
+An applicant for a pilot school certificate or provisional pilot school certificate may apply for approval to conduct a special course of airman training for which a curriculum is not prescribed in the appendixes of this part, if the applicant shows that the training course contains features that could achieve a level of pilot proficiency equivalent to that achieved by a training course prescribed in the appendixes of this part or the requirements of part 61 of this chapter.
+

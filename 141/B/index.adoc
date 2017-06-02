@@ -1,0 +1,217 @@
+# Personnel, Aircraft, and Facilities Requirements
+:toc:
+
+## § 141.31
+
+### Applicability.
+
+. This subpart prescribes:
+.. The personnel and aircraft requirements for a pilot school certificate or a provisional pilot school certificate; and
+.. The facilities that a pilot school or provisional pilot school must have available on a continuous basis.
+. As used in this subpart, to have continuous use of a facility, including an airport, the school must have:
+.. Ownership of the facility or airport for at least 6 calendar months after the date the application for initial certification and on the date of renewal of the school's certificate is made; or
+.. A written lease agreement for the facility or airport for at least 6 calendar months after the date the application for initial certification and on the date of renewal of the school's certificate is made.
+
+## § 141.33
+
+### Personnel.
+
+. An applicant for a pilot school certificate or for a provisional pilot school certificate must meet the following personnel requirements:
+.. Each applicant must have adequate personnel, including certificated flight instructors, certificated ground instructors, or holders of a commercial pilot certificate with a lighter-than-air rating, and a chief instructor for each approved course of training who is qualified and competent to perform the duties to which that instructor is assigned.
+.. If the school employs dispatchers, aircraft handlers, and line and service personnel, then it must instruct those persons in the procedures and responsibilities of their employment.
+.. Each instructor to be used for ground or flight training must hold a flight instructor certificate, ground instructor certificate, or commercial pilot certificate with a lighter-than-air rating, as appropriate, with ratings for the approved course of training and any aircraft used in that course.
+.. In addition to meeting the requirements of paragraph (a)(3) of this section, each instructor used for the airline transport pilot certification training program in § 61.156 of this chapter must:
+... Hold an airline transport pilot certificate with an airplane category multiengine class rating;
+... Have at least 2 years of experience as a pilot in command in operations conducted under § 91.1053(a)(2)(i) or § 135.243(a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under part 121 of this chapter; and
+... If providing training in a flight simulation training device, have received training and evaluation within the preceding 12 months from the certificate holder on—
+. An applicant for a pilot school certificate or for a provisional pilot school certificate must designate a chief instructor for each of the school's approved training courses, who must meet the requirements of § 141.35 of this part.
+. When necessary, an applicant for a pilot school certificate or for a provisional pilot school certificate may designate a person to be an assistant chief instructor for an approved training course, provided that person meets the requirements of § 141.36 of this part.
+. A pilot school and a provisional pilot school may designate a person to be a check instructor for conducting student stage checks, end-of-course tests, and instructor proficiency checks, provided:
+.. That person meets the requirements of § 141.37 of this part; and
+.. The school has an enrollment of at least 10 students at the time designation is sought.
+. A person, as listed in this section, may serve in more than one position for a school, provided that person is qualified for each position.
+
+(A) Proper operation of flight simulator and flight training device controls and systems;
+
+(B) Proper operation of environmental and fault panels,
+
+(C) Data and motion limitations of simulation;
+
+(D) Minimum equipment requirements for each curriculum; and
+
+(E) The maneuvers that will be demonstrated in the flight simulation training device.
+
+## § 141.34
+
+### Employment of former FAA employees.
+
+. Except as specified in paragraph (c) of this section, no holder of a pilot school certificate or a provisional pilot school certificate may knowingly employ or make a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2 years—
+.. Served as, or was directly responsible for the oversight of, a Flight Standards Service aviation safety inspector; and
+.. Had direct responsibility to inspect, or oversee the inspection of, the operations of the certificate holder.
+. For the purpose of this section, an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the agency if the individual makes any written or oral communication on behalf of the certificate holder to the agency (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a Flight Standards Service aviation safety inspector.
+. The provisions of this section do not prohibit a holder of a pilot school certificate or a provisional pilot school certificate from knowingly employing or making a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual was employed by the certificate holder before October 21, 2011.
+
+## § 141.35
+
+### Chief instructor qualifications.
+
+. To be eligible for designation as a chief instructor for a course of training, a person must meet the following requirements:
+.. Hold a commercial pilot certificate or an airline transport pilot certificate, and, except for a chief instructor for a course of training solely for a lighter-than-air rating, a current flight instructor certificate. The certificates must contain the appropriate aircraft category and class ratings for the category and class of aircraft used in the course and an instrument rating, if an instrument rating is required for enrollment in the course of training;
+.. Meet the pilot-in-command recent flight experience requirements of § 61.57 of this chapter;
+.. Pass a knowledge test on—
+... Teaching methods;
+... Applicable provisions of the “Aeronautical Information Manual”;
+... Applicable provisions of parts 61, 91, and 141 of this chapter; and
+... The objectives and approved course completion standards of the course for which the person seeks to obtain designation.
+.. Pass a proficiency test on instructional skills and ability to train students on the flight procedures and maneuvers appropriate to the course;
+.. Except for a course of training for gliders, balloons, or airships, the chief instructor must meet the applicable requirements in paragraphs (b), (c), and (d) of this section; and
+.. A chief instructor for a course of training for gliders, balloons or airships is only required to have 40 percent of the hours required in paragraphs (b) and (d) of this section.
+. For a course of training leading to the issuance of a recreational or private pilot certificate or rating, a chief instructor must have:
+.. At least 1,000 hours as pilot in command; and
+              
+.. Primary flight training experience, acquired as either a certificated flight instructor or an instructor in a military pilot flight training program, or a combination thereof, consisting of at least—
+... 2 years and a total of 500 flight hours; or
+... 1,000 flight hours.
+. For a course of training leading to the issuance of an instrument rating or a rating with instrument privileges, a chief instructor must have:
+.. At least 100 hours of flight time under actual or simulated instrument conditions;
+.. At least 1,000 hours as pilot in command; and
+.. Instrument flight instructor experience, acquired as either a certificated flight instructor-instrument or an instructor in a military pilot flight training program, or a combination thereof, consisting of at least—
+... 2 years and a total of 250 flight hours; or
+... 400 flight hours.
+. For a course of training other than one leading to the issuance of a recreational or private pilot certificate or rating, or an instrument rating or a rating with instrument privileges, a chief instructor must have:
+.. At least 2,000 hours as pilot in command; and
+.. Flight training experience, acquired as either a certificated flight instructor or an instructor in a military pilot flight training program, or a combination thereof, consisting of at least—
+... 3 years and a total of 1,000 flight hours; or
+... 1,500 flight hours.
+. To be eligible for designation as chief instructor for a ground school course, a person must have 1 year of experience as a ground school instructor at a certificated pilot school.
+
+## § 141.36
+
+### Assistant chief instructor qualifications.
+
+. To be eligible for designation as an assistant chief instructor for a course of training, a person must meet the following requirements:
+.. Hold a commercial pilot or an airline transport pilot certificate and, except for the assistant chief instructor for a course of training solely for a lighter-than-air rating, a current flight instructor certificate. The certificates must contain the appropriate aircraft category, class, and instrument ratings if an instrument rating is required by the course of training for the category and class of aircraft used in the course;
+.. Meet the pilot-in-command recent flight experience requirements of § 61.57 of this chapter;
+.. Pass a knowledge test on—
+... Teaching methods;
+... Applicable provisions of the “Aeronautical Information Manual”;
+... Applicable provisions of parts 61, 91, and 141 of this chapter; and
+... The objectives and approved course completion standards of the course for which the person seeks to obtain designation.
+.. Pass a proficiency test on the flight procedures and maneuvers appropriate to that course; and
+.. Meet the applicable requirements in paragraphs (b), (c), and (d) of this section. However, an assistant chief instructor for a course of training for gliders, balloons, or airships is only required to have 40 percent of the hours required in paragraphs (b) and (d) of this section.
+. For a course of training leading to the issuance of a recreational or private pilot certificate or rating, an assistant chief instructor must have:
+.. At least 500 hours as pilot in command; and
+.. Flight training experience, acquired as either a certificated flight instructor or an instructor in a military pilot flight training program, or a combination thereof, consisting of at least—
+... 1 year and a total of 250 flight hours; or
+... 500 flight hours.
+. For a course of training leading to the issuance of an instrument rating or a rating with instrument privileges, an assistant chief flight instructor must have:
+              
+.. At least 50 hours of flight time under actual or simulated instrument conditions;
+.. At least 500 hours as pilot in command; and
+.. Instrument flight instructor experience, acquired as either a certificated flight instructor-instrument or an instructor in a military pilot flight training program, or a combination thereof, consisting of at least—
+... 1 year and a total of 125 flight hours; or
+... 200 flight hours.
+. For a course of training other than one leading to the issuance of a recreational or private pilot certificate or rating, or an instrument rating or a rating with instrument privileges, an assistant chief instructor must have:
+.. At least 1,000 hours as pilot in command; and
+.. Flight training experience, acquired as either a certificated flight instructor or an instructor in a military pilot flight training program, or a combination thereof, consisting of at least—
+... 11/2 years and a total of 500 flight hours; or
+... 750 flight hours.
+. To be eligible for designation as an assistant chief instructor for a ground school course, a person must have 6 months of experience as a ground school instructor at a certificated pilot school.
+
+## § 141.37
+
+### Check instructor qualifications.
+
+. To be designated as a check instructor for conducting student stage checks, end-of-course tests, and instructor proficiency checks under this part, a person must meet the eligibility requirements of this section:
+.. For checks and tests that relate to either flight or ground training, the person must pass a test, given by the chief instructor, on—
+... Teaching methods;
+... Applicable provisions of the “Aeronautical Information Manual”;
+... Applicable provisions of parts 61, 91, and 141 of this chapter; and
+... The objectives and course completion standards of the approved training course for the designation sought.
+.. For checks and tests that relate to a flight training course, the person must—
+... Meet the requirements in paragraph (a)(1) of this section;
+... Hold a commercial pilot certificate or an airline transport pilot certificate and, except for a check instructor for a course of training for a lighter-than-air rating, a current flight instructor certificate. The certificates must contain the appropriate aircraft category, class, and instrument ratings for the category and class of aircraft used in the course;
+... Meet the pilot-in-command recent flight experience requirements of § 61.57 of this chapter; and
+... Pass a proficiency test, given by the chief instructor or assistant chief instructor, on the flight procedures and maneuvers of the approved training course for the designation sought.
+.. For checks and tests that relate to ground training, the person must—
+... Meet the requirements in paragraph (a)(1) of this section;
+... Except for a course of training for a lighter-than-air rating, hold a current flight instructor certificate or ground instructor certificate with ratings appropriate to the category and class of aircraft used in the course; and
+... For a course of training for a lighter-than-air rating, hold a commercial pilot certificate with a lighter-than-air category rating and the appropriate class rating.
+. A person who meets the eligibility requirements in paragraph (a) of this section must:
+.. Be designated, in writing, by the chief instructor to conduct student stage checks, end-of-course tests, and instructor proficiency checks; and
+.. Be approved by the FAA Flight Standards District Office having jurisdiction over the school.
+. A check instructor may not conduct a stage check or an end-of-course test of any student for whom the check instructor has:
+.. Served as the principal instructor; or
+              
+.. Recommended for a stage check or end-of-course test.
+
+## § 141.38
+
+### Airports.
+
+. An applicant for a pilot school certificate or a provisional pilot school certificate must show that he or she has continuous use of each airport at which training flights originate.
+. Each airport used for airplanes and gliders must have at least one runway or takeoff area that allows training aircraft to make a normal takeoff or landing under the following conditions at the aircraft's maximum certificated takeoff gross weight:
+.. Under wind conditions of not more than 5 miles per hour;
+.. At temperatures in the operating area equal to the mean high temperature for the hottest month of the year;
+.. If applicable, with the powerplant operation, and landing gear and flap operation recommended by the manufacturer; and
+.. In the case of a takeoff—
+... With smooth transition from liftoff to the best rate of climb speed without exceptional piloting skills or techniques; and
+... Clearing all obstacles in the takeoff flight path by at least 50 feet.
+. Each airport must have a wind direction indicator that is visible from the end of each runway at ground level;
+. Each airport must have a traffic direction indicator when:
+.. The airport does not have an operating control tower; and
+.. UNICOM advisories are not available.
+. Except as provided in paragraph (f) of this section, each airport used for night training flights must have permanent runway lights;
+. An airport or seaplane base used for night training flights in seaplanes is permitted to use adequate nonpermanent lighting or shoreline lighting, if approved by the Administrator.
+
+## § 141.39
+
+### Aircraft.
+
+. When the school's training facility is located within the U.S., an applicant for a pilot school certificate or provisional pilot school certificate must show that each aircraft used by the school for flight training and solo flights:
+.. Is a civil aircraft of the United States;
+.. Is certificated with a standard airworthiness certificate, a primary airworthiness certificate, or a special airworthiness certificate in the light-sport category unless the FAA determines otherwise because of the nature of the approved course;
+.. Is maintained and inspected in accordance with the requirements for aircraft operated for hire under part 91, subpart E, of this chapter;
+.. Has two pilot stations with engine-power controls that can be easily reached and operated in a normal manner from both pilot stations (for flight training); and
+.. Is equipped and maintained for IFR operations if used in a course involving IFR en route operations and instrument approaches. For training in the control and precision maneuvering of an aircraft by reference to instruments, the aircraft may be equipped as provided in the approved course of training.
+. When the school's training facility is located outside the U.S. and the training will be conducted outside the U.S., an applicant for a pilot school certificate or provisional pilot school certificate must show that each aircraft used by the school for flight training and solo flights:
+.. Is either a civil aircraft of the United States or a civil aircraft of foreign registry;
+.. Is certificated with a standard or primary airworthiness certificate or an equivalent certification from the foreign aviation authority;
+.. Is maintained and inspected in accordance with the requirements for aircraft operated for hire under part 91, subpart E of this chapter, or in accordance with equivalent maintenance and inspection from the foreign aviation authority's requirements;
+.. Has two pilot stations with engine-power controls that can be easily reached and operated in a normal manner from both pilot stations (for flight training); and
+              
+.. Is equipped and maintained for IFR operations if used in a course involving IFR en route operations and instrument approaches. For training in the control and precision maneuvering of an aircraft by reference to instruments, the aircraft may be equipped as provided in the approved course of training.
+
+## § 141.41
+
+### Full flight simulators, flight training devices, aviation training devices, and training aids.
+
+An applicant for a pilot school certificate or a provisional pilot school certificate must show that its full flight simulators, flight training devices, aviation training devices, training aids, and equipment meet the following requirements:
+
+. *Full flight simulators and flight training devices.* Each full flight simulator and flight training device used to obtain flight training credit in an approved pilot training course curriculum must be:
+.. Qualified under part 60 of this chapter, or a previously qualified device, as permitted in accordance with § 60.17 of this chapter; and
+.. Approved by the Administrator for the tasks and maneuvers.
+. *Aviation training devices.* Each basic or advanced aviation training device used to obtain flight training credit in an approved pilot training course curriculum must be evaluated, qualified, and approved by the Administrator.
+. *Training aids and equipment.* Each training aid, including any audiovisual aid, projector, mockup, chart, or aircraft component listed in the approved training course outline, must be accurate and relevant to the course for which it is used.
+
+## § 141.43
+
+### Pilot briefing areas.
+
+. An applicant for a pilot school certificate or provisional pilot school certificate must show that the applicant has continuous use of a briefing area located at each airport at which training flights originate that is:
+.. Adequate to shelter students waiting to engage in their training flights;
+.. Arranged and equipped for the conduct of pilot briefings; and
+.. Except as provided in paragraph (c) of this section, for a school with an instrument rating or commercial pilot course, equipped with private landline or telephone communication to the nearest FAA Flight Service Station.
+. A briefing area required by paragraph (a) of this section may not be used by the applicant if it is available for use by any other pilot school during the period it is required for use by the applicant.
+. The communication equipment required by paragraph (a)(3) of this section is not required if the briefing area and the flight service station are located on the same airport, and are readily accessible to each other.
+
+## § 141.45
+
+### Ground training facilities.
+
+An applicant for a pilot school or provisional pilot school certificate must show that:
+
+. Except as provided in paragraph (c) of this section, each room, training booth, or other space used for instructional purposes is heated, lighted, and ventilated to conform to local building, sanitation, and health codes.
+. Except as provided in paragraph (c) of this section, the training facility is so located that the students in that facility are not distracted by the training conducted in other rooms, or by flight and maintenance operations on the airport.
+. If a training course is conducted through an internet-based medium, the holder of a pilot school certificate or provisional pilot school certificate that provides such training need not comply with paragraphs (a) and (b) of this section but must maintain in current status a permanent business location and business telephone number.
+

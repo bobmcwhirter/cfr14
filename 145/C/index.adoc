@@ -1,0 +1,59 @@
+# Housing, Facilities, Equipment, Materials, and Data
+:toc:
+
+## § 145.101
+
+### General.
+
+A certificated repair station must provide housing, facilities, equipment, materials, and data that meet the applicable requirements for the issuance of the certificate and ratings the repair station holds.
+
+## § 145.103
+
+### Housing and facilities requirements.
+
+. Each certificated repair station must provide—
+.. Housing for the facilities, equipment, materials, and personnel consistent with its ratings and limitations.
+.. Facilities for properly performing the maintenance, preventive maintenance, or alterations of articles or the specialized service for which it is rated. Facilities must include the following:
+... Sufficient work space and areas for the proper segregation and protection of articles during all maintenance, preventive maintenance, or alterations.
+... Segregated work areas enabling environmentally hazardous or sensitive operations such as painting, cleaning, welding, avionics work, electronic work, and machining to be done properly and in a manner that does not adversely affect other maintenance or alteration articles or activities;
+... Suitable racks, hoists, trays, stands, and other segregation means for the storage and protection of all articles undergoing maintenance, preventive maintenance, or alterations, and;
+... Space sufficient to segregate articles and materials stocked for installation from those articles undergoing maintenance, preventive maintenance, or alterations to the standards required by this part.
+... Ventilation, lighting, and control of temperature, humidity, and other climatic conditions sufficient to ensure personnel perform maintenance, preventive maintenance, or alterations to the standards required by this part.
+. A certificated repair station may perform maintenance, preventive maintenance, or alterations on articles outside of its housing if it provides suitable facilities that are acceptable to the FAA and meet the requirements of § 145.103(a) so that the work can be done in accordance with the requirements of part 43 of this chapter.
+
+## § 145.105
+
+### Change of location, housing, or facilities.
+
+. A certificated repair station may not change the location of its housing without written approval from the FAA.
+. A certificated repair station may not make any changes to its housing or facilities required by § 145.103 that could have a significant effect on its ability to perform the maintenance, preventive maintenance, or alterations under its repair station certificate and operations specifications without written approval from the FAA.
+. The FAA may prescribe the conditions, including any limitations, under which a certificated repair station must operate while it is changing its location, housing, or facilities.
+
+## § 145.107
+
+### Satellite repair stations.
+
+. A certificated repair station under the managerial control of another certificated repair station may operate as a satellite repair station with its own certificate issued by the FAA. A satellite repair station—
+.. May not hold a rating not held by the certificated repair station with managerial control;
+.. Must meet the requirements for each rating it holds;
+.. Must submit a repair station manual acceptable to the FAA as required by § 145.207; and
+.. Must submit a quality control manual acceptable to the FAA as required by § 145.211(c).
+. Unless the FAA indicates otherwise, personnel and equipment from the certificated repair station with managerial control and from each of the satellite repair stations may be shared. However, inspection personnel must be designated for each satellite repair station and available at the satellite repair station any time a determination of airworthiness or return to service is made. In other circumstances, inspection personnel may be away from the premises but must be available by telephone, radio, or other electronic means.
+. A satellite repair station may not be located in a country other than the domicile country of the certificated repair station with managerial control.
+
+## § 145.109
+
+### Equipment, materials, and data requirements.
+
+. Except as otherwise prescribed by the FAA, a certificated repair station must have the equipment, tools, and materials necessary to perform the maintenance, preventive maintenance, or alterations under its repair station certificate and operations specifications in accordance with part 43. The equipment, tools, and material must be located on the premises and under the repair station's control when the work is being done.
+. A certificated repair station must ensure all test and inspection equipment and tools used to make airworthiness determinations on articles are calibrated to a standard acceptable to the FAA.
+. The equipment, tools, and material must be those recommended by the manufacturer of the article or must be at least equivalent to those recommended by the manufacturer and acceptable to the FAA.
+. A certificated repair station must maintain, in a format acceptable to the FAA, the documents and data required for the performance of maintenance, preventive maintenance, or alterations under its repair station certificate and operations specifications in accordance with part 43. The following documents and data must be current and accessible when the relevant work is being done:
+.. Airworthiness directives,
+.. Instructions for continued airworthiness,
+.. Maintenance manuals,
+.. Overhaul manuals,
+.. Standard practice manuals,
+.. Service bulletins, and
+.. Other applicable data acceptable to or approved by the FAA.
+

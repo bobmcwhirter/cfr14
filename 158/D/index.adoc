@@ -1,0 +1,71 @@
+# Reporting, Recordkeeping and Audits
+:toc:
+
+## § 158.61
+
+### General.
+
+This subpart contains the requirements for reporting, recordkeeping and auditing of accounts maintained by collecting carriers and by public agencies.
+
+## § 158.63
+
+### Reporting requirements: Public agency.
+
+. The public agency must provide quarterly reports to air carriers collecting PFCs for the public agency with a copy to the appropriate FAA Airports Office. The quarterly report must include:
+.. Actual PFC revenue received from collecting air carriers, interest earned, and project expenditures for the quarter;
+.. Cumulative actual PFC revenue received, interest earned, project expenditures, and the amount committed for use on currently approved projects, including the quarter;
+              
+.. The PFC level for each project; and
+.. Each project's current schedule.
+. The report shall be provided on or before the last day of the calendar month following the calendar quarter or other period agreed by the public agency and collecting carrier.
+. For medium and large hub airports, the public agency must provide to the FAA, by July 1 of each year, an estimate of PFC revenue to be collected for each airport in the following fiscal year.
+
+## § 158.65
+
+### Reporting requirements: Collecting air carriers.
+
+. Each air carrier collecting PFCs for a public agency must provide quarterly reports to the public agency unless otherwise agreed by the collecting air carrier and public agency, providing an accounting of funds collected and funds remitted.
+.. Unless otherwise agreed by the collecting air carrier and public agency, reports must state:
+... The collecting air carrier and airport involved,
+... The total PFC revenue collected,
+... The total PFC revenue refunded to passengers,
+... The collected revenue withheld for reimbursement of expenses under § 158.53, and
+... The dates and amounts of each remittance for the quarter.
+.. The report must be filed by the last day of the month following the calendar quarter or other period agreed by the collecting carrier and public agency for which funds were collected.
+. A covered air carrier must provide the FAA with:
+.. A copy of its quarterly report by the established schedule under paragraph (a) of this section; and
+.. A monthly PFC account statement delivered not later than the fifth day of the following month. This monthly statement must include:
+... The balance in the account on the first day of the month,
+... The total funds deposited during the month,
+... The total funds disbursed during the month, and
+... The closing balance in the account.
+
+## § 158.67
+
+### Recordkeeping and auditing: Public agency.
+
+. Each public agency shall keep any unliquidated PFC revenue remitted to it by collecting carriers on deposit in an interest bearing account or in other interest bearing instruments used by the public agency's airport capital fund. Interest earned on such PFC revenue shall be used, in addition to the principal, to pay the allowable costs of PFC-funded projects. PFC revenue may only be commingled with other public agency airport capital funds in deposits or interest bearing instruments.
+. Each public agency shall establish and maintain for each approved application a separate accounting record. The accounting record shall identify the PFC revenue received from the collecting carriers, interest earned on such revenue, the amounts used on each project, and the amount reserved for currently approved projects.
+. At least annually during the period the PFC is collected, held or used, each public agency shall provide for an audit of its PFC account. The audit shall be performed by an accredited independent public accountant and may be of limited scope. The accountant shall express an opinion of the fairness and reasonableness of the public agency's procedures for receiving, holding, and using PFC revenue. The accountant shall also express an opinion on whether the quarterly report required under § 158.63 fairly represents the net transactions within the PFC account. The audit may be—
+.. Performed specifically for the PFC account; or
+.. Conducted as part of an audit under Office of Management and Budget Circular A-133 (the Single Audit Act of 1984, Pub. L. 98-502, and the Single Audit Act Amendments of 1996, Pub. L. 104-156) provided the auditor specifically addresses the PFC.
+.. Upon request, a copy of the audit shall be provided to each collecting carrier that remitted PFC revenue to the public agency in the period covered by the audit and to the Administrator.
+
+## § 158.69
+
+### Recordkeeping and auditing: Collecting carriers.
+
+. Collecting carriers shall establish and maintain for each public agency for which they collect a PFC an accounting record of PFC revenue collected, remitted, refunded and compensation retained under § 158.53(a) of this part. The accounting record shall identify the airport at which the passengers were enplaned.
+. Each collecting carrier that collects more than 50,000 PFC's annually shall provide for an audit at least annually of its PFC account.
+.. The audit shall be performed by an accredited independent public accountant and may be of limited scope. The accountant shall express an opinion on the fairness and reasonableness of the carrier's procedures for collecting, holding, and dispersing PFC revenue. The opinion shall also address whether the quarterly reports required under § 158.65 fairly represent the net transactions in the PFC account.
+.. For the purposes of an audit under this section, collection is defined as the point when agents or other intermediaries remit PFC revenue to the carrier.
+.. Upon request, a copy of the audit shall be provided to each public agency for which a PFC is collected.
+
+## § 158.71
+
+### Federal oversight.
+
+. The Administrator may periodically audit and/or review the use of PFC revenue by a public agency. The purpose of the audit or review is to ensure that the public agency is in compliance with the requirements of this part and 49 U.S.C. 40117.
+. The Administrator may periodically audit and/or review the collection and remittance by the collecting carriers of PFC revenue. The purpose of the audit or review is to ensure collecting carriers are in compliance with the requirements of this part and 49 U.S.C. 40117.
+. Public agencies and carriers shall allow any authorized representative of the Administrator, the Secretary of Transportation, or the Comptroller General of the U.S., access to any of its books, documents, papers, and records pertinent to PFC's
+

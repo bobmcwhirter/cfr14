@@ -1,0 +1,499 @@
+# Operations
+:toc:
+
+## § 139.301
+
+### Records.
+
+In a manner authorized by the Administrator, each certificate holder must—
+
+. Furnish upon request by the Administrator all records required to be maintained under this part.
+. Maintain records required under this part as follows:
+.. *Personnel training.* Twenty-four consecutive calendar months for personnel training records, as required under §§ 139.303 and 139.327.
+.. *Emergency personnel training.* Twenty-four consecutive calendar months for aircraft rescue and firefighting and emergency medical service personnel training records, as required under § 139.319.
+.. *Airport fueling agent inspection.* Twelve consecutive calendar months for records of inspection of airport fueling agents, as required under § 139.321.
+.. *Fueling personnel training.* Twelve consecutive calendar months for training records of fueling personnel, as required under § 139.321.
+.. *Self-inspection.* Twelve consecutive calendar months for self-inspection records, as required under § 139.327.
+.. *Movement areas and safety areas training.* Twenty-four consecutive calendar months for records of training given to pedestrians and ground vehicle operators with access to movement areas and safety areas, as required under § 139.329.
+.. *Accident and incident.* Twelve consecutive calendar months for each accident or incident in movement areas and safety areas involving an air carrier aircraft and/or ground vehicle, as required under § 139.329.
+.. *Airport condition.* Twelve consecutive calendar months for records of airport condition information dissemination, as required under § 139.339.
+. Make and maintain any additional records required by the Administrator, this part, and the Airport Certification Manual.
+
+## § 139.303
+
+### Personnel.
+
+In a manner authorized by the Administrator, each certificate holder must—
+
+. Provide sufficient and qualified personnel to comply with the requirements of its Airport Certification Manual and the requirements of this part.
+. Equip personnel with sufficient resources needed to comply with the requirements of this part.
+. Train all persons who access movement areas and safety areas and perform duties in compliance with the requirements of the Airport Certification Manual and the requirements of this part. This training must be completed prior to the initial performance of such duties and at least once every 12 consecutive calendar months. The curriculum for initial and recurrent training must include at least the following areas:
+.. Airport familiarization, including airport marking, lighting, and signs system.
+.. Procedures for access to, and operation in, movement areas and safety areas, as specified under § 139.329.
+.. Airport communications, including radio communication between the air traffic control tower and personnel, use of the common traffic advisory frequency if there is no air traffic control tower or the tower is not in operation, and procedures for reporting unsafe airport conditions.
+.. Duties required under the Airport Certification Manual and the requirements of this part.
+.. Any additional subject areas required under §§ 139.319, 139.321, 139.327, 139.329, 139.337, and 139.339, as appropriate.
+. Make a record of all training completed after June 9, 2004 by each individual in compliance with this section that includes, at a minimum, a description and date of training received. Such records must be maintained for 24 consecutive calendar months after completion of training.
+. As appropriate, comply with the following training requirements of this part:
+.. § 139.319, Aircraft rescue and firefighting: Operational requirements;
+.. § 139.321, Handling and storage of hazardous substances and materials;
+.. § 139.327, Self-inspection program;
+.. § 139.329, Pedestrians and Ground Vehicles;
+.. § 139.337, Wildlife hazard management; and
+.. § 139.339, Airport condition reporting.
+. Use an independent organization, or designee, to comply with the requirements of its Airport Certification Manual and the requirements of this part only if—
+.. Such an arrangement is authorized by the Administrator;
+.. A description of responsibilities and duties that will be assumed by an independent organization or designee is specified in the Airport Certification Manual; and
+.. The independent organization or designee prepares records required under this part in sufficient detail to assure the certificate holder and the Administrator of adequate compliance with the Airport Certification Manual and the requirements of this part.
+
+## § 139.305
+
+### Paved areas.
+
+. In a manner authorized by the Administrator, each certificate holder must maintain, and promptly repair the pavement of, each runway, taxiway, loading ramp, and parking area on the airport that is available for air carrier use as follows:
+.. The pavement edges must not exceed 3 inches difference in elevation between abutting pavement sections and between pavement and abutting areas.
+.. The pavement must have no hole exceeding 3 inches in depth nor any hole the slope of which from any point in the hole to the nearest point at the lip of the hole is 45 degrees or greater, as measured from the pavement surface plane, unless, in either case, the entire area of the hole can be covered by a 5-inch diameter circle.
+.. The pavement must be free of cracks and surface variations that could impair directional control of air carrier aircraft, including any pavement crack or surface deterioration that produces loose aggregate or other contaminants.
+.. Except as provided in paragraph (b) of this section, mud, dirt, sand, loose aggregate, debris, foreign objects, rubber deposits, and other contaminants must be removed promptly and as completely as practicable.
+.. Except as provided in paragraph (b) of this section, any chemical solvent that is used to clean any pavement area must be removed as soon as possible, consistent with the instructions of the manufacturer of the solvent.
+.. The pavement must be sufficiently drained and free of depressions to prevent ponding that obscures markings or impairs safe aircraft operations.
+. Paragraphs (a)(4) and (a)(5) of this section do not apply to snow and ice accumulations and their control, including the associated use of materials, such as sand and deicing solutions.
+. FAA Advisory Circulars contain methods and procedures for the maintenance and configuration of paved areas that are acceptable to the Administrator.
+
+## § 139.307
+
+### Unpaved areas.
+
+. In a manner authorized by the Administrator, each certificate holder must maintain and promptly repair the surface of each gravel, turf, or other unpaved runway, taxiway, or loading ramp and parking area on the airport that is available for air carrier use as follows:
+              
+.. No slope from the edge of the full-strength surfaces downward to the existing terrain must be steeper than 2:1.
+.. The full-strength surfaces must have adequate crown or grade to assure sufficient drainage to prevent ponding.
+.. The full-strength surfaces must be adequately compacted and sufficiently stable to prevent rutting by aircraft or the loosening or build-up of surface material, which could impair directional control of aircraft or drainage.
+.. The full-strength surfaces must have no holes or depressions that exceed 3 inches in depth and are of a breadth capable of impairing directional control or causing damage to an aircraft.
+.. Debris and foreign objects must be promptly removed from the surface.
+. FAA Advisory Circulars contain methods and procedures for the maintenance and configuration of unpaved areas that are acceptable to the Administrator.
+
+## § 139.309
+
+### Safety areas.
+
+. In a manner authorized by the Administrator, each certificate holder must provide and maintain, for each runway and taxiway that is available for air carrier use, a safety area of at least the dimensions that—
+.. Existed on December 31, 1987, if the runway or taxiway had a safety area on December 31, 1987, and if no reconstruction or significant expansion of the runway or taxiway was begun on or after January 1, 1988; or
+.. Are authorized by the Administrator at the time the construction, reconstruction, or expansion began if construction, reconstruction, or significant expansion of the runway or taxiway began on or after January 1, 1988.
+. Each certificate holder must maintain its safety areas as follows:
+.. Each safety area must be cleared and graded and have no potentially hazardous ruts, humps, depressions, or other surface variations.
+.. Each safety area must be drained by grading or storm sewers to prevent water accumulation.
+.. Each safety area must be capable under dry conditions of supporting snow removal and aircraft rescue and firefighting equipment and of supporting the occasional passage of aircraft without causing major damage to the aircraft.
+.. No objects may be located in any safety area, except for objects that need to be located in a safety area because of their function. These objects must be constructed, to the extent practical, on frangibly mounted structures of the lowest practical height, with the frangible point no higher than 3 inches above grade.
+. FAA Advisory Circulars contain methods and procedures for the configuration and maintenance of safety areas acceptable to the Administrator.
+
+## § 139.311
+
+### Marking, signs, and lighting.
+
+. *Marking.* Each certificate holder must provide and maintain marking systems for air carrier operations on the airport that are authorized by the Administrator and consist of at least the following:
+.. Runway markings meeting the specifications for takeoff and landing minimums for each runway.
+.. A taxiway centerline.
+.. Taxiway edge markings, as appropriate.
+.. Holding position markings.
+.. Instrument landing system (ILS) critical area markings.
+. *Signs.* (1) Each certificate holder must provide and maintain sign systems for air carrier operations on the airport that are authorized by the Administrator and consist of at least the following:
+. *Lighting.* Each certificate holder must provide and maintain lighting systems for air carrier operations when the airport is open at night, during conditions below visual flight rules (VFR) minimums, or in Alaska, during periods in which a prominent unlighted object cannot be seen from a distance of 3 statute miles or the sun is more than six degrees below the horizon. These lighting systems must be authorized by the Administrator and consist of at least the following:
+.. Runway lighting that meets the specifications for takeoff and landing minimums, as authorized by the Administrator, for each runway.
+.. One of the following taxiway lighting systems:
+... Centerline lights.
+... Centerline reflectors.
+... Edge lights.
+... Edge reflectors.
+.. An airport beacon.
+.. Approach lighting that meets the specifications for takeoff and landing minimums, as authorized by the Administrator, for each runway, unless provided and/or maintained by an entity other than the certificate holder.
+.. Obstruction marking and lighting, as appropriate, on each object within its authority that has been determined by the FAA to be an obstruction.
+. *Maintenance.* Each certificate holder must properly maintain each marking, sign, or lighting system installed and operated on the airport. As used in this section, to “properly maintain” includes cleaning, replacing, or repairing any faded, missing, or nonfunctional item; keeping each item unobscured and clearly visible; and ensuring that each item provides an accurate reference to the user.
+. *Lighting interference.* Each certificate holder must ensure that all lighting on the airport, including that for aprons, vehicle parking areas, roadways, fuel storage areas, and buildings, is adequately adjusted or shielded to prevent interference with air traffic control and aircraft operations.
+. *Standards.* FAA Advisory Circulars contain methods and procedures for the equipment, material, installation, and maintenance of marking, sign, and lighting systems listed in this section that are acceptable to the Administrator.
+. *Implementation.* The sign systems required under paragraph (b)(3) of this section must be implemented by each holder of a Class III Airport Operating Certificate not later than 36 consecutive calendar months after June 9, 2004.
+
+(i) Signs identifying taxiing routes on the movement area.
+
+(ii) Holding position signs.
+
+(iii) Instrument landing system (ILS) critical area signs.
+
+(2) Unless otherwise authorized by the Administrator, the signs required by paragraph (b)(1) of this section must be internally illuminated at each Class I, II, and IV airport.
+
+(3) Unless otherwise authorized by the Administrator, the signs required by paragraphs (b)(1)(ii) and (b)(1)(iii) of this section must be internally illuminated at each Class III airport.
+
+## § 139.313
+
+### Snow and ice control.
+
+. As determined by the Administrator, each certificate holder whose airport is located where snow and icing conditions occur must prepare, maintain, and carry out a snow and ice control plan in a manner authorized by the Administrator.
+. The snow and ice control plan required by this section must include, at a minimum, instructions and procedures for—
+.. Prompt removal or control, as completely as practical, of snow, ice, and slush on each movement area;
+.. Positioning snow off the movement area surfaces so all air carrier aircraft propellers, engine pods, rotors, and wing tips will clear any snowdrift and snowbank as the aircraft's landing gear traverses any portion of the movement area;
+.. Selection and application of authorized materials for snow and ice control to ensure that they adhere to snow and ice sufficiently to minimize engine ingestion;
+.. Timely commencement of snow and ice control operations; and
+.. Prompt notification, in accordance with § 139.339, of all air carriers using the airport when any portion of the movement area normally available to them is less than satisfactorily cleared for safe operation by their aircraft.
+. FAA Advisory Circulars contain methods and procedures for snow and ice control equipment, materials, and removal that are acceptable to the Administrator.
+
+## § 139.315
+
+### Aircraft rescue and firefighting: Index determination.
+
+. An index is required by paragraph (c) of this section for each certificate holder. The Index is determined by a combination of—
+.. The length of air carrier aircraft and
+.. Average daily departures of air carrier aircraft.
+. For the purpose of Index determination, air carrier aircraft lengths are grouped as follows:
+              
+.. Index A includes aircraft less than 90 feet in length.
+.. Index B includes aircraft at least 90 feet but less than 126 feet in length.
+.. Index C includes aircraft at least 126 feet but less than 159 feet in length.
+.. Index D includes aircraft at least 159 feet but less than 200 feet in length.
+.. Index E includes aircraft at least 200 feet in length.
+. Except as provided in § 139.319(c), if there are five or more average daily departures of air carrier aircraft in a single Index group serving that airport, the longest aircraft with an average of five or more daily departures determines the Index required for the airport. When there are fewer than five average daily departures of the longest air carrier aircraft serving the airport, the Index required for the airport will be the next lower Index group than the Index group prescribed for the longest aircraft.
+. The minimum designated index shall be Index A.
+. A holder of a Class III Airport Operating Certificate may comply with this section by providing a level of safety comparable to Index A that is approved by the Administrator. Such alternate compliance must be described in the ACM and must include:
+.. Pre-arranged firefighting and emergency medical response procedures, including agreements with responding services.
+.. Means for alerting firefighting and emergency medical response personnel.
+.. Type of rescue and firefighting equipment to be provided.
+.. Training of responding firefighting and emergency medical personnel on airport familiarization and communications.
+
+## § 139.317
+
+### Aircraft rescue and firefighting: Equipment and agents.
+
+Unless otherwise authorized by the Administrator, the following rescue and firefighting equipment and agents are the minimum required for the Indexes referred to in § 139.315:
+
+. *Index A.* One vehicle carrying at least—
+.. 500 pounds of sodium-based dry chemical, halon 1211, or clean agent; or
+.. 450 pounds of potassium-based dry chemical and water with a commensurate quantity of AFFF to total 100 gallons for simultaneous dry chemical and AFFF application.
+. *Index B.* Either of the following:
+.. One vehicle carrying at least 500 pounds of sodium-based dry chemical, halon 1211, or clean agent and 1,500 gallons of water and the commensurate quantity of AFFF for foam production.
+.. Two vehicles—
+... One vehicle carrying the extinguishing agents as specified in paragraphs (a)(1) or (a)(2) of this section; and
+... One vehicle carrying an amount of water and the commensurate quantity of AFFF so the total quantity of water for foam production carried by both vehicles is at least 1,500 gallons.
+. *Index C.* Either of the following:
+.. Three vehicles—
+... One vehicle carrying the extinguishing agents as specified in paragraph (a)(1) or (a)(2) of this section; and
+... Two vehicles carrying an amount of water and the commensurate quantity of AFFF so the total quantity of water for foam production carried by all three vehicles is at least 3,000 gallons.
+.. Two vehicles—
+... One vehicle carrying the extinguishing agents as specified in paragraph (b)(1) of this section; and
+... One vehicle carrying water and the commensurate quantity of AFFF so the total quantity of water for foam production carried by both vehicles is at least 3,000 gallons.
+. *Index D.* Three vehicles—
+.. One vehicle carrying the extinguishing agents as specified in paragraphs (a)(1) or (a)(2) of this section; and
+.. Two vehicles carrying an amount of water and the commensurate quantity of AFFF so the total quantity of water for foam production carried by all three vehicles is at least 4,000 gallons.
+. *Index E.* Three vehicles—
+.. One vehicle carrying the extinguishing agents as specified in paragraphs (a)(1) or (a)(2) of this section; and
+              
+.. Two vehicles carrying an amount of water and the commensurate quantity of AFFF so the total quantity of water for foam production carried by all three vehicles is at least 6,000 gallons.
+. *Foam discharge capacity.* Each aircraft rescue and firefighting vehicle used to comply with Index B, C, D, or E requirements with a capacity of at least 500 gallons of water for foam production must be equipped with a turret. Vehicle turret discharge capacity must be as follows:
+.. Each vehicle with a minimum-rated vehicle water tank capacity of at least 500 gallons, but less than 2,000 gallons, must have a turret discharge rate of at least 500 gallons per minute, but not more than 1,000 gallons per minute.
+.. Each vehicle with a minimum-rated vehicle water tank capacity of at least 2,000 gallons must have a turret discharge rate of at least 600 gallons per minute, but not more than 1,200 gallons per minute.
+. *Agent discharge capacity.* Each aircraft rescue and firefighting vehicle that is required to carry dry chemical, halon 1211, or clean agent for compliance with the Index requirements of this section must meet one of the following minimum discharge rates for the equipment installed:
+.. Dry chemical, halon 1211, or clean agent through a hand line—5 pounds per second.
+.. Dry chemical, halon 1211, or clean agent through a turret—16 pounds per second.
+. *Extinguishing agent substitutions.* Other extinguishing agent substitutions authorized by the Administrator may be made in amounts that provide equivalent firefighting capability.
+. *AFFF quantity requirements.* In addition to the quantity of water required, each vehicle required to carry AFFF must carry AFFF in an appropriate amount to mix with twice the water required to be carried by the vehicle.
+. *Methods and procedures.* FAA Advisory Circulars contain methods and procedures for ARFF equipment and extinguishing agents that are acceptable to the Administrator.
+. *Implementation.* Each holder of a Class II, III, or IV Airport Operating Certificate must implement the requirements of this section no later than 36 consecutive calendar months after June 9, 2004.
+
+## § 139.319
+
+### Aircraft rescue and firefighting: Operational requirements.
+
+. *Rescue and firefighting capability.* Except as provided in paragraph (c) of this section, each certificate holder must provide on the airport, during air carrier operations at the airport, at least the rescue and firefighting capability specified for the Index required by § 139.317 in a manner authorized by the Administrator.
+. *Increase in Index.* Except as provided in paragraph (c) of this section, if an increase in the average daily departures or the length of air carrier aircraft results in an increase in the Index required by paragraph (a) of this section, the certificate holder must comply with the increased requirements.
+. *Reduction in rescue and firefighting.* During air carrier operations with only aircraft shorter than the Index aircraft group required by paragraph (a) of this section, the certificate holder may reduce the rescue and firefighting to a lower level corresponding to the Index group of the longest air carrier aircraft being operated.
+. *Procedures for reduction in capability.* Any reduction in the rescue and firefighting capability from the Index required by paragraph (a) of this section, in accordance with paragraph (c) of this section, must be subject to the following conditions:
+.. Procedures for, and the persons having the authority to implement, the reductions must be included in the Airport Certification Manual.
+.. A system and procedures for recall of the full aircraft rescue and firefighting capability must be included in the Airport Certification Manual.
+.. The reductions may not be implemented unless notification to air carriers is provided in the Airport/Facility Directory or Notices to Airmen (NOTAM), as appropriate, and by direct notification of local air carriers.
+              
+. *Vehicle communications.* Each vehicle required under § 139.317 must be equipped with two-way voice radio communications that provide for contact with at least—
+.. All other required emergency vehicles;
+.. The air traffic control tower;
+.. The common traffic advisory frequency when an air traffic control tower is not in operation or there is no air traffic control tower, and
+.. Fire stations, as specified in the airport emergency plan.
+. *Vehicle marking and lighting.* Each vehicle required under § 139.317 must—
+.. Have a flashing or rotating beacon and
+.. Be painted or marked in colors to enhance contrast with the background environment and optimize daytime and nighttime visibility and identification.
+. *Vehicle readiness.* Each vehicle required under § 139.317 must be maintained as follows:
+.. The vehicle and its systems must be maintained so as to be operationally capable of performing the functions required by this subpart during all air carrier operations.
+.. If the airport is located in a geographical area subject to prolonged temperatures below 33 degrees Fahrenheit, the vehicles must be provided with cover or other means to ensure equipment operation and discharge under freezing conditions.
+.. Any required vehicle that becomes inoperative to the extent that it cannot perform as required by paragraph (g)(1) of this section must be replaced immediately with equipment having at least equal capabilities. If replacement equipment is not available immediately, the certificate holder must so notify the Regional Airports Division Manager and each air carrier using the airport in accordance with § 139.339. If the required Index level of capability is not restored within 48 hours, the airport operator, unless otherwise authorized by the Administrator, must limit air carrier operations on the airport to those compatible with the Index corresponding to the remaining operative rescue and firefighting equipment.
+. *Response requirements.* (1) With the aircraft rescue and firefighting equipment required under this part and the number of trained personnel that will assure an effective operation, each certificate holder must—
+. Respond to each emergency during periods of air carrier operations; and
+.. All rescue and firefighting personnel are equipped in a manner authorized by the Administrator with protective clothing and equipment needed to perform their duties.
+.. All rescue and firefighting personnel are properly trained to perform their duties in a manner authorized by the Administrator. Such personnel must be trained prior to initial performance of rescue and firefighting duties and receive recurrent instruction every 12 consecutive calendar months. The curriculum for initial and recurrent training must include at least the following areas:
+... Airport familiarization, including airport signs, marking, and lighting.
+... Aircraft familiarization.
+... Rescue and firefighting personnel safety.
+... Emergency communications systems on the airport, including fire alarms.
+... Use of the fire hoses, nozzles, turrets, and other appliances required for compliance with this part.
+              
+... Application of the types of extinguishing agents required for compliance with this part.
+... Emergency aircraft evacuation assistance.
+... Firefighting operations.
+... Adapting and using structural rescue and firefighting equipment for aircraft rescue and firefighting.
+... Aircraft cargo hazards, including hazardous materials/dangerous goods incidents.
+... Familiarization with firefighters' duties under the airport emergency plan.
+.. All rescue and firefighting personnel must participate in at least one live-fire drill prior to initial performance of rescue and firefighting duties and every 12 consecutive calendar months thereafter.
+.. At least one individual, who has been trained and is current in basic emergency medical services, is available during air carrier operations. This individual must be trained prior to initial performance of emergency medical services. Training must be at a minimum 40 hours in length and cover the following topics:
+... Bleeding.
+... Cardiopulmonary resuscitation.
+... Shock.
+... Primary patient survey.
+... Injuries to the skull, spine, chest, and extremities.
+... Internal injuries.
+... Moving patients.
+... Burns.
+... Triage.
+.. A record is maintained of all training given to each individual under this section for 24 consecutive calendar months after completion of training. Such records must include, at a minimum, a description and date of training received.
+.. Sufficient rescue and firefighting personnel are available during all air carrier operations to operate the vehicles, meet the response times, and meet the minimum agent discharge rates required by this part.
+.. Procedures and equipment are established and maintained for alerting rescue and firefighting personnel by siren, alarm, or other means authorized by the Administrator to any existing or impending emergency requiring their assistance.
+. *Hazardous materials guidance.* Each aircraft rescue and firefighting vehicle responding to an emergency on the airport must be equipped with, or have available through a direct communications link, the “North American Emergency Response Guidebook” published by the U.S. Department of Transportation or similar response guidance to hazardous materials/dangerous goods incidents. Information on obtaining the “North American Emergency Response Guidebook” is available from the Regional Airports Division Manager.
+. *Emergency access roads.* Each certificate holder must ensure that roads designated for use as emergency access roads for aircraft rescue and firefighting vehicles are maintained in a condition that will support those vehicles during all-weather conditions.
+. *Methods and procedures.* FAA Advisory Circulars contain methods and procedures for aircraft rescue and firefighting and emergency medical equipment and training that are acceptable to the Administrator.
+. *Implementation.* Each holder of a Class II, III, or IV Airport Operating Certificate must implement the requirements of this section no later than 36 consecutive calendar months after June 9, 2004.
+
+(ii) When requested by the Administrator, demonstrate compliance with the response requirements specified in this section.
+
+(2) The response required by paragraph (h)(1)(ii) of this section must achieve the following performance criteria:
+
+(i) Within 3 minutes from the time of the alarm, at least one required aircraft rescue and firefighting vehicle must reach the midpoint of the farthest runway serving air carrier aircraft from its assigned post or reach any other specified point of comparable distance on the movement area that is available to air carriers, and begin application of extinguishing agent.
+
+(ii) Within 4 minutes from the time of alarm, all other required vehicles must reach the point specified in paragraph (h)(2)(i) of this section from their assigned posts and begin application of an extinguishing agent.
+
+(i) *Personnel.* Each certificate holder must ensure the following:
+
+## § 139.321
+
+### Handling and storing of hazardous substances and materials.
+
+. Each certificate holder who acts as a cargo handling agent must establish and maintain procedures for the protection of persons and property on the airport during the handling and storing of any material regulated by the Hazardous Materials Regulations (49 CFR 171 through 180) that is, or is intended to be, transported by air. These procedures must provide for at least the following:
+.. Designated personnel to receive and handle hazardous substances and materials.
+.. Assurance from the shipper that the cargo can be handled safely, including any special handling procedures required for safety.
+              
+.. Special areas for storage of hazardous materials while on the airport.
+. Each certificate holder must establish and maintain standards authorized by the Administrator for protecting against fire and explosions in storing, dispensing, and otherwise handling fuel (other than articles and materials that are, or are intended to be, aircraft cargo) on the airport. These standards must cover facilities, procedures, and personnel training and must address at least the following:
+.. Bonding.
+.. Public protection.
+.. Control of access to storage areas.
+.. Fire safety in fuel farm and storage areas.
+.. Fire safety in mobile fuelers, fueling pits, and fueling cabinets.
+.. Training of fueling personnel in fire safety in accordance with paragraph (e) of this section. Such training at Class III airports must be completed within 12 consecutive calendar months after June 9, 2004.
+.. The fire code of the public body having jurisdiction over the airport.
+. Each certificate holder must, as a fueling agent, comply with, and require all other fueling agents operating on the airport to comply with, the standards established under paragraph (b) of this section and must perform reasonable surveillance of all fueling activities on the airport with respect to those standards.
+. Each certificate holder must inspect the physical facilities of each airport tenant fueling agent at least once every 3 consecutive months for compliance with paragraph (b) of this section and maintain a record of that inspection for at least 12 consecutive calendar months.
+. The training required in paragraph (b)(6) of this section must include at least the following:
+.. At least one supervisor with each fueling agent must have completed an aviation fuel training course in fire safety that is authorized by the Administrator. Such an individual must be trained prior to initial performance of duties, or enrolled in an authorized aviation fuel training course that will be completed within 90 days of initiating duties, and receive recurrent instruction at least every 24 consecutive calendar months.
+.. All other employees who fuel aircraft, accept fuel shipments, or otherwise handle fuel must receive at least initial on-the-job training and recurrent instruction every 24 consecutive calendar months in fire safety from the supervisor trained in accordance with paragraph (e)(1) of this section.
+. Each certificate holder must obtain a written confirmation once every 12 consecutive calendar months from each airport tenant fueling agent that the training required by paragraph (e) of this section has been accomplished. This written confirmation must be maintained for 12 consecutive calendar months.
+. Unless otherwise authorized by the Administrator, each certificate holder must require each tenant fueling agent to take immediate corrective action whenever the certificate holder becomes aware of noncompliance with a standard required by paragraph (b) of this section. The certificate holder must notify the appropriate FAA Regional Airports Division Manager immediately when noncompliance is discovered and corrective action cannot be accomplished within a reasonable period of time.
+. FAA Advisory Circulars contain methods and procedures for the handling and storage of hazardous substances and materials that are acceptable to the Administrator.
+
+## § 139.323
+
+### Traffic and wind direction indicators.
+
+In a manner authorized by the Administrator, each certificate holder must provide and maintain the following on its airport:
+
+. A wind cone that visually provides surface wind direction information to pilots. For each runway available for air carrier use, a supplemental wind cone must be installed at the end of the runway or at least at one point visible to the pilot while on final approach and prior to takeoff. If the airport is open for air carrier operations at night, the wind direction indicators, including the required supplemental indicators, must be lighted.
+. For airports serving any air carrier operation when there is no control tower operating, a segmented circle, a landing strip indicator and a traffic pattern indicator must be installed around a wind cone for each runway with a right-hand traffic pattern.
+. FAA Advisory Circulars contain methods and procedures for the installation, lighting, and maintenance of traffic and wind indicators that are acceptable to the Administrator.
+
+## § 139.325
+
+### Airport emergency plan.
+
+. In a manner authorized by the Administrator, each certificate holder must develop and maintain an airport emergency plan designed to minimize the possibility and extent of personal injury and property damage on the airport in an emergency. The plan must—
+.. Include procedures for prompt response to all emergencies listed in paragraph (b) of this section, including a communications network;
+.. Contain sufficient detail to provide adequate guidance to each person who must implement these procedures; and
+.. To the extent practicable, provide for an emergency response for the largest air carrier aircraft in the Index group required under § 139.315.
+. The plan required by this section must contain instructions for response to—
+.. Aircraft incidents and accidents;
+.. Bomb incidents, including designation of parking areas for the aircraft involved;
+.. Structural fires;
+.. Fires at fuel farms or fuel storage areas;
+.. Natural disaster;
+.. Hazardous materials/dangerous goods incidents;
+.. Sabotage, hijack incidents, and other unlawful interference with operations;
+.. Failure of power for movement area lighting; and
+.. Water rescue situations, as appropriate.
+. The plan required by this section must address or include—
+.. To the extent practicable, provisions for medical services, including transportation and medical assistance for the maximum number of persons that can be carried on the largest air carrier aircraft that the airport reasonably can be expected to serve;
+.. The name, location, telephone number, and emergency capability of each hospital and other medical facility and the business address and telephone number of medical personnel on the airport or in the communities it serves who have agreed to provide medical assistance or transportation;
+.. The name, location, and telephone number of each rescue squad, ambulance service, military installation, and government agency on the airport or in the communities it serves that agrees to provide medical assistance or transportation;
+.. An inventory of surface vehicles and aircraft that the facilities, agencies, and personnel included in the plan under paragraphs (c)(2) and (3) of this section will provide to transport injured and deceased persons to locations on the airport and in the communities it serves;
+.. A list of each hangar or other building on the airport or in the communities it serves that will be used to accommodate uninjured, injured, and deceased persons;
+.. Plans for crowd control, including the name and location of each safety or security agency that agrees to provide assistance for the control of crowds in the event of an emergency on the airport; and
+.. Procedures for removing disabled aircraft, including, to the extent practical, the name, location, and telephone numbers of agencies with aircraft removal responsibilities or capabilities.
+. The plan required by this section must provide for—
+.. The marshalling, transportation, and care of ambulatory injured and uninjured accident survivors;
+.. The removal of disabled aircraft;
+.. Emergency alarm or notification systems; and
+.. Coordination of airport and control tower functions relating to emergency actions, as appropriate.
+. The plan required by this section must contain procedures for notifying the facilities, agencies, and personnel who have responsibilities under the plan of the location of an aircraft accident, the number of persons involved in that accident, or any other information necessary to carry out their responsibilities, as soon as that information becomes available.
+. The plan required by this section must contain provisions, to the extent practicable, for the rescue of aircraft accident victims from significant bodies of water or marsh lands adjacent to the airport that are crossed by the approach and departure flight paths of air carriers. A body of water or marshland is significant if the area exceeds one-quarter square mile and cannot be traversed by conventional land rescue vehicles. To the extent practicable, the plan must provide for rescue vehicles with a combined capacity for handling the maximum number of persons that can be carried on board the largest air carrier aircraft in the Index group required under § 139.315.
+. Each certificate holder must—
+.. Coordinate the plan with law enforcement agencies, rescue and firefighting agencies, medical personnel and organizations, the principal tenants at the airport, and all other persons who have responsibilities under the plan;
+.. To the extent practicable, provide for participation by all facilities, agencies, and personnel specified in paragraph (g)(1) of this section in the development of the plan;
+.. Ensure that all airport personnel having duties and responsibilities under the plan are familiar with their assignments and are properly trained; and
+.. At least once every 12 consecutive calendar months, review the plan with all of the parties with whom the plan is coordinated, as specified in paragraph (g)(1) of this section, to ensure that all parties know their responsibilities and that all of the information in the plan is current.
+. Each holder of a Class I Airport Operating Certificate must hold a full-scale airport emergency plan exercise at least once every 36 consecutive calendar months.
+. Each airport subject to applicable FAA and Transportation Security Administration security regulations must ensure that instructions for response to paragraphs (b)(2) and (b)(7) of this section in the airport emergency plan are consistent with its approved airport security program.
+. FAA Advisory Circulars contain methods and procedures for the development of an airport emergency plan that are acceptable to the Administrator.
+. The emergency plan required by this section must be submitted by each holder of a Class II, III, or IV Airport Operating Certificate no later than 24 consecutive calendar months after June 9, 2004.
+
+## § 139.327
+
+### Self-inspection program.
+
+. In a manner authorized by the Administrator, each certificate holder must inspect the airport to assure compliance with this subpart according to the following schedule:
+.. Daily, except as otherwise required by the Airport Certification Manual;
+.. When required by any unusual condition, such as construction activities or meteorological conditions, that may affect safe air carrier operations; and
+.. Immediately after an accident or incident.
+. Each certificate holder must provide the following:
+.. Equipment for use in conducting safety inspections of the airport;
+.. Procedures, facilities, and equipment for reliable and rapid dissemination of information between the certificate holder's personnel and air carriers; and
+.. Procedures to ensure qualified personnel perform the inspections. Such procedures must ensure personnel are trained, as specified under § 139.303, and receive initial and recurrent instruction every 12 consecutive calendar months in at least the following areas:
+... Airport familiarization, including airport signs, marking and lighting.
+... Airport emergency plan.
+... Notice to Airmen (NOTAM) notification procedures.
+... Procedures for pedestrians and ground vehicles in movement areas and safety areas.
+... Discrepancy reporting procedures; and
+.. A reporting system to ensure prompt correction of unsafe airport conditions noted during the inspection, including wildlife strikes.
+. Each certificate holder must—
+.. Prepare, and maintain for at least 12 consecutive calendar months, a record of each inspection prescribed by this section, showing the conditions found and all corrective actions taken.
+.. Prepare records of all training given after June 9, 2004 to each individual in compliance with this section that includes, at a minimum, a description and date of training received. Such records must be maintained for 24 consecutive calendar months after completion of training.
+. FAA Advisory Circulars contain methods and procedures for the conduct of airport self-inspections that are acceptable to the Administrator.
+
+## § 139.329
+
+### Pedestrians and ground vehicles.
+
+In a manner authorized by the Administrator, each certificate holder must—
+
+. Limit access to movement areas and safety areas only to those pedestrians and ground vehicles necessary for airport operations;
+. Establish and implement procedures for the safe and orderly access to and operation in movement areas and safety areas by pedestrians and ground vehicles, including provisions identifying the consequences of noncompliance with the procedures by all persons;
+. When an air traffic control tower is in operation, ensure that each pedestrian and ground vehicle in movement areas or safety areas is controlled by one of the following:
+.. Two-way radio communications between each pedestrian or vehicle and the tower;
+.. An escort with two-way radio communications with the tower accompanying any pedestrian or vehicle without a radio; or
+.. Measures authorized by the Administrator for controlling pedestrians and vehicles, such as signs, signals, or guards, when it is not operationally practical to have two-way radio communications between the tower and the pedestrian, vehicle, or escort;
+. When an air traffic control tower is not in operation, or there is no air traffic control tower, provide adequate procedures to control pedestrians and ground vehicles in movement areas or safety areas through two-way radio communications or prearranged signs or signals;
+. Ensure that all persons are trained on procedures required under paragraph (b) of this section prior to the initial performance of such duties and at least once every 12 consecutive calendar months, including consequences of noncompliance, prior to moving on foot, or operating a ground vehicle, in movement areas or safety areas; and
+. Maintain the following records:
+.. A description and date of training completed after June 9, 2004 by each individual in compliance with this section. A record for each individual must be maintained for 24 consecutive months after the termination of an individual's access to movement areas and safety areas.
+.. A description and date of any accidents or incidents in the movement areas and safety areas involving air carrier aircraft, a ground vehicle or a pedestrian. Records of each accident or incident occurring after the June 9, 2004 must be maintained for 12 consecutive calendar months from the date of the accident or incident.
+
+## § 139.331
+
+### Obstructions.
+
+In a manner authorized by the Administrator, each certificate holder must ensure that each object in each area within its authority that has been determined by the FAA to be an obstruction is removed, marked, or lighted, unless determined to be unnecessary by an FAA aeronautical study. FAA Advisory Circulars contain methods and procedures for the lighting of obstructions that are acceptable to the Administrator.
+
+## § 139.333
+
+### Protection of NAVAIDS.
+
+In a manner authorized by the Administrator, each certificate holder must—
+
+. Prevent the construction of facilities on its airport that, as determined by the Administrator, would derogate the operation of an electronic or visual NAVAID and air traffic control facilities on the airport;
+. Protect—or if the owner is other than the certificate holder, assist in protecting—all NAVAIDS on its airport against vandalism and theft; and
+. Prevent, insofar as it is within the airport's authority, interruption of visual and electronic signals of NAVAIDS.
+
+## § 139.335
+
+### Public protection.
+
+. In a manner authorized by the Administrator, each certificate holder must provide—
+.. Safeguards to prevent inadvertent entry to the movement area by unauthorized persons or vehicles; and
+.. Reasonable protection of persons and property from aircraft blast.
+. Fencing that meets the requirements of applicable FAA and Transportation Security Administration security regulations in areas subject to these regulations is acceptable for meeting the requirements of paragraph (a)(l) of this section.
+
+## § 139.337
+
+### Wildlife hazard management.
+
+. In accordance with its Airport Certification Manual and the requirements of this section, each certificate holder must take immediate action to alleviate wildlife hazards whenever they are detected.
+. In a manner authorized by the Administrator, each certificate holder must ensure that a wildlife hazard assessment is conducted when any of the following events occurs on or near the airport:
+.. An air carrier aircraft experiences multiple wildlife strikes;
+.. An air carrier aircraft experiences substantial damage from striking wildlife. As used in this paragraph, substantial damage means damage or structural failure incurred by an aircraft that adversely affects the structural strength, performance, or flight characteristics of the aircraft and that would normally require major repair or replacement of the affected component;
+.. An air carrier aircraft experiences an engine ingestion of wildlife; or
+.. Wildlife of a size, or in numbers, capable of causing an event described in paragraphs (b)(1), (b)(2), or (b)(3) of this section is observed to have access to any airport flight pattern or aircraft movement area.
+. The wildlife hazard assessment required in paragraph (b) of this section must be conducted by a wildlife damage management biologist who has professional training and/or experience in wildlife hazard management at airports or an individual working under direct supervision of such an individual. The wildlife hazard assessment must contain at least the following:
+.. An analysis of the events or circumstances that prompted the assessment.
+.. Identification of the wildlife species observed and their numbers, locations, local movements, and daily and seasonal occurrences.
+.. Identification and location of features on and near the airport that attract wildlife.
+.. A description of wildlife hazards to air carrier operations.
+.. Recommended actions for reducing identified wildlife hazards to air carrier operations.
+. The wildlife hazard assessment required under paragraph (b) of this section must be submitted to the Administrator for approval and determination of the need for a wildlife hazard management plan. In reaching this determination, the Administrator will consider—
+.. The wildlife hazard assessment;
+.. Actions recommended in the wildlife hazard assessment to reduce wildlife hazards;
+.. The aeronautical activity at the airport, including the frequency and size of air carrier aircraft;
+.. The views of the certificate holder;
+.. The views of the airport users; and
+.. Any other known factors relating to the wildlife hazard of which the Administrator is aware.
+. When the Administrator determines that a wildlife hazard management plan is needed, the certificate holder must formulate and implement a plan using the wildlife hazard assessment as a basis. The plan must—
+.. Provide measures to alleviate or eliminate wildlife hazards to air carrier operations;
+              
+.. Be submitted to, and approved by, the Administrator prior to implementation; and
+.. As authorized by the Administrator, become a part of the Airport Certification Manual.
+. The plan must include at least the following:
+.. A list of the individuals having authority and responsibility for implementing each aspect of the plan.
+.. A list prioritizing the following actions identified in the wildlife hazard assessment and target dates for their initiation and completion:
+... Wildlife population management;
+... Habitat modification; and
+... Land use changes.
+.. Requirements for and, where applicable, copies of local, State, and Federal wildlife control permits.
+.. Identification of resources that the certificate holder will provide to implement the plan.
+.. Procedures to be followed during air carrier operations that at a minimum includes—
+... Designation of personnel responsible for implementing the procedures;
+... Provisions to conduct physical inspections of the aircraft movement areas and other areas critical to successfully manage known wildlife hazards before air carrier operations begin;
+... Wildlife hazard control measures; and
+... Ways to communicate effectively between personnel conducting wildlife control or observing wildlife hazards and the air traffic control tower.
+.. Procedures to review and evaluate the wildlife hazard management plan every 12 consecutive months or following an event described in paragraphs (b)(1), (b)(2), and (b)(3) of this section, including:
+... The plan's effectiveness in dealing with known wildlife hazards on and in the airport's vicinity and
+... Aspects of the wildlife hazards described in the wildlife hazard assessment that should be reevaluated.
+.. A training program conducted by a qualified wildlife damage management biologist to provide airport personnel with the knowledge and skills needed to successfully carry out the wildlife hazard management plan required by paragraph (d) of this section.
+. FAA Advisory Circulars contain methods and procedures for wildlife hazard management at airports that are acceptable to the Administrator.
+
+## § 139.339
+
+### Airport condition reporting.
+
+In a manner authorized by the Administrator, each certificate holder must—
+
+. Provide for the collection and dissemination of airport condition information to air carriers.
+. In complying with paragraph (a) of this section, use the NOTAM system, as appropriate, and other systems and procedures authorized by the Administrator.
+. In complying with paragraph (a) of this section, provide information on the following airport conditions that may affect the safe operations of air carriers:
+.. Construction or maintenance activity on movement areas, safety areas, or loading ramps and parking areas.
+.. Surface irregularities on movement areas, safety areas, or loading ramps and parking areas.
+.. Snow, ice, slush, or water on the movement area or loading ramps and parking areas.
+.. Snow piled or drifted on or near movement areas contrary to § 139.313.
+.. Objects on the movement area or safety areas contrary to § 139.309.
+.. Malfunction of any lighting system, holding position signs, or ILS critical area signs required by § 139.311.
+.. Unresolved wildlife hazards as identified in accordance with § 139.337.
+.. Nonavailability of any rescue and firefighting capability required in §§ 139.317 or 139.319.
+.. Any other condition as specified in the Airport Certification Manual or that may otherwise adversely affect the safe operations of air carriers.
+. Each certificate holder must prepare and keep, for at least 12 consecutive calendar months, a record of each dissemination of airport condition information to air carriers prescribed by this section.
+. FAA Advisory Circulars contain methods and procedures for using the NOTAM system and the dissemination of airport information that are acceptable to the Administrator.
+
+## § 139.341
+
+### Identifying, marking, and lighting construction and other unserviceable areas.
+
+. In a manner authorized by the Administrator, each certificate holder must—
+.. Mark and, if appropriate, light in a manner authorized by the Administrator—
+... Each construction area and unserviceable area that is on or adjacent to any movement area or any other area of the airport on which air carrier aircraft may be operated;
+... Each item of construction equipment and each construction roadway, which may affect the safe movement of aircraft on the airport; and
+... Any area adjacent to a NAVAID that, if traversed, could cause derogation of the signal or the failure of the NAVAID; and
+.. Provide procedures, such as a review of all appropriate utility plans prior to construction, for avoiding damage to existing utilities, cables, wires, conduits, pipelines, or other underground facilities.
+. FAA Advisory Circulars contain methods and procedures for identifying and marking construction areas that are acceptable to the Administrator.
+
+## § 139.343
+
+### Noncomplying conditions.
+
+Unless otherwise authorized by the Administrator, whenever the requirements of subpart D of this part cannot be met to the extent that uncorrected unsafe conditions exist on the airport, the certificate holder must limit air carrier operations to those portions of the airport not rendered unsafe by those conditions.
+

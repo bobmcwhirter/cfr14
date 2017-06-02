@@ -1,0 +1,100 @@
+# Operating Rules
+:toc:
+
+## § 147.31
+
+### Attendance and enrollment, tests, and credit for prior instruction or experience.
+
+. A certificated aviation maintenance technician school may not require any student to attend classes of instruction more than 8 hours in any day or more than 6 days or 40 hours in any 7-day period.
+. Each school shall give an appropriate test to each student who completes a unit of instruction as shown in that school's approved curriculum.
+. A school may not graduate a student unless he has completed all of the appropriate curriculum requirements. However, the school may credit a student with instruction or previous experience as follows:
+.. A school may credit a student with instruction satisfactorily completed at—
+... An accredited university, college, junior college;
+... An accredited vocational, technical, trade or high school;
+... A military technical school;
+... A certificated aviation maintenance technician school.
+.. A school may determine the amount of credit to be allowed—
+... By an entrance test equal to one given to the students who complete a comparable required curriculum subject at the crediting school;
+... By an evaluation of an authenticated transcript from the student's former school; or
+... In the case of an applicant from a military school, only on the basis of an entrance test.
+.. A school may credit a student with previous aviation maintenance experience comparable to required curriculum subjects. It must determine the amount of credit to be allowed by documents verifying that experience, and by giving the student a test equal to the one given to students who complete the comparable required curriculum subject at the school.
+              
+.. A school may credit a student seeking an additional rating with previous satisfactory completion of the general portion of an AMTS curriculum.
+. A school may not have more students enrolled than the number stated in its application for a certificate, unless it amends its application and has it approved.
+. A school shall use an approved system for determining final course grades and for recording student attendance. The system must show hours of absence allowed and show how the missed material will be made available to the student.
+
+## § 147.33
+
+### Records.
+
+. Each certificated aviation maintenance technician school shall keep a current record of each student enrolled, showing—
+.. His attendance, tests, and grades received on the subjects required by this part;
+.. The instruction credited to him under § 147.31(c), if any; and
+.. The authenticated transcript of his grades from that school.
+              
+. Each school shall keep a current progress chart or individual progress record for each of its students, showing the practical projects or laboratory work completed, or to be completed, by the student in each subject.
+
+## § 147.35
+
+### Transcripts and graduation certificates.
+
+. Upon request, each certificated aviation maintenance technician school shall provide a transcript of the student's grades to each student who is graduated from that school or who leaves it before being graduated. An official of the school shall authenticate the transcript. The transcript must state the curriculum in which the student was enrolled, whether the student satisfactorily completed that curriculum, and the final grades the student received.
+. Each school shall give a graduation certificate or certificate of completion to each student that it graduates. An official of the school shall authenticate the certificate. The certificate must show the date of graduation and the approved curriculum title.
+
+## § 147.36
+
+### Maintenance of instructor requirements.
+
+Each certificated aviation maintenance technician school shall, after certification or addition of a rating, continue to provide the number of instructors holding appropriate mechanic certificates and ratings that the Administrator determines necessary to provide adequate instruction to the students, including at least one such instructor for each 25 students in each shop class. The school may continue to provide specialized instructors who are not certificated mechanics to teach mathematics, physics, drawing, basic electricity, basic hydraulics, and similar subjects.
+
+## § 147.37
+
+### Maintenance of facilities, equipment, and material.
+
+. Each certificated aviation maintenance technician school shall provide facilities, equipment, and material equal to the standards currently required for the issue of the certificate and rating that it holds.
+. A school may not make a substantial change in facilities, equipment, or material that have been approved for a particular curriculum, unless that change is approved in advance.
+
+## § 147.38
+
+### Maintenance of curriculum requirements.
+
+. Each certificated aviation maintenance technician school shall adhere to its approved curriculum. With FAA approval, curriculum subjects may be taught at levels exceeding those shown in appendix A of this part.
+              
+. A school may not change its approved curriculum unless the change is approved in advance.
+
+## § 147.38a
+
+### Quality of instruction.
+
+Each certificated aviation maintenance technician school shall provide instruction of such quality that, of its graduates of a curriculum for each rating who apply for a mechanic certificate or additional rating within 60 days after they are graduated, the percentage of those passing the applicable FAA written tests on their first attempt during any period of 24 calendar months is at least the percentage figured as follows:
+
+. For a school graduating fewer than 51 students during that period—the national passing norm minus the number 20.
+. For a school graduating at least 51, but fewer than 201, students during that period—the national passing norm minus the number 15.
+. For a school graduating more than 200 students during that period—the national passing norm minus the number 10.
+              
+
+## § 147.39
+
+### Display of certificate.
+
+Each holder of an aviation maintenance technician school certificate and ratings shall display them at a place in the school that is normally accessible to the public and is not obscured. The certificate must be available for inspection by the Administrator.
+
+## § 147.41
+
+### Change of location.
+
+The holder of an aviation maintenance technician school certificate may not make any change in the school's location unless the change is approved in advance. If the holder desires to change the location he shall notify the Administrator, in writing, at least 30 days before the date the change is contemplated. If he changes its location without approval, the certificate is revoked.
+
+## § 147.43
+
+### Inspection.
+
+The Administrator may, at any time, inspect an aviation maintenance technician school to determine its compliance with this part. Such an inspection is normally made once each six months to determine if the school continues to meet the requirements under which it was originally certificated. After such an inspection is made, the school is notified, in writing, of any deficiencies found during the inspection. Other informal inspections may be made from time to time.
+
+## § 147.45
+
+### Advertising.
+
+. A certificated aviation maintenance technician school may not make any statement relating to itself that is false or is designed to mislead any person considering enrollment therein.
+. Whenever an aviation maintenance technician school indicates in advertising that it is a certificated school, it shall clearly distinguish between its approved courses and those that are not approved.
+

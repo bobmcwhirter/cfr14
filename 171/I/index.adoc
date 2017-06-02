@@ -1,0 +1,284 @@
+# Interim Standard Microwave Landing System (ISMLS)
+:toc:
+
+## § 171.251
+
+### Scope.
+
+This subpart sets forth minimum requirements for the approval and operation of non-Federal Interim Standard Microwave Landing System (ISMLS) facilities that are to be involved in the approval of instrument flight rules and air traffic control procedures related to those facilities.
+
+## § 171.253
+
+### Definitions.
+
+As used in this subpart:
+
+*Angular displacement sensitivity* (Glide Slope) means the ratio of measured DDM to the corresponding angular displacement from the appropriate reference line.
+
+*Collocated ground station* means the type of ground station which transmits two or more guidance signals simultaneously from a common location.
+
+*Course line* means the locus of points nearest to the runway centerline in any horizontal plane at which the DDM is zero.
+
+*Course sector (full)* means a sector in a horizontal plane containing the course line and limited by the loci of points nearest to the course line at which the DDM is 0.155.
+
+*Course sector (half)* means the sector in a horizontal plane containing the course line and limited by the loci of points nearest to the course line at which DDM is 0.0775.
+
+*DDM* means difference in depth of modulation. The percentage modulation depth of the larger signal minus the percentage modulation depth of the smaller signal, divided by 100.
+
+*Displacement sensitivity* (Localizer) means the ratio of measured DDM to the corresponding lateral displacement from the appropriate reference line.
+
+*Facility Performance Category I—ISMLS* means an ISMLS which provides guidance information from the coverage limit of the ISMLS to the point at which the localizer course line intersects the ISMLS glide path at a height of 200 feet or less above the horizontal plane containing the threshold.
+
+*Glide path* means that locus of points in the vertical plane containing the runway center line at which the DDM is zero, which, of all such loci, is the closest to the horizontal plane.
+
+*Glide path angle* (θ) means the angle between a straight line which represents the mean of the ISMLS glide path and the horizontal.
+
+*Glide path sector (full)* means the sector in the vertical plane containing the ISMLS glide path and limited by the loci of points nearest to the glide path at which the DDM is 0.175. The ISMLS glide path sector is located in the vertical plane containing the runway centerline, and is divided by the radiated glide path in two parts called upper sector and lower sector, referring respectively to the sectors above and below the glide path.
+
+*Glide path sector (half)* means the sector in the vertical plane containing the ISMLS glide path and limited by the loci of points nearest to the glide path at which the DDM is 0.0875.
+
+*ISMLS Point ‘A’* means an imaginary point on the glide path/localizer course measured along the runway centerline extended, in the approach direction, four nautical miles from the runway threshold.
+
+*ISMLS Point ‘B’* means an imaginary point on the glide path/localizer course measured along the runway centerline extended, in the approach direction, 3500 feet from the runway threshold.
+
+*ISMLS Point ‘C’* means a point through which the downward extended straight portion of the glide path (at the commissioned angle) passes at a height of 100 feet above the horizontal plane containing the runway threshold.
+
+*Interim standard microwave landing system* (ISMLS) means a ground station which transmits azimuth and elevation angle information which, when decoded and processed by the airborne unit, provides signal performance capable of supporting approach minima for V/STOL and CTOL operations and operates with the signal format and tolerances specified in §§ 171.259, 171.261, 171.263, 171.265, and 171.267.
+
+*Integrity* means that quality which relates to the trust which can be placed in the correctness of the information supplied by the facility.
+
+*Mean corrective time* means the average time required to correct an equipment failure over a given period, after a service man reaches the facility.
+
+*Mean time between failures* means the average time between equipment failure over a given period.
+
+*Reference datum* means a point at a specified height located vertically above the intersection of the runway centerline and the threshold and through which the downward extended straight portion of the ISMLS glide path passes.
+
+*Split type ground station* means the type of ground station in which the electronic components for the azimuth and elevation guidance are contained in separate housings or shelters at different locations, with the azimuth portion of the ground station located at the stop end of the runway, and the elevation guidance near the approach end of the runway.
+
+## § 171.255
+
+### Requests for IFR procedures.
+
+. Each person who requests an IFR procedure based on an ISMLS facility that he owns must submit the following information with that request:
+.. A description of the facility and evidence that the equipment meets the performance requirements of §§ 171.259, 171.261, 171.263, 171.265, 171.267, and 171.269, and is installed in accordance with § 171.271.
+.. A proposed procedure for operating the facility.
+.. A proposed maintenance organization and a maintenance manual that meets the requirements of § 171.273.
+.. A statement of intent to meet the requirements of this subpart.
+.. A showing that the ISMLS facility has an acceptable level of operational reliability, maintainability and acceptable standard of performance. Previous equivalent operational experience with a facility with identical design and operational characteristics will be considered in showing compliance with this paragraph.
+. After the FAA inspects and evaluates the ISMLS facility, it advises the owner of the results and of any required changes in the ISMLS facility or in the maintenance manual or maintenance organization. The owner must then correct the deficiencies, if any, and operate the ISMLS facility for an inservice evaluation by the FAA.
+
+## § 171.257
+
+### Minimum requirements for approval.
+
+. The following are the minimum requirements that must be met before the FAA approves an IFR procedure for a non-Federal ISMLS facility:
+.. The performance of the ISMLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §§ 171.259, 171.261, 171.263, 171.265, 171.267, and 171.269.
+.. The installation of the equipment must meet the requirements of § 171.271.
+.. The owner must agree to operate and maintain the ISMLS facility in accordance with § 171.273.
+.. The owner must agree to furnish periodic reports as set forth in § 171.275 and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+.. The owner must assure the FAA that he will not withdraw the ISMLS facility from service without the permission of the FAA.
+.. The owner must bear all costs of meeting the requirements of this section and of any flight or ground inspection made before the ISMLS facility is commissioned, except that the FAA may bear certain costs subject to budgetary limitations and policy established by the Administrator.
+. If the applicant for approval meets the requirements of paragraph (a) of this section, the FAA approves the ISMLS facility for use in an IFR procedure. The approval is withdrawn at any time that the ISMLS facility does not continue to meet those requirements. In addition, the ISMLS facility may be de-commissioned whenever the frequency channel is needed for higher priority common system service.
+
+## § 171.259
+
+### Performance requirements: General.
+
+. The ISMLS consists of the following basic components:
+.. C-Band (5000 MHz-5030 MHz) localizer equipment, associated monitor system, and remote indicator equipment;
+.. C-Band (5220 MHz-5250 MHz) glide path equipment, associated monitor system, and remote indicator equipment;
+.. VHF marker beacons (75 MHz), associated monitor systems, and remote indicator equipment.
+.. An ISMLS airborne receiver or a VHF/UHF ILS receiver modified to be capable of receiving the ISMLS signals. This modification requires the addition of a C-Band antenna, a converter unit, a microwave/ILS mode control, and a VHF/UHF receiver modification kit.
+. The electronic ground equipments in paragraph (a)(1), (2), and (3) of this section, must be designed to operate on a nominal 120/240 volt, 60 Hz, 3-wire single phase AC power source.
+. ISMLS ground equipment must meet the following service conditions:
+.. AC line parameters, DC voltage, elevation, and duty:
+              
+.. Ambient conditions for localizer and glide path equipment:
+              
+.. Ambient conditions for marker beacon facilities and all other equipment installed outdoors (for example, antennae, field detectors, and shelters):
+              
+.. All equipment installed outdoors must operate satisfactorily under the following conditions:
+              
+. The ISMLS must perform in accordance with the following standards and practices for Facility Performance Category I operation:
+.. The ISMLS must be constructed and adjusted so that, at a specified distance from the threshold, similar instrumental indications in the aircraft represent similar displacements from the course line or ISMLS glide path, as appropriate, regardless of the particular ground installation in use.
+.. The localizer and glide path components listed in paragraphs (a)(1) and (a)(2) of this section which form part of an ISMLS, must comply at least with the standard performance requirements specified herein. The marker beacon components listed in paragraph (a)(3) of this section which form part of an ISMLS, must comply at least with the standard performance requirements specified in subpart H of this part.
+.. The ISMLS must be so designed and maintained that the probability of operation is within the performance requirements specified in § 171.273(k).
+. The signal format and pairing of the runway localizer and glide path transmitter frequencies of an ISMLS must be in accordance with the frequency plan approved by the FAA, and must meet the following signal format requirements:
+.. The localizer and glide slope stations must transmit angular guidance information on a C-band microwave carrier on narrow, scanned antenna beams that are encoded to produce a modulation in space which, after averaging over several beam scans, is equivalent to the modulation used for conventional ILS as specified in subpart C of this part, except that the frequency tolerance may not exceed ±0.0001 percent.
+.. Guidance modulation must be impressed on the microwave carrier of the radiated signal in the form of a summation of 90 Hz and 150 Hz sinusoidal modulation corresponding to the pointing direction of the particular beam which radiates the signal.
+.. Each of the effective beam positions must be illuminated in a particular sequence for a short time interval. The modulation impressed on each beam must be a sample of the combined 90 Hz and 150 Hz waveform appropriate for that particular beam direction and time slot, and must be accomplished by appropriately varying the length of time the carrier is radiated during each beam illumination interval.
+.. For those cases where the scanning beam fills the coverage space in steps, the incremental step must not exceed 0.6 times the beam width where the beam is in the proportional guidance sector. In the clearance region, the step may not exceed 0.8 times the beam width.
+.. At least one pulse duration modulation (pdm) sample pulse per beam width of scan must be provided.
+.. The minimum pulse duration must be 40 microseconds.
+.. The minimum beam scan cycle must be 600 Hz.
+.. The minimum duty ratio detectable by a receiver located anywhere in the coverage areas defined by this specification may not be less than 0.1. Detected duty ratio means the ratio of the average energy per scan detected at a point in space to the average energy per scan transmitted in all directions through the transmitting antenna.
+.. The localizer must produce a C-band unmodulated reference frequency signal of sufficient strength to allow satisfactory operation of an aircraft receiver within the specified localizer and glide path coverage sectors. Pairing of this reference frequency with the localizer and glide slope frequencies must be in accordance with a frequency plan approved by the FAA.
+
+## § 171.261
+
+### Localizer performance requirements.
+
+This section prescribes the performance requirements for localizer equipment components of the ISMLS.
+
+. The localizer antenna system must:
+.. Be located on the extension of the centerline of the runway at the stop end;
+              
+.. Be adjusted so that the course line be on a vertical plane containing the centerline of the runway served;
+.. Have the minimum height necessary to comply with the coverage requirements prescribed in paragraph (j) of this section;
+.. Be located at a distance from the stop end of the runway that is consistent with safe obstruction clearance practices;
+.. Not obscure any light of the approach landing system; and
+.. Be installed on frangible mounts or beyond the 1000′ light bar.
+. On runways where limited terrain prevents the localizer antennae from being positioned on the runway centerline extended, and the cost of the land fill or a tall tower antenna support is prohibitive, the localizer antenna array may be offset, including a collocated ground station, so that the course intercepts the centerline at a point determined by the amount of the angular offset and the glide path angle. If other than a runway centerline localizer is used, the criteria in subpart C of part 97 of this chapter is applicable.
+. At locations where two separate ISMLS facilities serve opposite ends of of a single runway, an interlock must ensure that only the facility serving the approach direction being used will radiate.
+. The radiation from the localizer antenna system must produce a composite field pattern which is pulse duration modulated, the time average equivalent to amplitude modulation by a 90 Hz and 150 Hz tone. The localizer station must transmit angular guidance information over a C-band microwave carrier on narrow, scanned antenna beams that are encoded to produce a modulation in space which, after averaging over several beam scans, is equivalent to the modulation used for conventional ILS as specified in subpart C of this part. The radiation field pattern must produce a course sector with one tone predominating on one side of the course and with the other tone predominating on the opposite side. When an observer faces the localizer from the approach end of the runway, the depth of modulation of the radio frequency carrier due to the 150 Hz tone must predominate on his right hand and that due to the 90 Hz tone must predominate on his left hand.
+. All horizontal angles employed in specifying the localizer field patterns must originate from the center of the localizer antenna system which provides the signals used in the front course sector.
+. The ISMLS course sector angle must be adjustable between 3 degrees and 9 degrees. The applicable course sector angle will be established and approved on an individual basis.
+. The ISMLS localizer must operate in the band 5000 MHz to 5030 MHz. The frequency tolerance may not exceed ±0.0001 percent.
+. The emission from the localizer must be vertically polarized. The horizontally polarized component of the radiation of the course line may not exceed that which corresponds to a DDM error of 0.016 when an aircraft is positioned on the course line and is in a roll attitude of 20 degrees from the horizontal.
+. The localizer must provide signals sufficient to allow satisfactory operation of a typical aircraft installation within the localizer and glide path coverage sectors. The localizer coverage sector must extend from the center of the localizer antenna system to distances of 18 nautical miles minimum within ±10 degrees from the front course line, and 10 nautical miles minimum between ±10 degrees and ±35 degrees from the front course line. The ISMLS localizer signals must be receivable at the distances specified up from a surface extending outward from the localizer antenna and within a sector in the elevation plane from 0.300 to 1.750 of the established glide path angle (θ).
+. Except as provided in paragraph (k) of this section, in all parts of the coverage volume specified in paragraph (i) of this section, the peak field strength may not be less than −87 dBW/m *2*, and must permit satisfactory operational usage of ISMLS localizer facilities.
+. The minimum peak field strength on the ISMLS glide path and within the localizer course sector from a distance of 10 nautical miles to a height of 100 feet (30 meters) above the horizontal plane containing the threshold, may not be less than + 87 dBW/m *2*.
+. Above 16 degrees, the ISMLS localizer signals must be reduced to as low a value as practicable.
+. Bends in the course line may not have amplitudes which exceed the following:
+. The amplitudes referred to in paragraph (m) of this section are the DDMs due to bends as realized on the mean course line, when correctly adjusted.
+. The radio frequency carrier must meet the following requirements:
+.. The nominal depth of modulation of the radio frequency carrier due to each of the 90 Hz and 150 Hz tones must be 20 percent along the course line.
+.. The depth of modulation of the radio frequency carrier due to each of the 90 Hz and 150 Hz tones must be between 18 and 22 percent.
+.. The frequency tolerance of the 90 Hz and 150 Hz modulated tones must be within ±25 percent.
+.. Total harmonic content of the 90 Hz tone may not exceed 10 percent.
+.. Total harmonic content of the 150 Hz tone may not exceed 10 percent. However, a 300 Hz tone may be transmitted for identification purposes.
+.. At every half cycle of the combined 90 Hz and 150 Hz wave form, the modulation tones must be phase-locked so that within the half course sector, the demodulated 90 Hz and 150 Hz wave forms pass through zero in the same direction within 20 degrees with phase relative to the 150 Hz component. However, the phase need not be measured within the half course sector.
+. The mean course line must be adjusted and maintained within ±.015DDM from the runway centerline at the ISMLS reference datum.
+. The nominal displacement sensitivity within the half course sector at the ISMLS reference datum, must be 0.00145 DDM/meter (0.00044DDM/foot). However, where the specified nominal displacement sensitivity cannot be met, the displacement sensitivity must be adjusted as near as possible to that value.
+. The lateral displacement sensitivity must be adjusted and maintained within 17 percent of the nominal value. Nominal sector width at the ISMLS reference datum is 210 meters (700 feet).
+. The increase of DDM must be substantially linear with respect to angular displacement from the front course line where DDM is zero, up to angle on either side of the front course line where the DDM is 0.180. From that angle to ±10 degrees, the DDM may not be less than 0.180. From ±10 degrees to ±35 degrees, the DDM may not be less than 0.155.
+. The localizer must provide for the simultaneous transmission of an identification signal which meets the following:
+.. It must be specific to the runway and approach direction, on the same radio frequency carrier, as used for the localizer function.
+.. Transmission of the identification signal may not interfere in any way with the basic localizer function.
+.. The signal must be produced by pulse duration modulation of the radio frequency carrier resulting in a detected audio tone in the airborne VHF receiver of 1020 Hz ±50Hz.
+.. The depth of modulation must be between the limits of 10 and 12 percent.
+.. The emissions carrying the identification signal must be vertically polarized.
+.. The identification signal must employ the International Morse Code and consist of three letters. It must be preceded by the International Morse Code signal of the letter “M” followed by a short pause where it is necessary to distinguish the ISMLS facility from other navigational facilities in the immediate area. At airports where both an ISMLS and an ILS are in operation, each facility must have a different identification call sign.
+.. The signal must be transmitted at a speed corresponding to approximately seven words per minute, and must be repeated at approximately equal intervals, not less than six times per minute, during which time the localizer is available for operational use. When the localizer is not available for transmission, the identification signal must be suppressed.
+
+## § 171.263
+
+### Localizer automatic monitor system.
+
+. The ISMLS localizer equipment must provide an automatic monitor system that transmits a warning to designated local and remote control points when any of the following occurs:
+.. A shift of the mean course line of the localizer from the runway centerline equivalent to more than 0.015 DDM at the ISMLS reference datum.
+.. For localizers in which the basic functions are provided by the use of a single-frequency system, a reduction of power output to less than 50 percent of normal or a loss of ground station identification transmissions.
+.. Changes of displacement sensitivity to a value differing by more than 17 percent from nominal value for the localizer.
+.. Failure of any part of the monitor itself. Such failure must automatically produce the same results as the malfunctioning of the element being monitored.
+. Within 10 seconds of the occurrence of any of the conditions prescribed in paragraph (a) of this section, including periods of zero radiation, localizer signal radiation must cease or the navigation and identification components must be removed.
+
+## § 171.265
+
+### Glide path performance requirements.
+
+This section prescribes the performance requirements for glide path equipment components of the ISMLS. These requirements are based on the assumption that the aircraft is heading directly toward the facility.
+
+. The glide slope antenna system must be located near the approach end of the runway, and the equipment must be adjusted so that the vertical path line will be in a sloping horizontal plane containing the centerline of the runway being served, and satisfy the coverage requirements prescribed in paragraph (g) of this section. For the purpose of obstacle clearance, location of the glide slope antenna system must be in accordance with the criteria specified in subpart C of part 97 of this chapter.
+. The radiation from the glide path antenna system must produce a composite field pattern which is pulse duration modulated by a 90 Hz and a 150 Hz tone, which is the time average equivalent to amplitude modulation. The pattern must be arranged to provide a straight line descent path in the vertical plane containing the centerline of the runway, with the 150 Hz tone predominating below the path and the 90 Hz tone predominating above the path to at least an angle equal to 1.752θ. As used in this section theta (θ), denotes the nominal glide path angle. The glide path angle must be adjusted and maintained within 0.075θ.
+. The glide path equipment must be capable of producing a radiated glide path from 3 to 9 degrees with respect to the horizontal. However, ISMLS glide path angles in excess of 3 degrees may be used to satisfy instrument approach procedures or to overcome an obstruction clearance problem, only in accordance with the criteria specified in subpart C of part 97 of this chapter.
+. The downward extended straight portion of the ISMLS glide path must pass through the ISMLS reference datum at a height ensuring safe guidance over obstructions and safe and efficient use of the runway served. The height of the ISMLS reference datum must be in accordance with subpart C of part 97 of this chapter.
+. The glide path equipment must operate in the band 5220 MHz to 5250 MHz. The frequency tolerance may not exceed ±0.0001 percent.
+. The emission from the glide path equipment must be vertically polarized.
+. The glide path equipment must provide signals sufficient to allow satisfactory operation of a typical aircraft installation insectors of 8 degrees on each side of the centerline of the ISMLS glide path, to a distance of at least 10 nautical miles up to 1.75θ and down to 0.45θ above the horizontal or to such lower angle at which 0.22 DDM is realized.
+              
+. To provide the coverage for glide path performance specified in paragraph (g) of this section, the minimum peak field strength within this coverage sector must be −82 dBW/m *2*. The peak field strength must be provided on the glide path down to a height of 30 meters (100 feet) above the horizontal plane containing the threshold.
+. Bends in the glide path may not have amplitudes which exceed the following:
+. Guidance modulation must be impressed on the microwave carrier of the radiated glide slope signal in the form of a unique summation of 90 Hz and 150 Hz sinusoidal modulation corresponding to the point direction of the particular beam which radiates the signal. Each of the effective beam positions must be illuminated in sequence for a short time interval. The scan rate must be synchronous with the 90 and 150 Hz tone base. The modulation impressed on each beam must be a sample of the combined 90 Hz and 150 Hz waveform appropriate for that particular beam direction and time slot. The actual modulation must be accomplished by appropriately varying the length of time the carrier is radiated during each beam illumination interval.
+. The nominal depth of modulation of the radio frequency carrier due to each of the 90 Hz and 150 Hz tones must be 40 percent along the ISMLS glide path. The depth of modulation may not deviate outside the limits of 37.5 percent to 42.5 percent.
+. The following tolerances apply to the frequencies of the modulating tones:
+.. The modulating tones must be 90 Hz and 150 Hz within 2.5 percent.
+.. The total harmonic content of the 90 Hz tone may not exceed 10 percent.
+.. The total harmonic content of the 150 Hz tone may not exceed 10 percent.
+. At every half cycle of the combined 90 Hz and 150 Hz wave form, the modulation must be phase-locked so that, within the ISMLS half glide path sector, the demodulated 90 Hz and 150 Hz wave forms pass through zero in the same direction within 20 degrees of phase relative to the 150 Hz component. However, the phase need not be measured within the ISMLS half glide path sector.
+. The nominal angular displacement sensitivity must correspond to a DDM of 0.0875 at an angular displacement above and below the glide path of 0.12θ. The glide path angular displacement sensitivity must be adjusted and maintained within ±25 percent of the nominal value selected. The upper and lower sectors must be as symmetrical as practicable within the limits prescribed in this paragraph.
+. The DDM below the ISMLS glide path must increase smoothly for decreasing angle until a value of 0.22 DDM is reached. This value must be achieved at an angle not less than 0.30θ above the horizontal. However, if it is achieved at an angle above 0.45θ, the DDM value may not be less than 0.22 at least down to an angle of 0.45θ.
+
+## § 171.267
+
+### Glide path automatic monitor system.
+
+. The ISMLS glide path equipment must provide an automatic monitor system that transmits a warning to designated local and remote control points when any of the following occurs:
+.. A shift of the mean ISMLS glide path angle equivalent to more than 0.075θ.
+.. For glide paths in which the basic functions are provided by the use of a single frequency system, a reduction of power output to less than 50 percent.
+.. A change of the angle between the glide path and the line below the glide path (150 Hz predominating), at which a DDM of 0.0875 is realized by more than ±0.0375θ.
+              
+.. Lowering of the line beneath the ISMLS glide path at which a DDM of 0.0875 is realized to less than 0.75θ from the horizontal.
+.. Failure of any part of the monitor itself. Such failure must automatically produce the same results as the malfunctioning of the element being monitored.
+. At glide path facilities where the selected nominal angular displacement sensitivity corresponds to an angle below the ISMLS glide path, which is close to or at the maximum limits specified, an adjustment to the monitor operating limits may be made to protect against sector deviations below 0.75θ from the horizontal.
+. Within 10 seconds of the occurrence of any of the conditions prescribed in paragraph (a) of this section, including periods of zero radiation, glide path signal radiation must cease.
+
+## § 171.269
+
+### Marker beacon performance requirements.
+
+ISMLS marker beacon equipment must meet the performance requirements prescribed in subpart H of this part.
+
+## § 171.271
+
+### Installation requirements.
+
+. The ISMLS facility must be permanent in nature, located, constructed, and installed according to accepted good engineering practices, applicable electric and safety codes, FCC licensing requirements, and paragraphs (a) and (c) of § 171.261.
+. The ISMLS facility must have a reliable source of suitable primary power, either from a power distribution system or locally generated. Adequate power capacity must be provided for the operation of test and working equipment of the ISMLS.
+. The ISMLS facility must have a continuously engaged or floating battery power source for the ground station for continued normal operation if the primary power fails. A trickle charge must be supplied to recharge the batteries during the period of available primary power. Upon loss and subsequent restoration of power, the batteries must be restored to full charge within 24 hours. When primary power is applied, the state of the battery charge may not affect the operation of the ISMLS ground station. The battery must permit continuation of normal operation for at least two hours under the normal operating conditions. The equipment must meet all specification requirements with or without batteries installed.
+. There must be a means for determining, from the ground, the performance of the equipment including antennae, both initially and periodically.
+. The facility must have, or be supplemented by, ground-air or landline communications services. At facilities within or immediately adjacent to controlled airspace and that are intended for use as instrument approach aids for an airport, there must be ground-air communications or reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communication facility. Compliance with this paragraph need not be shown at airports where an adjacent Federal Aviation Administration facility can communicate with aircraft on the ground at the airport and during the entire proposed instrument approach procedure. In addition, at low traffic density airports within or immediately adjacent to controlled airspace, and where extensive delays are not a factor, the requirements of this paragraph may be reduced to reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communications facility, if an adjacent Federal Aviation Administration facility can communicate with aircraft during the proposed instrument approach procedure, at least down to the minimum en route altitude for the controlled area.
+. Except where no operationally harmful interference will result, at locations where two separate ISMLS facilities serve opposite ends of a single runway, an interlock must ensure that only the facility serving the approach direction in use can radiate.
+
+## § 171.273
+
+### Maintenance and operations requirements.
+
+. The owner of the facility must establish an adequate maintenance system and provide qualified maintenance personnel to maintain the facility at the level attained at the time it was commissioned. Each person who maintains a facility must meet at least the Federal Communications Commission's licensing requirements and show that he has the special knowledge and skills needed to maintain the facility, including proficiency in maintenance procedures and the use of specialized test equipment.
+. In the event of out-of-tolerance conditions or malfunctions, as evidenced by receiving two successive pilot reports, the owner must close the facility be ceasing radiation, and issue a “Notice to Airman” (NOTAM) that the facility is out of service.
+. The owner must prepare, and obtain approval of, an operations and maintenance manual that sets forth mandatory procedures for operations, periodic maintenance, and emergency maintenance, including instructions on each of the following:
+.. Physical security of the facility.
+.. Maintenance and operations by authorized persons.
+.. FCC licensing requirements for operations and maintenance personnel.
+.. Posting of licenses and signs.
+.. Relation between the facility and FAA air traffic control facilities, with a description of the boundaries of controlled airspace over or near the facility, instructions for relaying air traffic control instructions and information, if applicable, and instructions for the operation of an air traffic advisory service if the facility is located outside of controlled airspace.
+.. Notice to the Administrator of any suspension of service.
+.. Detailed and specific maintenance procedures and servicing guides stating the frequency of servicing.
+.. Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
+.. Keeping of station logs and other technical reports, and the submission of reports required by § 171.275.
+.. Monitoring of the ISMLS facility.
+.. Inspections by United States personnel.
+.. Names, addresses, and telephone numbers of persons to be notified in an emergency.
+.. Shutdowns for periodic maintenance and issue of “Notices to Airmen” for routine or emergency shutdowns.
+.. Commissioning of the ISMLS facility.
+.. An acceptable procedure for amending or revising the manual.
+.. An explanation of the kinds of activities (such as construction or grading) in the vicinity of the ISMLS facility that may require shutdown or recertification of the ISMLS facility by FAA flight check.
+.. Procedures for conducting a ground check of the localizer course alignment, width, and clearance, glide path elevation angle and course width, and marker beacon power, and modulation.
+.. The following information concerning the ISMLS facility:
+... Facility component locations with respect to airport layout, instrument runways, and similar areas.
+... The type, make, and model of the basic radio equipment that provides the service.
+... The station power emission and frequencies of the ISMLS localizer, glide path, beacon markers, and associated compass locators, if any.
+... The hours of operation.
+... Station identification call letters and method of station identification and the time spacing of the identification.
+... A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
+. The owner or his maintenance representative must make a ground check of the ISMLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in § 171.275.
+. Modifications to an ISMLS facility may be made only after approval by the FAA of the proposed modification submitted by the owner.
+              
+. The owner or the owner's maintenance representative must participate in inspections made by the FAA.
+. Whenever it is required by the FAA, the owner must incorporate improvements in ISMLS maintenance.
+. The owner or his maintenance representative must provide a sufficient stock of spare parts, including solid state components, or modules to make possible the prompt replacement of components or modules that fail or deteriorate in service.
+. FAA approved test instruments must be used for maintenance of the ISMLS facility.
+. The mean corrective maintenance time of the ISMLS equipment may not exceed 0.5 hours, with a maximum corrective maintenance time of not greater than 1.5 hours. This measure applies to failures of the monitor, transmitter and associated antenna assemblies, limited to unscheduled outage and out-of-tolerance conditions.
+. The mean time between failures of the ISMLS equipment may not be less than 1,500 hours. This measure applies to unscheduled outages, out-of-tolerance conditions, and failures of the monitor, transmitter, and associated antenna assemblies.
+. Inspection consists of an examination of the ISMLS equipment to ensure that unsafe operating conditions do not exist.
+. Monitoring of the ISMLS radiated signal must ensure a high degree of integrity and minimize the requirements for ground and flight inspection. The monitor must be checked periodically during the in-service test evaluation period for calibration and stability. These tests and ground checks of glide slope, localizer, and marker beacon radiation characteristics must be conducted in accordance with the maintenance requirements of this section.
+
+## § 171.275
+
+### Reports.
+
+The owner of the ISMLS facility or his maintenance representative must make the following reports at the indicated time to the appropriate FAA Regional Office where the facility is located.
+
+. *Facility Equipment Performance and Adjustment Data* (*FAA Form 198*). The FAA Form 198 shall be filled out by the owner or his maintenance representative with the equipment adjustments and meter readings as of the time of facility commissioning. One copy must be kept in the permanent records of the facility and two copies must be sent to the appropriate FAA Regional Office. The owner or his maintenance representative must revise the FAA Form 198 data after any major repair, modernization, or retuning to reflect an accurate record of facility operation and adjustment. In the event the data are revised, the owner or his maintenance representative shall notify the appropriate FAA Regional Office of such revisions, and forward copies of the revisions to the appropriate FAA Regional Office.
+. *Facility Maintenance Log* (*FAA Form 6030*-*1*). FAA Form 6030-1 is a permanent record of all the activities required to maintain the ISMLS facility. The entries must include all malfunctions met in maintaining the facility including information on the kind of work and adjustments made, equipment failures, causes (if determined) and corrective action taken. In addition, the entries must include completion of periodic maintenance required to maintain the facility. The owner or his maintenance representative must keep the original of each form at the facility and send a copy to the appropriate FAA Regional Office at the end of each month in which it is prepared. However, where an FAA approved remote monitoring system is installed which precludes the need for periodic maintenance visits to the facility, monthly reports from the remote monitoring system control point must be forwarded to the appropriate FAA Regional Office, and a hard copy retained at the control point.
+. *Technical Performance Record* (*FAA Form 418*). FAA Form 418 contains a record of system parameters, recorded on each scheduled visit to the facility. The owner or his maintenance representative shall keep the original of each month's record at the facility and send a copy of the form to the appropriate FAA Regional Office.
+

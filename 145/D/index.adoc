@@ -1,0 +1,97 @@
+# Personnel
+:toc:
+
+## § 145.151
+
+### Personnel requirements.
+
+Each certificated repair station must—
+
+. Designate a repair station employee as the accountable manager;
+. Provide qualified personnel to plan, supervise, perform, and approve for return to service the maintenance, preventive maintenance, or alterations performed under the repair station certificate and operations specifications;
+              
+. Ensure it has a sufficient number of employees with the training or knowledge and experience in the performance of maintenance, preventive maintenance, or alterations authorized by the repair station certificate and operations specifications to ensure all work is performed in accordance with part 43; and
+. Determine the abilities of its noncertificated employees performing maintenance functions based on training, knowledge, experience, or practical tests.
+
+## § 145.153
+
+### Supervisory personnel requirements.
+
+. A certificated repair station must ensure it has a sufficient number of supervisors to direct the work performed under the repair station certificate and operations specifications. The supervisors must oversee the work performed by any individuals who are unfamiliar with the methods, techniques, practices, aids, equipment, and tools used to perform the maintenance, preventive maintenance, or alterations.
+. Each supervisor must—
+.. If employed by a repair station located inside the United States, be appropriately certificated as a mechanic or repairman under part 65 of this chapter for the work being supervised.
+.. If employed by a repair station located outside the United States—
+... Have a minimum of 18 months of practical experience in the work being performed; or
+... Be trained in or thoroughly familiar with the methods, techniques, practices, aids, equipment, and tools used to perform the maintenance, preventive maintenance, or alterations.
+. A certificated repair station must ensure its supervisors understand, read, and write English.
+
+## § 145.155
+
+### Inspection personnel requirements.
+
+. A certificated repair station must ensure that persons performing inspections under the repair station certificate and operations specifications are—
+.. Thoroughly familiar with the applicable regulations in this chapter and with the inspection methods, techniques, practices, aids, equipment, and tools used to determine the airworthiness of the article on which maintenance, preventive maintenance, or alterations are being performed; and
+.. Proficient in using the various types of inspection equipment and visual inspection aids appropriate for the article being inspected.
+. A certificated repair station must ensure its inspectors understand, read, and write English.
+
+## § 145.157
+
+### Personnel authorized to approve an article for return to service.
+
+. A certificated repair station located inside the United States must ensure each person authorized to approve an article for return to service under the repair station certificate and operations specifications is appropriately certificated as a mechanic or repairman under part 65.
+. A certificated repair station located outside the United States must ensure each person authorized to approve an article for return to service under the repair station certificate and operations specifications is—
+.. Trained in or has 18 months practical experience with the methods, techniques, practices, aids, equipment, and tools used to perform the maintenance, preventive maintenance, or alterations; and
+.. Thoroughly familiar with the applicable regulations in this chapter and proficient in the use of the various inspection methods, techniques, practices, aids, equipment, and tools appropriate for the work being performed and approved for return to service.
+. A certificated repair station must ensure each person authorized to approve an article for return to service understands, reads, and writes English.
+
+## § 145.159
+
+### Recommendation of a person for certification as a repairman.
+
+A certificated repair station that chooses to use repairmen to meet the applicable personnel requirements of this part must certify in a format acceptable to the FAA that each person recommended for certification as a repairman—
+
+. Is employed by the repair station, and
+. Meets the eligibility requirements of § 65.101.
+
+## § 145.160
+
+### Employment of former FAA employees.
+
+. Except as specified in paragraph (c) of this section, no holder of a repair station certificate may knowingly employ or make a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2 years—
+.. Served as, or was directly responsible for the oversight of, a Flight Standards Service aviation safety inspector; and
+.. Had direct responsibility to inspect, or oversee the inspection of, the operations of the certificate holder.
+. For the purpose of this section, an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the agency if the individual makes any written or oral communication on behalf of the certificate holder to the agency (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a Flight Standards Service aviation safety inspector.
+. The provisions of this section do not prohibit a holder of a repair station certificate from knowingly employing or making a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual was employed by the certificate holder before October 21, 2011.
+
+## § 145.161
+
+### Records of management, supervisory, and inspection personnel.
+
+. A certificated repair station must maintain and make available in a format acceptable to the FAA the following:
+.. A roster of management and supervisory personnel that includes the names of the repair station officials who are responsible for its management and the names of its supervisors who oversee maintenance functions.
+.. A roster with the names of all inspection personnel.
+.. A roster of personnel authorized to sign a maintenance release for approving a maintained or altered article for return to service.
+.. A summary of the employment of each individual whose name is on the personnel rosters required by paragraphs (a)(1) through (a)(3) of this section. The summary must contain enough information on each individual listed on the roster to show compliance with the experience requirements of this part and must include the following:
+... Present title,
+... Total years of experience and the type of maintenance work performed,
+... Past relevant employment with names of employers and periods of employment,
+... Scope of present employment, and
+... The type of mechanic or repairman certificate held and the ratings on that certificate, if applicable.
+. Within 5 business days of the change, the rosters required by this section must reflect changes caused by termination, reassignment, change in duties or scope of assignment, or addition of personnel.
+
+## § 145.163
+
+### Training requirements.
+
+. A certificated repair station must have and use an employee training program approved by the FAA that consists of initial and recurrent training. An applicant for a repair station certificate must submit a training program for approval by the FAA as required by § 145.51(a)(7).
+. The training program must ensure each employee assigned to perform maintenance, preventive maintenance, or alterations, and inspection functions is capable of performing the assigned task.
+. A certificated repair station must document, in a format acceptable to the FAA, the individual employee training required under paragraph (a) of this section. These training records must be retained for a minimum of 2 years.
+. A certificated repair station must submit revisions to its training program to its certificate holding district office in accordance with the procedures required by § 145.209(e).
+
+## § 145.165
+
+### Hazardous materials training.
+
+. Each repair station that meets the definition of a hazmat employer under 49 CFR 171.8 must have a hazardous materials training program that meets the training requirements of 49 CFR part 172 subpart H.
+. A repair station employee may not perform or directly supervise a job function listed in § 121.1001 or § 135.501 for, or on behalf of the part 121 or 135 operator including loading of items for transport on an aircraft operated by a part 121 or part 135 certificate holder unless that person has received training in accordance with the part 121 or part 135 operator's FAA approved hazardous materials training program.
+

@@ -1,0 +1,455 @@
+# Microwave Landing System (MLS)
+:toc:
+
+## § 171.301
+
+### Scope.
+
+This subpart sets forth minimum requirements for the approval, installation, operation and maintenance of non-Federal Microwave Landing System (MLS) facilities that provide the basis for instrument flight rules (IFR) and air traffic control procedures.
+
+## § 171.303
+
+### Definitions.
+
+As used in this subpart:
+
+*Auxiliary data* means data transmitted in addition to basic data that provide ground equipment siting information for use in refining airborne position calculations and other supplementary information.
+
+*Basic data* means data transmitted by the ground equipment that are associated directly with the operation of the landing guidance system.
+
+*Beam center* means the midpoint between the −3 dB points on the leading and trailing edges of the scanning beam main lobe.
+
+*Beamwidth* means the width of the scanning beam main lobe measured at the −3 dB points and defined in angular units on the boresight, in the horizontal plane for the azimuth function and in the vertical plane for the elevation function.
+
+*Clearance guidance sector* means the volume of airspace, inside the coverage sector, within which the azimuth guidance information provided is not proportional to the angular displacement of the aircraft, but is a constant fly-left or fly-right indication of the direction relative to the approach course the aircraft should proceed in order to enter the proportional guidance sector.
+
+*Control Motion Noise (CMN)* means those fluctuations in the guidance which affect aircraft attitude, control surface motion, column motion, and wheel motion. Control motion noise is evaluated by filtering the flight error record with a band-pass filter which has corner frequencies at 0.3 radian/sec and 10 radians/sec for azimuth data and 0.5 radian/sec and 10 radians/sec for elevation data.
+
+*Data rate* means the average number of times per second that transmissions occur for a given function.
+
+*Differential Phase Shift Keying (DPSK)* means differential phase modulation of the radio frequency carrier with relative phase states of 0 degree or 180 degrees.
+
+*Failure* means the inability of an item to perform within previously specified limits.
+
+*Guard time* means an unused period of time provided in the transmitted signal format to allow for equipment tolerances.
+
+*Integrity* means that quality which relates to the trust which can be placed in the correctness of the information supplied by the facility.
+
+*Mean corrective time* means the average time required to correct an equipment failure over a given period, after a service technician reaches the facility.
+
+*Mean course error* means the mean value of the azimuth error along a specified radial of the azimuth function.
+
+*Mean glide path error* means the mean value of the elevation error along a specified glidepath of the elevation function.
+
+*Mean-time-between-failures (MTBF)* means the average time between equipment failures over a given period.
+
+*Microwave Landing System (MLS)* means the MLS selected by ICAO for international standardization.
+
+*Minimum glidepath* means the lowest angle of descent along the zero degree azimuth that is consistent with published approach procedures and obstacle clearance criteria.
+
+*MLS Approach Reference Datum* is a point at a specified height located vertically above the intersection of the runway centerline and the threshold.
+
+*MLS back azimuth reference datum* means a point 15 meters (50 feet) above the runway centerline at the runway midpoint.
+
+*MLS datum point* means a point defined by the intersection of the runway centerline with a vertical plane perpendicular to the centerline and passing through the elevation antenna phase center.
+
+*Out of coverage indication (OCI)* means a signal radiated into areas outside the intended coverage sector, where required, to specifically prevent invalid removal of an airborne warning indication in the presence of misleading guidance information.
+
+*Path Following Error (PFE)* means the guidance perturbations which could cause aircraft displacement from the desired course or glidepath. It is composed of the path following noise and of the mean course error in the case of azimuth functions, or the mean glidepath error in the case of elevation functions. Path following errors are evaluated by filtering the flight error record with a second order low pass filter which has a corner frequency at 0.5 radian/sec for azimuth data or 1.5 radians/sec for elevation data.
+
+*Path following noise (PFN)* means that portion of the guidance signal error which could cause displacement from the actual mean course line or mean glidepath as appropriate.
+
+*Split-site ground station* means the type of ground station in which the azimuth portion of the ground station is located near the stop end of the runway, and the elevation portion is located near the approach end.
+
+*Time division multiplex (TDM)* means that each function is transmitted on the same frequency in time sequence, with a distinct preamble preceding each function transmission.
+
+## § 171.305
+
+### Requests for IFR procedure.
+
+. Each person who requests an IFR procedure based on an MLS facility which that person owns must submit the following information with that request:
+.. A description of the facility and evidence that the equipment meets the performance requirements of §§ 171.309, 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321 and is fabricated and installed in accordance with § 171.323.
+.. A proposed procedure for operating the facility.
+.. A proposed maintenance organization and a maintenance manual that meets the requirements of § 171.325.
+.. A statement of intent to meet the requirements of this subpart.
+.. A showing that the facility has an acceptable level of operational reliability and an acceptable standard of performance. Previous equivalent operational experience with a facility with identical design and operational characteristics will be considered in showing compliance with this subparagraph.
+. FAA inspects and evaluates the MLS facility; it advises the owner of the results, and of any required changes in the MLS facility or in the maintenance manual or maintenance organization. The owner must then correct the deficiencies, if any, and operate the MLS facility for an in-service evaluation by the FAA.
+
+## § 171.307
+
+### Minimum requirements for approval.
+
+. The following are the minimum requirements that must be met before the FAA approves an IFR procedure for a non-Federal MLS facility:
+.. The performance of the MLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §§ 171.309, 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321.
+.. The fabrication and installation of the equipment must meet the requirements of § 171.323.
+.. The owner must agree to operate and maintain the MLS facility in accordance with § 171.325.
+.. The owner must agree to furnish operational records as set forth in § 171.327 and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+.. The owner must assure the FAA that he will not withdraw the MLS facility from service without the permission of the FAA.
+.. The owner must bear all costs of meeting the requirements of this section and of any flight or ground inspection made before the MLS facility is commissioned.
+. [Reserved]
+
+## § 171.309
+
+### General requirements.
+
+The MLS is a precision approach and landing guidance system which provides position information and various ground-to-air data. The position information is provided in a wide coverage sector and is determined by an azimuth angle measurement, an elevation angle measurement and a range (distance) measurement.
+              
+
+. An MLS constructed to meet the requirements of this subpart must include:
+.. Approach azimuth equipment, associated monitor, remote control and indicator equipment.
+.. Approach elevation equipment, associated monitor, remote control and indicator equipment.
+.. A means for the encoding and transmission of essential data words, associated monitor, remote control and indicator equipment. Essential data are basic data words 1, 2, 3, 4, and 6 and auxiliary data words A1, A2 and A3.
+.. Distance measuring equipment (DME), associated monitor, remote control and indicator equipment.
+.. Remote controls for paragraphs (a) (1), (2), (3), and (4) of this section must include as a minimum on/off and reset capabilities and may be integrated in the same equipment.
+.. At locations where a VHF marker beacon (75 MHz) is already installed, it may be used in lieu of the DME equipment.
+. In addition to the equipment required in paragraph (a) of this section the MLS may include:
+.. Back azimuth equipment, associated monitor, remote control and indicator equipment. When Back Azimuth is provided, a means for transmission of Basic Data Word 5 and Auxiliary Data Word A4 shall also be provided.
+.. A wider proportional guidance sector which exceeds the minimum specified in §§ 171.313 and 171.317.
+.. Precision DME, associated monitor, remote control and indicator equipment.
+.. VHF marker beacon (75 MHz), associated monitor, remote control and indicator equipment.
+.. The MLS signal format will accommodate additional functions (e.g., flare elevation) which may be included as desired. Remote controls for paragraphs (b) (1), (3) and (4) of this section must include as a minimum on/off and reset capabilities, and may be integrated in the same equipment.
+.. Provisions for the encoding and transmission of additional auxiliary data words, associated monitor, remote control and indicator equipment.
+. MLS ground equipment must be designed to operate on a nominal 120/240 volt, 60 Hz, 3-wire single phase AC power source and must meet the following service conditions:
+.. AC line parameters, DC voltage, elevation and duty:
+              
+.. Ambient conditions within the shelter for electronic equipment installed in shelters are:
+              
+.. Ambient conditions for electronic equipment and all other equipment installed outdoors (for example, antenna, field detectors, and shelters):
+              
+.. All equipment installed outdoors must operate satisfactorily under the following conditions:
+              
+. The transmitter frequencies of an MLS must be in accordance with the frequency plan approved by the FAA.
+              
+. The DME component listed in paragraph (a)(4) of this section must comply with the minimum standard performance requirements specified in subpart G of this part.
+. The marker beacon components listed in paragraph (b)(4) of this section must comply with the minimum standard performance requirements specified in subpart H of this part.
+
+## § 171.311
+
+### Signal format requirements.
+
+The signals radiated by the MLS must conform to the signal format in which angle guidance functions and data functions are transmitted sequentially on the same C-band frequency. Each function is identified by a unique digital code which initializes the airborne receiver for proper processing. The signal format must meet the following minimum requirements:
+
+. *Frequency assignment.* The ground components (except DME/Marker Beacon) must operate on a single frequency assignment or channel, using time division multiplexing. These components must be capable of operating on any one of the 200 channels spaced 300 KHz apart with center frequencies from 5031.0 MHz to 5090.7 MHz and with channel numbering as shown in Table 1a. The operating radio frequencies of all ground components must not vary by more than ±10 KHz from the assigned frequency. Any one transmitter frequency must not vary more than ±50 Hz in any one second period. The MLS angle/data and DME equipment must operate on one of the paired channels as shown in Table 1b.
+. *Polarization.* (1) The radio frequency emissions from all ground equipment must be nominally vertically polarized. Any horizontally polarized radio frequency emission component from the ground equipment must not have incorrectly coded angle information such that the limits specified in paragraphs (b) (2) and (3) of this section are exceeded.
+. *Modulation requirements.* Each function transmitter must be capable of DPSK and continuous wave (CW) modulations of the RF carrier which have the following characteristics.
+.. DPSK. The DPSK signal must have the following characteristics:
+.. CW. The CW pulse transmissions and the CW angle transmissions as may be required in the signal format of any function must have characteristics such that the requirements of paragraph (d) of this section are met.
+. *Radio frequency signal spectrum.* The transmitted signal must be such that during the transmission time, the mean power density above a height of 600 meters (2000 feet) does not exceed −100.5 dBW/m *2* for angle guidance and −95.5 dBW/m *2* for data, as measured in a 150 KHz bandwidth centered at a frequency of 840 KHz or more from the assigned frequency.
+. *Synchronization.* Synchronization between the azimuth and elevation components is required and, in split-site configurations, would normally be accomplished by landline interconnections. Synchronization monitoring must be provided to preclude function overlap.
+. *Transmission rates.* Angle guidance and data signals must be transmitted at the following average repetition rates:
+. *Transmission sequences.* Sequences of angle transmissions which will generate the required repetition rates are shown in Figures 2 and 3.
+. *TDM cycle.* The time periods between angle transmission sequences must be varied so that exact repetitions do not occur within periods of less than 0.5 second in order to protect against synchronous interference. One such combination of sequences is shown in Figure 4 which forms a full multiplex cycle. Data may be transmitted during suitable open times within or between the sequences.
+. *Function Formats (General).* Each angle function must contain the following elements: a preamble; sector signals; and a TO and FRO angle scan organized as shown in Figure 5a. Each data function must contain a preamble and a data transmission period organized as shown in Figure 5b.
+.. *Preamble format.* The transmitted angle and date functions must use the preamble format shown in Figure 6. This format consists of a carrier acquisition period of unmodulated CW transmission followed by a receiver synchronization code and a function identification code. The preamble timing must be in accordance with Table 2.
+... *Digital codes.* The coding used in the preamble for receiver synchronization is a Barker code logic 11101. The time of the last phase transition midpoint in the code shall be the receiver reference time (see Table 2). The function identification codes must be as shown in Table 3. The last two bits (I*11* and I*12*) of the code are parity bits obeying the equations:
+              
+... *Data modulation.* The digital code portions of the preamble must be DPSK modulated in accordance with § 171.311(c)(1) and must be transmitted throughout the function coverage volume.
+.. *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of §§ 171.313 and 171.317.
+... Preamble. Must be in accordance with requirements of § 171.311(i)(1).
+... *Sector signals.* In all azimuth formats, sector signals must be transmitted to provide Morse Code identification, airborne antenna selection, and system test signals. These signals are not required in the elevation formats. In addition, if the signal from an installed ground component results in a valid indication in an area where no valid guidance should exist, OCI signals must be radiated as provided for in the signal format (see Tables 4a, 4b, and 5). The sector signals are defined as follows:
+... *Angle encoding.* The encoding must be as follows:
+... *Clearance guidance.* The timing of the clearance pulses must be in accordance with Figure 8. For azimuth elements with proportional coverage of less than ±40 degrees (±20 degrees for back azimuth), clearance guidance information must be provided by transmitting pulses in a TO and FRO format adjacent to the stop/start times of the scanning beam signal. The fly-right clearance pulses must represent positive angles and the fly-left clearance pulses must represent negative angles. The duration of each clearance pulse must be 50 microseconds with a tolerance of ±5 microseconds. The transmitter switching time between the clearance pulses and the scanning beam transmissions must not exceed 10 microseconds. The rise time at the edge of each clearance pulse must be less than 10 microseconds. Within the fly-right clearance guidance section, the fly-right clearance guidance signal shall exceed scanning beam antenna sidelobes and other guidance and OCI signals by at least 5 dB; within the fly-left clearance guidance sector, the fly left clearance guidance signal shall exceed scanning beam antenna sidelobes and all other guidance and OCI signals by at least 5 dB; within the proportional guidance sector, the clearance guidance signals shall be at least 5dB below the proportional guidance signal. Optionally, clearance guidance may be provided by scanning throughout the approach guidance sector. For angles outside the approach azimuth proportional coverage limits as set in Basic Data Word One (Basic Data Word 5 for back azimuth), proper decode and display of clearance guidance must occur to the limits of the guidance region. Where used, clearance pulses shall be transmitted adjacent to the scanning beam signals at the edges of proportional coverage as shown in Figure 8. The proportional coverage boundary shall be established at one beamwidth inside the scan start/stop angles, such that the transition between scanning beam and clearance signals occurs outside the proportional coverage sector. When clearance pulses are provided in conjunction with a narrow beamwidth (e.g., one degree) scanning antenna, the scanning beam antenna shall radiate for 15 microseconds while stationary at the scan start/stop angles.
+.. *Data function format.* Basic data words provide equipment characteristics and certain siting information. Basic data words must be transmitted from an antenna located at the approach azimuth or back azimuth site which provides coverage throughout the appropriate sector. Data function timing must be in accordance with Table 7a.
+... *Preamble.* Must be in accordance with requirements of § 171.311(i)(1).
+... *Data transmissions.* Basic data must be transmitted using DPSK modulation. The content and repetition rate of each basic data word must be in accordance with Table 8a. For data containing digital information, binary number 1 must represent the lower range limit with increments in binary steps to the upper range limit shown in Table 8a. Data containing digital information shall be transmitted with the least significant bit first.
+. *Basic Data word requirements.* Basic Data shall consist of the items specified in Table 8a. Basic Data word contents shall be defined as follows:
+.. *Approach azimuth to threshold distance* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane perpendicular to the centerline which contains the landing threshold.
+.. *Approach azimuth proportional coverage limit* shall represent the limit of the sector in which proportional approach azimuth guidance is transmitted.
+.. *Clearance signal type* shall represent the type of clearance when used. Pulse clearance is that which is in accordance with § 171.311 (i) (2) (iv). Scanning Beam (SB) clearance indicates that the proportional guidance sector is limited by the proportional coverage limits set in basic data.
+.. *Minimum glidepath* the lowest angle of descent along the zero degree azimuth that is consistent with published approach procedures and obstacle clearance criteria.
+.. *Back azimuth status* shall represent the operational status of the Back Azimuth equipment.
+.. *DME status* shall represent the operational status of the DME equipment.
+.. *Approach azimuth status* shall represent the operational status of the approach azimuth equipment.
+.. *Approach elevation status* shall represent the operational status of the approach elevation equipment.
+.. *Beamwidth* the width of the scanning beam main lobe measured at the −3 dB points and defined in angular units on the antenna boresight, in the horizontal plane for the azimuth function and in the vertical plane for the elevation function.
+.. *DME distance* shall represent the minimum distance between the DME antenna phase center and the vertical plane perpendicular to the runway centerline which contains the MLS datum point.
+.. *Approach azimuth magnetic orientation* shall represent the angle measured in the horizontal plane clockwise from Magnetic North to the zero-degree angle guidance radial originating from the approach azimuth antenna phase center. The vertex of the measured angle shall be at the approach azimuth antenna phase center.
+              
+.. *Back azimuth magnetic orientation* shall represent the angle measured in the horizontal plane clockwise from Magnetic North to the zero-degree angle guidance radial originating from the Back Azimuth antenna. The vertex of the measured angle shall be at the Back Azimuth antenna phase center.
+              
+.. *Back azimuth proportional coverage limit* shall represent the limit of the sector in which proportional back azimuth guidance is transmitted.
+.. *MLS ground equipment identification* shall represent the last three characters of the system identification specified in § 171.311(i)(2). The characters shall be encoded in accordance with International Alphabet No. 5 (IA-5) using bits b*1* through b*6*.
+              
+. *Residual radiation.* The residual radiation of a transmitter associated with an MLS function during time intervals when it should not be transmitting shall not adversely affect the reception of any other function. The residual radiation of an MLS function at times when another function is radiating shall be at least 70 dB below the level provided when transmitting.
+. *Symmetrical scanning.* The TO and FRO scan transmissions shall be symmetrically disposed about the mid-scan point listed in Tables 4a, 4b and 5. The mid-scan point and the center of the time interval between the TO and FRO scan shall coincide with a tolerance of plus or minus 10 microseconds.
+. *Auxiliary data*—(1) *Addresses.* Three function identification codes are reserved to indicate transmission of Auxiliary Data A, Auxiliary Data B, and Auxiliary Data C. Auxiliary Data A contents are specified below, Auxiliary Data B contents are reserved for future use, and Auxiliary Data C contents are reserved for national use. The address codes of the auxiliary data words shall be as shown in Table 8b.
+
+(2) Rotation of the receiving antenna thirty degrees from the vertically polarized position must not cause the path following error to exceed the allowed error at that location.
+
+(A) *Morse Code.* DPSK transmissions that will permit Morse Code facility identification in the aircraft by a four letter code starting with the letter “M” must be included in all azimuth functions. They must be transmitted and repeated at approximately equal intervals, not less than six times per minute, during which time the ground subsystem is available for operational use. When the transmissions of the ground subsystem are not available, the identification signal must be suppressed. The audible tone in the aircraft is started by setting the Morse Code bit to logic “1” and stopped by a logic “0” (see Tables 4a and 4b). The identification code characteristics must conform to the following: the dot must be between 0.13 and 0.16 second in duration, and the dash between 0.39 and 0.48 second. The duration between dots and/or dashes must be one dot plus or minus 10%. The duration between characters (letters) must not be less than three dots. When back azimuth is provided, the code shall be transmitted by the approach azimuth and back azimuth within plus or minus 0.08 seconds.
+
+(B) *Airborne antenna selection.* A signal for airborne antenna selection shall be transmitted as a “zero” DPSK signal lasting for a six-bit period (see Tables 4a and 4b).
+
+(C) *OCI.* Where OCI pulses are used, they must be: (1) greater than any guidance signal in the OCI sector; (2) at least 5 dB less than the level of the scanning beam within the proportional guidance sector; and (3) for azimuth functions with clearance signals, at least 5 dB less than the level of the left (right) clearance pulses within the left (right) clearance sector.
+
+The duration of each pulse measured at the half amplitude point shall be at least 100 microseconds, and the rise and fall times shall be less then 10 microseconds. It shall be permissible to sequentially transmit two pulses in each out-of-coverage indication time slot. Where pulse pairs are used, the duration of each pulse shall be at least 50 microseconds, and the rise and fall times shall be less then 10 microseconds. The transmission of out-of-coverage indication pulses radiated from antennas with overlapping coverage patterns shall be separated by at least 10 microseconds.
+              
+
+(D) *System test.* Time slots are provided in Tables 4a and 4b to allow radiation of TO and FRO test pulses. However, radiation of these pulses is not required since the characteristics of these pulses have not yet been standardized.
+
+(A) *General.* Azimuth and elevation angles are encoded by scanning a narrow beam between the limits of the proportional coverage sector first in one direction (the TO scan) and then in the opposite direction (the FRO scan). Angular information must be encoded by the amount of time separation between the beam centers of the TO and FRO scanning beam pulses. The TO and FRO transmissions must be symmetrically disposed about the midscan point listed in Tables 4a, 4b, 5, and 7. The midscan point and the center of the time interval between the TO and FRO scan transmissions must coincide with a tolerance of ±10 microseconds. Angular coding must be linear with angle and properly decoded using the formula:
+
+(B) *Azimuth angle encoding.* Each guidance angle transmitted must consist of a clockwise TO scan followed by a counterclockwise FRO scan as viewed from above the antenna. For approach azimuth functions, increasing angle values must be in the direction of the TO scan; for the back azimuth function, increasing angle values must be in the direction of the FRO scan. The antenna has a narrow beam in the plane of the scan direction and a broad beam in the orthogonal plane which fills the vertical coverage.
+
+(C) *Elevation angle encoding.* The radiation from elevation equipment must produce a beam which scans from the horizon up to the highest elevation angle and then scans back down to the horizon. The antenna has a narrow beam in the plane of the scan direction and a broad beam in the orthogonal plane which fills the horizontal coverage. Elevation angles are defined from the horizontal plane containing the antenna phase center; positive angles are above the horizontal and zero angle is along the horizontal.
+
+(2) *Organization and timing.* The organization and timing of digital auxiliary data must be as specified in Table 7b. Data containing digital information must be transmitted with the least significant bit first. Alphanumeric data characters must be encoded in accordance with the 7-unit code character set as defined by the American National Standard Code for Information Interchange (ASCII). An even parity bit is added to each character. Alphanumeric data must be transmitted in the order in which they are to be read. The serial transmission of a character must be with the lower order bit transmitted first and the parity bit transmitted last. The timing for alphanumeric auxiliary data must be as shown in Table 7c.
+
+(3) *Auxiliary Data A content:* The data items specified in Table 8c are defined as follows:
+
+(i) *Approach azimuth antenna offset* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane containing the runway centerline.
+
+(ii) *Approach azimuth to MLS datum point distance* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane perpendicular to the centerline which contains the MLS datum point.
+
+(iii) *Approach azimuth alignment with runway centerline* shall represent the minimum angle between the approach azimuth antenna zero-degree guidance plane and the runway certerline.
+
+(iv) *Approach azimuth antenna coordinate system* shall represent the coordinate system (planar or conical) of the angle data transmitted by the approach azimuth antenna.
+
+(v) *Approach elevation antenna offset* shall represent the minimum distance between the elevation antenna phase center and the vertical plane containing the runway centerline.
+
+(vi) *MLS datum point to threshold distance* shall represent the distance measured along the runway centerline from the MLS datum point to the runway threshold.
+
+(vii) *Approach elevation antenna height* shall represent the height of the elevation antenna phase center relative to the height of the MLS datum point.
+
+(viii) *DME offset* shall represent the minimum distance between the DME antenna phase center and the vertical plane containing the runway centerline.
+
+(ix) *DME to MLS datum point distance* shall represent the minimum distance between the DME antenna phase center and the vertical plane perpendicular to the centerline which contains the MLS datum point.
+
+(x) *Back azimuth antenna offset* shall represent the minimum distance between the back azimuth antenna phase center and the vertical plane containing the runway centerline.
+
+(xi) *Back azimuth to MLS datum point distance* shall represent the minimum distance between the Back Azimuth antenna and the vertical plane perpendicular to the centerline which contains the MLS datum point.
+
+(xii) *Back azimuth antenna alignment with runway centerline* shall represent the minimum angle between the back azimuth antenna zero-degree guidance plane and the runway centerline.
+
+## § 171.313
+
+### Azimuth performance requirements.
+
+This section prescribes the performance requirements for the azimuth equipment of the MLS as follows:
+
+. *Approach azimuth coverage requirements.* The approach azimuth equipment must provide guidance information in at least the following volume of space (see Figure 9):
+.. Horizontally within a sector plus or minus 40 degrees about the runway centerline originating at the datum point and extending in the direction of the approach to 20 nautical miles from the runway threshold. The minimum proportional guidance sector must be plus or minus 10 degrees about the runway centerline. Clearance signals must be used to provide the balance of the required coverage, where the proportional sector is less than plus or minus 40 degrees. When intervening obstacles prevent full coverage, the ±40° guidance sector can be reduced as required. For systems providing ±60° lateral guidance the coverage requirement is reduced to 14 nm beyond ±40°.
+.. Vertically between:
+... A conical surface originating 2.5 meters (8 feet) above the runway centerline at threshold inclined at 0.9 degree above the horizontal.
+... A conical surface originating at the azimuth ground equipment antenna inclined at 15 degrees above the horizontal to a height of 6,000 meters (20,000 feet).
+... Where intervening obstacles penetrate the lower surface, coverage need be provided only to the minimum line of sight.
+.. Runway region:
+... Proportional guidance horizontally within a sector 45 meters (150 feet) each side of the runway centerline beginning at the stop end and extending parallel with the runway centerline in the direction of the approach to join the approach region. This requirement does not apply to offset azimuth installations.
+... Vertically between a horizontal surface which is 2.5 meters (8 feet) above the farthest point of runway centerline which is in line of sight of the azimuth antenna, and in a conical surface originating at the azimuth ground equipment antenna inclined at 20 degrees above the horizontal up to a height to 600 meters (2,000 feet). This requirement does not apply to offset azimuth installations.
+.. Within the approach azimuth coverage sector defined in paragraphs (a) (1), and (2) and (3) of this section, the power densities must not be less than those shown in Table 9 but the equipment design must also allow for:
+... Transmitter power degradation from normal by −1.5 dB;
+... Rain loss of −2.2 dB at the longitudinal coverage extremes.
+. *Siting requirements.* The approach azimuth antenna system must, except as allowed in paragraph (c) of this section:
+.. Be located on the extension of the centerline of the runway beyond the stop end;
+.. Be adjusted so that the zero degree azimuth plane will be a vertical plane which contains the centerline of the runway served;
+.. Have the minimum height necessary to comply with the coverage requirements prescribed in paragraph (a) of this section;
+.. Be located at a distance from the stop end of the runway that is consistent with safe obstruction clearance practices;
+.. Not obscure any light of an approach lighting system; and
+.. Be installed on frangible mounts or beyond the 300 meter (1,000 feet) light bar.
+. On runways where limited terrain prevents the azimuth antenna from being positioned on the runway centerline extended, and the cost of the land fill or a tall tower antenna support is prohibitive, the azimuth antenna may be offset.
+. *Antenna coordinates.* The scanning beams transmitted by the approach azimuth equipment within ±40° of the centerline may be either conical or planar.
+. *Approach azimuth accuracy.* (1) The system and subsystem errors shall not exceed those listed in Table 10 at the approach reference datum.
+. Approach azimuth antenna characteristics are as follows:
+.. *Drift.* Any azimuth angle as encoded by the scanning beam at any point within the proportional coverage must not vary more than ±0.07 degree over the range of service conditions specified in § 171.309(d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
+.. *Beam pointing errors.* The azimuth angle as encoded by the scanning beam at any point within ±0.5 degree of the zero degree azimuth must not deviate from the true azimuth angle at that point by more than ±.05 degree. Multipath and drift effects are excluded from this requirement.
+.. *Antenna alignment.* The antenna must be equipped with suitable optical, electrical or mechanical means or any combination of the three, to bring the zero degree azimuth radial into coincidence with the approach reference datum (for centerline siting) with a maximum error of 0.02 degree. Additionally, the azimuth antenna bias adjustment must be electronically steerable at least to the monitor limits in steps not greater than 0.005 degree.
+.. *Antenna far field patterns in the plane of scan.* On boresight, the azimuth antenna mainlobe pattern must conform to Figure 10, and the beamwidth must be such that, in the installed environment, no significant lateral reflections of the mainlobe exist along the approach course. In any case the beamwidth must not exceed three degrees. Anywhere within coverage the −3 dB width of the antenna mainlobe, while scanning normally, must not be less than 25 microseconds (0.5 degree) or greater than 250 microseconds (5 degrees). The antenna mainlobe may be allowed to broaden from the value at boresight by a factor of 1/cosθ, where θ is the angle off boresight. The sidelobe levels must be as follows:
+... *Dynamic sidelobe levels.* With the antenna scanning normally, the dynamic sidelobe level that is detected by a receiver at any point within the proportional coverage sector must be down at least 10 dB from the peak of the main beam. Outside the coverage sector, the radiation from the scanning beam antenna must be of such a nature that receiver warning will not be removed or suitable OCI signals must be provided.
+... *Effective sidelobe levels.* With the antenna scanning normally, the sidelobe levels in the plane of scan must be such that, in the installed environment, the CMN contributed by sidelobe reflections will not exceed the angular equivalent of 9 feet at approach reference datum over the required range of aircraft approach speeds.
+.. *Antenna far field pattern in the vertical plane.* The azimuth antenna free space radiation pattern below the horizon must have a slope of at least −8 dB/degree at the horizon and all sidelobes below the horizon must be at least 13 dB below the pattern peak. The antenna radiation pattern above the horizon must satisfy both the system coverage requirements and the spurious radiation requirement.
+.. *Data antenna.* The data antenna must have horizontal and vertical patterns as required for its function.
+. *Back azimuth coverage requirements.* The back azimuth equipment where used must provide guidance information in at least the following volume of space (see Figure 11):
+.. Horizontally within a sector ±40 degrees about the runway centerline originating at the back azimuth ground equipment antenna and extending in the direction of the missed approach at least to 20 nautical miles from the runway stop end. The minimum proportional guidance sector must be ±10 degrees about the runway centerline. Clearance signals must be used to provide the balance of the required coverage where the proportional sector is less than ±40 degrees.
+.. Vertically in the runway region between:
+... A horizontal surface 2.5 meters (8 feet) above the farthest point of runway centerline which is in line of sight of the azimuth antenna, and,
+... A conical surface originating at the azimuth ground equipment antenna inclined at 20 degrees above the horizontal up to a height of 600 meters (2000 feet).
+.. Vertically in the back azimuth region between:
+... A conical surface originating 2.5 meters (8 feet) above the runway stop end, included at 0.9 degree above the horizontal, and,
+... A conical surface orginating at the missed approach azimuth ground equipment antenna, inclined at 15 degrees above the horizontal up to a height of 1500 meters (5000 feet).
+... Where obstacles penetrate the lower coverage limits, coverage need be provided only to minimum line of sight.
+.. Within the back azimuth coverage sector defined in paragraph (q) (1), (2), and (3) of this section the power densities must not be less than those shown in Table 9, but the equipment design must also allow for:
+... Transmitter power degradation from normal −1.5 dB.
+... Rain loss of −2.2 dB at the longitudinal coverage extremes.
+. *Back azimuth siting.* The back azimuth equipment antenna must:
+.. Normally be located on the extension of the runway centerline at the threshold end;
+.. Be adjusted so that the vertical plane containing the zero degree course line contains the back azimuth reference datum;
+.. Have minimum height necessary to comply with the course requirements prescribed in paragraph (g) of this section;
+.. Be located at a distance from the threshold end that is consistent with safe obstruction clearance practices;
+.. Not obscure any light of an approach lighting system; and
+.. Be installed on frangible mounts or beyond the 300 meter (1000 feet) light bar.
+... *Back azimuth antenna coordinates.* The scanning beams transmitted by the back azimuth equipment may be either conical or planar.
+
+At the approach reference datum, temporal sinusoidal noise components shall not exceed 0.025 degree peak in the frequency band 0.01 Hz to 1.6 Hz, and the CMN shall not exceed 0.10 degree. From the approach reference datum to the coverage limit, the PFE, PFN and CMN limits, expressed in angular terms, shall be allowed to linearly increase as follows:
+
+(i) With distance along the runway centerline extended, by a factor of 1.2 for the PFE and PFN limits and to ±0.10 degree for the CMN limits.
+
+(ii) With azimuth angle, by a factor of 1.5 at the ±40 degree and a factor of 2.0 at the ±60 degree azimuth angles for the PFE, PFN and CMN limits.
+
+(iii) With elevation angle from + 9 degrees to + 15 degrees, by a factor of 1.5 for the PFE and PFN limits.
+
+(iv) Maximum angular limits. The PFE limits shall not exceed ±0.25 degree in any coverage region below an elevation angle of + 9 degrees nor exceed ±0.50 degree in any coverage region above that elevation angle. The CMN limits shall not exceed ±0.10 degree in any coverage region within ±10 degrees of runway centerline extended nor exceed ±0.20 degree in any other region within coverage.
+              
+
+(j) *Back azimuth accuracy.* The requirements specified in § 171.313(e) apply except that the reference point is the back azimuth reference datum.
+
+(k) *Back azimuth antenna characteristics.* The requirements specified in § 171.313(f) apply.
+
+(l) *Scanning conventions.* Figure 12 shows the approach azimuth and back azimuth scanning conventions.
+
+(m) *False guidance.* False courses which can be acquired and tracked by an aircraft shall not exist anywhere either inside or outside of the MLS coverage sector. False courses which exist outside of the minimum coverage sector may be suppressed by the use of OCI.
+              
+
+## § 171.315
+
+### Azimuth monitor system requirements.
+
+. The approach azimuth or back azimuth monitor system must cause the radiation to cease and a warning must be provided at the designated control point if any of the following conditions persist for longer than the periods specified:
+.. There is a change in the ground equipment contribution to the mean course error component such that the path following error at the reference datum or in the direction of any azimuth radial, exceeds the limits specified in §§ 171.313(e)(1) or 171.313(j) for a period of more than one second.
+              
+.. There are errors in two consecutive transmissions of Basic Data Words 1, 2, 4 or 5.
+.. There is a reduction in the radiated power to a level not less than that specified in §§ 171.313(a)(4) or 171.313(g)(4) for a period of more than one second.
+.. There is an error in the preamble DPSK transmissions which occurs more than once in any one second period.
+.. There is an error in the time division multiplex synchronization of a particular azimuth function that the requirement specified in § 171.311(e) is not satisfied and if this condition persists for more than one second.
+.. A failure of the monitor is detected.
+. Radiation of the following fuctions must cease and a warning provided at the designated control point if there are errors in 2 consecutive transmissions:
+.. Morse Code Identification,
+.. Basic Data Words 3 and 6,
+.. Auxiliary Data Words.
+              
+. The period during which erroneous guidance information is radiated must not exceed the periods specified in § 171.315(a). If the fault is not cleared within the time allowed, the ground equipment must be shut down. After shutdown, no attempt must be made to restore service until a period of 20 seconds has elapsed.
+
+## § 171.317
+
+### Approach elevation performance requirements.
+
+This section prescribes the performance requirements for the elevation equipment components of the MLS as follows:
+
+. *Elevation coverage requirements.* The approach elevation facility must provide proportional guidance information in at least the following volume of space (see Figure 13):
+.. Laterally within a sector originating at the datum point which is at least equal to the proportional guidance sector provided by the approach azimuth ground equipment.
+.. Longitudinally from 75 meters (250 feet) from the datum point to 20 nautical miles from threshold in the direction of the approach.
+.. Vertically within the sector bounded by:
+... A surface which is the locus of points 2.5 meters (8 feet) above the runway surface;
+... A conical surface originating at the datum point and inclined 0.9 degree above the horizontal and,
+... A conical surface originating at the datum point and inclined at 15.0 degrees above the horizontal up to a height of 6000 meters (20,000 feet).
+.. Within the elevation coverage sector defined in paragraphs (a) (1), (2) and (3) of this section, the power densities must not be less than those shown in Table 9, but the equipment design must also allow for:
+... Transmitter power degradation from normal by −1.5 dB.
+... Rain loss of −2.2 dB at the coverage extremes.
+. *Elevation siting requirements.* The Elevation Antenna System must:
+.. Be located as close to runway centerline as possible (without violating obstacle clearance criteria).
+.. Be located near runway threshold such that the asymptote of the minimum glidepath crosses the threshold of the runway at the Approach Reference Datum height. Normally, the minimum glidepath should be 3 degrees and the Approach Reference Datum height should be 50 feet. However, there are circumstances where other glideslopes and reference datum heights are appropriate. Some of these instances are discussed in FAA Order 8260.34 (Glide Slope Threshold Crossing Height Requirements) and Order 8260.3 (IFR Approval of MLS.)
+.. Be located such that the MLS Approach Reference Datum and ILS Reference Datum heights are coincident within a tolerance of 3 feet when MLS is installed on a runway already served by an ILS. This requirement applies only if the ILS glide slope is sited such that the height of the reference datum meets the requirements of FAA Order 8260.34.
+. *Antenna coordinates.* The scanning beams transmitted by the elevation subsystem must be conical.
+. *Elevation accuracy.* (1) The accuracies shown in Table 13 are required at the approach reference datum. From the approach reference datum to the coverage limit, the PFE, PFN and CMN limits shall be allowed to linearly increase as follows:
+. Elevation antenna characteristics are as follows:
+.. *Drift.* Any elevation angle as encoded by the scanning beam at any point within the coverage sector must not vary more than 0.04 degree over the range of service conditions specified in § 171.309(d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
+.. *Beam pointing errors.* The elevation angle as encoded by the scanning beam at any point within the coverage sector must not deviate from the true elevation angle at that point by more than ±0.04 degree for elevation angles from 2.5° to 3.5°. Above 3.5° these errors may linearly increase to ±0.1 degree at 7.5°. Multipath and drift effects are excluded from this requirement.
+.. *Antenna alignment.* The antenna must be equipped with suitable optical, electrical, or mechanical means or any combination of the three, to align the lowest operationally required glidepath to the true glidepath angle with a maximum error of 0.01 degree. Additionally, the elevation antenna bias adjustment must be electronically steerable at least to the monitor limits in steps not greater than 0.005 degrees.
+.. *Antenna far field patterns in the plane of scan.* On the lowest operationally required glidepath, the antenna mainlobe pattern must conform to Figure 10, and the beamwidth must be such that in the installed environment, no significant ground reflections of the mainlobe exist. In any case, the beamwidth must not exceed 2 degrees. The antenna mainlobe may be allowed to broaden from the value at boresight by a factor of 1/cosθ, where θ is the angle of boresight. Anywhere within coverage, the −3 dB width of the antenna mainlobe, while scanning normally, must not be less than 25 microseconds (0.5 degrees) or greater than 250 microseconds (5 degrees). The sidelobe levels must be as follows:
+... *Dynamic sidelobe levels.* With the antenna scanning normally, the dynamic sidelobe level that is detected by a receiver at any point within the proportional coverage sector must be down at least 10 dB from the peak of the mainlobe. Outside the proportional coverage sector, the radiation from the scanning beam antenna must be of such a nature that receiver warnings will not be removed or a suitable OCI signal must be provided.
+... *Effective sidelobe levels.* With the antenna scanning normally, the sidelobe levels in the plane of scan must be such that, when reflected from the ground, the resultant PFE along any glidepath does not exceed 0.083 degrees.
+.. *Antenna far field pattern in the horizontal plane.* The horizontal pattern of the antenna must gradually de-emphasize the signal away from antenna boresight. Typically, the horizontal pattern should be reduced by at least 3 dB at 20 degrees off boresight and by at least 6 dB at 40 degrees off boresight. Depending on the actual multipath conditions, the horizontal radiation patterns may require more or less de-emphasis.
+.. *Data antenna.* The data antenna must have horizontal and vertical patterns as required for its function.
+. *False guidance.* False courses which can be acquired and tracked by an aircraft shall not exist anywhere either inside or outside of the MLS coverage sector. False courses which exist outside of the minimum coverage sector may be suppressed by the use of OCI.
+              
+
+(i) With distance along the runway centerline extended at the minimum glide path angle, by a factor of 1.2 for the PFE and PFN limits and to ±0.10 degree for the CMN limits;
+
+(ii) With azimuth angle, from runway centerline extended to the coverage extreme, by a factor of 1.2 for the PFE and PFN limits and by a factor of 2.0 for the CMN limits;
+
+(iii) With increasing elevation angles from + 3 degrees to + 15 degrees, by a factor of 2.0 for the PFE and PFN limits;
+
+(iv) With decreasing elevation angle from + 3 degrees (or 60% of the minimum glide path angle, whichever is less) to the coverage extreme, by a factor of 3 for the PFE, PFN and CMN limits; and
+
+(v) Maximum angular limits. the CMN limits shall not exceed ±0.10 degree in any coverage region within ±10 degrees laterally of runway centerline extended which is above the elevation angle specified in (iv) above.
+              
+
+(2) The system and ground subsystem accuracies shown in Table 13 are to be demonstrated at commissioning as maximum error limits. Subsequent to commissioning, the accuracies are to be considered at 95% probability limits.
+
+## § 171.319
+
+### Approach elevation monitor system requirements.
+
+. The monitor system must act to ensure that any of the following conditions do not persist for longer than the periods specified when:
+.. There is a change in the ground component contribution to the mean glidepath error component such that the path following error on any glidepath exceeds the limits specified in § 171.317(d) for a period of more than one second.
+              
+.. There is a reduction in the radiated power to a level not less than that specified in § 171.317(a)(4) for a period of more than one second.
+.. There is an error in the preamble DPSK transmission which occurs more than once in any one second period.
+              
+.. There is an error in the time division multiplex synchronization of a particular elevation function such that the requirement specified in § 171.311(e) is not satisfied and this condition persists for more than one second.
+.. A failure of the monitor is detected.
+. The period during which erroneous guidance information is radiated must not exceed the periods specified in § 171.319(a). If the fault is not cleared within the time allowed, radiation shall cease. After shutdown, no attempt must be made to restore service until a period of 20 seconds has elapsed.
+
+## § 171.321
+
+### DME and marker beacon performance requirements.
+
+. The DME equipment must meet the performance requirements prescribed in subpart G of the part. This subpart imposes requirements that performance features must comply with International Standards and Recommended Practices, Aeronautical Telecommunications, Vol. I of Annex 10 to ICAO. It is available from ICAO, Aviation Building, 1080 University Street, Montreal 101, Quebec, Canada, Attention: Distribution Officer and also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.*
+              
+. MLS marker beacon equipment must meet the performance requirements prescribed in subpart H of this part. This subpart imposes requirements that performance features must comply with International Standards and Recommended Practices, Aeronautical Telecommuncations, Vol. I of Annex 10 to ICAO.
+
+## § 171.323
+
+### Fabrication and installation requirements.
+
+. The MLS facility must be permanent and must be located, constructed, and installed in accordance with best commercial engineering practices, using applicable electric and safety codes and Federal Communications Commission (FCC) licensing requirements and siting requirements of §§ 171.313(b) and 171.317(b).
+. The MLS facility components must utilize solid state technology except that traveling wave tube amplifiers (TWTA) may be used. A maximum level of common modularity must be provided along with diagnostics to facilitate maintenance and troubleshooting.
+. An approved monitoring capability must be provided which indicates the status of the equipment at the site and at a remotely located maintenance area, with monitor capability that provides pre-alarm of impending system failures. This monitoring feature must be capable of transmitting the status and pre-alarm over standard phone lines to a remote section. In the event the sponsor requests the FAA to assume ownership of the facility, the monitoring feature must also be capable of interfacing with FAA remote monitoring requirements. This requirement may be complied with by the addition of optional software and/or hardware in space provided in the original equipment.
+. The mean corrective maintenance time of the MLS equipment must be equal to or less than 0.5 hours with a maximum corrective maintenance time not to exceed 1.5 hours. This measure applies to correction of unscheduled failures of the monitor, transmitter and associated antenna assemblies, limited to unscheduled outage and out of tolerance conditions.
+. The mean-time-between-failures of the MLS angle system must not be less than 1,500 hours. This measure applies to unscheduled outage, out-of-tolerance conditions, and failures of the monitor, transmitter, and associated antenna assemblies.
+. The MLS facility must have a reliable source of suitable primary power, either from a power distribution system or locally generated. Adequate power capacity must be provided for the operation of the MLS as well as the test and working equipment of the MLS.
+. The MLS facility must have a continuously engaged or floating battery power source for the continued normal operation of the ground station operation if the primary power fails. A trickle charge must be supplied to recharge the batteries during the period of available primary power. Upon loss and subsequent restoration of power, the battery must be restored to full charge within 24 hours. When primary power is applied, the state of the battery charge must not affect the operation of the MLS ground station. The battery must allow continuation of normal operation of the MLS facility for at least 2 hours without the use of additional sources of power. When the system is operating from the battery supply without prime power, the radome deicers and the environmental system need not operate. The equipment must meet all specification requirements with or without batteries installed.
+. There must be a means for determining, from the ground, the performance of the system including antenna, both initially and periodically.
+. The facility must have, or be supplemented by, ground, air, or landline communications services. At facilities within or immediately adjacent to controlled airspace, that are intended for use as instrument approach aids for an airport, there must be ground air communications or reliable communications (at least a landline telephone) from the airport to the nearest FAA air traffic control or communication facility. Compliance with this paragraph need not be shown at airports where an adjacent FAA facility can communicate with aircraft on the ground at the airport and during the entire proposed instrument approach procedure. In addition, at low traffic density airports within or immediately adjacent to controlled airspace, and where extensive delays are not a factor, the requirements of this paragraph may be reduced to reliable communications from the airport to the nearest FAA air traffic control or communications facility. If the adjacent FAA facility can communicate with aircraft during the proposed instrument approach procedure down to the airport surface or at least down to the minimum en route altitude, this would require at least a landline telephone.
+. The location of the phase center for all antennas must be clearly marked on the antenna enclosures.
+. The latitude, longitude and mean sea level elevation of all MLS antennas, runway threshold and runway stop end must be determined by survey with an accuracy of ±3 meters (±10 feet) laterally and ±0.3 meter (±1.0 foot) vertically. The relative lateral and vertical offsets of all antenna phase centers, and both runway ends must be determined with an accuracy of ±0.3 meter (±1.0 foot) laterally and ±0.03 meter (±0.1 foot) vertically. The owner must bear all costs of the survey. The results of this survey must be included in the “operations and maintenance” manual required by section 171.325 of this subpart and will be noted on FAA Form 198 required by § 171.327.
+
+## § 171.325
+
+### Maintenance and operations requirements.
+
+. The owner of the facility must establish an adequate maintenance system and provide MLS qualified maintenance personnel to maintain the facility at the level attained at the time it was commissioned. Each person who maintains a facility must meet the FCC licensing requirements and demonstrate that he has the special knowledge and skills needed to maintain an MLS facility, including proficiency in maintenance procedures and the use of specialized test equipment.
+. In the event of out-of-tolerance conditions or malfunctions, as evidenced by receiving two successive pilot reports, the owner must close the facility by encasing radiation, and issue a “Notice to Airmen” (NOTAM) that the facility is out of service.
+. The owner must prepare, and obtain approval of, an operations and maintenance manual that sets forth mandatory procedures for operations, periodic maintenance, and emergency maintenance, including instructions on each of the following:
+.. Physical security of the facility.
+.. Maintenance and operations by authorized persons.
+.. FCC licensing requirements for operations and maintenance personnel.
+              
+.. Posting of licenses and signs.
+.. Relations between the facility and FAA air traffic control facilities, with a description of the boundaries of controlled airspace over or near the facility, instructions for relaying air traffic control instructions and information, if applicable, and instructions for the operation of an air traffic advisory service if the facility is located outside of controlled airspace.
+.. Notice to the Administrator of any suspension of service.
+.. Detailed and specific maintenance procedures and servicing guides stating the frequency of servicing.
+.. Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
+.. Keeping the station logs and other technical reports, and the submission of reports required by § 171.327.
+.. Monitoring of the MLS facility.
+.. Inspections by United States personnel.
+.. Names, addresses, and telephone numbers of persons to be notified in an emergency.
+.. Shutdowns for periodic maintenance and issuing of NOTAM for routine or emergency shutdowns.
+.. Commissioning of the MLS facility.
+.. An acceptable procedure for amending or revising the manual.
+.. An explanation of the kinds of activities (such as construction or grading) in the vicinity of the MLS facility that may require shutdown or recertification of the MLS facility by FAA flight check.
+.. Procedures for conducting a ground check of the azimuth and elevation alignment.
+.. The following information concerning the MLS facility:
+... Facility component locations with respect to airport layout, instrument runways, and similar areas.
+... The type, make and model of the basic radio equipment that provides the service including required test equipment.
+... The station power emission, channel, and frequency of the azimuth, elevation, DME, marker beacon, and associated compass locators, if any.
+... The hours of operation.
+... Station identification call letters and method of station identification and the time spacing of the identification.
+... A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
+. The owner or his maintenance representative must make a ground check of the MLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in § 171.327.
+. The only modifications permitted are those that are submitted to FAA for approval by the MLS equipment manufacturer. The owner or sponsor of the facility must incorporate these modifications in the MLS equipment. Associated changes must also be made to the operations and maintenance manual required in paragraph (c) of this section. This and all other corrections and additions to this operations and maintenance manual must also be submitted to FAA for approval.
+. The owner or the owner's maintenance representative must participate in inspections made by the FAA.
+. The owner must ensure the availability of a sufficient stock of spare parts, including solid state components, or modules to make possible the prompt replacement of components or modules that fail or deteriorate in service.
+. FAA approved test instruments must be used for maintenance of the MLS facility.
+. Inspection consists of an examination of the MLS equipment to ensure that unsafe operating conditions do not exist.
+. Monitoring of the MLS radiated signal must ensure a high degree of integrity and minimize the requirements for ground and flight inspection. The monitor must be checked daily during the in-service test evaluation period (96 hour burn in) for calibration and stability. These tests and ground checks or azimuth, elevation, DME, and marker beacon radiation characteristics must be conducted in accordance with the maintenance requirements of this section.
+
+## § 171.327
+
+### Operational records.
+
+The owner of the MLS facility or his maintenance representative must submit the following operational records at the indicated time to the appropriate FAA regional office where the facility is located.
+
+. *Facility Equipment Performance **&** Adjustment Data (FAA Form 198).* The FAA Form 198 shall be filled out by the owner or his maintenance representative with the equipment adjustments and meter readings as of the time of facility commissioning. One copy must be kept in the permanent records of the facility and two copies must be sent to the appropriate FAA regional office. The owner or his maintenance representative must revise the FAA Form 198 data after any major repair, modernization, or retuning to reflect an accurate record of facility operation and adjustment.
+. *Facility Maintenance Log (FAA Form 6030-1).* FAA Form 6030-1 is permanent record of all the activities required to maintain the MLS facility. The entries must include all malfunctions met in maintaining the facility including information on the kind of work and adjustments made, equipment failures, causes (if determined) and corrective action taken. In addition, the entries must include completion of periodic maintenance required to maintain the facility. The owner or his maintenance representative must keep the original of each form at the facility and send a copy to the appropriate FAA regional office at the end of each month in which it is prepared. However, where an FAA approved remote monitoring system is installed which precludes the need for periodic maintenance visits to the facility, monthly reports from the remote monitoring system control point must be forwarded to the appropriate FAA regional office, and a hard copy retained at the control point.
+. *Technical Performance Record (FAA Form 6830 (formerly FAA Form 418)).* This form contains a record of system parameters as specified in the manufacturer's equipment manual. This data will be recorded on each scheduled visit to the facility. The owner or his maintenance representative shall keep the original of each record at the facility and send a copy of the form to the appropriate FAA regional office.
+

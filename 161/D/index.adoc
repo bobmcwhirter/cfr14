@@ -1,0 +1,206 @@
+# Notice, Review, and Approval Requirements for Stage 3 Restrictions
+:toc:
+
+## § 161.301
+
+### Scope.
+
+. This subpart applies to:
+.. An airport imposing a noise or access restriction on the operation of Stage 3 aircraft that first became effective after October 1, 1990.
+.. An airport imposing an amendment to a Stage 3 restriction, if the amendment becomes effective after October 1, 1990, and reduces or limits Stage 3 aircraft operations (compared to the restriction that it amends) or affects aircraft safety.
+. This subpart does not apply to an airport imposing a Stage 3 restriction specifically exempted in § 161.7, or an agreement complying with subpart B of this part.
+. A Stage 3 restriction within the scope of this subpart may not become effective unless it has been submitted to and approved by the FAA. The FAA will review only those Stage 3 restrictions that are proposed by, or on behalf of, an entity empowered to implement the restriction.
+
+## § 161.303
+
+### Notice of proposed restrictions.
+
+. Each airport operator or aircraft operator (hereinafter referred to as applicant) proposing a Stage 3 restriction shall provide public notice and an opportunity for public comment, as prescribed in this subpart, before submitting the restriction to the FAA for review and approval.
+. Except as provided in § 161.321, an applicant shall publish a notice of the proposed restriction in an areawide newspaper or newspapers that either singly or together has general circulation throughout the airport noise study area; post a notice in the airport in a prominent location accessible to airport users and the public; and directly notify in writing the following parties:
+.. Aircraft operators providing scheduled passenger or cargo service at the airport; operators of aircraft based at the airport; potential new entrants that are known to be interested in serving the airport; and aircraft operators known to be routinely providing nonscheduled service that may be affected by the proposed restriction;
+.. The Federal Aviation Administration;
+.. Each Federal, state, and local agency with land-use control jurisdiction within the airport noise study area;
+.. Fixed-base operators and other airport tenants whose operations may be affected by the proposed restriction; and
+.. Community groups and business organizations that are known to be interested in the proposed restriction.
+. Each notice provided in accordance with paragraph (b) of this section shall include:
+.. The name of the airport and associated cities and states;
+.. A clear, concise description of the proposed restriction (and any alternatives, in order of preference), including a statement that it will be a mandatory Stage 3 restriction; and where the complete text of the restriction, and any sanctions for noncompliance, are available for public inspection;
+.. A brief discussion of the specific need for, and goal of, the restriction;
+.. Identification of the operators and types of aircraft expected to be affected;
+.. The proposed effective date of the restriction, the proposed method of implementation (e.g., city ordinance, airport rule, lease, or other document), and any proposed enforcement mechanism;
+.. An analysis of the proposed restriction, in accordance with § 161.305 of this part, or an announcement regarding where the analysis is available for public inspection;
+.. An invitation to comment on the proposed restriction and the analysis, with a minimum 45-day comment period;
+.. Information on how to request a copy of the complete text of the restriction, including any sanctions for noncompliance, and the analysis (if not included with the notice); and
+.. The address for submitting comments to the airport operator or aircraft operator proposing the restriction, including identification of a contact person.
+. Applicants may propose alternative restrictions, including partial implementation of any proposal, and indicate an order of preference. If alternative restriction proposals are submitted, the requirements listed in paragraphs (c)(2) through (c)(6) of this section should address the alternative proposals where appropriate.
+
+## § 161.305
+
+### Required analysis and conditions for approval of proposed restrictions.
+
+Each applicant proposing a noise or access restriction on Stage 3 operations shall prepare and make available for public comment an analysis that supports, by substantial evidence, that the six statutory conditions for approval have been met for each restriction and any alternatives submitted. The statutory conditions are set forth in 49 U.S.C. App. 2153(d)(2) and paragraph (e) of this section. Any proposed restriction (including alternatives) on Stage 3 aircraft operations that also affects the operation of Stage 2 aircraft must include analysis of the proposals in a manner that permits the proposal to be understood in its entirety. (Nothing in this section is intended to add a requirement for the issuance of restrictions on Stage 2 aircraft to those of subpart C of this part.) The applicant shall provide:
+
+. The complete text of the proposed restriction and any submitted alternatives, including the proposed wording in a city ordinance, airport rule, lease, or other document, and any sanctions for noncompliance;
+. Maps denoting the airport geographic boundary, and the geographic boundaries and names of each jurisdiction that controls land use within the airport noise study area;
+. An adequate environmental assessment of the proposed restriction or adequate information supporting a categorical exclusion in accordance with FAA orders and procedures regarding compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321);
+. A summary of the evidence in the submission supporting the six statutory conditions for approval; and
+. An analysis of the restriction, demonstrating by substantial evidence that the statutory conditions are met. The analysis must:
+.. (*1*) Evidence that the affected carriers have a reasonable chance to continue service at the airport or at other points in the national airport system.
+.. (*2*) Evidence that other air carriers are able to provide adequate service to the airport and other points in the system without diminishing competition.
+.. (*3*) Evidence that comparable services or facilities are available at another airport controlled by the airport operator in the market area, including services available at other airports.
+              
+.. (*4*) Evidence that alternative transportation service can be attained through other means of transportation.
+.. (*5*) Information on the absence of adverse evidence or adverse comments with respect to undue burden in the notice process required in § 161.303, or alternatively in § 161.321, of this part as evidence that there is no undue burden.
+
+(*A*) Airport development projects be reasonably consistent with plans of public agencies that are authorized to plan for the development of the area around the airport; and
+
+(*B*) The sponsor give fair consideration to the interests of communities in or near where the project may be located; take appropriate action, including the adoption of zoning laws, to the extent reasonable, to restrict the use of land near the airport to activities and purposes compatible with normal airport operations; and not cause or permit any change in land use, within its jurisdiction, that will reduce the compatibility (with respect to the airport) of any noise compatibility program measures upon which federal funds have been expended.
+
+(*A*) Maps of the airport noise study area overlaid with noise contours as specified in §§ 161.9 and 161.11 of this part;
+
+(*B*) The number of people and the noncompatible land uses within the airport noise study area with and without the proposed restriction for each year the noise restriction is analyzed;
+
+(*C*) Technical data supporting the noise impact analysis, including the classes of aircraft, fleet mix, runway use percentage, and day/night breakout of operations; and
+
+(*D*) Data on current and projected airport activity that would exist in the absence of the proposed restriction.
+
+(B) At the applicant's discretion, information may also be submitted as follows:
+
+(ii) *Condition 2: The restriction does not create an undue burden on interstate or foreign commerce.* (A) Essential information needed to demonstrate this statutory condition includes:
+
+(*A*) Any additional cost of continuing aircraft operations under the restriction, including reasonably available information concerning any net capital costs of acquiring or retrofitting aircraft (net of salvage value and operating efficiencies) by aviation user class; and any incremental recurring costs;
+
+(*B*) Costs associated with altered or discontinued aircraft operations, such as reasonably available information concerning loss to carriers of operating profits; decreases in passenger and shipper consumer surplus by aviation user class; loss in profits associated with other airport services or other entities: and/or any significant economic effect on parties other than aviation users.
+
+(*C*) Costs associated with implementing nonaircraft restrictions or nonaircraft components of restrictions, such as reasonably available information concerning estimates of capital costs for real property, including redevelopment, soundproofing, noise easements, and purchase of property interests; and estimates of associated incremental recurring costs; or an explanation of the legal or other impediments to implementing such restrictions.
+
+(*D*) Estimated benefits of the proposed restriction and alternative restrictions that consider, as appropriate, anticipated increase in real estate values and future construction cost (such as sound insulation) savings; anticipated increase in airport revenues; quantification of the noise benefits, such as number of people removed from noise contours and improved work force and/or educational productivity, if any; valuation of positive safety effects, if any; and/or other qualitative benefits, including improvements in quality of life.
+
+(B) At the applicant's discretion, information may also be submitted as follows:
+
+(iii) *Condition 3: The proposed restriction maintains safe and efficient use of the navigable airspace.* Essential information needed to demonstrate this statutory condition includes evidence that the proposed restriction maintains safe and efficient use of the navigable airspace based upon:
+
+(A) Identification of airspace and obstacles to navigation in the vicinity of the airport; and
+
+(B) An analysis of the effects of the proposed restriction with respect to use of airspace in the vicinity of the airport, substantiating that the restriction maintains or enhances safe and efficient use of the navigable airspace. The analysis shall include a description of the methods and data used.
+
+(iv) *Condition 4: The proposed restriction does not conflict with any existing Federal statute or regulation.* Essential information needed to demonstrate this condition includes evidence demonstrating that no conflict is presented between the proposed restriction and any existing Federal statute or regulation, including those governing:
+
+(A) Exclusive rights;
+
+(B) Control of aircraft operations; and
+
+(C) Existing Federal grant agreements.
+
+(v) *Condition 5: The applicant has provided adequate opportunity for public comment on the proposed restriction.* Essential information needed to demonstrate this condition includes evidence that there has been adequate opportunity for public comment on the restriction as specified in § 161.303 or § 161.321 of this part.
+
+(vi) *Condition 6: The proposed restriction does not create an undue burden on the national aviation system.* Essential information needed to demonstrate this condition includes evidence that the proposed restriction does not create an undue burden on the national aviation system such as:
+
+(A) An analysis demonstrating that the proposed restriction does not have a substantial adverse effect on existing or planned airport system capacity, on observed or forecast airport system congestion and aircraft delay, and on airspace system capacity or workload;
+
+(B) An analysis demonstrating that nonaircraft alternative measures to achieve the same goals as the proposed subject restrictions are inappropriate;
+
+(C) The absence of comments with respect to imposition of an undue burden on the national aviation system in response to the notice required in § 161.303 or § 161.321.
+
+## § 161.307
+
+### Comment by interested parties.
+
+. Each applicant proposing a restriction shall establish a public docket or similar method for receiving and considering comments, and shall make comments available for inspection by interested parties upon request. Comments must be retained as long as the restriction is in effect.
+. Each applicant shall submit to the FAA a summary of any comments received. Upon request by the FAA, the applicant shall submit copies of the comments.
+
+## § 161.309
+
+### Requirements for proposal changes.
+
+. Each applicant shall promptly advise interested parties of any changes to a proposed restriction or alternative restriction that are not encompassed in the proposals submitted, including changes that affect noncompatible land uses or that take place before the effective date of the restriction, and make available these changes to the proposed restriction and its analysis. For the purpose of this paragraph, interested parties include those who received direct notice under § 161.303(b) of this part, or those who were required to be consulted in accordance with the procedures in § 161.321 of this part, and those who commented on the proposed restriction.
+. If there are substantial changes to a proposed restriction or the analysis made available prior to the effective date of the restriction, the applicant proposing the restriction shall initiate new notice in accordance with the procedures in § 161.303 or, alternatively, the procedures in § 161.321. These requirements apply to substantial changes that are not encompassed in submitted alternative restriction proposals and their analyses. A substantial change to a restriction includes, but is not limited to, any proposal that would increase the burden on any aviation user class.
+. In addition to the information in § 161.303(c), a new notice must indicate that the applicant is revising a previous notice, provide the reason for making the revision, and provide a new effective date (if any) for the restriction.
+. If substantial changes requiring a new notice are made during the FAA's 180-day review of the proposed restriction, the applicant submitting the proposed restriction shall notify the FAA in writing that it is withdrawing its proposal from the review process until it has completed additional analysis, public review, and documentation of the public review. Resubmission to the FAA will restart the 180-day review.
+
+## § 161.311
+
+### Application procedure for approval of proposed restriction.
+
+Each applicant proposing a Stage 3 restriction shall submit to the FAA the following information for each restriction and alternative restriction submitted, with a request that the FAA review and approve the proposed Stage 3 noise or access restriction:
+
+. A summary of evidence of the fulfillment of conditions for approval, as specified in § 161.305;
+. An analysis as specified in § 161.305, as appropriate to the proposed restriction;
+. A statement that the entity submitting the proposal is the party empowered to implement the restriction, or is submitting the proposal on behalf of such party; and
+. A statement as to whether the airport requests, in the event of disapproval of the proposed restriction or any alternatives, that the FAA approve any portion of the restriction or any alternative that meets the statutory requirements for approval. An applicant requesting partial approval of any proposal should indicate its priorities as to portions of the proposal to be approved.
+
+## § 161.313
+
+### Review of application.
+
+. *Determination of completeness.* The FAA, within 30 days of receipt of an application, will determine whether the application is complete in accordance with § 161.311. Determinations of completeness will be made on all proposed restrictions and alternatives. This completeness determination is not an approval or disapproval of the proposed restriction.
+. *Process for complete application.* When the FAA determines that a complete application has been submitted, the following procedures apply:
+.. The FAA notifies the applicant that it intends to act on the proposed restriction and publishes notice of the proposed restriction in the *Federal Register* in accordance with § 161.315. The 180-day period for approving or disapproving the proposed restriction will start on the date of original FAA receipt of the application.
+.. Following review of the application, public comments, and any other information obtained under § 161.317(b), the FAA will issue a decision approving or disapproving the proposed restriction. This decision is a final decision of the Administrator for purpose of judicial review.
+. *Process for incomplete application.* If the FAA determines that an application is not complete with respect to any submitted restriction or alternative restriction, the following procedures apply:
+.. The FAA shall notify the applicant in writing, returning the application and setting forth the type of information and analysis needed to complete the application in accordance with § 161.311.
+.. Within 30 days after the receipt of this notice, the applicant shall advise the FAA in writing whether or not it intends to resubmit and supplement its application.
+.. If the applicant does not respond in 30 days, or advises the FAA that it does not intend to resubmit and/or supplement the application, the application will be denied. This closes the matter without prejudice to later application and does not constitute disapproval of the proposed restriction.
+.. If the applicant chooses to resubmit and supplement the application, the following procedures apply:
+... Upon receipt of the resubmitted application, the FAA determines whether the application, as supplemented, is complete as set forth in paragraph (a) of this section.
+... If the application is complete, the procedures set forth in § 161.315 shall be followed. The 180-day review period starts on the date of receipt of the last supplement to the application.
+... If the application is still not complete with respect to the proposed restriction or at least one submitted alternative, the FAA so advises the applicant as set forth in paragraph (c)(1) of this section and provides the applicant with an additional opportunity to supplement the application as set forth in paragraph (c)(2) of this section.
+... If the environmental documentation (either an environmental assessment or information supporting a categorical exclusion) is incomplete, the FAA will so notify the applicant in writing, returning the application and setting forth the types of information and analysis needed to complete the documentation. The FAA will continue to return an application until adequate environmental documentation is provided. When the application is determined to be complete, including the environmental documentation, the 180-day period for approval or disapproval will begin upon receipt of the last supplement to the application.
+... Following review of the application and its supplements, public comments, and any other information obtained under § 161.317(b), the FAA will issue a decision approving or disapproving the application. This decision is a final decision of the Administrator for the purpose of judicial review.
+.. The FAA will deny the application and return it to the applicant if:
+... None of the proposals submitted are found to be complete;
+... The application has been returned twice to the applicant for reasons other than completion of the environmental documentation; and
+... The applicant declines to complete the application. This closes the matter without prejudice to later application, and does not constitute disapproval of the proposed restriction.
+
+## § 161.315
+
+### Receipt of complete application.
+
+. When a complete application has been received, the FAA will notify the applicant by letter that the FAA intends to act on the application.
+. The FAA will publish notice of the proposed restriction in the *Federal Register,* inviting interested parties to file comments on the application within 30 days after publication of the *Federal Register* notice.
+
+## § 161.317
+
+### Approval or disapproval of proposed restriction.
+
+. Upon determination that an application is complete with respect to at least one of the proposals submitted by the applicant, the FAA will act upon the complete proposals in the application. The FAA will not act on any proposal for which the applicant has declined to submit additional necessary information.
+. The FAA will review the applicant's proposals in the preference order specified by the applicant. The FAA may request additional information from aircraft operators, or any other party, and may convene an informal meeting to gather facts relevant to its determination.
+. The FAA will evaluate the proposal and issue an order approving or disapproving the proposed restriction and any submitted alternatives, in whole or in part, in the order of preference indicated by the applicant. Once the FAA approves a proposed restriction, the FAA will not consider any proposals of lower applicant-stated preference. Approval or disapproval will be given by the FAA within 180 days after receipt of the application or last supplement thereto under § 161.313. The FAA will publish its decision in the *Federal Register* and notify the applicant in writing.
+. The applicant's failure to provide substantial evidence supporting the statutory conditions for approval of a particular proposal is grounds for disapproval of that proposed restriction.
+              
+. The FAA will approve or disapprove only the Stage 3 aspects of a restriction if the restriction applies to both Stage 2 and Stage 3 aircraft operations.
+. An order approving a restriction may be subject to requirements that the applicant:
+.. Comply with factual representations and commitments in support of the restriction; and
+.. Ensure that any environmental mitigation actions or commitments by any party that are set forth in the environmental documentation provided in support of the restriction are implemented.
+
+## § 161.319
+
+### Withdrawal or revision of restriction.
+
+. The applicant may withdraw or revise a proposed restriction at any time prior to FAA approval or disapproval, and must do so if substantial changes are made as described in § 161.309. The applicant shall notify the FAA in writing of a decision to withdraw the proposed restriction for any reason. The FAA will publish a notice in the *Federal Register* that it has terminated its review without prejudice to resubmission. A resubmission will be considered a new application.
+. A subsequent amendment to a Stage 3 restriction that was in effect after October 1, 1990, or an amendment to a Stage 3 restriction previously approved by the FAA, is subject to the procedures in this subpart if the amendment will further reduce or limit aircraft operations or affect aircraft safety. The applicant may, at its option, revise or amend a restriction previously disapproved by the FAA and resubmit it for approval. Amendments are subject to the same requirements and procedures as initial submissions.
+
+## § 161.321
+
+### Optional use of 14 CFR part 150 procedures.
+
+. An airport operator may use the procedures in part 150 of this chapter, instead of the procedures described in §§ 161.303(b) and 161.309(b) of this part, as a means of providing an adequate public notice and opportunity to comment on proposed Stage 3 restrictions, including submitted alternatives.
+. If the airport operator elects to use 14 CFR part 150 procedures to comply with this subpart, the operator shall:
+.. Ensure that all parties identified for direct notice under § 161.303(b) are notified that the airport's 14 CFR part 150 program submission will include a proposed Stage 3 restriction under part 161, and that these parties are offered the opportunity to participate as consulted parties during the development of the 14 CFR part 150 program;
+.. Include the information required in § 161.303(c) (2) through (5) and § 161.305 in the analysis of the proposed restriction in the 14 CFR part 150 program submission; and
+.. Include in its 14 CFR part 150 submission to the FAA evidence of compliance with the notice requirements in paragraph (b)(1) of this section and include the information required for a part 161 application in § 161.311, together with a clear identification that the 14 CFR part 150 submission includes a proposed Stage 3 restriction for FAA review and approval under §§ 161.313, 161.315, and 161.317.
+. The FAA will evaluate the proposed part 161 restriction on Stage 3 aircraft operations included in the 14 CFR part 150 submission in accordance with the procedures and standards of this part, and will review the total 14 CFR part 150 submission in accordance with the procedures and standards of 14 CFR part 150.
+. An amendment of a restriction, as specified in § 161.319(b) of this part, may also be processed under 14 CFR part 150 procedures.
+
+## § 161.323
+
+### Notification of a decision not to implement a restriction.
+
+If a Stage 3 restriction has been approved by the FAA and the restriction is not subsequently implemented, the applicant shall so advise the interested parties specified in § 161.309(a) of this part.
+
+## § 161.325
+
+### Availability of data and comments on an implemented restriction.
+
+The applicant shall retain all relevant supporting data and all comments relating to an approved restriction for as long as the restriction is in effect and shall make these materials available for inspection upon request by the FAA. This information shall be made available for inspection by any person during the pendency of any petition for reevaluation found justified by the FAA.
+
