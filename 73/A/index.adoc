@@ -1,0 +1,26 @@
+# General
+:toc:
+
+## § 73.1
+
+### Applicability.
+
+The airspace that is described in subpart B and subpart C of this part is designated as special use airspace. These parts prescribe the requirements for the use of that airspace.
+
+## § 73.3
+
+### Special use airspace.
+
+. Special use airspace consists of airspace of defined dimensions identified by an area on the surface of the earth wherein activities must be confined because of their nature, or wherein limitations are imposed upon aircraft operations that are not a part of those activities, or both.
+. The vertical limits of special use airspace are measured by designated altitude floors and ceilings expressed as flight levels or as feet above mean sea level. Unless otherwise specified, the word “to” (an altitude or flight level) means “to and including” (that altitude or flight level).
+              
+. The horizontal limits of special use airspace are measured by boundaries described by geographic coordinates or other appropriate references that clearly define their perimeter.
+. The period of time during which a designation of special use airspace is in effect is stated in the designation.
+
+## § 73.5
+
+### Bearings; radials; miles.
+
+. All bearings and radials in this part are true from point of origin.
+. Unless otherwise specified, all mileages in this part are stated as statute miles.
+

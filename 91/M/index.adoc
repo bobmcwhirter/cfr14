@@ -1,0 +1,78 @@
+# Special Federal Aviation Regulations
+:toc:
+
+## § 91.1603
+
+### Special Federal Aviation Regulation No. 112—Prohibition Against Certain Flights Within the Tripoli (HLLL) Flight Information Region (FIR).
+
+. *Applicability.* This section applies to the following persons:
+.. All U.S. air carriers and U.S. commercial operators;
+.. All persons exercising the privileges of an airman certificate issued by the FAA, except when such persons are operating a U.S.-registered aircraft for a foreign air carrier; and
+.. All operators of U.S.-registered civil aircraft, except operators of such aircraft that are foreign air carriers.
+. *Flight prohibition.* Except as provided in paragraphs (c) and (d) of this section, no person described in paragraph (a) of this section may conduct flight operations within the Tripoli (HLLL) FIR.
+. *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations within the Tripoli (HLLL) FIR under the following conditions:
+.. Flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. government (or under a subcontract between the prime contractor of the department, agency, or instrumentality, and the person described in paragraph (a) of this section), with the approval of the FAA, or under an exemption issued by the FAA. The FAA will process requests for approval or exemption in a timely manner, with the order of preference being: first, for those operations in support of U.S. government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+.. [Reserved]
+. *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR parts 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the nearest FAA Flight Standards District Office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
+. *Expiration.* This Special Federal Aviation Regulation will remain in effect until March 20, 2017. The FAA may amend, rescind, or extend this Special Federal Aviation Regulation as necessary.
+
+## § 91.1605
+
+### Special Federal Aviation Regulation No. 77—Prohibition Against Certain Flights in the Baghdad (ORBB) Flight Information Region (FIR).
+
+. *Applicability.* This rule applies to the following persons:
+.. All U.S. air carriers and U.S. commercial operators;
+.. All persons exercising the privileges of an airman certificate issued by the FAA, except such persons operating U.S.-registered aircraft for a foreign air carrier; and
+.. All operators of aircraft registered in the United States, except where the operator of such aircraft is a foreign air carrier.
+. *Flight prohibition.* No person may conduct flight operations in the Baghdad (ORBB) Flight Information Region (FIR), except as provided in paragraphs (c) and (d) of this section.
+. *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in the ORBB FIR, provided that such flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. government (or under a subcontract between the prime contractor of the department, agency, or instrumentality, and the person described in paragraph (a)), with the approval of the FAA, or under an exemption issued by the FAA. The FAA will process requests for approval or exemption in a timely manner, with the order of preference being: First, for those operations in support of U.S. government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+. *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of parts 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the nearest FAA Flight Standards District Office (FSDO) a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
+. *Expiration.* This SFAR will remain in effect until May 11, 2017. The FAA may amend, rescind, or extend this SFAR as necessary.
+
+## § 91.1607
+
+### Special Federal Aviation Regulation No. 113—Prohibition Against Certain Flights in the Simferopol (UKFV) and the Dnipropetrovsk (UKDV) Flight Information Regions (FIRs).
+
+. *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
+.. All U.S. air carriers and U.S. commercial operators;
+.. All persons exercising the privileges of an airman certificate issued by the FAA, except when such persons are operating U.S.-registered aircraft for a foreign air carrier; and
+.. All operators of U.S.-registered civil aircraft, except where the operator of such aircraft is a foreign air carrier.
+. *Flight prohibition.* Except as provided in paragraphs (c) and (d) of this section, no person described in paragraph (a) of this section may conduct flight operations in the Simferopol (UKFV) FIR or the Dnipropetrovsk (UKDV) FIR.
+.. The lateral limits of the prohibited airspace includes that area currently described as the Simferopol (UKFV) FIR, which is defined as:
+              
+.. The lateral limits of the prohibited airspace includes that area previously described as the Dnipropetrovsk (UKDV) FIR, which is defined as:
+              
+. *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in either or both of the Simferopol (UKFV) or Dnipropetrovsk (UKDV) FIRs, provided that such flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. government (or under a subcontract between the prime contractor of the department, agency, or instrumentality and the person described in paragraph (a) of this section) with the approval of the FAA, or under an exemption issued by the FAA. The FAA will process requests for approval or exemption in a timely manner, with the order of preference being: first, for those operations in support of U.S. government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+. *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR parts 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the nearest FAA Flight Standards District Office (FSDO) a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
+. *Expiration.* This SFAR will remain in effect until October 27, 2018. The FAA may amend, rescind, or extend this SFAR as necessary.
+
+(ii) The prohibited airspace within the lateral limits extends in altitude from the surface to unlimited.
+
+(ii) The prohibited airspace within the lateral limits extends in altitude from the surface to unlimited.
+
+## § 91.1611
+
+### Special Federal Aviation Regulation No. 115—Prohibition Against Certain Flights in Specified Areas of the Sanaa (OYSC) Flight Information Region (FIR).
+
+. *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
+.. All U.S. air carriers and U.S. commercial operators;
+.. All persons exercising the privileges of an airman certificate issued by the FAA, except when such persons are operating U.S.-registered aircraft for a foreign air carrier; and
+.. All operators of U.S.-registered civil aircraft, except where the operator of such aircraft is a foreign air carrier.
+. *Flight prohibition.* Except as provided in paragraphs (c) and (d) of this section, no person described in paragraph (a) of this section may conduct flight operations in the Sanaa (OYSC) Flight Information Region (FIR), excluding that airspace east and southeast of a line drawn direct from KAPET (163322N 0530614E) to NODMA (152603N 0533359E), then direct from NODMA to PAKER (115500N 0463500E).
+. *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in the Sanaa (OYSC) FIR in that airspace west and northwest of a line drawn direct from KAPET (163322N 0530614E) to NODMA (152603N 0533359E), then direct from NODMA to PAKER (115500N 0463500E), provided that such flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. government (or under a subcontract between the prime contractor of the department, agency, or instrumentality, and the person subject to paragraph (a)), with the approval of the FAA, or under an exemption issued by the FAA. The FAA will process requests for approval or exemption in a timely manner, with the order of preference being: first, for those operations in support of U.S. government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+. *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR part 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the nearest FAA Flight Standards District Office (FSDO) a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
+. *Expiration.* This SFAR will remain in effect until January 7, 2018. The FAA may amend, rescind, or extend this SFAR as necessary.
+
+## § 91.1613
+
+### Special Federal Aviation Regulation No. 107—Prohibition Against Certain Flights in the Territory and Airspace of Somalia.
+
+. *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
+.. All U.S. air carriers and U.S. commercial operators;
+.. All persons exercising the privileges of an airman certificate issued by the FAA, except when such persons are operating U.S.-registered aircraft for a foreign air carrier; and
+.. All operators of U.S.-registered civil aircraft, except where the operator of such aircraft is a foreign air carrier.
+. *Flight prohibition.* Except as provided in paragraphs (c) and (d) of this section, no person described in paragraph (a) of this section may conduct flight operations in the territory and airspace of Somalia at altitudes below Flight Level (FL) 260. Overflights of Somalia may be conducted at or above FL260 subject to the approval of, and in accordance with the conditions established by, the appropriate authorities of Somalia.
+. *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in the territory and airspace of Somalia at altitudes below FL260, provided that such flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. government (or under a subcontract between the prime contractor of the department, agency, or instrumentality, and the person described in paragraph (a) of this section) with the approval of the FAA or under an exemption issued by the FAA. The FAA will process requests for approval or exemption in a timely manner, with the order of preference being: First, for those operations in support of U.S. government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+. *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR part 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the nearest FAA Flight Standards District Office (FSDO) a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
+. *Expiration.* This SFAR will remain in effect until January 7, 2018. The FAA may amend, rescind, or extend this SFAR as necessary.
+

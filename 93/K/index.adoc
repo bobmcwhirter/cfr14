@@ -1,0 +1,58 @@
+# High Density Traffic Airports
+:toc:
+
+## § 93.121
+
+### Applicability.
+
+This subpart designates high density traffic airports and prescribes air traffic rules for operating aircraft, other than helicopters, to or from those airports.
+
+## § 93.123
+
+### High density traffic airports.
+
+. Each of the following airports is designated as a high density traffic airport and, except as provided in § 93.129 and paragraph (b) of this section, or unless otherwise authorized by ATC, is limited to the hourly number of allocated IFR operations (takeoffs and landings) that may be reserved for the specified classes of users for that airport:
+. The following exceptions apply to the allocations of reservations prescribed in paragraph (a) Of this section.
+.. The allocations of reservations among the several classes of users do not apply from 12 midnight to 6 a.m. local time, but the total hourly limitation remains applicable.
+.. [Reserved]
+.. The allocation of 37 IFR reservations per hour for air carriers except commuters at Washington National Airport does not include charter flights, or other nonscheduled flights of scheduled or supplemental air carriers. These flights may be conducted without regard to the limitation of 37 IFR reservations per hour.
+.. The allocation of IFR reservations for air carriers except commuters at LaGuardia, Newark, O'Hare, and Washington National Airports does not include extra sections of scheduled flights. The allocation of IFR reservations for scheduled commuters at Washington National Airport does not include extra sections of scheduled flights. These flights may be conducted without regard to the limitation upon the hourly IFR reservations at those airports.
+.. Any reservation allocated to, but not taken by, air carrier operations (except commuters) is available for a scheduled commuter operation.
+.. Any reservation allocated to, but not taken by, air carrier operations (except commuters) or scheduled commuter operations is available for other operations.
+              
+. For purposes of this subpart—
+.. The number of operations allocated to *air carriers except commuters,* as used in paragraph (a) of this section refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of 75 or more or with turbojet powered aircraft having a certificated maximum passenger seating capacity of 56 or more, or, if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of 18,000 pounds or more.
+.. The number of operations allocated to scheduled commuters, as used in paragraph (a) of this section, refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of less than 75 or by turbojet aircraft having a certificated maximum passenger seating capacity of less than 56, or if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of less than 18,000 pounds. For purposes of aircraft operations at Ronald Reagan Washington National Airport, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.
+.. Notwithstanding the provisions of paragraph (c)(2) of this section, a limited number of operations allocated for “scheduled commuters” under paragraph (a) of this section may be conducted with aircraft described in § 93.221(e) of this part pursuant to the requirements of § 93.221(e).
+
+## § 93.125
+
+### Arrival or departure reservation.
+
+Except between 12 Midnight and 6 a.m. local time, no person may operate an aircraft to or from an airport designated as a high density traffic airport unless he has received, for that operation, an arrival or departure reservation from ATC.
+
+## § 93.129
+
+### Additional operations.
+
+. *IFR.* The operator of an aircraft may take off or land the aircraft under IFR at a designated high density traffic airport without regard to the maximum number of operations allocated for that airport if the operation is not a scheduled operation to or from a high density airport and he obtains a departure or arrival reservation, as appropriate, from ATC. The reservation is granted by ATC whenever the aircraft may be accommodated without significant additional delay to the operations allocated for the airport for which the reservations is requested.
+. *VFR.* The operator of an aircraft may take off and land the aircraft under VFR at a designated high density traffic airport without regard to the maximum number of operations allocated for that airport if the operation is not a scheduled operation to or from a high density airport and he obtains a departure or arrival reservation, as appropriate, from ATC. The reservation is granted by ATC whenever the aircraft may be accommodated without significant additional delay to the operations allocated for the airport for which the reservation is requested and the ceiling reported at the airport is at least 1,000 feet and the ground visibility reported at the airport is at least 3 miles.
+. For the purpose of this section a *scheduled operation to or from the high* density airport is any operation regularly conducted by an air carrier or commuter between a high density airport and another point regularly served by that operator unless the service is conducted pursuant to irregular charter or hiring of aircraft or is a nonpassenger flight.
+. An aircraft operator must obtain an IFR reservation in accordance with procedures established by the Administrator. For IFR flights to or from a high density airport, reservations for takeoff and arrival shall be obtained prior to takeoff.
+
+## § 93.130
+
+### Suspension of allocations.
+
+The Administrator may suspend the effectiveness of any allocation prescribed in § 93.123 and the reservation requirements prescribed in § 93.125 if he finds such action to be consistent with the efficient use of the airspace. Such suspension may be terminated whenever the Administrator determines that such action is necessary for the efficient use of the airspace.
+
+## § 93.133
+
+### Exceptions.
+
+Except as provided in § 93.130, the provisions of §§ 93.123 and 93.125 do not apply to—
+
+. The Newark Airport, Newark, NJ;
+. The Kennedy International Airport, New York, NY, except during the hours from 3 p.m. through 7:59 p.m., local time; and
+. O'Hare International Airport from 9:15 p.m. to 6:44 a.m., local time.
+

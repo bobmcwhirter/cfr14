@@ -1,0 +1,100 @@
+# Standards for Determining Obstructions to Air Navigation or Navigational Aids or Facilities
+:toc:
+
+## § 77.13
+
+### Applicability.
+
+This subpart describes the standards used for determining obstructions to air navigation, navigational aids, or navigational facilities. These standards apply to the following:
+
+. Any object of natural growth, terrain, or permanent or temporary construction or alteration, including equipment or materials used and any permanent or temporary apparatus.
+. The alteration of any permanent or temporary existing structure by a change in its height, including appurtenances, or lateral dimensions, including equipment or material used therein.
+
+## § 77.15
+
+### Scope.
+
+. This subpart describes standards used to determine obstructions to air navigation that may affect the safe and efficient use of navigable airspace and the operation of planned or existing air navigation and communication facilities. Such facilities include air navigation aids, communication equipment, airports, Federal airways, instrument approach or departure procedures, and approved off-airway routes.
+. Objects that are considered obstructions under the standards described in this subpart are presumed hazards to air navigation unless further aeronautical study concludes that the object is not a hazard. Once further aeronautical study has been initiated, the FAA will use the standards in this subpart, along with FAA policy and guidance material, to determine if the object is a hazard to air navigation.
+. The FAA will apply these standards with reference to an existing airport facility, and airport proposals received by the FAA, or the appropriate military service, before it issues a final determination.
+. For airports having defined runways with specially prepared hard surfaces, the primary surface for each runway extends 200 feet beyond each end of the runway. For airports having defined strips or pathways used regularly for aircraft takeoffs and landings, and designated runways, without specially prepared hard surfaces, each end of the primary surface for each such runway shall coincide with the corresponding end of the runway. At airports, excluding seaplane bases, having a defined landing and takeoff area with no defined pathways for aircraft takeoffs and landings, a determination must be made as to which portions of the landing and takeoff area are regularly used as landing and takeoff pathways. Those determined pathways must be considered runways, and an appropriate primary surface as defined in § 77.19 will be considered as longitudinally centered on each such runway. Each end of that primary surface must coincide with the corresponding end of that runway.
+. The standards in this subpart apply to construction or alteration proposals on an airport (including heliports and seaplane bases with marked lanes) if that airport is one of the following before the issuance of the final determination:
+.. Available for public use and is listed in the Airport/Facility Directory, Supplement Alaska, or Supplement Pacific of the U.S. Government Flight Information Publications; or
+.. A planned or proposed airport or an airport under construction of which the FAA has received actual notice, except DOD airports, where there is a clear indication the airport will be available for public use; or,
+.. An airport operated by a Federal agency or the DOD; or,
+.. An airport that has at least one FAA-approved instrument approach.
+
+## § 77.17
+
+### Obstruction standards.
+
+. An existing object, including a mobile object, is, and a future object would be an obstruction to air navigation if it is of greater height than any of the following heights or surfaces:
+.. A height of 499 feet AGL at the site of the object.
+.. A height that is 200 feet AGL, or above the established airport elevation, whichever is higher, within 3 nautical miles of the established reference point of an airport, excluding heliports, with its longest runway more than 3,200 feet in actual length, and that height increases in the proportion of 100 feet for each additional nautical mile from the airport up to a maximum of 499 feet.
+.. A height within a terminal obstacle clearance area, including an initial approach segment, a departure area, and a circling approach area, which would result in the vertical distance between any point on the object and an established minimum instrument flight altitude within that area or segment to be less than the required obstacle clearance.
+.. A height within an en route obstacle clearance area, including turn and termination areas, of a Federal Airway or approved off-airway route, that would increase the minimum obstacle clearance altitude.
+.. The surface of a takeoff and landing area of an airport or any imaginary surface established under § 77.19, 77.21, or 77.23. However, no part of the takeoff or landing area itself will be considered an obstruction.
+. Except for traverse ways on or near an airport with an operative ground traffic control service furnished by an airport traffic control tower or by the airport management and coordinated with the air traffic control service, the standards of paragraph (a) of this section apply to traverse ways used or to be used for the passage of mobile objects only after the heights of these traverse ways are increased by:
+.. 17 feet for an Interstate Highway that is part of the National System of Military and Interstate Highways where overcrossings are designed for a minimum of 17 feet vertical distance.
+.. 15 feet for any other public roadway.
+              
+.. 10 feet or the height of the highest mobile object that would normally traverse the road, whichever is greater, for a private road.
+.. 23 feet for a railroad.
+.. For a waterway or any other traverse way not previously mentioned, an amount equal to the height of the highest mobile object that would normally traverse it.
+
+## § 77.19
+
+### Civil airport imaginary surfaces.
+
+The following civil airport imaginary surfaces are established with relation to the airport and to each runway. The size of each such imaginary surface is based on the category of each runway according to the type of approach available or planned for that runway. The slope and dimensions of the approach surface applied to each end of a runway are determined by the most precise approach procedure existing or planned for that runway end.
+
+. *Horizontal surface.* A horizontal plane 150 feet above the established airport elevation, the perimeter of which is constructed by SW.inging arcs of a specified radii from the center of each end of the primary surface of each runway of each airport and connecting the adjacent arcs by lines tangent to those arcs. The radius of each arc is:
+.. 5,000 feet for all runways designated as utility or visual;
+.. 10,000 feet for all other runways. The radius of the arc specified for each end of a runway will have the same arithmetical value. That value will be the highest determined for either end of the runway. When a 5,000-foot arc is encompassed by tangents connecting two adjacent 10,000-foot arcs, the 5,000-foot arc shall be disregarded on the construction of the perimeter of the horizontal surface.
+. *Conical surface.* A surface extending outward and upward from the periphery of the horizontal surface at a slope of 20 to 1 for a horizontal distance of 4,000 feet.
+. *Primary surface.* A surface longitudinally centered on a runway. When the runway has a specially prepared hard surface, the primary surface extends 200 feet beyond each end of that runway; but when the runway has no specially prepared hard surface, the primary surface ends at each end of that runway. The elevation of any point on the primary surface is the same as the elevation of the nearest point on the runway centerline. The width of the primary surface is:
+.. 250 feet for utility runways having only visual approaches.
+.. 500 feet for utility runways having non-precision instrument approaches.
+.. For other than utility runways, the width is:
+... 500 feet for visual runways having only visual approaches.
+... 500 feet for non-precision instrument runways having visibility minimums greater than three-fourths statute mile.
+... 1,000 feet for a non-precision instrument runway having a non-precision instrument approach with visibility minimums as low as three-fourths of a statute mile, and for precision instrument runways.
+... The width of the primary surface of a runway will be that width prescribed in this section for the most precise approach existing or planned for either end of that runway.
+. *Approach surface.* A surface longitudinally centered on the extended runway centerline and extending outward and upward from each end of the primary surface. An approach surface is applied to each end of each runway based upon the type of approach available or planned for that runway end.
+.. The inner edge of the approach surface is the same width as the primary surface and it expands uniformly to a width of:
+... 1,250 feet for that end of a utility runway with only visual approaches;
+... 1,500 feet for that end of a runway other than a utility runway with only visual approaches;
+... 2,000 feet for that end of a utility runway with a non-precision instrument approach;
+... 3,500 feet for that end of a non-precision instrument runway other than utility, having visibility minimums greater that three-fourths of a statute mile;
+... 4,000 feet for that end of a non-precision instrument runway, other than utility, having a non-precision instrument approach with visibility minimums as low as three-fourths statute mile; and
+... 16,000 feet for precision instrument runways.
+.. The approach surface extends for a horizontal distance of:
+... 5,000 feet at a slope of 20 to 1 for all utility and visual runways;
+... 10,000 feet at a slope of 34 to 1 for all non-precision instrument runways other than utility; and
+... 10,000 feet at a slope of 50 to 1 with an additional 40,000 feet at a slope of 40 to 1 for all precision instrument runways.
+.. The outer width of an approach surface to an end of a runway will be that width prescribed in this subsection for the most precise approach existing or planned for that runway end.
+. *Transitional surface.* These surfaces extend outward and upward at right angles to the runway centerline and the runway centerline extended at a slope of 7 to 1 from the sides of the primary surface and from the sides of the approach surfaces. Transitional surfaces for those portions of the precision approach surface which project through and beyond the limits of the conical surface, extend a distance of 5,000 feet measured horizontally from the edge of the approach surface and at right angles to the runway centerline.
+
+## § 77.21
+
+### Department of Defense (DOD) airport imaginary surfaces.
+
+. *Related to airport reference points.* These surfaces apply to all military airports. For the purposes of this section, a military airport is any airport operated by the DOD.
+.. *Inner horizontal surface.* A plane that is oval in shape at a height of 150 feet above the established airfield elevation. The plane is constructed by scribing an arc with a radius of 7,500 feet about the centerline at the end of each runway and interconnecting these arcs with tangents.
+.. *Conical surface.* A surface extending from the periphery of the inner horizontal surface outward and upward at a slope of 20 to 1 for a horizontal distance of 7,000 feet to a height of 500 feet above the established airfield elevation.
+.. *Outer horizontal surface.* A plane, located 500 feet above the established airfield elevation, extending outward from the outer periphery of the conical surface for a horizontal distance of 30,000 feet.
+. *Related to runways.* These surfaces apply to all military airports.
+.. *Primary surface.* A surface located on the ground or water longitudinally centered on each runway with the same length as the runway. The width of the primary surface for runways is 2,000 feet. However, at established bases where substantial construction has taken place in accordance with a previous lateral clearance criteria, the 2,000-foot width may be reduced to the former criteria.
+.. *Clear zone surface.* A surface located on the ground or water at each end of the primary surface, with a length of 1,000 feet and the same width as the primary surface.
+.. *Approach clearance surface.* An inclined plane, symmetrical about the runway centerline extended, beginning 200 feet beyond each end of the primary surface at the centerline elevation of the runway end and extending for 50,000 feet. The slope of the approach clearance surface is 50 to 1 along the runway centerline extended until it reaches an elevation of 500 feet above the established airport elevation. It then continues horizontally at this elevation to a point 50,000 feet from the point of beginning. The width of this surface at the runway end is the same as the primary surface, it flares uniformly, and the width at 50,000 is 16,000 feet.
+.. *Transitional surfaces.* These surfaces connect the primary surfaces, the first 200 feet of the clear zone surfaces, and the approach clearance surfaces to the inner horizontal surface, conical surface, outer horizontal surface or other transitional surfaces. The slope of the transitional surface is 7 to 1 outward and upward at right angles to the runway centerline.
+
+## § 77.23
+
+### Heliport imaginary surfaces.
+
+. *Primary surface.* The area of the primary surface coincides in size and shape with the designated take-off and landing area. This surface is a horizontal plane at the elevation of the established heliport elevation.
+              
+. *Approach surface.* The approach surface begins at each end of the heliport primary surface with the same width as the primary surface, and extends outward and upward for a horizontal distance of 4,000 feet where its width is 500 feet. The slope of the approach surface is 8 to 1 for civil heliports and 10 to 1 for military heliports.
+. *Transitional surfaces.* These surfaces extend outward and upward from the lateral boundaries of the primary surface and from the approach surfaces at a slope of 2 to 1 for a distance of 250 feet measured horizontally from the centerline of the primary and approach surfaces.
+

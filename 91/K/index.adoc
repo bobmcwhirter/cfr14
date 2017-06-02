@@ -1,0 +1,80 @@
+# Fractional Ownership Operations
+:toc:
+
+## § 91.1001
+
+### Applicability.
+
+. This subpart prescribes rules, in addition to those prescribed in other subparts of this part, that apply to fractional owners and fractional ownership program managers governing—
+.. The provision of program management services in a fractional ownership program;
+.. The operation of a fractional ownership program aircraft in a fractional ownership program; and
+.. The operation of a program aircraft included in a fractional ownership program managed by an affiliate of the manager of the program to which the owner belongs.
+. As used in this part—
+.. *Affiliate of a program manager* means a manager that, directly, or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, another program manager. The holding of at least forty percent (40 percent) of the equity and forty percent (40 percent) of the voting power of an entity will be presumed to constitute control for purposes of determining an affiliation under this subpart.
+.. A *dry-lease aircraft exchange* means an arrangement, documented by the written program agreements, under which the program aircraft are available, on an as needed basis without crew, to each fractional owner.
+.. A *fractional owner or owner* means an individual or entity that possesses a minimum fractional ownership interest in a program aircraft and that has entered into the applicable program agreements; provided, however, that in the case of the flight operations described in paragraph (b)(6)(ii) of this section, and solely for purposes of requirements pertaining to those flight operations, the fractional owner operating the aircraft will be deemed to be a fractional owner in the program managed by the affiliate.
+.. A *fractional ownership interest* means the ownership of an interest or holding of a multi-year leasehold interest and/or a multi-year leasehold interest that is convertible into an ownership interest in a program aircraft.
+.. A *fractional ownership program or program* means any system of aircraft ownership and exchange that consists of all of the following elements:
+... The provision for fractional ownership program management services by a single fractional ownership program manager on behalf of the fractional owners.
+... Two or more airworthy aircraft.
+... One or more fractional owners per program aircraft, with at least one program aircraft having more than one owner.
+... Possession of at least a minimum fractional ownership interest in one or more program aircraft by each fractional owner.
+... A dry-lease aircraft exchange arrangement among all of the fractional owners.
+... Multi-year program agreements covering the fractional ownership, fractional ownership program management services, and dry-lease aircraft exchange aspects of the program.
+.. A *fractional ownership program aircraft or program aircraft* means:
+... An aircraft in which a fractional owner has a minimal fractional ownership interest and that has been included in the dry-lease aircraft exchange pursuant to the program agreements, or
+... In the case of a fractional owner from one program operating an aircraft in a different fractional ownership program managed by an affiliate of the operating owner's program manager, the aircraft being operated by the fractional owner, so long as the aircraft is:
+... An aircraft owned in whole or in part by the program manager that has been included in the dry-lease aircraft exchange and is used to supplement program operations.
+.. A *Fractional Ownership Program Flight or Program Flight* means a flight under this subpart when one or more passengers or property designated by a fractional owner are on board the aircraft.
+.. *Fractional ownership program management services or program management services* mean administrative and aviation support services furnished in accordance with the applicable requirements of this subpart or provided by the program manager on behalf of the fractional owners, including, but not limited to, the—
+... Establishment and implementation of program safety guidelines;
+... Employment, furnishing, or contracting of pilots and other crewmembers;
+... Training and qualification of pilots and other crewmembers and personnel;
+... Scheduling and coordination of the program aircraft and crews;
+... Maintenance of program aircraft;
+... Satisfaction of recordkeeping requirements;
+... Development and use of a program operations manual and procedures; and
+... Application for and maintenance of management specifications and other authorizations and approvals.
+.. A *fractional ownership program manager or program manager* means the entity that offers fractional ownership program management services to fractional owners, and is designated in the multi-year program agreements referenced in paragraph (b)(1)(v) of this section to fulfill the requirements of this chapter applicable to the manager of the program containing the aircraft being flown. When a fractional owner is operating an aircraft in a fractional ownership program managed by an affiliate of the owner's program manager, the references in this subpart to the flight-related responsibilities of the program manager apply, with respect to that particular flight, to the affiliate of the owner's program manager rather than to the owner's program manager.
+.. A *minimum fractional ownership interest* means—
+... A fractional ownership interest equal to, or greater than, one-sixteenth (1/16) of at least one subsonic, fixed-wing or powered-lift program aircraft; or
+... A fractional ownership interest equal to, or greater than, one-thirty-second (1/32) of at least one rotorcraft program aircraft.
+. The rules in this subpart that refer to a fractional owner or a fractional ownership program manager also apply to any person who engages in an operation governed by this subpart without the management specifications required by this subpart.
+
+(A) Included in the fractional ownership program managed by the affiliate of the operating owner's program manager, and
+
+(B) Included in the operating owner's program's dry-lease aircraft exchange pursuant to the program agreements of the operating owner's program.
+
+## § 91.1002
+
+### Compliance date.
+
+No person that conducted flights before November 17, 2003 under a program that meets the definition of fractional ownership program in § 91.1001 may conduct such flights after February 17, 2005 unless it has obtained management specifications under this subpart.
+
+## § 91.1003
+
+### Management contract between owner and program manager.
+
+Each owner must have a contract with the program manager that—
+
+. Requires the program manager to ensure that the program conforms to all applicable requirements of this chapter.
+. Provides the owner the right to inspect and to audit, or have a designee of the owner inspect and audit, the records of the program manager pertaining to the operational safety of the program and those records required to show compliance with the management specifications and all applicable regulations. These records include, but are not limited to, the management specifications, authorizations, approvals, manuals, log books, and maintenance records maintained by the program manager.
+. Designates the program manager as the owner's agent to receive service of notices pertaining to the program that the FAA seeks to provide to owners and authorizes the FAA to send such notices to the program manager in its capacity as the agent of the owner for such service.
+. Acknowledges the FAA's right to contact the owner directly if the Administrator determines that direct contact is necessary.
+
+## § 91.1005
+
+### Prohibitions and limitations.
+
+. Except as provided in § 91.321 or § 91.501, no owner may carry persons or property for compensation or hire on a program flight.
+. During the term of the multi-year program agreements under which a fractional owner has obtained a minimum fractional ownership interest in a program aircraft, the flight hours used during that term by the owner on program aircraft must not exceed the total hours associated with the fractional owner's share of ownership.
+. No person may sell or lease an aircraft interest in a fractional ownership program that is smaller than that prescribed in the definition of “minimum fractional ownership interest” in § 91.1001(b)(10) unless flights associated with that interest are operated under part 121 or 135 of this chapter and are conducted by an air carrier or commercial operator certificated under part 119 of this chapter.
+
+## § 91.1007
+
+### Flights conducted under part 121 or part 135 of this chapter.
+
+. Except as provided in § 91.501(b), when a nonprogram aircraft is used to substitute for a program flight, the flight must be operated in compliance with part 121 or part 135 of this chapter, as applicable.
+. A program manager who holds a certificate under part 119 of this chapter may conduct a flight for the use of a fractional owner under part 121 or part 135 of this chapter if the aircraft is listed on that certificate holder's operations specifications for part 121 or part 135, as applicable.
+. The fractional owner must be informed when a flight is being conducted as a program flight or is being conducted under part 121 or part 135 of this chapter.
+

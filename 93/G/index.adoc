@@ -1,0 +1,37 @@
+# Special Flight Rules in the Vicinity of Los Angeles International Airport
+:toc:
+
+## § 93.91
+
+### Applicability.
+
+This subpart prescribes special air traffic rules for aircraft conducting VFR operations in the Los Angeles, California Special Flight Rules Area.
+
+## § 93.93
+
+### Description of area.
+
+The Los Angeles Special Flight Rules Area is designated as that part of Area A of the Los Angeles Class B airspace area at 3,500 feet above mean sea level (MSL) and at 4,500 feet MSL, beginning at Ballona Creek/Pacific Ocean (lat. 33°57′42″ N, long. 118°27′23″ W), then eastbound along Manchester Blvd. to the intersection of Manchester/405 Freeway (lat. 33°57′42″ N, long. 118°22′10″ W), then southbound along the 405 Freeway to the intersection of the 405 Freeway/lmperial Highway (lat. 33°55′51″ N, long. 118°22′06″ W), then westbound along Imperial Highway to the intersection of Imperial Highway/Pacific Ocean (lat. 33°55′51″ N, long. 118°26′05″ W), then northbound along the shoreline to the point of beginning.
+
+## § 93.95
+
+### General operating procedures.
+
+Unless otherwise authorized by the Administrator, no person may operate an aircraft in the airspace described in § 93.93 unless the operation is conducted in accordance with the following procedures:
+
+. The flight must be conducted under VFR and only when operation may be conducted in compliance with § 91.155(a) of this chapter.
+. The aircraft must be equipped as specified in § 91.215(b) of this chapter replying on code 1201 prior to entering and while operating in this area.
+. The pilot shall have a current Los Angeles Terminal Area Chart in the aircraft.
+. The pilot shall operate on the Santa Monica very high frequency omni-directional radio range (VOR) 132° radial.
+. Aircraft navigating in a southeasterly direction shall be in level flight at 3,500 feet MSL.
+. Aircraft navigating in a northwesterly direction shall be in level flight at 4,500 feet MSL.
+. Indicated airspeed shall not exceed 140 knots.
+. Anti-collision lights and aircraft position/navigation lights shall be on. Use of landing lights is recommended.
+. Turbojet aircraft are prohibited from VFR operations in this area.
+
+## § 93.97
+
+### Operations in the SFRA.
+
+Notwithstanding the provisions of § 91.131(a) of this chapter, an air traffic control authorization is not required in the Los Angeles Special Flight Rules Area for operations in compliance with § 93.95. All other provisions of § 91.131 of this chapter apply to operations in the Los Angeles Special Flight Rules Area.
+

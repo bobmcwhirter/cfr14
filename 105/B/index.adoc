@@ -1,0 +1,86 @@
+# Operating Rules
+:toc:
+
+## § 105.13
+
+### Radio equipment and use requirements.
+
+. Except when otherwise authorized by air traffic control—
+.. No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft, in or into controlled airspace unless, during that flight—
+... The aircraft is equipped with a functioning two-way radio communication system appropriate to the air traffic control facilities being used; and
+... Radio communications have been established between the aircraft and the air traffic control facility having jurisdiction over the affected airspace of the first intended exit altitude at least 5 minutes before the parachute operation begins. The pilot in command must establish radio communications to receive information regarding air traffic activity in the vicinity of the parachute operation.
+.. The pilot in command of an aircraft used for any parachute operation in or into controlled airspace must, during each flight—
+... Continuously monitor the appropriate frequency of the aircraft's radio communications system from the time radio communications are first established between the aircraft and air traffic control, until the pilot advises air traffic control that the parachute operation has ended for that flight.
+... Advise air traffic control when the last parachutist or object leaves the aircraft.
+. Parachute operations must be aborted if, prior to receipt of a required air traffic control authorization, or during any parachute operation in or into controlled airspace, the required radio communications system is or becomes inoperative.
+
+## § 105.15
+
+### Information required and notice of cancellation or postponement of a parachute operation.
+
+. Each person requesting an authorization under §§ 105.21(b) and 105.25(a)(2) of this part and each person submitting a notification under § 105.25(a)(3) of this part must provide the following information (on an individual or group basis):
+.. The date and time the parachute operation will begin.
+.. The radius of the drop zone around the target expressed in nautical miles.
+.. The location of the center of the drop zone in relation to—
+... The nearest VOR facility in terms of the VOR radial on which it is located and its distance in nautical miles from the VOR facility when that facility is 30 nautical miles or less from the drop zone target; or
+... the nearest airport, town, or city depicted on the appropriate Coast and Geodetic Survey World Aeronautical Chart or Sectional Aeronautical Chart, when the nearest VOR facility is more than 30 nautical miles from the drop zone target.
+.. Each altitude above mean sea level at which the aircraft will be operated when parachutists or objects exist the aircraft.
+.. The duration of the intended parachute operation.
+.. The name, address, and telephone number of the person who requests the authorization or gives notice of the parachute operation.
+.. The registration number of the aircraft to be used.
+.. The name of the air traffic control facility with jurisdiction of the airspace at the first intended exit altitude to be used for the parachute operation.
+. Each holder of a certificate of authorization issued under §§ 105.21(b) and 105.25(b) of this part must present that certificate for inspection upon the request of the Administrator or any Federal, State, or local official.
+. Each person requesting an authorization under §§ 105.21(b) and 105.25(a)(2) of this part and each person submitting a notice under § 105.25(a)(3) of this part must promptly notify the air traffic control facility having jurisdiction over the affected airspace if the proposed or scheduled parachute operation is canceled or postponed.
+
+## § 105.17
+
+### Flight visibility and clearance from cloud requirements.
+
+No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft—
+
+. Into or through a cloud, or
+. When the flight visibility or the distance from any cloud is less than that prescribed in the following table:
+
+## § 105.19
+
+### Parachute operations between sunset and sunrise.
+
+. No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a person to conduct a parachute operation from an aircraft between sunset and sunrise, unless the person or object descending from the aircraft displays a light that is visible for at least 3 statute miles.
+. The light required by paragraph (a) of this section must be displayed from the time that the person or object is under a properly functioning open parachute until that person or object reaches the surface.
+
+## § 105.21
+
+### Parachute operations over or into a congested area or an open-air assembly of persons.
+
+. No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft, over or into a congested area of a city, town, or settlement, or an open-air assembly of persons unless a certificate of authorization for that parachute operation has been issued under this section. However, a parachutist may drift over a congested area or an open-air assembly of persons with a fully deployed and properly functioning parachute if that parachutist is at a sufficient altitude to avoid creating a hazard to persons or property on the surface.
+. An application for a certificate of authorization issued under this section must—
+.. Be made in the form and manner prescribed by the Administrator, and
+.. Contain the information required in § 105.15(a) of this part.
+. Each holder of, and each person named as a participant in a certificate of authorization issued under this section must comply with all requirements contained in the certificate of authorization.
+. Each holder of a certificate of authorization issued under this section must present that certificate for inspection upon the request of the Administrator, or any Federal, State, or local official.
+
+## § 105.23
+
+### Parachute operations over or onto airports.
+
+No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft, over or onto any airport unless—
+
+. For airports with an operating control tower:
+.. Prior approval has been obtained from the management of the airport to conduct parachute operations over or on that airport.
+.. Approval has been obtained from the control tower to conduct parachute operations over or onto that airport.
+.. Two-way radio communications are maintained between the pilot of the aircraft involved in the parachute operation and the control tower of the airport over or onto which the parachute operation is being conducted.
+. For airports without an operating control tower, prior approval has been obtained from the management of the airport to conduct parachute operations over or on that airport.
+. A parachutist may drift over that airport with a fully deployed and properly functioning parachute if the parachutist is at least 2,000 feet above that airport's traffic pattern, and avoids creating a hazard to air traffic or to persons and property on the ground.
+
+## § 105.25
+
+### Parachute operations in designated airspace.
+
+. No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft—
+.. Over or within a restricted area or prohibited area unless the controlling agency of the area concerned has authorized that parachute operation;
+.. Within or into a Class A, B, C, D airspace area without, or in violation of the requirements of, an air traffic control authorization issued under this section;
+.. Except as provided in paragraph (c) and (d) of this section, within or into Class E or G airspace area unless the air traffic control facility having jurisdiction over the airspace at the first intended exit altitude is notified of the parachute operation no earlier than 24 hours before or no later than 1 hour before the parachute operation begins.
+. Each request for a parachute operation authorization or notification required under this section must be submitted to the air traffic control facility having jurisdiction over the airspace at the first intended exit altitude and must include the information prescribed by § 105.15(a) of this part.
+. For the purposes of paragraph (a)(3) of this section, air traffic control facilities may accept a written notification from an organization that conducts parachute operations and lists the scheduled series of parachute operations to be conducted over a stated period of time not longer than 12 calendar months. The notification must contain the information prescribed by § 105.15(a) of this part, identify the responsible persons associated with that parachute operation, and be submitted at least 15 days, but not more than 30 days, before the parachute operation begins. The FAA may revoke the acceptance of the notification for any failure of the organization conducting the parachute operations to comply with its requirements.
+. Paragraph (a)(3) of this section does not apply to a parachute operation conducted by a member of an Armed Force within a restricted area that extends upward from the surface when that area is under the control of an Armed Force.
+

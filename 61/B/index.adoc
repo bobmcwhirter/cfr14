@@ -1,0 +1,582 @@
+# Aircraft Ratings and Pilot Authorizations
+:toc:
+
+## § 61.61
+
+### Applicability.
+
+This subpart prescribes the requirements for the issuance of additional aircraft ratings after a pilot certificate is issued, issuance of a type rating concurrently with a pilot certificate, and the requirements for and limitations of pilot authorizations issued by the Administrator.
+
+## § 61.63
+
+### Additional aircraft ratings (other than for ratings at the airline transport pilot certification level).
+
+. *General.* For an additional aircraft rating on a pilot certificate, other than for an airline transport pilot certificate, a person must meet the requirements of this section appropriate to the additional aircraft rating sought.
+. *Additional aircraft category rating.* A person who applies to add a category rating to a pilot certificate:
+.. Must complete the training and have the applicable aeronautical experience.
+.. Must have a logbook or training record endorsement from an authorized instructor attesting that the person was found competent in the appropriate aeronautical knowledge areas and proficient in the appropriate areas of operation.
+.. Must pass the practical test.
+.. Need not take an additional knowledge test, provided the applicant holds an airplane, rotorcraft, powered-lift, weight-shift-control aircraft, powered parachute, or airship rating at that pilot certificate level.
+. *Additional aircraft class rating.* A person who applies for an additional class rating on a pilot certificate:
+.. Must have a logbook or training record endorsement from an authorized instructor attesting that the person was found competent in the appropriate aeronautical knowledge areas and proficient in the appropriate areas of operation.
+.. Must pass the practical test.
+.. Need not meet the specified training time requirements prescribed by this part that apply to the pilot certificate for the aircraft class rating sought; unless, the person only holds a lighter-than-air category rating with a balloon class rating and is seeking an airship class rating, then that person must receive the specified training time requirements and possess the appropriate aeronautical experience.
+.. Need not take an additional knowledge test, provided the applicant holds an airplane, rotorcraft, powered-lift, weight-shift-control aircraft, powered parachute, or airship rating at that pilot certificate level.
+. *Additional aircraft type rating.* Except as provided under paragraph (d)(6) of this section, a person who applies for an aircraft type rating or an aircraft type rating to be completed concurrently with an aircraft category or class rating—
+.. Must hold or concurrently obtain an appropriate instrument rating, except as provided in paragraph (e) of this section.
+.. Must have a logbook or training record endorsement from an authorized instructor attesting that the person is competent in the appropriate aeronautical knowledge areas and proficient in the appropriate areas of operation at the airline transport pilot certification level.
+.. Must pass the practical test at the airline transport pilot certification level.
+.. Must perform the practical test in actual or simulated instrument conditions, except as provided in paragraph (e) of this section.
+.. Need not take an additional knowledge test if the applicant holds an airplane, rotorcraft, powered-lift, or airship rating on the pilot certificate.
+.. In the case of a pilot employee of a part 121 or part 135 certificate holder or of a fractional ownership program manager under subpart K of part 91 of this chapter, the pilot must—
+... Meet the appropriate requirements under paragraphs (d)(1), (d)(3), and (d)(4) of this section; and
+... Receive a flight training record endorsement from the certificate holder attesting that the person completed the certificate holder's approved ground and flight training program.
+. *Aircraft not capable of instrument maneuvers and procedures.* (1) An applicant for a type rating or a type rating in addition to an aircraft category and/or class rating who provides an aircraft that is not capable of the instrument maneuvers and procedures required on the practical test:
+. *Multiengine airplane with a single-pilot station.* An applicant for a type rating, at other than the ATP certification level, in a multiengine airplane with a single-pilot station must perform the practical test in the multi-seat version of that airplane, or the practical test may be performed in the single-seat version of that airplane if the Examiner is in a position to observe the applicant during the practical test and there is no multi-seat version of that multiengine airplane.
+. *Single engine airplane with a single-pilot station.* An applicant for a type rating, at other than the ATP certification level, in a single engine airplane with a single-pilot station must perform the practical test in the multi-seat version of that single engine airplane, or the practical test may be performed in the single-seat version of that airplane if the Examiner is in a position to observe the applicant during the practical test and there is no multi-seat version of that single engine airplane.
+              
+. *Aircraft category and class rating for the operation of aircraft with an experimental certificate.* A person holding a recreational, private, or commercial pilot certificate may apply for a category and class rating limited to a specific make and model of experimental aircraft, provided—
+.. The person logged 5 hours flight time while acting as pilot in command in the same category, class, make, and model of aircraft.
+.. The person received a logbook endorsement from an authorized instructor who determined the pilot's proficiency to act as pilot in command of the same category, class, make, and model of aircraft.
+.. The flight time specified under paragraph (h)(1) of this section was logged between September 1, 2004 and August 31, 2005.
+... *Waiver authority.* An Examiner who conducts a practical test may waive any task for which the FAA has provided waiver authority.
+
+(i) May apply for the type rating, but the rating will be limited to “VFR only.”
+
+(ii) May have the “VFR only” limitation removed for that aircraft type after the applicant:
+
+(A) Passes a practical test in that type of aircraft in actual or simulated instrument conditions;
+
+(B) Passes a practical test in that type of aircraft on the appropriate instrument maneuvers and procedures in § 61.157; or
+
+(C) Becomes qualified under § 61.73(d) for that type of aircraft.
+
+(2) When an instrument rating is issued to a person who holds one or more type ratings, the amended pilot certificate must bear the “VFR only” limitation for each aircraft type rating that the person did not demonstrate instrument competency.
+
+## § 61.64
+
+### Use of a flight simulator and flight training device.
+
+. *Use of a flight simulator or flight training device.* If an applicant for a certificate or rating uses a flight simulator or flight training device for training or any portion of the practical test, the flight simulator and flight training device—
+.. Must represent the category, class, and type (if a type rating is applicable) for the rating sought; and
+.. Must be qualified and approved by the Administrator and used in accordance with an approved course of training under part 141 or part 142 of this chapter; or under part 121 or part 135 of this chapter, provided the applicant is a pilot employee of that air carrier operator.
+. Except as provided in paragraph (f) of this section, if an airplane is not used during the practical test for a type rating for a turbojet airplane (except for preflight inspection), an applicant must accomplish the entire practical test in a Level C or higher flight simulator and the applicant must—
+.. Hold a type rating in a turbojet airplane of the same class of airplane for which the type rating is sought, and that type rating may not contain a supervised operating experience limitation;
+.. Have 1,000 hours of flight time in two different turbojet airplanes of the same class of airplane for which the type rating is sought;
+.. Have been appointed by the U.S. Armed Forces as pilot in command in a turbojet airplane of the same class of airplane for which the type rating is sought;
+.. Have 500 hours of flight time in the same type of airplane for which the type rating is sought; or
+.. Have logged at least 2,000 hours of flight time, of which 500 hours were in turbine-powered airplanes of the same class of airplane for which the type rating is sought.
+. Except as provided in paragraph (f) of this section, if an airplane is not used during the practical test for a type rating for a turbo-propeller airplane (except for preflight inspection), an applicant must accomplish the entire practical test in a Level C or higher flight simulator and the applicant must—
+.. Hold a type rating in a turbo-propeller airplane of the same class of airplane for which the type rating is sought, and that type rating may not contain a supervised operating experience limitation;
+.. Have 1,000 hours of flight time in two different turbo-propeller airplanes of the same class of airplane for which the type rating is sought;
+.. Have been appointed by the U.S. Armed Forces as pilot in command in a turbo-propeller airplane of the same class of airplane for which the type rating is sought;
+.. Have 500 hours of flight time in the same type of airplane for which the type rating is sought; or
+.. Have logged at least 2,000 hours of flight time, of which 500 hours were in turbine-powered airplanes of the same class of airplane for which the type rating is sought.
+. Except as provided in paragraph (f) of this section, if a helicopter is not used during the practical test for a type rating in a helicopter (except for preflight inspection), an applicant must accomplish the entire practical test in a Level C or higher flight simulator and the applicant must meet one of the following requirements—
+.. Hold a type rating in a helicopter and that type rating may not contain the supervised operating experience limitation;
+.. Have been appointed by the U.S. Armed Forces as pilot in command of a helicopter;
+.. Have 500 hours of flight time in the type of helicopter; or
+.. Have 1,000 hours of flight time in two different types of helicopters.
+. Except as provided in paragraph (f) of this section, if a powered-lift is not used during the practical test for a type rating in a powered-lift (except for preflight inspection), an applicant must accomplish the entire practical test in a Level C or higher flight simulator and the applicant must meet one of the following requirements—
+.. Hold a type rating in a powered-lift without a supervised operating experience limitation;
+.. Have been appointed by the U.S. Armed Forces as pilot in command of a powered-lift;
+.. Have 500 hours of flight time in the type of powered-lift for which the rating is sought; or
+.. Have 1,000 hours of flight time in two different types of powered-lifts.
+. If the applicant does not meet one of the experience requirements of paragraphs (b)(1) through (5), (c)(1) through (5), (d)(1) through (4) or (e)(1) through (4) of this section, as appropriate to the type rating sought, then—
+.. The applicant must complete the following tasks on the practical test in an aircraft appropriate to category, class, and type for the rating sought: Preflight inspection, normal takeoff, normal instrument landing system approach, missed approach, and normal landing; or
+.. The applicant's pilot certificate will be issued with a limitation that states: “The [name of the additional type rating] is subject to pilot in command limitations,” and the applicant is restricted from serving as pilot in command in an aircraft of that type.
+. The limitation described under paragraph (f)(2) of this section may be removed from the pilot certificate if the applicant complies with the following—
+.. Performs 25 hours of flight time in an aircraft of the category, class, and type for which the limitation applies under the direct observation of the pilot in command who holds a category, class, and type rating, without limitations, for the aircraft;
+.. Logs each flight and the pilot in command who observed the flight attests in writing to each flight;
+.. Obtains the flight time while performing the duties of pilot in command; and
+.. Presents evidence of the supervised operating experience to any Examiner or FAA Flight Standards District Office to have the limitation removed.
+
+## § 61.65
+
+### Instrument rating requirements.
+
+. *General.* A person who applies for an instrument rating must:
+.. Hold at least a current private pilot certificate, or be concurrently applying for a private pilot certificate, with an airplane, helicopter, or powered-lift rating appropriate to the instrument rating sought;
+.. Be able to read, speak, write, and understand the English language. If the applicant is unable to meet any of these requirements due to a medical condition, the Administrator may place such operating limitations on the applicant's pilot certificate as are necessary for the safe operation of the aircraft;
+.. Receive and log ground training from an authorized instructor or accomplish a home-study course of training on the aeronautical knowledge areas of paragraph (b) of this section that apply to the instrument rating sought;
+.. Receive a logbook or training record endorsement from an authorized instructor certifying that the person is prepared to take the required knowledge test;
+.. Receive and log training on the areas of operation of paragraph (c) of this section from an authorized instructor in an aircraft, full flight simulator, or flight training device that represents an airplane, helicopter, or powered-lift appropriate to the instrument rating sought;
+.. Receive a logbook or training record endorsement from an authorized instructor certifying that the person is prepared to take the required practical test;
+.. Pass the required knowledge test on the aeronautical knowledge areas of paragraph (b) of this section; however, an applicant is not required to take another knowledge test when that person already holds an instrument rating; and
+.. Pass the required practical test on the areas of operation in paragraph (c) of this section in—
+... An airplane, helicopter, or powered-lift appropriate to the rating sought; or
+... A full flight simulator or a flight training device appropriate to the rating sought and for the specific maneuver or instrument approach procedure performed. If an approved flight training device is used for the practical test, the instrument approach procedures conducted in that flight training device are limited to one precision and one nonprecision approach, provided the flight training device is approved for the procedure performed.
+. *Aeronautical knowledge.* A person who applies for an instrument rating must have received and logged ground training from an authorized instructor or accomplished a home-study course on the following aeronautical knowledge areas that apply to the instrument rating sought:
+.. Federal Aviation Regulations of this chapter that apply to flight operations under IFR;
+.. Appropriate information that applies to flight operations under IFR in the “Aeronautical Information Manual;”
+.. Air traffic control system and procedures for instrument flight operations;
+.. IFR navigation and approaches by use of navigation systems;
+.. Use of IFR en route and instrument approach procedure charts;
+.. Procurement and use of aviation weather reports and forecasts and the elements of forecasting weather trends based on that information and personal observation of weather conditions;
+.. Safe and efficient operation of aircraft under instrument flight rules and conditions;
+.. Recognition of critical weather situations and windshear avoidance;
+.. Aeronautical decision making and judgment; and
+.. Crew resource management, including crew communication and coordination.
+. *Flight proficiency.* A person who applies for an instrument rating must receive and log training from an authorized instructor in an aircraft, or in a full flight simulator or flight training device, in accordance with paragraph (g) of this section, that includes the following areas of operation:
+.. Preflight preparation;
+.. Preflight procedures;
+.. Air traffic control clearances and procedures;
+.. Flight by reference to instruments;
+.. Navigation systems;
+.. Instrument approach procedures;
+.. Emergency operations; and
+.. Postflight procedures.
+. *Aeronautical experience for the instrument-airplane rating.* A person who applies for an instrument-airplane rating must have logged:
+.. Except as provided in paragraph (g) of this section, 50 hours of cross-country flight time as pilot in command, of which 10 hours must have been in an airplane; and
+.. Forty hours of actual or simulated instrument time in the areas of operation listed in paragraph (c) of this section, of which 15 hours must have been received from an authorized instructor who holds an instrument-airplane rating, and the instrument time includes:
+... Three hours of instrument flight training from an authorized instructor in an airplane that is appropriate to the instrument-airplane rating within 2 calendar months before the date of the practical test; and
+              
+... Instrument flight training on cross country flight procedures, including one cross country flight in an airplane with an authorized instructor, that is performed under instrument flight rules, when a flight plan has been filed with an air traffic control facility, and that involves—
+. *Aeronautical experience for the instrument-helicopter rating.* A person who applies for an instrument-helicopter rating must have logged:
+.. Except as provided in paragraph (g) of this section, 50 hours of cross-country flight time as pilot in command, of which 10 hours must have been in a helicopter; and
+.. Forty hours of actual or simulated instrument time in the areas of operation listed under paragraph (c) of this section, of which 15 hours must have been with an authorized instructor who holds an instrument-helicopter rating, and the instrument time includes:
+... Three hours of instrument flight training from an authorized instructor in a helicopter that is appropriate to the instrument-helicopter rating within 2 calendar months before the date of the practical test; and
+... Instrument flight training on cross country flight procedures, including one cross country flight in a helicopter with an authorized instructor that is performed under instrument flight rules and a flight plan has been filed with an air traffic control facility, and involves—
+. *Aeronautical experience for the instrument-powered-lift rating.* A person who applies for an instrument-powered-lift rating must have logged:
+.. Except as provided in paragraph (g) of this section, 50 hours of cross-country flight time as pilot in command, of which 10 hours must have been in a powered-lift; and
+.. Forty hours of actual or simulated instrument time in the areas of operation listed under paragraph (c) of this section, of which 15 hours must have been received from an authorized instructor who holds an instrument-powered-lift rating, and the instrument time includes:
+... Three hours of instrument flight training from an authorized instructor in a powered-lift that is appropriate to the instrument-powered-lift rating within 2 calendar months before the date of the practical test; and
+... Instrument flight training on cross country flight procedures, including one cross country flight in a powered-lift with an authorized instructor that is performed under instrument flight rules, when a flight plan has been filed with an air traffic control facility, that involves—
+. An applicant for a combined private pilot certificate with an instrument rating may satisfy the cross-country flight time requirements of this section by crediting:
+.. For an instrument-airplane rating or an instrument-powered-lift rating, up to 45 hours of cross-country flight time performing the duties of pilot in command with an authorized instructor; or
+.. For an instrument-helicopter rating, up to 47 hours of cross-country flight time performing the duties of pilot in command with an authorized instructor.
+. *Use of full flight simulators or flight training devices.* If the instrument time was provided by an authorized instructor in a full flight simulator or flight training device—
+.. The device is approved and authorized by the FAA;
+.. An authorized instructor provides the instrument time in the device; and
+.. The FAA approved the instrument training and instrument tasks performed in the device.
+
+(A) A flight of 250 nautical miles along airways or by directed routing from an air traffic control facility;
+
+(B) An instrument approach at each airport; and
+
+(C) Three different kinds of approaches with the use of navigation systems.
+
+(A) A flight of 100 nautical miles along airways or by directed routing from an air traffic control facility;
+
+(B) An instrument approach at each airport; and
+
+(C) Three different kinds of approaches with the use of navigation systems.
+
+(A) A flight of 250 nautical miles along airways or by directed routing from an air traffic control facility;
+
+(B) An instrument approach at each airport; and
+
+(C) Three different kinds of approaches with the use of navigation systems.
+
+(j) Except as provided in paragraph (h)(1) of this section, a person may not credit more than 20 total hours of instrument time in a full flight simulator, flight training device, aviation training device, or a combination towards the instrument time requirements of this section.
+
+## § 61.66
+
+### Enhanced Flight Vision System Pilot Requirements.
+
+. *Ground training.* (1) Except as provided under paragraphs (f) and (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation conducted under § 91.176(a) or (b) of this chapter, or serve as a required pilot flightcrew member during an EFVS operation conducted under § 91.176(a) of this chapter, unless that person—
+. *Flight training.* (1) Except as provided under paragraph (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation under § 91.176(a) or (b) of this chapter unless that person—
+. *Supplementary EFVS training.* A person qualified to conduct an EFVS operation under § 91.176(a) or (b) of this chapter who seeks to conduct an additional EFVS operation for which that person has not received training must—
+.. Receive and log the ground and flight training required by paragraphs (a) and (b) of this section, under a training program approved by the Administrator, appropriate to the additional EFVS operation to be conducted; and
+.. Obtain a logbook or training record endorsement from the authorized training provider certifying the person is proficient in the use of EFVS in the category of aircraft in which the training was provided for the EFVS operation to be conducted.
+. *Recent flight experience: EFVS.* Except as provided in paragraphs (f) and (h) of this section, no person may manipulate the controls of an aircraft during an EFVS operation or act as pilot in command of an aircraft during an EFVS operation unless, within 6 calendar months preceding the month of the flight, that person performs and logs six instrument approaches as the sole manipulator of the controls using an EFVS under any weather conditions in the category of aircraft for which the person seeks the EFVS privilege. The instrument approaches may be performed in day or night conditions; and
+.. One approach must terminate in a full stop landing; and
+.. For persons authorized to exercise the privileges of § 91.176(a), the full stop landing must be conducted using the EFVS.
+. *EFVS refresher training.* (1) Except as provided in paragraph (h) of this section, a person who has failed to meet the recent flight experience requirements of paragraph (d) of this section for more than six calendar months may reestablish EFVS currency only by satisfactorily completing an approved EFVS refresher course in the category of aircraft for which the person seeks the EFVS privilege. The EFVS refresher course must consist of the subjects and tasks listed in paragraphs (a)(2) and (b)(2) of this section applicable to the EFVS operations to be conducted.
+. *Military pilots and former military pilots in the U.S. Armed Forces.* (1) The training requirements of paragraphs (a) and (b) of this section applicable to EFVS operations conducted under § 91.176(a) of this chapter do not apply to a military pilot or former military pilot in the U.S. Armed Forces if that person documents satisfactory completion of ground and flight training in EFVS operations to touchdown and rollout by the U.S. Armed Forces.
+. *Use of full flight simulators.* A level C or higher full flight simulator (FFS) equipped with an EFVS may be used to meet the flight training, recent flight experience, and refresher training requirements of this section. The FFS must be evaluated and qualified for EFVS operations by the Administrator, and must be:
+.. Qualified and maintained in accordance with part 60 of this chapter, or a previously qualified device, as permitted in accordance with § 60.17 of this chapter;
+.. Approved by the Administrator for the tasks and maneuvers to be conducted; and
+.. Equipped with a daylight visual display if being used to meet the flight training requirements of this section.
+. *Exceptions.* (1) A person may manipulate the controls of an aircraft during an EFVS operation without meeting the requirements of this section in the following circumstances:
+. When receiving flight training to meet the requirements of this section under an approved training program, provided the instructor meets the requirements in this section to perform the EFVS operation in the category of aircraft for which the training is being conducted.
+
+(i) Receives and logs ground training under a training program approved by the Administrator; and
+
+(ii) Obtains a logbook or training record endorsement from an authorized training provider certifying the person satisfactorily completed the ground training appropriate to the category of aircraft for which the person is seeking the EFVS privilege.
+
+(2) The ground training must include the following subjects:
+
+(i) Those portions of this chapter that relate to EFVS flight operations and limitations, including the Airplane Flight Manual or Rotorcraft Flight Manual limitations;
+
+(ii) EFVS sensor imagery, required aircraft flight information, and flight symbology;
+
+(iii) EFVS display, controls, modes, features, symbology, annunciations, and associated systems and components;
+
+(iv) EFVS sensor performance, sensor limitations, scene interpretation, visual anomalies, and other visual effects;
+
+(v) Preflight planning and operational considerations associated with using EFVS during taxi, takeoff, climb, cruise, descent and landing phases of flight, including the use of EFVS for instrument approaches, operating below DA/DH or MDA, executing missed approaches, landing, rollout, and balked landings;
+
+(vi) Weather associated with low visibility conditions and its effect on EFVS performance;
+
+(vii) Normal, abnormal, emergency, and crew coordination procedures when using EFVS; and
+
+(viii) Interpretation of approach and runway lighting systems and their display characteristics when using an EFVS.
+
+(i) Receives and logs flight training for the EFVS operation under a training program approved by the Administrator; and
+
+(ii) Obtains a logbook or training record endorsement from an authorized training provider certifying the person is proficient in the use of EFVS in the category of aircraft in which the training was provided for the EFVS operation to be conducted.
+
+(2) Flight training must include the following tasks:
+              
+
+(i) Preflight and inflight preparation of EFVS equipment for EFVS operations, including EFVS setup and use of display, controls, modes and associated systems, and adjustments for brightness and contrast under day and night conditions;
+
+(ii) Proper piloting techniques associated with using EFVS during taxi, takeoff, climb, cruise, descent, landing, and rollout, including missed approaches and balked landings;
+
+(iii) Proper piloting techniques for the use of EFVS during instrument approaches, to include operations below DA/DH or MDA as applicable to the EFVS operations to be conducted, under both day and night conditions;
+
+(iv) Determining enhanced flight visibility;
+
+(v) Identifying required visual references appropriate to EFVS operations;
+
+(vi) Transitioning from EFVS sensor imagery to natural vision acquisition of required visual references and the runway environment;
+
+(vii) Using EFVS sensor imagery, required aircraft flight information, and flight symbology to touchdown and rollout, if the person receiving training will conduct EFVS operations under § 91.176(a) of this chapter; and
+
+(viii) Normal, abnormal, emergency, and crew coordination procedures when using an EFVS.
+
+(2) The EFVS refresher course must be conducted by an authorized training provider whose instructor meets the training requirements of this section and, if conducting EFVS operations in an aircraft, the recent flight experience requirements of this section.
+
+(2) The training requirements in paragraphs (a) and (b) of this section applicable to EFVS operations conducted under § 91.176(b) of this chapter do not apply to a military pilot or former military pilot in the U.S. Armed Forces if that person documents satisfactory completion of ground and flight training in EFVS operations to 100 feet above the touchdown zone elevation by the U.S. Armed Forces.
+
+(3) A military pilot or former military pilot in the U.S. Armed Forces may satisfy the recent flight experience requirements of paragraph (d) of this section if he or she documents satisfactory completion of an EFVS proficiency check in the U.S. Armed Forces within 6 calendar months preceding the month of the flight, the check was conducted by a person authorized by the U.S. Armed Forces to administer the check, and the person receiving the check was a member of the U.S. Armed Forces at the time the check was administered.
+
+(ii) During an EFVS operation performed in the course of satisfying the recent flight experience requirements of paragraph (d) of this section, provided another individual is serving as pilot in command of the aircraft during the EFVS operation and that individual meets the requirements in this section to perform the EFVS operation in the category of aircraft in which the flight is being conducted.
+
+(iii) During an EFVS operation performed in the course of completing EFVS refresher training in accordance with paragraph (e) of this section, provided the instructor providing the refresher training meets the requirements in this section to perform the EFVS operation in the category of aircraft for which the training is being conducted.
+
+(2) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting a flight or series of flights in an aircraft issued an experimental airworthiness certificate under § 21.191 of this chapter for the purpose of research and development or showing compliance with regulations, provided the person has knowledge of the subjects specified in paragraph (a)(2) of this section and has experience with the tasks specified in paragraph (b)(2) of this section applicable to the EFVS operations to be conducted.
+
+(3) The requirements specified in paragraphs (d) and (e) of this section do not apply to a pilot who:
+
+(i) Is employed by a part 119 certificate holder authorized to conduct operations under part 121, 125, or 135 when the pilot is conducting an EFVS operation for that certificate holder under part 91, 121, 125, or 135, as applicable, provided the pilot conducts the operation in accordance with the certificate holder's operations specifications for EFVS operations;
+
+(ii) Is employed by a person who holds a letter of deviation authority issued under § 125.3 of this chapter when the pilot is conducting an EFVS operation for that person under part 125, provided the pilot is conducting the operation in accordance with that person's letter of authorization for EFVS operations; or
+
+(iii) Is employed by a fractional ownership program manager to conduct operations under part 91 subpart K when the pilot is conducting an EFVS operation for that program manager under part 91, provided the pilot is conducting the operation in accordance with the program manager's management specifications for EFVS operations.
+
+(4) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting EFVS operations under § 91.176(b) of this chapter and that person documents that prior to March 13, 2018, that person satisfactorily completed ground and flight training on EFVS operations to 100 feet above the touchdown zone elevation.
+
+(5) The requirements specified in this section do not apply if a person is conducting an EFVS operation to 100 feet above the touchdown zone elevation in accordance with the requirements of § 91.175(l) and (m) of this chapter prior to March 13, 2018.
+
+## § 61.67
+
+### Category II pilot authorization requirements.
+
+. *General.* A person who applies for a Category II pilot authorization must hold:
+.. At least a private or commercial pilot certificate with an instrument rating or an airline transport pilot certificate;
+.. A type rating for the aircraft for which the authorization is sought if that aircraft requires a type rating; and
+.. A category and class rating for the aircraft for which the authorization is sought.
+. *Experience requirements.* An applicant for a Category II pilot authorization must have at least—
+.. 50 hours of night flight time as pilot in command.
+.. 75 hours of instrument time under actual or simulated instrument conditions that may include not more than—
+... A combination of 25 hours of simulated instrument flight time in a flight simulator or flight training device; or
+... 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under part 142 of this chapter.
+.. 250 hours of cross-country flight time as pilot in command.
+. *Practical test requirements.* (1) A practical test must be passed by a person who applies for—
+. *Practical test procedures.* The practical test consists of an oral increment and a flight increment.
+.. *Oral increment.* In the oral increment of the practical test an applicant must demonstrate knowledge of the following:
+... Required landing distance;
+... Recognition of the decision height;
+... Missed approach procedures and techniques using computed or fixed attitude guidance displays;
+... Use and limitations of RVR;
+... Use of visual clues, their availability or limitations, and altitude at which they are normally discernible at reduced RVR readings;
+... Procedures and techniques related to transition from nonvisual to visual flight during a final approach under reduced RVR;
+... Effects of vertical and horizontal windshear;
+... Characteristics and limitations of the ILS and runway lighting system;
+... Characteristics and limitations of the flight director system, auto approach coupler (including split axis type if equipped), auto throttle system (if equipped), and other required Category II equipment;
+... Assigned duties of the second in command during Category II approaches, unless the aircraft for which authorization is sought does not require a second in command; and
+... Instrument and equipment failure warning systems.
+.. *Flight increment.* The following requirements apply to the flight increment of the practical test:
+... The flight increment must be conducted in an aircraft of the same category, class, and type, as applicable, as the aircraft in which the authorization is sought or in a flight simulator that—
+... The flight increment must consist of at least two ILS approaches to 100 feet AGL including at least one landing and one missed approach.
+... All approaches performed during the flight increment must be made with the use of an approved flight control guidance system, except if an approved auto approach coupler is installed, at least one approach must be hand flown using flight director commands.
+... If a multiengine airplane with the performance capability to execute a missed approach with one engine inoperative is used for the practical test, the flight increment must include the performance of one missed approach with an engine, which shall be the most critical engine, if applicable, set at idle or zero thrust before reaching the middle marker.
+... If a multiengine flight simulator or multiengine flight training device is used for the practical test, the applicant must execute a missed approach with the most critical engine, if applicable, failed.
+... For an authorization for an aircraft that requires a type rating, the practical test must be performed in coordination with a second in command who holds a type rating in the aircraft in which the authorization is sought.
+... Oral questioning may be conducted at any time during a practical test.
+
+(i) Issuance or renewal of a Category II pilot authorization; and
+
+(ii) The addition of another type aircraft to the applicant's Category II pilot authorization.
+
+(2) To be eligible for the practical test for an authorization under this section, an applicant must—
+
+(i) Meet the requirements of paragraphs (a) and (b) of this section; and
+
+(ii) If the applicant has not passed a practical test for this authorization during the 12 calendar months preceding the month of the test, then that person must—
+
+(A) Meet the requirements of § 61.57(c); and
+
+(B) Have performed at least six ILS approaches during the 6 calendar months preceding the month of the test, of which at least three of the approaches must have been conducted without the use of an approach coupler.
+
+(3) The approaches specified in paragraph (c)(2)(ii)(B) of this section—
+
+(i) Must be conducted under actual or simulated instrument flight conditions;
+
+(ii) Must be conducted to the decision height for the ILS approach in the type aircraft in which the practical test is to be conducted;
+
+(iii) Need not be conducted to the decision height authorized for Category II operations;
+
+(iv) Must be conducted to the decision height authorized for Category II operations only if conducted in a flight simulator or flight training device; and
+
+(v) Must be accomplished in an aircraft of the same category and class, and type, as applicable, as the aircraft in which the practical test is to be conducted or in a flight simulator that—
+
+(A) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft in which the authorization is sought; and
+
+(B) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+
+(4) The flight time acquired in meeting the requirements of paragraph (c)(2)(ii)(B) of this section may be used to meet the requirements of paragraph (c)(2)(ii)(A) of this section.
+
+(A) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft in which the authorization is sought; and
+
+(B) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+
+## § 61.68
+
+### Category III pilot authorization requirements.
+
+. *General.* A person who applies for a Category III pilot authorization must hold:
+.. At least a private pilot certificate or commercial pilot certificate with an instrument rating or an airline transport pilot certificate;
+.. A type rating for the aircraft for which the authorization is sought if that aircraft requires a type rating; and
+.. A category and class rating for the aircraft for which the authorization is sought.
+. *Experience requirements.* An applicant for a Category III pilot authorization must have at least—
+.. 50 hours of night flight time as pilot in command.
+.. 75 hours of instrument flight time during actual or simulated instrument conditions that may include not more than—
+... A combination of 25 hours of simulated instrument flight time in a flight simulator or flight training device; or
+... 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under part 142 of this chapter.
+.. 250 hours of cross-country flight time as pilot in command.
+. *Practical test requirements.* (1) A practical test must be passed by a person who applies for—
+. *Practical test procedures.* The practical test consists of an oral increment and a flight increment.
+.. *Oral increment.* In the oral increment of the practical test an applicant must demonstrate knowledge of the following:
+... Required landing distance;
+... Determination and recognition of the alert height or decision height, as applicable, including use of a radar altimeter;
+... Recognition of and proper reaction to significant failures encountered prior to and after reaching the alert height or decision height, as applicable;
+... Missed approach procedures and techniques using computed or fixed attitude guidance displays and expected height loss as they relate to manual go-around or automatic go-around, and initiation altitude, as applicable;
+... Use and limitations of RVR, including determination of controlling RVR and required transmissometers;
+... Use, availability, or limitations of visual cues and the altitude at which they are normally discernible at reduced RVR readings including—
+... Effects of vertical and horizontal windshear;
+... Characteristics and limitations of the ILS and runway lighting system;
+... Characteristics and limitations of the flight director system auto approach coupler (including split axis type if equipped), auto throttle system (if equipped), and other Category III equipment;
+... Assigned duties of the second in command during Category III operations, unless the aircraft for which authorization is sought does not require a second in command;
+... Recognition of the limits of acceptable aircraft position and flight path tracking during approach, flare, and, if applicable, rollout; and
+... Recognition of, and reaction to, airborne or ground system faults or abnormalities, particularly after passing alert height or decision height, as applicable.
+.. *Flight increment.* The following requirements apply to the flight increment of the practical test—
+... The flight increment may be conducted in an aircraft of the same category and class, and type, as applicable, as the aircraft for which the authorization is sought, or in a flight simulator that—
+... The flight increment must consist of at least two ILS approaches to 100 feet AGL, including one landing and one missed approach initiated from a very low altitude that may result in a touchdown during the go-around maneuver;
+... All approaches performed during the flight increment must be made with the approved automatic landing system or an equivalent landing system approved by the Administrator;
+... If a multiengine aircraft with the performance capability to execute a missed approach with one engine inoperative is used for the practical test, the flight increment must include the performance of one missed approach with the most critical engine, if applicable, set at idle or zero thrust before reaching the middle or outer marker;
+... If a multiengine flight simulator or multiengine flight training device is used, a missed approach must be executed with an engine, which shall be the most critical engine, if applicable, failed;
+... For an authorization for an aircraft that requires a type rating, the practical test must be performed in coordination with a second in command who holds a type rating in the aircraft in which the authorization is sought;
+... Oral questioning may be conducted at any time during the practical test;
+... Subject to the limitations of this paragraph, for Category IIIb operations predicated on the use of a fail-passive rollout control system, at least one manual rollout using visual reference or a combination of visual and instrument references must be executed. The maneuver required by this paragraph shall be initiated by a fail-passive disconnect of the rollout control system—
+
+(i) Issuance or renewal of a Category III pilot authorization; and
+
+(ii) The addition of another type of aircraft to the applicant's Category III pilot authorization.
+
+(2) To be eligible for the practical test for an authorization under this section, an applicant must—
+
+(i) Meet the requirements of paragraphs (a) and (b) of this section; and
+
+(ii) If the applicant has not passed a practical test for this authorization during the 12 calendar months preceding the month of the test, then that person must—
+
+(A) Meet the requirements of § 61.57(c); and
+
+(B) Have performed at least six ILS approaches during the 6 calendar months preceding the month of the test, of which at least three of the approaches must have been conducted without the use of an approach coupler.
+
+(3) The approaches specified in paragraph (c)(2)(ii)(B) of this section—
+
+(i) Must be conducted under actual or simulated instrument flight conditions;
+
+(ii) Must be conducted to the alert height or decision height for the ILS approach in the type aircraft in which the practical test is to be conducted;
+
+(iii) Need not be conducted to the decision height authorized for Category III operations;
+
+(iv) Must be conducted to the alert height or decision height, as applicable, authorized for Category III operations only if conducted in a flight simulator or flight training device; and
+
+(v) Must be accomplished in an aircraft of the same category and class, and type, as applicable, as the aircraft in which the practical test is to be conducted or in a flight simulator that—
+
+(A) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft for which the authorization is sought; and
+
+(B) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+
+(4) The flight time acquired in meeting the requirements of paragraph (c)(2)(ii)(B) of this section may be used to meet the requirements of paragraph (c)(2)(ii)(A) of this section.
+
+(A) Unexpected deterioration of conditions to less than minimum RVR during approach, flare, and rollout;
+              
+
+(B) Demonstration of expected visual references with weather at minimum conditions;
+
+(C) The expected sequence of visual cues during an approach in which visibility is at or above landing minima; and
+
+(D) Procedures and techniques for making a transition from instrument reference flight to visual flight during a final approach under reduced RVR.
+
+(A) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft in which the authorization is sought; and
+
+(B) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+
+(A) After main gear touchdown;
+
+(B) Prior to nose gear touchdown;
+
+(C) In conditions representative of the most adverse lateral touchdown displacement allowing a safe landing on the runway; and
+
+(D) In weather conditions anticipated in Category IIIb operations.
+
+## § 61.69
+
+### Glider and unpowered ultralight vehicle towing: Experience and training requirements.
+
+. No person may act as pilot in command for towing a glider or unpowered ultralight vehicle unless that person—
+              
+.. Holds a private, commercial or airline transport pilot certificate with a category rating for powered aircraft;
+.. Has logged at least 100 hours of pilot-in-command time in the aircraft category, class and type, if required, that the pilot is using to tow a glider or unpowered ultralight vehicle;
+.. Has a logbook endorsement from an authorized instructor who certifies that the person has received ground and flight training in gliders or unpowered ultralight vehicles and is proficient in—
+... The techniques and procedures essential to the safe towing of gliders or unpowered ultralight vehicles, including airspeed limitations;
+... Emergency procedures;
+... Signals used; and
+... Maximum angles of bank.
+.. Except as provided in paragraph (b) of this section, has logged at least three flights as the sole manipulator of the controls of an aircraft while towing a glider or unpowered ultralight vehicle, or has simulated towing flight procedures in an aircraft while accompanied by a pilot who meets the requirements of paragraphs (c) and (d) of this section.
+.. Except as provided in paragraph (b) of this section, has received a logbook endorsement from the pilot, described in paragraph (a)(4) of this section, certifying that the person has accomplished at least 3 flights in an aircraft while towing a glider or unpowered ultralight vehicle, or while simulating towing flight procedures; and
+.. Within 24 calendar months before the flight has—
+... Made at least three actual or simulated tows of a glider or unpowered ultralight vehicle while accompanied by a qualified pilot who meets the requirements of this section; or
+... Made at least three flights as pilot in command of a glider or unpowered ultralight vehicle towed by an aircraft.
+. Any person who, before May 17, 1967, has made and logged 10 or more flights as pilot in command of an aircraft towing a glider or unpowered ultralight vehicle in accordance with a certificate of waiver need not comply with paragraphs (a)(4) and (a)(5) of this section.
+. The pilot, described in paragraph (a)(4) of this section, who endorses the logbook of a person seeking towing privileges must have—
+.. Met the requirements of this section prior to endorsing the logbook of the person seeking towing privileges; and
+.. Logged at least 10 flights as pilot in command of an aircraft while towing a glider or unpowered ultralight vehicle.
+. If the pilot described in paragraph (a)(4) of this section holds only a private pilot certificate, then that pilot must have—
+.. Logged at least 100 hours of pilot-in-command time in airplanes, or 200 hours of pilot-in-command time in a combination of powered and other-than-powered aircraft; and
+.. Performed and logged at least three flights within the 12 calendar months preceding the month that pilot accompanies or endorses the logbook of a person seeking towing privileges—
+... In an aircraft while towing a glider or unpowered ultralight vehicle accompanied by another pilot who meets the requirements of this section; or
+... As pilot in command of a glider or unpowered ultralight vehicle being towed by another aircraft.
+
+## § 61.71
+
+### Graduates of an approved training program other than under this part: Special rules.
+
+. A person who graduates from an approved training program under part 141 or part 142 of this chapter is considered to have met the applicable aeronautical experience, aeronautical knowledge, and areas of operation requirements of this part if that person presents the graduation certificate and passes the required practical test within the 60-day period after the date of graduation.
+. A person may apply for an airline transport pilot certificate, type rating, or both under this part, and will be considered to have met the applicable requirements under § 61.157, except for the airline transport pilot certification training program required by § 61.156, for that certificate and rating, if that person has:
+.. Satisfactorily accomplished an approved training program and a proficiency check for that airplane type that includes all the tasks and maneuvers required to serve as pilot in command in accordance with the requirements of subparts N and O of part 121 of this chapter; and
+.. Applied for an airline transport pilot certificate, type rating, or both within the 60-day period from the date the person satisfactorily accomplished the requirements of paragraph (b)(1) for that airplane type.
+. A person who holds a foreign pilot license and is applying for an equivalent U.S. pilot certificate on the basis of a Bilateral Aviation Safety Agreement and associated Implementation Procedures for Licensing may be considered to have met the applicable aeronautical experience, aeronautical knowledge, and areas of operation requirements of this part.
+
+## § 61.73
+
+### Military pilots or former military pilots: Special rules.
+
+. *General.* Except for a person who has been removed from flying status for lack of proficiency or because of a disciplinary action involving aircraft operations, a U.S. military pilot or former military pilot who meets the requirements of this section may apply, on the basis of his or her military pilot qualifications, for:
+.. A commercial pilot certificate with the appropriate aircraft category and class rating.
+.. An instrument rating with the appropriate aircraft rating.
+.. A type rating.
+. *Military pilots and former military pilots in the U.S. Armed Forces.* A person who qualifies as a military pilot or former military pilot in the U.S. Armed Forces may apply for a pilot certificate and ratings under paragraph (a) of this section if that person—
+.. Presents evidentiary documents described under paragraphs (h)(1), (2), and (3) of this section that show the person's status in the U.S. Armed Forces.
+.. Has passed the military competency aeronautical knowledge test on the appropriate parts of this chapter for commercial pilot privileges and limitations, air traffic and general operating rules, and accident reporting rules.
+.. Presents official U.S. military records that show compliance with one of the following requirements—
+... Before the date of the application, passing an official U.S. military pilot and instrument proficiency check in a military aircraft of the kind of aircraft category, class, and type, if class or type of aircraft is applicable, for the ratings sought; or
+... Before the date of application, logging 10 hours of pilot time as a military pilot in a U.S. military aircraft in the kind of aircraft category, class, and type, if a class rating or type rating is applicable, for the aircraft rating sought.
+. *A military pilot in the Armed Forces of a foreign contracting State to the Convention on International Civil Aviation.* A person who is a military pilot in the Armed Forces of a foreign contracting State to the Convention on International Civil Aviation and is assigned to pilot duties in the U.S. Armed Forces, for purposes other than receiving flight training, may apply for a commercial pilot certificate and ratings under paragraph (a) of this section, provided that person—
+.. Presents evidentiary documents described under paragraph (h)(4) of this section that show the person is a military pilot in the Armed Forces of a foreign contracting State to the Convention on International Civil Aviation, and is assigned to pilot duties in the U.S. Armed Forces, for purposes other than receiving flight training.
+.. Has passed the military competency aeronautical knowledge test on the appropriate parts of this chapter for commercial pilot privileges and limitations, air traffic and general operating rules, and accident reporting rules.
+.. Presents official U.S. military records that show compliance with one of the following requirements:
+              
+... Before the date of the application, passed an official U.S. military pilot and instrument proficiency check in a military aircraft of the kind of aircraft category, class, or type, if class or type of aircraft is applicable, for the ratings; or
+... Before the date of the application, logged 10 hours of pilot time as a military pilot in a U.S. military aircraft of the kind of category, class, and type of aircraft, if a class rating or type rating is applicable, for the aircraft rating.
+. *Instrument rating.* A person who is qualified as a U.S. military pilot or former military pilot may apply for an instrument rating to be added to a pilot certificate if that person—
+.. Has passed an instrument proficiency check in the U.S. Armed Forces in the aircraft category for the instrument rating sought; and
+.. Has an official U.S. Armed Forces record that shows the person is instrument pilot qualified by the U.S. Armed Forces to conduct instrument flying on Federal airways in that aircraft category and class for the instrument rating sought.
+. *Aircraft type rating.* An aircraft type rating may only be issued for a type of aircraft that has a comparable civilian type designation by the Administrator.
+. *Aircraft type rating placed on an airline transport pilot certificate.* A person who is a military pilot or former military pilot of the U.S. Armed Forces and requests an aircraft type rating to be placed on an existing U.S. airline transport pilot certificate may be issued the rating at the airline transport pilot certification level, provided that person:
+.. Holds a category and class rating for that type of aircraft at the airline transport pilot certification level; and
+.. Has passed an official U.S. military pilot check and instrument proficiency check in that type of aircraft.
+. *Flight instructor certificate and ratings.* A person who can show official U.S. military documentation of being a U.S. military instructor pilot or U.S. military pilot examiner, or a former instructor pilot or pilot examiner may apply for and be issued a flight instructor certificate with the appropriate ratings if that person:
+.. Holds a commercial or airline transport pilot certificate with the appropriate aircraft category and class rating, if a class rating is appropriate, for the flight instructor rating sought;
+.. Holds an instrument rating, or has instrument privileges, on the pilot certificate that is appropriate to the flight instructor rating sought; and
+.. Presents the following documents:
+... A knowledge test report that shows the person passed a knowledge test on the aeronautical knowledge areas listed under § 61.185(a) appropriate to the flight instructor rating sought and the knowledge test was passed within the preceding 24 calendar months prior to the month of application. If the U.S. military instructor pilot or pilot examiner already holds a flight instructor certificate, holding of a flight instructor certificate suffices for the knowledge test report.
+... An official U.S. Armed Forces record or order that shows the person is or was qualified as a U.S. Armed Forces military instructor pilot or pilot examiner for the flight instructor rating sought.
+... An official U.S. Armed Forces record or order that shows the person completed a U.S. Armed Forces' instructor pilot or pilot examiner training course and received an aircraft rating qualification as a military instructor pilot or pilot examiner that is appropriate to the flight instructor rating sought.
+... An official U.S. Armed Forces record or order that shows the person passed a U.S. Armed Forces instructor pilot or pilot examiner proficiency check in an aircraft as a military instructor pilot or pilot examiner that is appropriate to the flight instructor rating sought.
+. *Documents for qualifying for a pilot certificate and rating.* The following documents are required for a person to apply for a pilot certificate and rating:
+.. An official U.S. Armed Forces record that shows the person is or was a military pilot.
+.. An official U.S. Armed Forces record that shows the person graduated from a U.S. Armed Forces undergraduate pilot training school and received a rating qualification as a military pilot.
+.. An official U.S. Armed Forces record that shows the pilot passed a pilot proficiency check and instrument proficiency check in an aircraft as a military pilot.
+.. If a person is a military pilot in the Armed Forces from a foreign contracting State to the Convention on International Civil Aviation and is applying for a pilot certificate and rating, that person must present the following:
+... An official U.S. Armed Forces record that shows the person is a military pilot in the U.S. Armed Forces;
+... An official U.S. Armed Forces record that shows the person is assigned as a military pilot in the U.S. Armed Forces for purposes other than receiving flight training;
+... An official record that shows the person graduated from a military undergraduate pilot training school from the Armed Forces from a foreign contracting State to the Convention on International Civil Aviation or from the U.S. Armed Forces, and received a qualification as a military pilot; and
+... An official U.S. Armed Forces record that shows that the person passed a pilot proficiency check and instrument proficiency check in an aircraft as a military pilot in the U.S. Armed Forces.
+
+## § 61.75
+
+### Private pilot certificate issued on the basis of a foreign pilot license.
+
+. *General.* A person who holds a foreign pilot license at the private pilot level or higher that was issued by a contracting State to the Convention on International Civil Aviation may apply for and be issued a U.S. private pilot certificate with the appropriate ratings if the foreign pilot license meets the requirements of this section.
+. *Certificate issued.* A U.S. private pilot certificate issued under this section must specify the person's foreign license number and country of issuance. A person who holds a foreign pilot license issued by a contracting State to the Convention on International Civil Aviation may be issued a U.S. private pilot certificate based on the foreign pilot license without any further showing of proficiency, provided the applicant:
+.. Meets the requirements of this section;
+.. Holds a foreign pilot license, at the private pilot license level or higher, that does not contain a limitation stating that the applicant has not met all of the standards of ICAO for that license;
+.. Does not hold a U.S. pilot certificate other than a U.S. student pilot certificate;
+.. Holds a medical certificate issued under part 67 of this chapter or a medical license issued by the country that issued the person's foreign pilot license; and
+.. Is able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's pilot certificate as are necessary for the safe operation of the aircraft.
+. *Aircraft ratings issued.* Aircraft ratings listed on a person's foreign pilot license, in addition to any issued after testing under the provisions of this part, may be placed on that person's U.S. pilot certificate for private pilot privileges only.
+. *Instrument ratings issued.* A person who holds an instrument rating on the foreign pilot license issued by a contracting State to the Convention on International Civil Aviation may be issued an instrument rating on a U.S. pilot certificate provided:
+.. The person's foreign pilot license authorizes instrument privileges;
+.. Within 24 months preceding the month in which the person applies for the instrument rating, the person passes the appropriate knowledge test; and
+.. The person is able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's pilot certificate as are necessary for the safe operation of the aircraft.
+. *Operating privileges and limitations.* A person who receives a U.S. private pilot certificate that has been issued under the provisions of this section:
+.. May act as pilot in command of a civil aircraft of the United States in accordance with the pilot privileges authorized by this part and the limitations placed on that U.S. pilot certificate;
+.. Is limited to the privileges placed on the certificate by the Administrator;
+.. Is subject to the limitations and restrictions on the person's U.S. certificate and foreign pilot license when exercising the privileges of that U.S. pilot certificate in an aircraft of U.S. registry operating within or outside the United States; and
+. *Limitation on licenses used as the basis for a U.S. certificate.* A person may use only one foreign pilot license as a basis for the issuance of a U.S. pilot certificate. The foreign pilot license and medical certification used as a basis for issuing a U.S. pilot certificate under this section must be written in English or accompanied by an English transcription that has been signed by an official or representative of the foreign aviation authority that issued the foreign pilot license.
+. *Limitation placed on a U.S. pilot certificate.* A U.S. pilot certificate issued under this section can only be exercised when the pilot has the foreign pilot license, upon which the issuance of the U.S. pilot certificate was based, in the holder's possession or readily accessible in the aircraft.
+
+## § 61.77
+
+### Special purpose pilot authorization: Operation of a civil aircraft of the United States and leased by a non-U.S. citizen.
+
+. *General.* The holder of a foreign pilot license issued by a contracting State to the Convention on International Civil Aviation who meets the requirements of this section may be issued a special purpose pilot authorization by the Administrator for the purpose of performing pilot duties—
+.. On a civil aircraft of U.S. registry that is leased to a person who is not a citizen of the United States, and
+.. For carrying persons or property for compensation or hire for operations in—
+... Scheduled international air services in turbojet-powered airplanes of U.S. registry;
+... Scheduled international air services in airplanes of U.S. registry having a configuration of more than nine passenger seats, excluding crewmember seats;
+... Nonscheduled international air transportation in airplanes of U.S. registry having a configuration of more than 30 passenger seats, excluding crewmember seats; or
+... Scheduled international air services, or nonscheduled international air transportation, in airplanes of U.S. registry having a payload capacity of more than 7,500 pounds.
+. *Eligibility.* To be eligible for the issuance or renewal of a special purpose pilot authorization, an applicant must present the following to an FAA Flight Standards District Office:
+.. A foreign pilot license issued by the aeronautical authority of a contracting State to the Convention on International Civil Aviation that contains the appropriate aircraft category, class, type rating, if appropriate, and instrument rating for the aircraft to be flown;
+.. A certification by the lessee of the aircraft—
+... Stating that the applicant is employed by the lessee;
+... Specifying the aircraft type on which the applicant will perform pilot duties; and
+... Stating that the applicant has received ground and flight instruction that qualifies the applicant to perform the duties to be assigned on the aircraft.
+.. Documentation showing when the applicant will reach the age of 65 years (an official copy of the applicant's birth certificate or other official documentation);
+.. Documentation the applicant meets the medical standards for the issuance of the foreign pilot license from the aeronautical authority of that contracting State to the Convention on International Civil Aviation; and
+.. A statement that the applicant does not already hold a special purpose pilot authorization; however, if the applicant already holds a special purpose pilot authorization, then that special purpose pilot authorization must be surrendered to either the FAA Flight Standards District Office that issued it, or the FAA Flight Standards District Office processing the application for the authorization, prior to being issued another special purpose pilot authorization.
+. *Privileges.* A person issued a special purpose pilot authorization under this section—
+.. May exercise the privileges prescribed on the special purpose pilot authorization; and
+.. Must comply with the limitations specified in this section and any additional limitations specified on the special purpose pilot authorization.
+. *General limitations.* A special purpose pilot authorization may be used only—
+.. For flights between foreign countries or for flights in foreign air commerce within the time period allotted on the authorization.
+.. If the foreign pilot license required by paragraph (b)(1) of this section, the medical documentation required by paragraph (b)(4) of this section, and the special purpose pilot authorization issued under this section are in the holder's physical possession or immediately accessible in the aircraft.
+.. While the holder is employed by the person to whom the aircraft described in the certification required by paragraph (b)(2) of this section is leased.
+.. While the holder is performing pilot duties on the U.S.-registered aircraft described in the certification required by paragraph (b)(2) of this section.
+.. If the holder has only one special purpose pilot authorization as provided in paragraph (b)(5) of this section.
+. *Age limitation.* No person who holds a special purpose pilot authorization issued under this part may serve as a pilot on a civil airplane of U.S. registry in the following operations if the person has reached his or her 60th birthday or, in the case of operations with more than one pilot, his or her 65th birthday:
+.. Scheduled international air services carrying passengers in turbojet-powered airplanes;
+.. Scheduled international air services carrying passengers in airplanes having a passenger-seat configuration of more than nine passenger seats, excluding each crewmember seat;
+.. Nonscheduled international air transportation for compensation or hire in airplanes having a passenger-seat configuration of more than 30 passenger seats, excluding each crewmember seat; or
+.. Scheduled international air services, or nonscheduled international air transportation for compensation or hire, in airplanes having a payload capacity of more than 7,500 pounds.
+. *Definitions.* (1) *International air service,* as used in paragraph (e) of this section, means scheduled air service performed in airplanes for the public transport of passengers, mail, or cargo, in which the service passes through the air space over the territory of more than one country.
+. *Expiration date.* Each special purpose pilot authorization issued under this section expires—
+.. 60 calendar months from the month it was issued, unless sooner suspended or revoked;
+.. When the lease agreement for the aircraft expires or the lessee terminates the employment of the person who holds the special purpose pilot authorization;
+.. Whenever the person's foreign pilot license has been suspended, revoked, or is no longer valid; or
+.. When the person no longer meets the medical standards for the issuance of the foreign pilot license.
+              
+. *Renewal.* A person exercising the privileges of a special purpose pilot authorization may apply for a 60-calendar-month extension of that authorization, provided the person—
+.. Continues to meet the requirements of this section; and
+.. Surrenders the expired special purpose pilot authorization upon receipt of the new authorization.
+... *Surrender.* The holder of a special purpose pilot authorization must surrender the authorization to the Administrator within 7 days after the date the authorization terminates.
+
+(2) *International air transportation,* as used in paragraph (e) of this section, means air transportation performed in airplanes for the public transport of passengers, mail, or cargo, in which service passes through the air space over the territory of more than one country.
+

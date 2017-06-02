@@ -1,0 +1,28 @@
+# Pearson Field (Vancouver, WA) Airport Traffic Rule
+:toc:
+
+## § 93.161
+
+### Applicability.
+
+This subpart prescribes special air traffic rules for aircraft conducting VFR operations in the vicinity of the Pearson Field Airport in Vancouver, Washington.
+
+## § 93.162
+
+### Description of area.
+
+The Pearson Field Airport Special Flight Rules Area is designated as that airspace extending upward from the surface to but not including 1,100 feet MSL in an area bounded by a line beginning at the point where the 019° bearing from Pearson Field intersects the 5-mile arc from Portland International Airport extending southeast to a point 11/2 miles east of Pearson Field on the extended centerline of Runway 8/26, thence south to the north shore of the Columbia River, thence west via the north shore of the Columbia River to the 5-mile arc from Portland International Airport, thence clockwise via the 5-mile arc to point of beginning.
+
+## § 93.163
+
+### Aircraft operations.
+
+. Unless otherwise authorized by ATC, no person may operate an aircraft within the airspace described in § 93.162, or taxi onto the runway at Pearson Field, unless-
+.. That person establishes two-way radio communications with Pearson Advisory on the common traffic advisory frequency for the purpose of receiving air traffic advisories and continues to monitor the frequency at all times while operating within the specified airspace.
+.. That person has obtained the Pearson Field weather prior to establishing two-way communications with Pearson Advisory.
+. Notwithstanding the provisions of paragraph (a) of this section, if two-way radio communications failure occurs in flight, a person may operate an aircraft within the airspace described in § 93.162, and land, if weather conditions are at or above basic VFR weather minimums. If two-way radio communications failure occurs while in flight under IFR, the pilot must comply with § 91.185.
+. Unless otherwise authorized by ATC, persons operating an aircraft within the airspace described in § 93.162 must—
+.. When operating over the runway or extended runway centerline of Pearson Field Runway 8/26 maintain an altitude at or below 700 feet above mean sea level.
+.. Remain outside Portland Class C Airspace.
+.. Make a right traffic pattern when operating to/from Pearson Field Runway 26.
+

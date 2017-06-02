@@ -1,0 +1,194 @@
+# Allocation of Commuter and Air Carrier IFR Operations at High Density Traffic Airports
+:toc:
+
+## § 93.211
+
+### Applicability.
+
+. This subpart prescribes rules applicable to the allocation and withdrawal of IFR operational authority (takeoffs and landings) to individual air carriers and commuter operators at the High Density Traffic Airports identified in subpart K of this part except for Newark Airport.
+. This subpart also prescribes rules concerning the transfer of allocated IFR operational authority and the use of that authority once allocated.
+
+## § 93.213
+
+### Definitions and general provisions.
+
+. For purposes of this subpart—
+.. *New entrant carrier* means a commuter operator or air carrier which does not hold a slot at a particular airport and has never sold or given up a slot at that airport after December 16, 1985.
+.. *Slot* means the operational authority to conduct one IFR landing or takeoff operation each day during a specific hour or 30 minute period at one of the High Density Traffic Airports, as specified in subpart K of this part.
+.. *Summer season* means the period of time from the first Sunday in April until the last Sunday in October.
+.. *Winter season* means the period of time from the last Sunday in October until the first Sunday in April.
+.. *Limited incumbent carrier* means an air carrier or commuter operator that holds or operates fewer than 12 air carrier or commuter slots, in any combination, at a particular airport, not including international slots, Essential Air Service Program slots, or slots between the hours of 2200 and 0659 at Washington National Airport or LaGuardia Airport. However, for the purposes of this paragraph (a)(5), the carrier is considered to hold the number of slots at that airport that the carrier has, since December 16, 1985:
+... Returned to the FAA;
+... Had recalled by the FAA under § 93.227(a); or
+... Transferred to another party other than by trade for one or more slots at the same airport.
+. The definitions specified in subpart K of this part also apply to this subpart.
+. For purposes of this subpart, if an air carrier, commuter operator, or other person has more than a 50-percent ownership or control of one or more other air carriers, commuter operators, or other persons, they shall be considered to be a single air carrier, commuter operator, or person. In addition, if a single company has more than a 50-percent ownership or control of two or more air carriers and/or commuter operators or any combination thereof, those air carriers and/or commuter operators shall be considered to be a single operator. A single operator may be considered to be both an air carrier and commuter operator for purposes of this subpart.
+
+## § 93.215
+
+### Initial allocation of slots.
+
+. Each air carrier and commuter operator holding a permanent slot on December 16, 1985, as evidenced by the records of the air carrier and commuter operator scheduling committees, shall be allocated those slots subject to withdrawal under the provisions of this subpart. The Chief Counsel of the FAA shall be the final decisionmaker for initial allocation determinations.
+. Any permanent slot whose use on December 16, 1985 is divided among different operators, by day of the week, or otherwise, as evidenced by records of the scheduling committees, shall be allocated in conformity with those records. The Chief Counsel of the FAA shall be the final decisionmaker for these determinations.
+. A carrier may permanently designate a slot it holds at Kennedy International Airport as a seasonal slot, to be held by the carrier only during the corresponding season in future years, if it notifies the FAA (at the address specified in § 93.225(e)), in writing, the preceding winter seasons or by October 15 of the preceding year for summer seasons.
+. Within 30 days after December 16, 1985, each U.S. air carrier and commuter operator must notify the office specified in § 93.221(a)(1), in writing, of those slots used for operations described in § 93.217(a)(1) on December 16, 1985.
+. Any slot not held by an operator on December 16, 1985 shall be allocated in accordance with the provisions of §§ 93.217, 93.219 or 93.225 of this subpart.
+
+## § 93.217
+
+### Allocation of slots for international operations and applicable limitations.
+
+. Any air carrier of commuter operator having the authority to conduct international operations shall be provided slots for those operations, excluding transborder service solely between HDR airports and Canada, subject to the following conditions and the other provisions of this section:
+.. The slot may be used only for a flight segment in which either the takeoff or landing is at a foreign point or, for foreign operators, the flight segment is a continuation of a flight that begins or ends at a foreign point. Slots may be obtained and used under this section only for operations at Kennedy and O'Hare airports unless otherwise required by bilateral agreement and only for scheduled service unless the requesting carrier qualifies for the slot on the basis of historic seasonal operations, under § 93.217(a)(5).
+.. Slots used for an operation described in paragraph (a)(1) of this section may not be bought, sold, leased, or otherwise transferred, except that such a slot may be traded to another slot-holder on a one-for-one basis for a slot at the same airport in a different hour or half-hour period if the trade is for the purpose of conducting such an operation in a different hour or half-hour period.
+.. Slots used for operations described in paragraph (a)(1) of this section must be returned to the FAA if the slot will not be used for such operations for more than a 2-week period.
+.. Each air carrier or commuter operator having a slot that is used for operations described in paragraph (a)(1) of this section but is not used every day of the week shall notify the office specified in § 93.221(a)(1) in writing of those days on which the slots will not be used.
+.. Except as provided in paragraph (a)(10) of this section, at Kennedy and O'Hare Airports, a slot shall be allocated, upon request, for seasonal international operations, including charter operations, if the Chief Counsel of the FAA determines that the slot had been permanently allocated to and used by the requesting carrier in the same hour and for the same time period during the corresponding season of the preceding year. Requests for such slots must be submitted to the office specified in § 93.221(a)(1), by the deadline published in a *Federal Register* notice for each season. For operations during the 1986 summer season, requests under this paragraph must have been submitted to the FAA on or before February 1, 1986. Each carrier requesting a slot under this paragraph must submit its entire international schedule at the relevant airport for the particular season, noting which requests are in addition to or changes from the previous year.
+.. Except as provided in paragraph (a)(10) of this section, additional slots shall be allocated at O'Hare Airport for international scheduled air carrier and commuter operations (beyond those slots allocated under §§ 93.215 and 93.217(a)(5) if a request is submitted to the office specified in § 93.221(a)(1) and filed by the deadline published in a *Federal Register* notice for each season. These slots will be allocated at the time requested unless a slot is available within one hour of the requested time, in which case the unallocated slots will be used to satisfy the request.
+.. If required by bilateral agreement, additional slots shall be allocated at LaGuardia Airport for international scheduled passenger operations within the hour requested.
+.. To the extent vacant slots are available, additional slots during the high density hours shall be allocated at Kennedy Airport for new international scheduled air carrier and commuter operations (beyond those operations for which slots have been allocated under §§ 93.215 and 93.217(a)(5)), if a request is submitted to the office specified in § 93.221(a)(1) by the deadline published in a *Federal Register* notice for each season. In addition, slots may be withdrawn from domestic operations for operations at Kennedy Airport under this paragraph if required by international obligations.
+.. In determining the hour in which a slot request under §§ 93.217(a)(6) and 93.217(a)(8) will be granted, the following will be taken into consideration, among other things:
+... The availability of vacant slot times;
+... International obligations;
+... Airport terminal capacity, including facilities and personnel of the U.S. Customs Service and the U.S. Immigration and Naturalization Service;
+... The extent and regularity of intended use of a slot; and
+... Schedule constraints of carriers requesting slots.
+.. At O'Hare Airport, a slot will not be allocated under this section to a carrier holding or operating 100 or more permanent slots on the previous May 15 for a winter season or October 15 for a summer season unless:
+... Allocation of the slot does not result in a total allocation to that carrier under this section that exceeds the number of slots allocated to and scheduled by that carrier under this section on February 23, 1990, and as reduced by the number of slots reclassified under § 93.218, and does not exceed by more than 2 the number of slots allocated to and scheduled by that carrier during any half hour of that day, or
+... Notwithstanding the number of slots allocated under paragraph (a)(10)(i) of this section, a slot is available for allocation without withdrawal of a permanent slot from any carrier.
+. If a slot allocated under § 93.215 was scheduled for an operation described in paragraph (a)(1) of this section on December 16, 1985, its use shall be subject to the requirements of paragraphs (a)(1) through (a)(4) of this section. The requirements also apply to slots used for international operations at LaGuardia Airport.
+. If a slot is offered to a carrier in other than the hour requested, the carrier shall have 14 days after the date of the offer to accept the newly offered slot. Acceptance must be in writing and sent to the office specified in § 93.221(a)(1) and must repeat the certified statements required by paragraph (e) of this section.
+. The Office of the Secretary of Transportation reserves the right not to apply the provisions of this section, concerning the allocation of slots, to any foreign air carrier or commuter operator of a country that provides slots to U.S. air carriers and commuter operators on a basis more restrictive than provided by this subpart. Decisions not to apply the provisions of this section will be made by the Office of the Secretary of Transportation.
+. Each request for slots under this section shall state the airport, days of the week and time of the day of the desired slots and the period of time the slots are to be used. Each request shall identify whether the slot is requested under paragraph (a)(5), (6), or (8) and identify any changes from the previous year if requested under both paragraphs. The request must be accompanied by a certified statement signed by an officer of the operator indicating that the operator has or has contracted for aircraft capable of being utilized in using the slots requested and that the operator has bona fide plans to use the requested slots for operations described in paragraph (a).
+
+## § 93.218
+
+### Slots for transborder service to and from Canada.
+
+. Except as otherwise provided in this subpart, international slots identified by U.S. carriers for international operations in December 1985 and the equivalent number of international slots held as of February 24, 1998, will be domestic slots. The Chief Counsel of the FAA shall be the final decisionmaker for these determinations.
+. Canadian carriers shall have a guaranteed base level of slots of 42 slots at LaGuardia, 36 slots at O'Hare for the Sumner season, and 32 slots at O'Hare in the Winter season.
+. Any modification to the slot base by the Government of Canada or the Canadian carriers that results in a decrease of the guaranteed base in paragraph (b) of this section shall permanently modify the base number of slots.
+
+## § 93.219
+
+### Allocation of slots for essential air service operations and applicable limitations.
+
+Whenever the Office of the Secretary of Transportation determines that slots are needed for operations to or from a High Density Traffic Airport under the Department of Transportation's Essential Air Service (EAS) Program, those slots shall be provided to the designated air carrier or commuter operator subject to the following limitations:
+
+. Slots obtained under this section may not be bought, sold, leased or otherwise transferred, except that such slots may be traded for other slots on a one-for-one basis at the same airport.
+. Any slot obtained under this section must be returned to the FAA if it will not be used for EAS purposes for more than a 2-week period. A slot returned under this paragraph may be reallocated to the operator which returned it upon request to the FAA office specified in § 93.221(a)(1) if that slot has not been reallocated to an operator to provide substitute essential air service.
+. Slots shall be allocated for EAS purposes in a time period within 90 minutes of the time period requested.
+. The Department will not honor requests for slots for EAS purposes to a point if the requesting carrier has previously traded away or sold slots it had used or obtained for use in providing essential air service to that point.
+. Slots obtained under Civil Aeronautics Board Order No. 84-11-40 shall be considered to have been obtained under this section.
+
+## § 93.221
+
+### Transfer of slots.
+
+. Except as otherwise provided in this subpart, effective April 1, 1986, slots may be bought, sold or leased for any consideration and any time period and they may be traded in any combination for slots at the same airport or any other high density traffic airport. Transfers, including leases, shall comply with the following conditions:
+.. Requests for confirmation must be submitted in writing to Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591, in a format to be prescribed by the Administrator. Requests will provide the names of the transferor and recipient; business address and telephone number of the persons representing the transferor and recipient; whether the slot is to be used for an arrival or departure; the date the slot was acquired by the transferor; the section of this subpart under which the slot was allocated to the transferor; whether the slot has been used by the transferor for international or essential air service operations; and whether the slot will be used by the recipient for international or essential air service operations. After withdrawal priorities have been established under § 93.223 of this part, the requests must include the slot designations of the transferred slots as described in § 93.223(b)(5).
+.. The slot transferred must come from the transferor's then-current FAA-approved base.
+.. Written evidence of each transferor's consent to the transfer must be provided to the FAA.
+.. The recipient of a transferred slot may not use the slot until written confirmation has been received from the FAA.
+.. Until a slot obtained by a new entrant or limited incumbent carrier in a lottery held under § 93.225 after June 1, 1991, has been used by the carrier that obtained it for a continuous 24-month period after the lottery in accordance with § 93.227(a), that slot may be transferred only by trade for one or more slots at the same airport or to other new entrant or limited incumbent carriers under § 93.221(a)(5)(iii). This transfer restriction shall apply to the same extent to any slot or slots acquired by trading the slot obtained in a lottery. To remove the transfer restriction, documentation of 24 months' continuous use must be submitted to the FAA Office of the Chief Counsel.
+.. The Office of the Secretary of Transportation must determine that the transfer will not be injurious to the essential air service program.
+. A record of each slot transfer shall be kept on file by the office specified in paragraph (a)(1) of this section and will be made available to the public upon request.
+. Any person may buy or sell slots and any air carrier or commuter may use them. Notwithstanding § 93.123, air carrier slots may be used with aircraft of the kind described in § 93.123 (c)(1) or (c)(2) but commuter slots may only be used with aircraft of the kind described in § 93.0123(c)(2).
+. Air carriers and commuter operators considered to be a single operator under the provisions of § 93.213(c) of this subpart but operating under separate names shall report transfers of slots between them.
+. Notwithstanding § 93.123(c)(2) of this part, a commuter slot at O'Hare International Airport may be used with an aircraft described in § 93.123(c)(1) of this part on the following conditions:
+.. Air carrier aircraft that may be operated under this paragraph are limited to aircraft:
+... Having an actual seating configuration of 110 or fewer passengers; and
+... Having a maximum certificated takeoff weight of less than 126,000 pounds.
+.. No more than 50 percent of the total number of commuter slots held by a slot holder at O'Hare International Airport may be used with aircraft described in paragraph (e)(1) of this section.
+.. An air carrier or commuter operator planning to operate an aircraft described in paragraph (e)(1) of this section in a commuter slot shall notify ATC at least 75 days in advance of the planned start date of such operation. The notice shall include the slot number, proposed time of operation, aircraft type, aircraft series, actual aircraft seating configuration, and planned start date. ATC will approve or disapprove the proposed operation no later than 45 days prior to the planned start date. If an operator does not initiate operation of a commuter slot under this section within 30 days of the planned start date first submitted to the FAA, the ATC approval for that operation will expire. That operator may file a new or revised notice for the same half-hour slot time.
+.. An operation may not be conducted under paragraph (e)(1) of this section unless a gate is available for that operation without planned waiting time.
+.. For the purposes of this paragraph (e), notice to ATC shall be submitted in writing to: Director, Air Traffic System Management, ATM-1, Federal Aviation Administration, 800 Independence Avenue SW., Washington, DC 20591.
+
+(ii) Failure to use a slot acquired by trading a slot obtained in a lottery for a continuous 24-month period after the lottery, shall void all trades involving the lottery slot, which shall be returned to the FAA. All use of the lottery slot shall be counted toward fulfilling the minimum use requirements under § 93.227(a) applicable to the slot or slots for which the lottery slot was traded, including subsequent trades.
+
+(iii) Slots obtained by new entrant or limited incumbent carriers in a lottery may be sold, leased, or otherwise transferred to another entrant or limited incumbent carrier after a minimum of 60 days of use by the obtaining carrier. The transfer restrictions of § 93.221(a)(5)(i) shall continue to apply to the slot until documentation of 24 months' continuous use has been submitted and the transfer restriction removed.
+
+## § 93.223
+
+### Slot withdrawal.
+
+. Slots do not represent a property right but represent an operating privilege subject to absolute FAA control. Slots may be withdrawn at any time to fulfill the Department's operational needs, such as providing slots for international or essential air service operations or eliminating slots. Before withdrawing any slots under this section to provide them for international operations, essential air services or other operational needs, those slots returned under § 93.224 of this part and those recalled by the agency under § 93.227 will be allocated.
+. Separate slot pools shall be established for air carriers and commuter operators at each airport. The FAA shall assign, by random lottery, withdrawal priority numbers for the recall priority of slots at each airport. Each additional permanent slot, if any, will be assigned the next higher number for air carrier or commuter slots, as appropriate, at each airport. Each slot shall be assigned a designation consisting of the applicable withdrawal priority number; the airport code; a code indicating whether the slot is an air carrier or commuter operator slot; and the time period of the slot. The designation shall also indicate, as appropriate, if the slot is daily or for certain days of the week only; is limited to arrivals or departures; is allocated for international operations or for EAS purposes; and, at Kennedy International Airport, is a summer or winter slot.
+. Whenever slots must be withdrawn, they will be withdrawn in accordance with the priority list established under paragraph (b) of this section, except:
+.. Slots obtained in a lottery held pursuant to § 93.225 of this part shall be subject to withdrawal pursuant to paragraph (i) of that section, and
+.. Slots necessary for international and essential air service operations shall be exempt from withdrawal for use for other international or essential air service operations.
+.. Except as provided in § 93.227(a), the FAA shall not withdraw slots held at an airport by an air carrier or commuter operator holding and operating 12 or fewer slots at that airport (excluding slots used for operations described in § 93.212(a)(1)), if withdrawal would reduce the number of slots held below the number of slots operated.
+.. No slot comprising the guaranteed base of slots, as defined in section 93.318(b), shall be withdrawn for use for international operations or for new entrants.
+. The following withdrawal priority rule shall be used to permit application of the one-for-one trade provisions for international and essential air service slots and the slot withdrawal provisions where the slots are needed for other than international or essential air service operations. If an operator has more than one slot in a specific time period in which it also has a slot being used for international or essential air service operations, the international and essential air service slots will be considered to be those with the lowest withdrawal priority.
+. The operator(s) using each slot to be withdrawn shall be notified by the FAA of the withdrawal and shall cease operations using that slot on the date indicated in the notice. Generally, the FAA will provide at least 30 days after notification for the operator to cease operations unless exigencies require a shorter time period.
+. For 24 months following a lottery held after June 1, 1991, a slot acquired in that lottery shall be withdrawn by the FAA upon the sale, merger, or acquisition of more than 50 percent ownership or control of the carrier using that slot or one acquired by trade of that slot, if the resulting total of slots held or operated at the airport by the surviving entity would exceed 12 slots.
+
+## § 93.224
+
+### Return of slots.
+
+. Whenever a slot is required to be returned under this subpart, the holder must notify the office specified in § 93.221(a)(1) in writing of the date after which the slot will not be used.
+. Slots may be voluntarily returned for use by other operators by notifying the office specified in § 93.221(a)(1) in writing.
+
+## § 93.225
+
+### Lottery of available slots.
+
+. Whenever the FAA determines that sufficient slots have become available for distribution for purposes other than international or essential air service operations, but generally not more than twice a year, they shall be allocated in accordance with the provisions of this section.
+. A random lottery shall be held to determine the order of slot selection.
+. Slot allocation lotteries shall be held on an airport-by-airport basis with separate lotteries for air carrier and commuter operator slots. The slots to be allocated in each lottery will be each unallocated slot not necessary for international or Essential Air Service Program operations, including any slot created by an increase in the operating limits set forth in § 93.123(a).
+. The FAA shall publish a notice in the *Federal Register* announcing any lottery dates. The notice may include special procedures to be in effect for the lotteries.
+. Participation in a lottery is open to each U.S. air carrier or commuter operator operating at the airport and providing scheduled passenger service at the airport, as well as where provided for by bilateral agreement. Any U.S. carrier, or foreign air carrier where provided for by bilateral agreement, that is not operating scheduled service at the airport and has not failed to operate slots obtained in the previous lottery, or slots traded for those obtained by lottery, but wishes to initiate scheduled passenger service at the airport, shall be included in the lottery if that operator notifies, in writing, the Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591. The notification must be received 15 days prior to the lottery date and state whether there is any common ownership or control of, by, or with any other air carrier or commuter operator as defined in § 93.213(c). New entrant and limited incumbent carriers will be permitted to complete their selections before participation by other incumbent carriers is initiated.
+. At the lottery, each operator must make its selection within 5 minutes after being called or it shall lose its turn. If capacity still remains after each operator has had an opportunity to select slots, the allocation sequence will be repeated in the same order. An operator may select any two slots available at the airport during each sequence, except that new entrant carriers may select four slots, if available, in the first sequence.
+. To select slots during a slot lottery session, a carrier must have appropriate economic authority for scheduled passenger service under Title IV of the Federal Aviation Act of 1958, as amended (49 U.S.C. App. 1371 *et seq.*), and must hold FAA operating authority under part 121 or part 135 of this chapter as appropriate for the slots the operator seeks to select.
+. During the first selection sequence, 25 percent of the slots available but no less than two slots shall be reserved for selection by new entrant carriers. If new entrant carriers do not select all of the slots set aside for new entrant carriers, limited incumbent carriers may select the remaining slots. If every participating new entrant carrier and limited incumbent carrier has ceased selection of available slots or has obtained 12 slots at that airport, other incumbent carriers may participate in selecting the remaining slots; however, slots selected by non-limited incumbent carriers will be allocated only until the date of the next lottery.
+. Slots obtained under this section shall retain their withdrawal priority as established under § 93.223. If the slot is newly created, a withdrawal priority shall be assigned. That priority number shall be higher than any other slot assigned a withdrawal number previously.
+
+## § 93.226
+
+### Allocation of slots in low-demand periods.
+
+. If there are available slots in the following time periods and there are no pending requests for international or EAS operations at these times, FAA will allocate slots upon request on a first-come, first-served basis, as set forth in this section:
+.. Any period for which a slot is available less than 5 days per week.
+.. Any time period for which a slot is available for less than a full season.
+.. For LaGuardia and Washington National Airports:
+... 6:00 a.m.-6:59 a.m.
+... 10:00 p.m.-midnight.
+. Slots will be allocated only to operators with the economic and operating authority and aircraft required to use the slots.
+. Requests for allocations under this section shall be submitted in writing to the address listed in § 93.221(a)(1) and shall identify the request as made under this section.
+. The FAA may deny requests made under this section after a determination that all remaining slots in a particular category should be distributed by lottery.
+. Slots may be allocated on a seasonal or temporary basis under this provision.
+
+## § 93.227
+
+### Slot use and loss.
+
+. Except as provided in paragraphs (b), (c), (d), (g), and (l) of this section, any slot not utilized 80 percent of the time over a 2-month period shall be recalled by the FAA.
+. Paragraph (a) of this section does not apply to slots obtained under § 93.225 of this part during:
+.. The first 90 days after they are allocated to a new entrant carrier; or
+.. The first 60 days after they are allocated to a limited incumbent or other incumbent carrier.
+. Paragraph (a) of this section does not apply to slots of an operator forced by a strike to cease operations using those slots.
+. In the case of a carrier that files for protection under the Federal bankruptcy laws and has not received a Notice of Withdrawal from the FAA for the subject slot or slots, paragraph (a) of this section does not apply:
+.. During a period after the initial petition in bankruptcy, to any slot held or operated by that carrier, for:
+... 60 days after the carrier files the initial petition in bankruptcy; and
+... 30 days after the carrier, in anticipation of transferring slots, submits information to a Federal government agency in connection with a statutory antitrust, economic impact, or similar review of the transfer, provided that the information is submitted more than 30 days after filing the initial petition in bankruptcy, and provided further that any slot to be transferred has not become subject to withdrawal under any other provision of this § 93.227; and
+.. During a period after a carrier ceases operations at an airport, to any slot held or operated by that carrier at that airport, for:
+... 30 days after the carrier ceases operations at that airport, provided that the slot has not become subject to withdrawal under any other provision of this § 93.227; and
+... 30 days after the parties to a proposed transfer of any such slot comply with requests for additional information by a Federal government agency in connection with an antitrust, economic impact, or similar investigation of the transfer, provided that—
+. Persons having slots withdrawn pursuant to paragraph (a) of this section must cease all use of those slots upon receipt of notice from the FAA.
+. Persons holding slots but not using them pursuant to the provisions of paragraphs (b), (c) and (d) may lease those slots for use by others. A slot obtained in a lottery may not be leased after the expiration of the applicable time period specified in paragraph (b) of this section unless it has been operated for a 2-month period at least 65 percent of the time by the operator which obtained it in the lottery.
+. This section does not apply to slots used for the operations described in § 93.217(a)(1) except that a U.S. air carrier or commuter operator required to file a report under paragraph (i) of this section shall include all slots operated at the airport, including slots described in § 93.217(a)(1).
+. Within 30 days after an operator files for protection under the Federal bankruptcy laws, the FAA shall recall any slots of that operator, if—(1) the slots were formerly used for essential air service and (2) the Office of the Secretary of Transportation determines those slots are required to provide substitute essential air service to or from the same points.
+. Every air carrier and commuter operator or other person holding a slot at a high density airport shall, within 14 days after the last day of the 2-month period beginning January 1, 1986, and every 2 months thereafter, forward, in writing, to the address identified in § 93.221(a)(1), a list of all slots held by the air carrier, commuter operator or other person along with a listing of which air carrier or commuter operator actually operated the slot for each day of the 2-month period. The report shall identify the flight number for which the slot was used and the equipment used, and shall identify the flight as an arrival or departure. The report shall identify any common ownership or control of, by, or with any other carrier as defined in § 93.213(c) of this subpart. The report shall be signed by a senior official of the air carrier or commuter operator. If the slot is held by an “other person,” the report must be signed by an official representative.
+. The Chief Counsel of the FAA may waive the requirements of paragraph (a) of this section in the event of a highly unusual and unpredictable condition which is beyond the control of the slot-holder and which exists for a period of 9 or more days. Examples of conditions which could justify waiver under this paragraph are weather conditions which result in the restricted operation of an airport for an extended period of time or the grounding of an aircraft type.
+. The Chief Counsel of the FAA may, upon request, grant a waiver from the requirements of paragraph (a) of this section for a slot used for the domestic segment of an intercontinental all-cargo flight. To qualify for a waiver, a carrier must operate the slot a substantial percentage of the time and must return the slot to the FAA in advance for the time periods it will not be used.
+. The FAA will treat as used any slot held by a carrier at a High Density Traffic Airport on Thanksgiving Day, the Friday following Thanksgiving Day, and the period from December 24 through the first Saturday in January.
+
+(A) The original notice of the transfer is filed with the Federal agency within 30 days after the carrier ceases operation at the airport;
+
+(B) The request for additional information is made within 10 days of the filing of the notice by the carrier;
+
+(C) The carrier submits the additional information to the Federal agency within 15 days of the request by such agency; and
+
+(D) Any slot to be transferred has not become subject to withdrawal under any other provision of this § 93.227.
+

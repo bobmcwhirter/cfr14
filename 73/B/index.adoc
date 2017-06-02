@@ -1,0 +1,52 @@
+# Restricted Areas
+:toc:
+
+## § 73.11
+
+### Applicability.
+
+This subpart designates restricted areas and prescribes limitations on the operation of aircraft within them.
+
+## § 73.13
+
+### Restrictions.
+
+No person may operate an aircraft within a restricted area between the designated altitudes and during the time of designation, unless he has the advance permission of
+
+. The using agency described in § 73.15; or
+. The controlling agency described in § 73.17.
+
+## § 73.15
+
+### Using agency.
+
+. For the purposes of this subpart, the following are using agencies;
+.. The agency, organization, or military command whose activity within a restricted area necessitated the area being so designated.
+. Upon the request of the FAA, the using agency shall execute a letter establishing procedures for joint use of a restricted area by the using agency and the controlling agency, under which the using agency would notify the controlling agency whenever the controlling agency may grant permission for transit through the restricted area in accordance with the terms of the letter.
+. The using agency shall—
+.. Schedule activities within the restricted area;
+.. Authorize transit through, or flight within, the restricted area as feasible; and
+.. Contain within the restricted area all activities conducted therein in accordance with the purpose for which it was designated.
+
+## § 73.17
+
+### Controlling agency.
+
+For the purposes of this part, the controlling agency is the FAA facility that may authorize transit through or flight within a restricted area in accordance with a joint-use letter issued under § 73.15.
+
+## § 73.19
+
+### Reports by using agency.
+
+. Each using agency shall prepare a report on the use of each restricted area assigned thereto during any part of the preceding 12-month period ended September 30, and transmit it by the following January 31 of each year to the Manager, Air Traffic Division in the regional office of the Federal Aviation Administration having jurisdiction over the area in which the restricted area is located, with a copy to the Program Director for Air Traffic Airspace Management, Federal Aviation Administration, Washington, DC 20591.
+. In the report under this section the using agency shall:
+.. State the name and number of the restricted area as published in this part, and the period covered by the report.
+.. State the activities (including average daily number of operations if appropriate) conducted in the area, and any other pertinent information concerning current and future electronic monitoring devices.
+.. State the number of hours daily, the days of the week, and the number of weeks during the year that the area was used.
+.. For restricted areas having a joint-use designation, also state the number of hours daily, the days of the week, and the number of weeks during the year that the restricted area was released to the controlling agency for public use.
+.. State the mean sea level altitudes or flight levels (whichever is appropriate) used in aircraft operations and the maximum and average ordinate of surface firing (expressed in feet, mean sea level altitude) used on a daily, weekly, and yearly basis.
+              
+.. Include a chart of the area (of optional scale and design) depicting, if used, aircraft operating areas, flight patterns, ordnance delivery areas, surface firing points, and target, fan, and impact areas. After once submitting an appropriate chart, subsequent annual charts are not required unless there is a change in the area, activity or altitude (or flight levels) used, which might alter the depiction of the activities originally reported. If no change is to be submitted, a statement indicating “no change” shall be included in the report.
+.. Include any other information not otherwise required under this part which is considered pertinent to activities carried on in the restricted area.
+. If it is determined that the information submitted under paragraph (b) of this section is not sufficient to evaluate the nature and extent of the use of a restricted area, the FAA may request the using agency to submit supplementary reports. Within 60 days after receiving a request for additional information, the using agency shall submit such information as the Program Director for Air Traffic Airspace Management considers appropriate. Supplementary reports must be sent to the FAA officials designated in paragraph (a) of this section.
+

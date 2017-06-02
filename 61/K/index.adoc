@@ -1,0 +1,214 @@
+# Flight Instructors With a Sport Pilot Rating
+:toc:
+
+## § 61.401
+
+### What is the purpose of this subpart?
+
+. This part prescribes the following requirements that apply to a flight instructor certificate with a sport pilot rating:
+.. Eligibility.
+.. Aeronautical knowledge.
+.. Flight proficiency.
+.. Endorsements.
+.. Privileges and limits.
+. Other provisions of this part apply to the logging of flight time and testing.
+
+## § 61.403
+
+### What are the age, language, and pilot certificate requirements for a flight instructor certificate with a sport pilot rating?
+
+To be eligible for a flight instructor certificate with a sport pilot rating you must:
+
+. Be at least 18 years old.
+. Be able to read, speak, write, and understand English. If you cannot read, speak, write, and understand English because of medical reasons, the FAA may place limits on your certificate as are necessary for the safe operation of light-sport aircraft.
+. Hold at least a sport pilot certificate with category and class ratings or privileges, as applicable, that are appropriate to the flight instructor privileges sought.
+
+## § 61.405
+
+### What tests do I have to take to obtain a flight instructor certificate with a sport pilot rating?
+
+To obtain a flight instructor certificate with a sport pilot rating you must pass the following tests:
+
+. *Knowledge test.* Before you take a knowledge test, you must receive a logbook endorsement certifying you are prepared for the test from an authorized instructor who trained you or evaluated your home-study course on the aeronautical knowledge areas listed in § 61.407. You must pass knowledge tests on—
+.. The fundamentals of instructing listed in § 61.407(a), unless you meet the requirements of § 61.407(c); and
+.. The aeronautical knowledge areas for a sport pilot certificate applicable to the aircraft category and class for which flight instructor privileges are sought.
+. *Practical test.* (1) Before you take the practical test, you must—
+
+(i) Receive a logbook endorsement from the authorized instructor who provided you with flight training on the areas of operation specified in § 61.409 that apply to the category and class of aircraft privileges you seek. This endorsement certifies you meet the applicable aeronautical knowledge and experience requirements and are prepared for the practical test;
+              
+
+(ii) If you are seeking privileges to provide instruction in an airplane or glider, receive a logbook endorsement from an authorized instructor indicating that you are competent and possess instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures after you have received flight training in those training areas in an airplane or glider, as appropriate, that is certificated for spins;
+
+(2) You must pass a practical test—
+
+(i) On the areas of operation listed in § 61.409 that are appropriate to the category and class of aircraft privileges you seek;
+
+(ii) In an aircraft representative of the category and class of aircraft for the privileges you seek;
+
+(iii) In which you demonstrate that you are able to teach stall awareness, spin entry, spins, and spin recovery procedures if you are seeking privileges to provide instruction in an airplane or glider. If you have not failed a practical test based on deficiencies in your ability to demonstrate knowledge or skill in these areas and you provide the endorsement required by paragraph (b)(1)(ii) of this section, an examiner may accept the endorsement instead of the demonstration required by this paragraph. If you are taking a test because you previously failed a test based on not meeting the requirements of this paragraph, you must pass a practical test on stall awareness, spin entry, spins, and spin recovery instructional competency and proficiency in the applicable category and class of aircraft that is certificated for spins.
+
+## § 61.407
+
+### What aeronautical knowledge must I have to apply for a flight instructor certificate with a sport pilot rating?
+
+. Except as specified in paragraph (c) of this section you must receive and log ground training from an authorized instructor on the fundamentals of instruction that includes:
+.. The learning process.
+.. Elements of effective teaching.
+.. Student evaluation and testing.
+.. Course development.
+.. Lesson planning.
+.. Classroom training techniques.
+. You must receive and log ground training from an authorized instructor on the aeronautical knowledge areas applicable to a sport pilot certificate for the aircraft category and class in which you seek flight instructor privileges.
+. You do not have to meet the requirements of paragraph (a) of this section if you—
+.. Hold a flight instructor certificate or ground instructor certificate issued under this part;
+.. Hold a teacher's certificate issued by a State, county, city, or municipality; or
+.. Are employed as a teacher at an accredited college or university.
+
+## § 61.409
+
+### What flight proficiency requirements must I meet to apply for a flight instructor certificate with a sport pilot rating?
+
+You must receive and log ground and flight training from an authorized instructor on the following areas of operation for the aircraft category and class in which you seek flight instructor privileges:
+
+. Technical subject areas.
+. Preflight preparation.
+. Preflight lesson on a maneuver to be performed in flight.
+. Preflight procedures.
+. Airport, seaplane base, and gliderport operations, as applicable.
+. Takeoffs (or launches), landings, and go-arounds.
+. Fundamentals of flight.
+. Performance maneuvers and for gliders, performance speeds.
+. Ground reference maneuvers (except for gliders and lighter-than-air).
+. Soaring techniques.
+. Slow flight (not applicable to lighter-than-air and powered parachutes).
+. Stalls (not applicable to lighter-than-air, powered parachutes, and gyroplanes).
+. Spins (applicable to airplanes and gliders).
+. Emergency operations.
+. Tumble entry and avoidance techniques (applicable to weight-shift-control aircraft).
+. Post-flight procedures.
+
+## § 61.411
+
+### What aeronautical experience must I have to apply for a flight instructor certificate with a sport pilot rating?
+
+Use the following table to determine the experience you must have for each aircraft category and class:
+
+## § 61.413
+
+### What are the privileges of my flight instructor certificate with a sport pilot rating?
+
+. If you hold a flight instructor certificate with a sport pilot rating, you are authorized, within the limits of your certificate and rating, to provide training and endorsements that are required for, and relate to—
+.. A student pilot seeking a sport pilot certificate;
+.. A sport pilot certificate;
+.. A flight instructor certificate with a sport pilot rating;
+.. A powered parachute or weight-shift-control aircraft rating;
+.. Sport pilot privileges;
+.. A flight review or operating privilege for a sport pilot;
+.. A practical test for a sport pilot certificate, a private pilot certificate with a powered parachute or weight-shift-control aircraft rating or a flight instructor certificate with a sport pilot rating;
+.. A knowledge test for a sport pilot certificate, a private pilot certificate with a powered parachute or weight-shift-control aircraft rating or a flight instructor certificate with a sport pilot rating; and
+.. A proficiency check for an additional category or class privilege for a sport pilot certificate or a flight instructor certificate with a sport pilot rating.
+. A person who holds a flight instructor certificate with a sport pilot rating is authorized, in a form and manner acceptable to the Administrator, to:
+.. Accept an application for a student pilot certificate or, for an applicant who holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, a remote pilot certificate with a small UAS rating;
+.. Verify the identity of the applicant; and
+.. Verify that an applicant for a student pilot certificate meets the eligibility requirements in § 61.83.
+
+## § 61.415
+
+### What are the limits of a flight instructor certificate with a sport pilot rating?
+
+If you hold a flight instructor certificate with a sport pilot rating, you may only provide flight training in a light-sport aircraft and are subject to the following limits:
+
+. You may not provide ground or flight training in any aircraft for which you do not hold:
+.. A sport pilot certificate with applicable category and class privileges or a pilot certificate with the applicable category and class rating; and
+.. Applicable category and class privileges for your flight instructor certificate with a sport pilot rating.
+. You may not provide ground or flight training for a private pilot certificate with a powered parachute or weight-shift-control aircraft rating unless you hold:
+.. At least a private pilot certificate with the applicable category and class rating; and
+.. Applicable category and class privileges for your flight instructor certificate with a sport pilot rating.
+. You may not conduct more than 8 hours of flight training in any 24-consecutive-hour period.
+. You may not endorse a:
+.. Student pilot's logbook for solo flight privileges, unless you have—
+... Given that student the flight training required for solo flight privileges required by this part; and
+... Determined that the student is prepared to conduct the flight safely under known circumstances, subject to any limitations listed in the student's logbook that you consider necessary for the safety of the flight.
+.. Student pilot's logbook for a solo cross-country flight, unless you have determined the student's flight preparation, planning, equipment, and proposed procedures are adequate for the proposed flight under the existing conditions and within any limitations listed in the logbook that you consider necessary for the safety of the flight.
+.. Student pilot's logbook for solo flight in Class B, C, and D airspace areas, at an airport within Class B, C, or D airspace and to from, through or on an airport having an operational control tower, unless you have—
+              
+... Given that student ground and flight training in that airspace or at that airport; and
+... Determined that the student is proficient to operate the aircraft safely.
+.. Logbook of a pilot for a flight review, unless you have conducted a review of that pilot in accordance with the requirements of § 61.56.
+. You may not provide training to operate a light-sport aircraft in Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower, unless you have the endorsement specified in § 61.325, or are otherwise authorized to conduct operations in this airspace and at these airports.
+. You may not provide training in a light-sport aircraft that is an airplane with a V*H* less than or equal to 87 knots CAS unless you have the endorsement specified in § 61.327 (a), or are otherwise authorized to operate that light-sport aircraft.
+. You may not provide training in a light-sport aircraft with a V*H* greater than 87 knots CAS unless you have the endorsement specified in § 61.327 (b), or are otherwise authorized to operate that light-sport aircraft.
+. You must perform all training in an aircraft that complies with the requirements of § 91.109 of this chapter.
+. If you provide flight training for a certificate, rating or privilege, you must provide that flight training in an aircraft that meets the following:
+.. The aircraft must have at least two pilot stations and be of the same category and class appropriate to the certificate, rating or privilege sought.
+.. For single place aircraft, pre-solo flight training must be provided in an aircraft that has two pilot stations and is of the same category and class appropriate to the certificate, rating, or privilege sought.
+
+## § 61.417
+
+### Will my flight instructor certificate with a sport pilot rating list aircraft category and class ratings?
+
+Your flight instructor certificate does not list aircraft category and class ratings. When you successfully pass the practical test for a flight instructor certificate with a sport pilot rating, regardless of the light-sport aircraft privileges you seek, the FAA will issue you a flight instructor certificate with a sport pilot rating without any category and class ratings. The FAA will provide you with a logbook endorsement for the category and class of light-sport aircraft you are authorized to provide training in.
+
+## § 61.419
+
+### How do I obtain privileges to provide training in an additional category or class of light-sport aircraft?
+
+If you hold a flight instructor certificate with a sport pilot rating and seek to provide training in an additional category or class of light-sport aircraft you must—
+
+. Receive a logbook endorsement from the authorized instructor who trained you on the applicable areas of operation specified in § 61.409 certifying you have met the aeronautical knowledge and flight proficiency requirements for the additional category and class flight instructor privilege you seek;
+. Successfully complete a proficiency check from an authorized instructor other than the instructor who trained you on the areas specified in § 61.409 for the additional category and class flight instructor privilege you seek;
+. Complete an application for those privileges on a form and in a manner acceptable to the FAA and present this application to the authorized instructor who conducted the proficiency check specified in paragraph (b) of this section; and
+. Receive a logbook endorsement from the instructor who conducted the proficiency check specified in paragraph (b) of this section certifying you are proficient in the areas of operation and authorized for the additional category and class flight instructor privilege.
+
+## § 61.421
+
+### May I give myself an endorsement?
+
+No. If you hold a flight instructor certificate with a sport pilot rating, you may not give yourself an endorsement for any certificate, privilege, rating, flight review, authorization, practical test, knowledge test, or proficiency check required by this part.
+
+## § 61.423
+
+### What are the recordkeeping requirements for a flight instructor with a sport pilot rating?
+
+. As a flight instructor with a sport pilot rating you must:
+.. Sign the logbook of each person to whom you have given flight training or ground training.
+.. Keep a record of the name, date, and type of endorsement for:
+... Each person whose logbook you have endorsed for solo flight privileges.
+... Each person for whom you have provided an endorsement for a knowledge test, practical test, or proficiency check, and the record must indicate the kind of test or check, and the results.
+... Each person whose logbook you have endorsed as proficient to operate—
+... Each person whose logbook you have endorsed as proficient to provide flight training in an additional category or class of light-sport aircraft.
+. Within 10 days after providing an endorsement for a person to operate or provide training in an additional category and class of light-sport aircraft you must—
+.. Complete, sign, and submit to the FAA the application presented to you to obtain those privileges; and
+.. Retain a copy of the form.
+. You must keep the records listed in this section for 3 years. You may keep these records in a logbook or a separate document.
+
+(A) An additional category or class of light-sport aircraft;
+
+(B) In Class B, C, and D airspace; at an airport located in Class B, C, or D airspace; and to, from, through, or at an airport having an operational control tower;
+
+(C) A light-sport aircraft that is an airplane with a V*H* less than or equal to 87 knots CAS; and
+
+(D) A light-sport aircraft with a V*H* greater than 87 knots CAS.
+
+## § 61.425
+
+### How do I renew my flight instructor certificate?
+
+If you hold a flight instructor certificate with a sport pilot rating you may renew your certificate in accordance with the provisions of § 61.197.
+
+## § 61.427
+
+### What must I do if my flight instructor certificate with a sport pilot rating expires?
+
+You may exchange your expired flight instructor certificate with a sport pilot rating for a new certificate with a sport pilot rating and any other rating on that certificate by passing a practical test as prescribed in § 61.405(b) or § 61.183(h) for one of the ratings listed on the expired flight instructor certificate. The FAA will reinstate any privilege authorized by the expired certificate.
+
+## § 61.429
+
+### May I exercise the privileges of a flight instructor certificate with a sport pilot rating if I hold a flight instructor certificate with another rating?
+
+If you hold a flight instructor certificate, a commercial pilot certificate with an airship rating, or a commercial pilot certificate with a balloon rating issued under this part, and you seek to exercise the privileges of a flight instructor certificate with a sport pilot rating, you may do so without any further showing of proficiency, subject to the following limits:
+
+. You are limited to the aircraft category and class ratings listed on your flight instructor certificate, commercial pilot certificate with an airship rating, or commercial pilot certificate with a balloon rating, as appropriate, when exercising your flight instructor privileges and the privileges specified in § 61.413.
+. You must comply with the limits specified in § 61.415 and the recordkeeping requirements of § 61.423.
+. If you want to exercise the privileges of your flight instructor certificate in a category or class of light-sport aircraft for which you are not currently rated, you must meet all applicable requirements to provide training in an additional category or class of light-sport aircraft specified in § 61.419.
+

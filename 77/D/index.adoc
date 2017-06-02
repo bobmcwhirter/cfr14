@@ -1,0 +1,73 @@
+# Aeronautical Studies and Determinations
+:toc:
+
+## § 77.25
+
+### Applicability.
+
+. This subpart applies to any aeronautical study of a proposed construction or alteration for which notice to the FAA is required under § 77.9.
+. The purpose of an aeronautical study is to determine whether the aeronautical effects of the specific proposal and, where appropriate, the cumulative impact resulting from the proposed construction or alteration when combined with the effects of other existing or proposed structures, would constitute a hazard to air navigation.
+. The obstruction standards in subpart C of this part are supplemented by other manuals and directives used in determining the effect on the navigable airspace of a proposed construction or alteration. When the FAA needs additional information, it may circulate a study to interested parties for comment.
+
+## § 77.27
+
+### Initiation of studies.
+
+The FAA will conduct an aeronautical study when:
+
+. Requested by the sponsor of any proposed construction or alteration for which a notice is submitted; or
+. The FAA determines a study is necessary.
+
+## § 77.29
+
+### Evaluating aeronautical effect.
+
+. The FAA conducts an aeronautical study to determine the impact of a proposed structure, an existing structure that has not yet been studied by the FAA, or an alteration of an existing structure on aeronautical operations, procedures, and the safety of flight. These studies include evaluating:
+.. The impact on arrival, departure, and en route procedures for aircraft operating under visual flight rules;
+.. The impact on arrival, departure, and en route procedures for aircraft operating under instrument flight rules;
+.. The impact on existing and planned public use airports;
+.. Airport traffic capacity of existing public use airports and public use airport development plans received before the issuance of the final determination;
+.. Minimum obstacle clearance altitudes, minimum instrument flight rules altitudes, approved or planned instrument approach procedures, and departure procedures;
+.. The potential effect on ATC radar, direction finders, ATC tower line-of-sight visibility, and physical or electromagnetic effects on air navigation, communication facilities, and other surveillance systems;
+.. The aeronautical effects resulting from the cumulative impact of a proposed construction or alteration of a structure when combined with the effects of other existing or proposed structures.
+. If you withdraw the proposed construction or alteration or revise it so that it is no longer identified as an obstruction, or if no further aeronautical study is necessary, the FAA may terminate the study.
+
+## § 77.31
+
+### Determinations.
+
+. The FAA will issue a determination stating whether the proposed construction or alteration would be a hazard to air navigation, and will advise all known interested persons.
+. The FAA will make determinations based on the aeronautical study findings and will identify the following:
+.. The effects on VFR/IFR aeronautical departure/arrival operations, air traffic procedures, minimum flight altitudes, and existing, planned, or proposed airports listed in § 77.15(e) of which the FAA has received actual notice prior to issuance of a final determination.
+.. The extent of the physical and/or electromagnetic effect on the operation of existing or proposed air navigation facilities, communication aids, or surveillance systems.
+. The FAA will issue a Determination of Hazard to Air Navigation when the aeronautical study concludes that the proposed construction or alteration will exceed an obstruction standard and would have a substantial aeronautical impact.
+. A Determination of No Hazard to Air Navigation will be issued when the aeronautical study concludes that the proposed construction or alteration will exceed an obstruction standard but would not have a substantial aeronautical impact to air navigation. A Determination of No Hazard to Air Navigation may include the following:
+.. Conditional provisions of a determination.
+.. Limitations necessary to minimize potential problems, such as the use of temporary construction equipment.
+.. Supplemental notice requirements, when required.
+.. Marking and lighting recommendations, as appropriate.
+. The FAA will issue a Determination of No Hazard to Air Navigation when a proposed structure does not exceed any of the obstruction standards and would not be a hazard to air navigation.
+
+## § 77.33
+
+### Effective period of determinations.
+
+. The effective date of a determination not subject to discretionary review under 77.37(b) is the date of issuance. The effective date of all other determinations for a proposed or existing structure is 40 days from the date of issuance, provided a valid petition for review has not been received by the FAA. If a valid petition for review is filed, the determination will not become final, pending disposition of the petition.
+. Unless extended, revised, or terminated, each Determination of No Hazard to Air Navigation issued under this subpart expires 18 months after the effective date of the determination, or on the date the proposed construction or alteration is abandoned, whichever is earlier.
+. A Determination of Hazard to Air Navigation has no expiration date.
+
+## § 77.35
+
+### Extensions, terminations, revisions and corrections.
+
+. You may petition the FAA official that issued the Determination of No Hazard to Air Navigation to revise or reconsider the determination based on new facts or to extend the effective period of the determination, provided that:
+.. Actual structural work of the proposed construction or alteration, such as the laying of a foundation, but not including excavation, has not been started; and
+.. The petition is submitted at least 15 days before the expiration date of the Determination of No Hazard to Air Navigation.
+. A Determination of No Hazard to Air Navigation issued for those construction or alteration proposals not requiring an FCC construction permit may be extended by the FAA one time for a period not to exceed 18 months.
+. A Determination of No Hazard to Air Navigation issued for a proposal requiring an FCC construction permit may be granted extensions for up to 18 months, provided that:
+.. You submit evidence that an application for a construction permit/license was filed with the FCC for the associated site within 6 months of issuance of the determination; and
+.. You submit evidence that additional time is warranted because of FCC requirements; and
+.. Where the FCC issues a construction permit, a final Determination of No Hazard to Air Navigation is effective until the date prescribed by the FCC for completion of the construction. If an extension of the original FCC completion date is needed, an extension of the FAA determination must be requested from the Obstruction Evaluation Service (OES).
+              
+.. If the Commission refuses to issue a construction permit, the final determination expires on the date of its refusal.
+

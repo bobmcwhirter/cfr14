@@ -1,0 +1,416 @@
+# Flight Instructors Other than Flight Instructors With a Sport Pilot Rating
+:toc:
+
+## § 61.181
+
+### Applicability.
+
+This subpart prescribes the requirements for the issuance of flight instructor certificates and ratings (except for flight instructor certificates with a sport pilot rating), the conditions under which those certificates and ratings are necessary, and the limitations on those certificates and ratings.
+
+## § 61.183
+
+### Eligibility requirements.
+
+To be eligible for a flight instructor certificate or rating a person must:
+
+. Be at least 18 years of age;
+. Be able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's flight instructor certificate as are necessary;
+. Hold either a commercial pilot certificate or airline transport pilot certificate with:
+              
+.. An aircraft category and class rating that is appropriate to the flight instructor rating sought; and
+.. An instrument rating, or privileges on that person's pilot certificate that are appropriate to the flight instructor rating sought, if applying for—
+... A flight instructor certificate with an airplane category and single-engine class rating;
+... A flight instructor certificate with an airplane category and multiengine class rating;
+... A flight instructor certificate with a powered-lift rating; or
+... A flight instructor certificate with an instrument rating.
+. Receive a logbook endorsement from an authorized instructor on the fundamentals of instructing listed in § 61.185 of this part appropriate to the required knowledge test;
+. Pass a knowledge test on the areas listed in § 61.185(a)(1) of this part, unless the applicant:
+.. Holds a flight instructor certificate or ground instructor certificate issued under this part;
+.. Holds a teacher's certificate issued by a State, county, city, or municipality that authorizes the person to teach at an educational level of the 7th grade or higher; or
+.. Is employed as a teacher at an accredited college or university.
+. Pass a knowledge test on the aeronautical knowledge areas listed in § 61.185(a)(2) and (a)(3) of this part that are appropriate to the flight instructor rating sought;
+. Receive a logbook endorsement from an authorized instructor on the areas of operation listed in § 61.187(b) of this part, appropriate to the flight instructor rating sought;
+. Pass the required practical test that is appropriate to the flight instructor rating sought in an:
+.. Receive a logbook endorsement from an authorized instructor indicating that the applicant is competent and possesses instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures after providing the applicant with flight training in those training areas in an airplane or glider, as appropriate, that is certificated for spins; and
+.. Demonstrate instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures. However, upon presentation of the endorsement specified in paragraph (i)(1) of this section an examiner may accept that endorsement as satisfactory evidence of instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures for the practical test, provided that the practical test is not a retest as a result of the applicant failing the previous test for deficiencies in the knowledge or skill of stall awareness, spin entry, spins, or spin recovery instructional procedures. If the retest is a result of deficiencies in the ability of an applicant to demonstrate knowledge or skill of stall awareness, spin entry, spins, or spin recovery instructional procedures, the examiner must test the person on stall awareness, spin entry, spins, and spin recovery instructional procedures in an airplane or glider, as appropriate, that is certificated for spins;
+
+(j) Log at least 15 hours as pilot in command in the category and class of aircraft that is appropriate to the flight instructor rating sought; and
+
+(k) Comply with the appropriate sections of this part that apply to the flight instructor rating sought.
+
+## § 61.185
+
+### Aeronautical knowledge.
+
+. A person who is applying for a flight instructor certificate must receive and log ground training from an authorized instructor on:
+.. Except as provided in paragraph (b) of this section, the fundamentals of instructing, including:
+... The learning process;
+              
+... Elements of effective teaching;
+... Student evaluation and testing;
+... Course development;
+... Lesson planning; and
+... Classroom training techniques.
+.. The aeronautical knowledge areas for a recreational, private, and commercial pilot certificate applicable to the aircraft category for which flight instructor privileges are sought; and
+.. The aeronautical knowledge areas for the instrument rating applicable to the category for which instrument flight instructor privileges are sought.
+. The following applicants do not need to comply with paragraph (a)(1) of this section:
+.. The holder of a flight instructor certificate or ground instructor certificate issued under this part;
+.. The holder of a current teacher's certificate issued by a State, county, city, or municipality that authorizes the person to teach at an educational level of the 7th grade or higher; or
+.. A person employed as a teacher at an accredited college or university.
+
+## § 61.187
+
+### Flight proficiency.
+
+. *General.* A person who is applying for a flight instructor certificate must receive and log flight and ground training from an authorized instructor on the areas of operation listed in this section that apply to the flight instructor rating sought. The applicant's logbook must contain an endorsement from an authorized instructor certifying that the person is proficient to pass a practical test on those areas of operation.
+. *Areas of operation.* (1) For an airplane category rating with a single-engine class rating:
+. The flight training required by this section may be accomplished:
+.. In an aircraft that is representative of the category and class of aircraft for the rating sought; or
+.. In a flight simulator or flight training device representative of the category and class of aircraft for the rating sought, and used in accordance with an approved course at a training center certificated under part 142 of this chapter.
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Preflight procedures;
+
+(vi) Airport and seaplane base operations;
+
+(vii) Takeoffs, landings, and go-arounds;
+
+(viii) Fundamentals of flight;
+
+(ix) Performance maneuvers;
+
+(x) Ground reference maneuvers;
+
+(xi) Slow flight, stalls, and spins;
+
+(xii) Basic instrument maneuvers;
+
+(xiii) Emergency operations; and
+
+(xiv) Postflight procedures.
+
+(2) For an airplane category rating with a multiengine class rating:
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Preflight procedures;
+
+(vi) Airport and seaplane base operations;
+
+(vii) Takeoffs, landings, and go-arounds;
+
+(viii) Fundamentals of flight;
+
+(ix) Performance maneuvers;
+
+(x) Ground reference maneuvers;
+
+(xi) Slow flight and stalls;
+
+(xii) Basic instrument maneuvers;
+
+(xiii) Emergency operations;
+
+(xiv) Multiengine operations; and
+
+(xv) Postflight procedures.
+
+(3) For a rotorcraft category rating with a helicopter class rating:
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Preflight procedures;
+
+(vi) Airport and heliport operations;
+
+(vii) Hovering maneuvers;
+
+(viii) Takeoffs, landings, and go-arounds;
+
+(ix) Fundamentals of flight;
+
+(x) Performance maneuvers;
+
+(xi) Emergency operations;
+
+(xii) Special operations; and
+
+(xiii) Postflight procedures.
+
+(4) For a rotorcraft category rating with a gyroplane class rating:
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Preflight procedures;
+
+(vi) Airport operations;
+
+(vii) Takeoffs, landings, and go-arounds;
+
+(viii) Fundamentals of flight;
+
+(ix) Performance maneuvers;
+
+(x) Flight at slow airspeeds;
+
+(xi) Ground reference maneuvers;
+
+(xii) Emergency operations; and
+
+(xiii) Postflight procedures.
+
+(5) For a powered-lift category rating:
+              
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Preflight procedures;
+
+(vi) Airport and heliport operations;
+
+(vii) Hovering maneuvers;
+
+(viii) Takeoffs, landings, and go-arounds;
+
+(ix) Fundamentals of flight;
+
+(x) Performance maneuvers;
+
+(xi) Ground reference maneuvers;
+
+(xii) Slow flight and stalls;
+
+(xiii) Basic instrument maneuvers;
+
+(xiv) Emergency operations;
+
+(xv) Special operations; and
+
+(xvi) Postflight procedures.
+
+(6) For a glider category rating:
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Preflight procedures;
+
+(vi) Airport and gliderport operations;
+
+(vii) Launches and landings;
+
+(viii) Fundamentals of flight;
+
+(ix) Performance speeds;
+
+(x) Soaring techniques;
+
+(xi) Performance maneuvers;
+
+(xii) Slow flight, stalls, and spins;
+
+(xiii) Emergency operations; and
+
+(xiv) Postflight procedures.
+
+(7) For an instrument rating with the appropriate aircraft category and class rating:
+
+(i) Fundamentals of instructing;
+
+(ii) Technical subject areas;
+
+(iii) Preflight preparation;
+
+(iv) Preflight lesson on a maneuver to be performed in flight;
+
+(v) Air traffic control clearances and procedures;
+
+(vi) Flight by reference to instruments;
+
+(vii) Navigation aids;
+
+(viii) Instrument approach procedures;
+
+(ix) Emergency operations; and
+
+(x) Postflight procedures.
+
+## § 61.189
+
+### Flight instructor records.
+
+. A flight instructor must sign the logbook of each person to whom that instructor has given flight training or ground training.
+. A flight instructor must maintain a record in a logbook or a separate document that contains the following:
+.. The name of each person whose logbook that instructor has endorsed for solo flight privileges, and the date of the endorsement; and
+.. The name of each person that instructor has endorsed for a knowledge test or practical test, and the record shall also indicate the kind of test, the date, and the results.
+. Each flight instructor must retain the records required by this section for at least 3 years.
+
+## § 61.191
+
+### Additional flight instructor ratings.
+
+. A person who applies for an additional flight instructor rating on a flight instructor certificate must meet the eligibility requirements listed in § 61.183 of this part that apply to the flight instructor rating sought.
+. A person who applies for an additional rating on a flight instructor certificate is not required to pass the knowledge test on the areas listed in § 61.185(a)(1) of this part.
+
+## § 61.193
+
+### Flight instructor privileges.
+
+. A person who holds a flight instructor certificate is authorized within the limitations of that person's flight instructor certificate and ratings to train and issue endorsements that are required for:
+.. A student pilot certificate;
+.. A pilot certificate;
+              
+.. A flight instructor certificate;
+.. A ground instructor certificate;
+.. An aircraft rating;
+.. An instrument rating;
+.. A flight review, operating privilege, or recency of experience requirement of this part;
+.. A practical test; and
+.. A knowledge test.
+. A person who holds a flight instructor certificate is authorized, in a form and manner acceptable to the Administrator, to:
+.. Accept an application for a student pilot certificate or, for an applicant who holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, a remote pilot certificate with a small UAS rating;
+.. Verify the identity of the applicant; and
+.. Verify that an applicant for a student pilot certificate meets the eligibility requirements in § 61.83 or an applicant for a remote pilot certificate with a small UAS rating meets the eligibility requirements in § 107.61 of this chapter.
+
+## § 61.195
+
+### Flight instructor limitations and qualifications.
+
+A person who holds a flight instructor certificate is subject to the following limitations:
+
+. *Hours of training.* In any 24-consecutive-hour period, a flight instructor may not conduct more than 8 hours of flight training.
+. *Aircraft Ratings.* A flight instructor may not conduct flight training in any aircraft for which the flight instructor does not hold:
+.. A pilot certificate and flight instructor certificate with the applicable category and class rating; and
+.. If appropriate, a type rating.
+. *Instrument Rating.* A flight instructor who provides instrument training for the issuance of an instrument rating, a type rating not limited to VFR, or the instrument training required for commercial pilot and airline transport pilot certificates must hold an instrument rating on his or her pilot certificate and flight instructor certificate that is appropriate to the category and class of aircraft used for the training provided.
+. *Limitations on endorsements.* A flight instructor may not endorse a:
+.. Student pilot's logbook for solo flight privileges, unless that flight instructor has—
+... Given that student the flight training required for solo flight privileges required by this part; and
+... Determined that the student is prepared to conduct the flight safely under known circumstances, subject to any limitations listed in the student's logbook that the instructor considers necessary for the safety of the flight.
+.. Student pilot's logbook for a solo cross-country flight, unless that flight instructor has determined the student's flight preparation, planning, equipment, and proposed procedures are adequate for the proposed flight under the existing conditions and within any limitations listed in the logbook that the instructor considers necessary for the safety of the flight;
+.. Student pilot's logbook for solo flight in a Class B airspace area or at an airport within Class B airspace unless that flight instructor has—
+... Given that student ground and flight training in that Class B airspace or at that airport; and
+... Determined that the student is proficient to operate the aircraft safely.
+.. Logbook of a recreational pilot, unless that flight instructor has—
+... Given that pilot the ground and flight training required by this part; and
+... Determined that the recreational pilot is proficient to operate the aircraft safely.
+.. Logbook of a pilot for a flight review, unless that instructor has conducted a review of that pilot in accordance with the requirements of § 61.56(a) of this part; or
+.. Logbook of a pilot for an instrument proficiency check, unless that instructor has tested that pilot in accordance with the requirements of § 61.57(d) of this part.
+. *Training in an aircraft that requires a type rating.* A flight instructor may not give flight training in an aircraft that requires the pilot in command to hold a type rating unless the flight instructor holds a type rating for that aircraft on his or her pilot certificate.
+. *Training received in a multiengine airplane, a helicopter, or a powered-lift.* A flight instructor may not give training required for the issuance of a certificate or rating in a multiengine airplane, a helicopter, or a powered-lift unless that flight instructor has at least 5 flight hours of pilot-in-command time in the specific make and model of multiengine airplane, helicopter, or powered-lift, as appropriate.
+. *Position in aircraft and required pilot stations for providing flight training.* (1) A flight instructor must perform all training from in an aircraft that complies with the requirements of § 91.109 of this chapter.
+. *Qualifications of the flight instructor for training first-time flight instructor applicants.* (1) The ground training provided to an initial applicant for a flight instructor certificate must be given by an authorized instructor who—
+. Holds a ground or flight instructor certificate with the appropriate rating, has held that certificate for at least 24 calendar months, and has given at least 40 hours of ground training; or
+. *Additional qualifications required to give training in Category II or Category III operations.* A flight instructor may not give training in Category II or Category III operations unless the flight instructor has been trained and tested in Category II or Category III operations, pursuant to § 61.67 or § 61.68 of this part, as applicable.
+. *Training for night vision goggle operations.* A flight instructor may not conduct training for night vision goggle operations unless the flight instructor:
+.. Has a pilot and flight instructor certificate with the applicable category and class rating for the training;
+.. If appropriate, has a type rating on his or her pilot certificate for the aircraft;
+.. Is pilot in command qualified for night vision goggle operations, in accordance with § 61.31(k);
+.. Has logged 100 night vision goggle operations as the sole manipulator of the controls;
+.. Has logged 20 night vision goggle operations as the sole manipulator of the controls in the category and class, and type of aircraft, if aircraft class and type is appropriate, that the training will be given in;
+.. Is qualified to act as pilot in command in night vision goggle operations under § 61.57(f) or (g); and
+.. Has a logbook endorsement from an FAA Aviation Safety Inspector or a person who is authorized by the FAA to provide that logbook endorsement that states the flight instructor is authorized to perform the night vision goggle pilot in command qualification and recent flight experience requirements under § 61.31(k) and § 61.57(f) and (g).
+
+(2) A flight instructor who provides flight training for a pilot certificate or rating issued under this part must provide that flight training in an aircraft that meets the following requirements—
+
+(i) The aircraft must have at least two pilot stations and be of the same category, class, and type, if appropriate, that applies to the pilot certificate or rating sought.
+
+(ii) For single-place aircraft, the pre-solo flight training must have been provided in an aircraft that has two pilot stations and is of the same category, class, and type, if appropriate.
+
+(ii) Holds a ground or flight instructor certificate with the appropriate rating, and has given at least 100 hours of ground training in an FAA-approved course.
+
+(2) Except for an instructor who meets the requirements of paragraph (h)(3)(ii) of this section, a flight instructor who provides training to an initial applicant for a flight instructor certificate must—
+
+(i) Meet the eligibility requirements prescribed in § 61.183 of this part;
+
+(ii) Hold the appropriate flight instructor certificate and rating;
+
+(iii) Have held a flight instructor certificate for at least 24 months;
+
+(iv) For training in preparation for an airplane, rotorcraft, or powered-lift rating, have given at least 200 hours of flight training as a flight instructor; and
+
+(v) For training in preparation for a glider rating, have given at least 80 hours of flight training as a flight instructor.
+
+(3) A flight instructor who serves as a flight instructor in an FAA-approved course for the issuance of a flight instructor rating must hold a flight instructor certificate with the appropriate rating and pass the required initial and recurrent flight instructor proficiency tests, in accordance with the requirements of the part under which the FAA-approved course is conducted, and must—
+
+(i) Meet the requirements of paragraph (h)(2) of this section; or
+
+(ii) Have trained and endorsed at least five applicants for a practical test for a pilot certificate, flight instructor certificate, ground instructor certificate, or an additional rating, and at least 80 percent of those applicants passed that test on their first attempt; and
+
+(A) Given at least 400 hours of flight training as a flight instructor for training in an airplane, a rotorcraft, or for a powered-lift rating; or
+
+(B) Given at least 100 hours of flight training as a flight instructor, for training in a glider rating.
+
+(i) *Prohibition against self-endorsements.* A flight instructor shall not make any self-endorsement for a certificate, rating, flight review, authorization, operating privilege, practical test, or knowledge test that is required by this part.
+
+## § 61.197
+
+### Renewal requirements for flight instructor certification.
+
+. A person who holds a flight instructor certificate that has not expired may renew that flight instructor certificate by—
+.. Passing a practical test for—
+... One of the ratings listed on the current flight instructor certificate; or
+... An additional flight instructor rating; or
+.. Submitting a completed and signed application with the FAA and satisfactorily completing one of the following renewal requirements—
+... A record of training students showing that, during the preceding 24 calendar months, the flight instructor has endorsed at least 5 students for a practical test for a certificate or rating and at least 80 percent of those students passed that test on the first attempt.
+... A record showing that, within the preceding 24 calendar months, the flight instructor has served as a company check pilot, chief flight instructor, company check airman, or flight instructor in a part 121 or part 135 operation, or in a position involving the regular evaluation of pilots.
+... A graduation certificate showing that, within the preceding 3 calendar months, the person has successfully completed an approved flight instructor refresher course consisting of ground training or flight training, or a combination of both.
+... A record showing that, within the preceding 12 months from the month of application, the flight instructor passed an official U.S. Armed Forces military instructor pilot proficiency check.
+. The expiration month of a renewed flight instructor certificate shall be 24 calendar months from—
+.. The month the renewal requirements of paragraph (a) of this section are accomplished; or
+.. The month of expiration of the current flight instructor certificate provided—
+... The renewal requirements of paragraph (a) of this section are accomplished within the 3 calendar months preceding the expiration month of the current flight instructor certificate, and
+... If the renewal is accomplished under paragraph (a)(2)(iii) of this section, the approved flight instructor refresher course must be completed within the 3 calendar months preceding the expiration month of the current flight instructor certificate.
+. The practical test required by paragraph (a)(1) of this section may be accomplished in a flight simulator or flight training device if the test is accomplished pursuant to an approved course conducted by a training center certificated under part 142 of this chapter.
+
+## § 61.199
+
+### Reinstatement requirements of an expired flight instructor certificate.
+
+. *Flight instructor certificates.* The holder of an expired flight instructor certificate who has not complied with the flight instructor renewal requirements of § 61.197 may reinstate that flight instructor certificate and ratings by filing a completed and signed application with the FAA and satisfactorily completing one of the following reinstatement requirements:
+.. A flight instructor certification practical test, as prescribed by § 61.183(h), for one of the ratings held on the expired flight instructor certificate.
+.. A flight instructor certification practical test for an additional rating.
+. *Flight instructor ratings.* (1) A flight instructor rating or a limited flight instructor rating on a pilot certificate is no longer valid and may not be exchanged for a similar rating or a flight instructor certificate.
+
+(2) The holder of a flight instructor rating or a limited flight instructor rating on a pilot certificate may be issued a flight instructor certificate with the current ratings, but only if the person passes the required knowledge and practical test prescribed in this subpart for the issuance of the current flight instructor certificate and rating.
+
+## § 61.201
+
+### Reserved
+

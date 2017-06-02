@@ -1,0 +1,45 @@
+# Moored Balloons and Kites
+:toc:
+
+## § 101.11
+
+### Applicability.
+
+This subpart applies to the operation of moored balloons and kites. However, a person operating a moored balloon or kite within a restricted area must comply only with § 101.19 and with additional limitations imposed by the using or controlling agency, as appropriate.
+
+## § 101.13
+
+### Operating limitations.
+
+. Except as provided in paragraph (b) of this section, no person may operate a moored balloon or kite—
+.. Less than 500 feet from the base of any cloud;
+.. More than 500 feet above the surface of the earth;
+.. From an area where the ground visibility is less than three miles; or
+.. Within five miles of the boundary of any airport.
+. Paragraph (a) of this section does not apply to the operation of a balloon or kite below the top of any structure and within 250 feet of it, if that shielded operation does not obscure any lighting on the structure.
+
+## § 101.15
+
+### Notice requirements.
+
+No person may operate an unshielded moored balloon or kite more than 150 feet above the surface of the earth unless, at least 24 hours before beginning the operation, he gives the following information to the FAA ATC facility that is nearest to the place of intended operation:
+
+. The names and addresses of the owners and operators.
+. The size of the balloon or the size and weight of the kite.
+. The location of the operation.
+. The height above the surface of the earth at which the balloon or kite is to be operated.
+. The date, time, and duration of the operation.
+
+## § 101.17
+
+### Lighting and marking requirements.
+
+. No person may operate a moored balloon or kite, between sunset and sunrise unless the balloon or kite, and its mooring lines, are lighted so as to give a visual warning equal to that required for obstructions to air navigation in the FAA publication “Obstruction Marking and Lighting”.
+. No person may operate a moored balloon or kite between sunrise and sunset unless its mooring lines have colored pennants or streamers attached at not more than 50 foot intervals beginning at 150 feet above the surface of the earth and visible for at least one mile.
+
+## § 101.19
+
+### Rapid deflation device.
+
+No person may operate a moored balloon unless it has a device that will automatically and rapidly deflate the balloon if it escapes from its moorings. If the device does not function properly, the operator shall immediately notify the nearest ATC facility of the location and time of the escape and the estimated flight path of the balloon.
+

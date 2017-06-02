@@ -1,0 +1,104 @@
+# General
+:toc:
+
+## § 99.1
+
+### Applicability.
+
+. This subpart prescribes rules for operating all aircraft (except for Department of Defense and law enforcement aircraft) in a defense area, or into, within, or out of the United States through an Air Defense Identification Zone (ADIZ) designated in subpart B.
+. Except for §§ 99.7, 99.13, and 99.15 this subpart does not apply to the operation of any aircraft-
+.. Within the 48 contiguous States and the District of Columbia, or within the State of Alaska, on a flight which remains within 10 nautical miles of the point of departure;
+.. Operating at true airspeed of less than 180 knots in the Hawaii ADIZ or over any island, or within 12 nautical miles of the coastline of any island, in the Hawaii ADIZ;
+.. Operating at true airspeed of less than 180 knots in the Alaska ADIZ while the pilot maintains a continuous listening watch on the appropriate frequency; or
+.. Operating at true airspeed of less than 180 knots in the Guam ADIZ.
+. An FAA ATC center may exempt the following operations from this subpart (except § 99.7) on a local basis only, with the concurrence of the U.S. military commanders concerned, or pursuant to an agreement with a U.S. Federal security or intelligence agency:
+.. Aircraft operations that are conducted wholly within the boundaries of an ADIZ and are not currently significant to the air defense system.
+.. Aircraft operations conducted in accordance with special procedures prescribed by a U.S. military authority, or a U.S. Federal security or intelligence agency concerned.
+
+## § 99.3
+
+### Definitions.
+
+*Aeronautical facility* means, for the purposes of this subpart, a communications facility where flight plans or position reports are normally filed during flight operations.
+
+*Air defense identification zone* (ADIZ) means an area of airspace over land or water in which the ready identification, location, and control of all aircraft (except for Department of Defense and law enforcement aircraft) is required in the interest of national security.
+
+*Defense area* means any airspace of the contiguous United States that is not an ADIZ in which the control of aircraft is required for reasons of national security.
+
+*Defense visual flight rules* (DVFR) means, for the purposes of this subpart, a flight within an ADIZ conducted by any aircraft (except for Department of Defense and law enforcement aircraft) in accordance with visual flight rules in part 91 of this title.
+
+## § 99.5
+
+### Emergency situations.
+
+In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from the rules in this part to the extent required by that emergency. He shall report the reasons for the deviation to the communications facility where flight plans or position reports are normally filed (referred to in this part as “an appropriate aeronautical facility”) as soon as possible.
+
+## § 99.7
+
+### Special security instructions.
+
+Each person operating an aircraft in an ADIZ or Defense Area must, in addition to the applicable rules of this part, comply with special security instructions issued by the Administrator in the interest of national security, pursuant to agreement between the FAA and the Department of Defense, or between the FAA and a U.S. Federal security or intelligence agency.
+
+## § 99.9
+
+### Radio requirements.
+
+. A person who operates a civil aircraft into an ADIZ must have a functioning two-way radio, and the pilot must maintain a continuous listening watch on the appropriate aeronautical facility's frequency.
+. No person may operate an aircraft into, within, or whose departure point is within an ADIZ unless—
+.. The person files a DVFR flight plan containing the time and point of ADIZ penetration, and
+.. The aircraft departs within five minutes of the estimated departure time contained in the flight plan.
+. If the pilot operating an aircraft under DVFR in an ADIZ cannot maintain two-way radio communications, the pilot may proceed, in accordance with original DVFR flight plan, or land as soon as practicable. The pilot must report the radio failure to an appropriate aeronautical facility as soon as possible.
+. If a pilot operating an aircraft under IFR in an ADIZ cannot maintain two-way radio communications, the pilot must proceed in accordance with § 91.185 of this chapter.
+
+## § 99.11
+
+### ADIZ flight plan requirements.
+
+. No person may operate an aircraft into, within, or from a departure point within an ADIZ, unless the person files, activates, and closes a flight plan with the appropriate aeronautical facility, or is otherwise authorized by air traffic control.
+. Unless ATC authorizes an abbreviated flight plan—
+.. A flight plan for IFR flight must contain the information specified in § 91.169; and
+.. A flight plan for VFR flight must contain the information specified in § 91.153(a) (1) through (6).
+.. If airport of departure is within the Alaskan ADIZ and there is no facility for filing a flight plan then:
+... Immediately after takeoff or when within range of an appropriate aeronautical facility, comply with provisions of paragraph (b)(1) or (b)(2) as appropriate.
+... Proceed according to the instructions issued by the appropriate aeronautical facility.
+. The pilot shall designate a flight plan for VFR flight as a DVFR flight plan.
+. The pilot in command of an aircraft for which a flight plan has been filed must file an arrival or completion notice with an appropriate aeronautical facility.
+
+## § 99.12
+
+### Reserved
+
+## § 99.13
+
+### Transponder-on requirements.
+
+. *Aircraft transponder-on operation.* Each person operating an aircraft into or out of the United States into, within, or across an ADIZ designated in subpart B of this part, if that aircraft is equipped with an operable radar beacon transponder, shall operate the transponder, including altitude encoding equipment if installed, and shall reply on the appropriate code or as assigned by ATC.
+. *ATC transponder equipment and use.* Effective September 7, 1990, unless otherwise authorized by ATC, no person may operate a civil aircraft into or out of the United States into, within, or across the contiguous U.S. ADIZ designated in subpart B of this part unless that aircraft is equipped with a coded radar beacon transponder.
+. *ATC transponder and altitude reporting equipment and use.* Effective December 30, 1990, unless otherwise authorized by ATC, no person may operate a civil aircraft into or out of the United States into, within, or across the contiguous U.S. ADIZ unless that aircraft is equipped with a coded radar beacon transponder and automatic pressure altitude reporting equipment having altitude reporting capability that automatically replies to interrogations by transmitting pressure altitude information in 100-foot increments.
+. Paragraphs (b) and (c) of this section do not apply to the operation of an aircraft which was not originally certificated with an engine-driven electrical system and which has not subsequently been certified with such a system installed, a balloon, or a glider.
+
+## § 99.15
+
+### Position reports.
+
+. The pilot of an aircraft operating in or penetrating an ADIZ under IFR—
+.. In controlled airspace, must make the position reports required in § 91.183; and
+.. In uncontrolled airspace, must make the position reports required in this section.
+. No pilot may operate an aircraft penetrating an ADIZ under DVFR unless—
+.. The pilot reports to an appropriate aeronautical facility before penetration: the time, position, and altitude at which the aircraft passed the last reporting point before penetration and the estimated time of arrival over the next appropriate reporting point along the flight route;
+.. If there is no appropriate reporting point along the flight route, the pilot reports at least 15 minutes before penetration: The estimated time, position, and altitude at which the pilot will penetrate; or
+.. If the departure airport is within an ADIZ or so close to the ADIZ boundary that it prevents the pilot from complying with paragraphs (b)(1) or (2) of this section, the pilot must report immediately after departure: the time of departure, the altitude, and the estimated time of arrival over the first reporting point along the flight route.
+. In addition to any other reports as ATC may require, no pilot in command of a foreign civil aircraft may enter the United States through an ADIZ unless that pilot makes the reports required in this section or reports the position of the aircraft when it is not less that one hour and not more that 2 hours average direct cruising distance from the United States.
+
+## § 99.17
+
+### Deviation from flight plans and ATC clearances and instructions.
+
+. No pilot may deviate from the provisions of an ATC clearance or ATC instruction except in accordance with § 91.123 of this chapter.
+. No pilot may deviate from the filed IFR flight plan when operating an aircraft in uncontrolled airspace unless that pilot notifies an appropriate aeronautical facility before deviating.
+. No pilot may deviate from the filed DVFR flight plan unless that pilot notifies an appropriate aeronautical facility before deviating.
+
+## §§ 99.19-99.31
+
+### Reserved
+

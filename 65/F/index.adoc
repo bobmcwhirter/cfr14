@@ -1,0 +1,149 @@
+# Parachute Riggers
+:toc:
+
+## § 65.111
+
+### Certificate required.
+
+. No person may pack, maintain, or alter any personnel-carrying parachute intended for emergency use in connection with civil aircraft of the United States (including the reserve parachute of a dual parachute system to be used for intentional parachute jumping) unless that person holds an appropriate current certificate and type rating issued under this subpart and complies with §§ 65.127 through 65.133.
+. No person may pack any main parachute of a dual-parachute system to be used for intentional parachute jumping in connection with civil aircraft of the United States unless that person—
+.. Has an appropriate current certificate issued under this subpart;
+.. Is under the supervision of a current certificated parachute rigger;
+.. Is the person making the next parachute jump with that parachute in accordance with § 105.43(a) of this chapter; or
+.. Is the parachutist in command making the next parachute jump with that parachute in a tandem parachute operation conducted under § 105.45(b)(1) of this chapter.
+. No person may maintain or alter any main parachute of a dual-parachute system to be used for intentional parachute jumping in connection with civil aircraft of the United States unless that person—
+.. Has an appropriate current certificate issued under this subpart; or
+.. Is under the supervision of a current certificated parachute rigger;
+. Each person who holds a parachute rigger certificate shall present it for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
+. The following parachute rigger certificates are issued under this part:
+.. Senior parachute rigger.
+.. Master parachute rigger.
+. Sections 65.127 through 65.133 do not apply to parachutes packed, maintained, or altered for the use of the armed forces.
+
+## § 65.113
+
+### Eligibility requirements: General.
+
+. To be eligible for a parachute rigger certificate, a person must—
+.. Be at least 18 years of age;
+.. Be able to read, write, speak, and understand the English language, or, in the case of a citizen of Puerto Rico, or a person who is employed outside of the United States by a U.S. air carrier, and who does not meet this requirement, be issued a certificate that is valid only in Puerto Rico or while he is employed outside of the United States by that air carrier, as the case may be; and
+.. Comply with the sections of this subpart that apply to the certificate and type rating he seeks.
+. Except for a master parachute rigger certificate, a parachute rigger certificate that was issued before, and was valid on, October 31, 1962, is equal to a senior parachute rigger certificate, and may be exchanged for such a corresponding certificate.
+
+## § 65.115
+
+### Senior parachute rigger certificate: Experience, knowledge, and skill requirements.
+
+Except as provided in § 65.117, an applicant for a senior parachute rigger certificate must—
+
+. Present evidence satisfactory to the Administrator that he has packed at least 20 parachutes of each type for which he seeks a rating, in accordance with the manufacturer's instructions and under the supervision of a certificated parachute rigger holding a rating for that type or a person holding an appropriate military rating;
+. Pass a written test, with respect to parachutes in common use, on—
+.. Their construction, packing, and maintenance;
+.. The manufacturer's instructions;
+.. The regulations of this subpart; and
+. Pass an oral and practical test showing his ability to pack and maintain at least one type of parachute in common use, appropriate to the type rating he seeks.
+
+## § 65.117
+
+### Military riggers or former military riggers: Special certification rule.
+
+In place of the procedure in § 65.115, an applicant for a senior parachute rigger certificate is entitled to it if he passes a written test on the regulations of this subpart and presents satisfactory documentary evidence that he—
+
+. Is a member or civilian employee of an Armed Force of the United States, is a civilian employee of a regular armed force of a foreign country, or has, within the 12 months before he applies, been honorably discharged or released from any status covered by this paragraph;
+. Is serving, or has served within the 12 months before he applies, as a parachute rigger for such an Armed Force; and
+. Has the experience required by § 65.115(a).
+
+## § 65.119
+
+### Master parachute rigger certificate: Experience, knowledge, and skill requirements.
+
+An applicant for a master parachute rigger certificate must meet the following requirements:
+
+. Present evidence satisfactory to the Administrator that he has had at least 3 years of experience as a parachute rigger and has satisfactorily packed at least 100 parachutes of each of two types in common use, in accordance with the manufacturer's instructions—
+.. While a certificated and appropriately rated senior parachute rigger; or
+.. While under the supervision of a certificated and appropriately rated parachute rigger or a person holding appropriate military ratings.
+              
+. If the applicant is not the holder of a senior parachute rigger certificate, pass a written test, with respect to parachutes in common use, on—
+.. Their construction, packing, and maintenance;
+.. The manufacturer's instructions; and
+.. The regulations of this subpart.
+. Pass an oral and practical test showing his ability to pack and maintain two types of parachutes in common use, appropriate to the type ratings he seeks.
+
+## § 65.121
+
+### Type ratings.
+
+. The following type ratings are issued under this subpart:
+.. Seat.
+.. Back.
+.. Chest.
+.. Lap.
+. The holder of a senior parachute rigger certificate who qualifies for a master parachute rigger certificate is entitled to have placed on his master parachute rigger certificate the ratings that were on his senior parachute rigger certificate.
+
+## § 65.123
+
+### Additional type ratings: Requirements.
+
+A certificated parachute rigger who applies for an additional type rating must—
+
+. Present evidence satisfactory to the Administrator that he has packed at least 20 parachutes of the type for which he seeks a rating, in accordance with the manufacturer's instructions and under the supervision of a certificated parachute rigger holding a rating for that type or a person holding an appropriate military rating; and
+. Pass a practical test, to the satisfaction of the Administrator, showing his ability to pack and maintain the type of parachute for which he seeks a rating.
+
+## § 65.125
+
+### Certificates: Privileges.
+
+. A certificated senior parachute rigger may—
+.. Pack or maintain (except for major repair) any type of parachute for which he is rated; and
+.. Supervise other persons in packing any type of parachute for which that person is rated in accordance with § 105.43(a) or § 105.45(b)(1) of this chapter.
+. A certificated master parachute rigger may—
+.. Pack, maintain, or alter any type of parachute for which he is rated; and
+.. Supervise other persons in packing, maintaining, or altering any type of parachute for which the certificated parachute rigger is rated in accordance with § 105.43(a) or § 105.45(b)(1) of this chapter.
+. A certificated parachute rigger need not comply with §§ 65.127 through 65.133 (relating to facilities, equipment, performance standards, records, recent experience, and seal) in packing, maintaining, or altering (if authorized) the main parachute of a dual parachute pack to be used for intentional jumping.
+
+## § 65.127
+
+### Facilities and equipment.
+
+No certificated parachute rigger may exercise the privileges of his certificate unless he has at least the following facilities and equipment available to him:
+
+. A smooth top table at least three feet wide by 40 feet long.
+. Suitable housing that is adequately heated, lighted, and ventilated for drying and airing parachutes.
+. Enough packing tools and other equipment to pack and maintain the types of parachutes that he services.
+. Adequate housing facilities to perform his duties and to protect his tools and equipment.
+
+## § 65.129
+
+### Performance standards.
+
+No certificated parachute rigger may—
+
+. Pack, maintain, or alter any parachute unless he is rated for that type;
+. Pack a parachute that is not safe for emergency use;
+. Pack a parachute that has not been thoroughly dried and aired;
+. Alter a parachute in a manner that is not specifically authorized by the Administrator or the manufacturer;
+. Pack, maintain, or alter a parachute in any manner that deviates from procedures approved by the Administrator or the manufacturer of the parachute; or
+. Exercise the privileges of his certificate and type rating unless he understands the current manufacturer's instructions for the operation involved and has—
+.. Performed duties under his certificate for at least 90 days within the preceding 12 months; or
+.. Shown the Administrator that he is able to perform those duties.
+
+## § 65.131
+
+### Records.
+
+. Each certificated parachute rigger shall keep a record of the packing, maintenance, and alteration of parachutes performed or supervised by him. He shall keep in that record, with respect to each parachute worked on, a statement of—
+.. Its type and make;
+.. Its serial number;
+.. The name and address of its owner;
+.. The kind and extent of the work performed;
+.. The date when and place where the work was performed; and
+.. The results of any drop tests made with it.
+. Each person who makes a record under paragraph (a) of this section shall keep it for at least 2 years after the date it is made.
+. Each certificated parachute rigger who packs a parachute shall write, on the parachute packing record attached to the parachute, the date and place of the packing and a notation of any defects he finds on inspection. He shall sign that record with his name and the number of his certificate.
+
+## § 65.133
+
+### Seal.
+
+Each certificated parachute rigger must have a seal with an identifying mark prescribed by the Administrator, and a seal press. After packing a parachute he shall seal the pack with his seal in accordance with the manufacturer's recommendation for that type of parachute.
+

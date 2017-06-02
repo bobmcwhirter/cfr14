@@ -1,0 +1,63 @@
+# General
+:toc:
+
+## § 107.1
+
+### Applicability.
+
+. Except as provided in paragraph (b) of this section, this part applies to the registration, airman certification, and operation of civil small unmanned aircraft systems within the United States.
+. This part does not apply to the following:
+.. Air carrier operations;
+.. Any aircraft subject to the provisions of part 101 of this chapter; or
+.. Any operation that a remote pilot in command elects to conduct pursuant to an exemption issued under section 333 of Public Law 112-95, unless otherwise specified in the exemption.
+
+## § 107.3
+
+### Definitions.
+
+The following definitions apply to this part. If there is a conflict between the definitions of this part and definitions specified in § 1.1 of this chapter, the definitions in this part control for purposes of this part:
+
+*Control station* means an interface used by the remote pilot to control the flight path of the small unmanned aircraft.
+
+*Corrective lenses* means spectacles or contact lenses.
+
+*Small unmanned aircraft* means an unmanned aircraft weighing less than 55 pounds on takeoff, including everything that is on board or otherwise attached to the aircraft.
+
+*Small unmanned aircraft system (small UAS)* means a small unmanned aircraft and its associated elements (including communication links and the components that control the small unmanned aircraft) that are required for the safe and efficient operation of the small unmanned aircraft in the national airspace system.
+
+*Unmanned aircraft* means an aircraft operated without the possibility of direct human intervention from within or on the aircraft.
+
+*Visual observer* means a person who is designated by the remote pilot in command to assist the remote pilot in command and the person manipulating the flight controls of the small UAS to see and avoid other air traffic or objects aloft or on the ground.
+
+## § 107.5
+
+### Falsification, reproduction or alteration.
+
+. No person may make or cause to be made—
+.. Any fraudulent or intentionally false record or report that is required to be made, kept, or used to show compliance with any requirement under this part.
+.. Any reproduction or alteration, for fraudulent purpose, of any certificate, rating, authorization, record or report under this part.
+. The commission by any person of an act prohibited under paragraph (a) of this section is a basis for any of the following:
+.. Denial of an application for a remote pilot certificate or a certificate of waiver,
+.. Suspension or revocation of any certificate or waiver issued by the Administrator under this part and held by that person; or
+.. A civil penalty.
+
+## § 107.7
+
+### Inspection, testing, and demonstration of compliance.
+
+. A remote pilot in command, owner, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, make available to the Administrator:
+.. The remote pilot certificate with a small UAS rating; and
+.. Any other document, record, or report required to be kept under the regulations of this chapter.
+. The remote pilot in command, visual observer, owner, operator, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, allow the Administrator to make any test or inspection of the small unmanned aircraft system, the remote pilot in command, the person manipulating the flight controls of a small unmanned aircraft system, and, if applicable, the visual observer to determine compliance with this part.
+
+## § 107.9
+
+### Accident reporting.
+
+No later than 10 calendar days after an operation that meets the criteria of either paragraph (a) or (b) of this section, a remote pilot in command must report to the FAA, in a manner acceptable to the Administrator, any operation of the small unmanned aircraft involving at least:
+
+. Serious injury to any person or any loss of consciousness; or
+. Damage to any property, other than the small unmanned aircraft, unless one of the following conditions is satisfied:
+.. The cost of repair (including materials and labor) does not exceed $500; or
+.. The fair market value of the property does not exceed $500 in the event of total loss.
+

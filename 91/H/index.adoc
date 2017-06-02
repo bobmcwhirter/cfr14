@@ -1,0 +1,114 @@
+# Foreign Aircraft Operations and Operations of U.S.-Registered Civil Aircraft Outside of the United States; and Rules Governing Persons on Board Such Aircraft
+:toc:
+
+## § 91.701
+
+### Applicability.
+
+. This subpart applies to the operations of civil aircraft of U.S. registry outside of the United States and the operations of foreign civil aircraft within the United States.
+. Section 91.702 of this subpart also applies to each person on board an aircraft operated as follows:
+.. A U.S. registered civil aircraft operated outside the United States;
+.. Any aircraft operated outside the United States—
+... That has its next scheduled destination or last place of departure in the United States if the aircraft next lands in the United States; or
+... If the aircraft lands in the United States with the individual still on the aircraft regardless of whether it was a scheduled or otherwise planned landing site.
+
+## § 91.702
+
+### Persons on board.
+
+Section 91.11 of this part (Prohibitions on interference with crewmembers) applies to each person on board an aircraft.
+
+## § 91.703
+
+### Operations of civil aircraft of U.S. registry outside of the United States.
+
+. Each person operating a civil aircraft of U.S. registry outside of the United States shall—
+.. When over the high seas, comply with annex 2 (Rules of the Air) to the Convention on International Civil Aviation and with §§ 91.117(c), 91.127, 91.129, and 91.131;
+.. When within a foreign country, comply with the regulations relating to the flight and maneuver of aircraft there in force;
+.. Except for §§ 91.117(a), 91.307(b), 91.309, 91.323, and 91.711, comply with this part so far as it is not inconsistent with applicable regulations of the foreign country where the aircraft is operated or annex 2 of the Convention on International Civil Aviation; and
+.. When operating within airspace designated as Minimum Navigation Performance Specifications (MNPS) airspace, comply with § 91.705. When operating within airspace designated as Reduced Vertical Separation Minimum (RVSM) airspace, comply with § 91.706.
+.. For aircraft subject to ICAO Annex 16, carry on board the aircraft documents that summarize the noise operating characteristics and certifications of the aircraft that demonstrate compliance with this part and part 36 of this chapter.
+. Annex 2 to the Convention on International Civil Aviation, Ninth Edition—July 1990, with Amendments through Amendment 32 effective February 19, 1996, to which reference is made in this part, is incorporated into this part and made a part hereof as provided in 5 U.S.C. § 552 and pursuant to 1 CFR part 51. Annex 2 (including a complete historic file of changes thereto) is available for public inspection at the Rules Docket, AGC-200, Federal Aviation Administration, 800 Independence Avenue SW., Washington, DC 20591; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.* In addition, Annex 2 may be purchased from the International Civil Aviation Organization (Attention: Distribution Officer), P.O. Box 400, Succursale, Place de L'Aviation Internationale, 1000 Sherbrooke Street West, Montreal, Quebec, Canada H3A 2R2.
+
+## § 91.705
+
+### Operations within airspace designated as Minimum Navigation Performance Specification Airspace.
+
+. Except as provided in paragraph (b) of this section, no person may operate a civil aircraft of U.S. registry in airspace designated as Minimum Navigation Performance Specifications airspace unless—
+.. The aircraft has approved navigation performance capability that complies with the requirements of appendix C of this part; and
+.. The operator is authorized by the Administrator to perform such operations.
+. The Administrator may authorize a deviation from the requirements of this section in accordance with Section 3 of appendix C to this part.
+
+## § 91.706
+
+### Operations within airspace designed as Reduced Vertical Separation Minimum Airspace.
+
+. Except as provided in paragraph (b) of this section, no person may operate a civil aircraft of U.S. registry in airspace designated as Reduced Vertical Separation Minimum (RVSM) airspace unless:
+.. The operator and the operator's aircraft comply with the requirements of appendix G of this part; and
+.. The operator is authorized by the Administrator to conduct such operations.
+. The Administrator may authorize a deviation from the requirements of this section in accordance with Section 5 of appendix G to this part.
+
+## § 91.707
+
+### Flights between Mexico or Canada and the United States.
+
+Unless otherwise authorized by ATC, no person may operate a civil aircraft between Mexico or Canada and the United States without filing an IFR or VFR flight plan, as appropriate.
+
+## § 91.709
+
+### Operations to Cuba.
+
+No person may operate a civil aircraft from the United States to Cuba unless—
+
+. Departure is from an international airport of entry designated in § 6.13 of the Air Commerce Regulations of the Bureau of Customs (19 CFR 6.13); and
+. In the case of departure from any of the 48 contiguous States or the District of Columbia, the pilot in command of the aircraft has filed—
+.. A DVFR or IFR flight plan as prescribed in § 99.11 or § 99.13 of this chapter; and
+.. A written statement, within 1 hour before departure, with the Office of Immigration and Naturalization Service at the airport of departure, containing—
+... All information in the flight plan;
+... The name of each occupant of the aircraft;
+... The number of occupants of the aircraft; and
+... A description of the cargo, if any.
+              
+
+## § 91.711
+
+### Special rules for foreign civil aircraft.
+
+. *General.* In addition to the other applicable regulations of this part, each person operating a foreign civil aircraft within the United States shall comply with this section.
+. *VFR.* No person may conduct VFR operations which require two-way radio communications under this part unless at least one crewmember of that aircraft is able to conduct two-way radio communications in the English language and is on duty during that operation.
+. *IFR.* No person may operate a foreign civil aircraft under IFR unless—
+.. That aircraft is equipped with—
+... Radio equipment allowing two-way radio communication with ATC when it is operated in controlled airspace; and
+... Navigation equipment suitable for the route to be flown.
+.. Each person piloting the aircraft—
+... Holds a current United States instrument rating or is authorized by his foreign airman certificate to pilot under IFR; and
+... Is thoroughly familiar with the United States en route, holding, and letdown procedures; and
+.. At least one crewmember of that aircraft is able to conduct two-way radiotelephone communications in the English language and that crewmember is on duty while the aircraft is approaching, operating within, or leaving the United States.
+. *Over water.* Each person operating a foreign civil aircraft over water off the shores of the United States shall give flight notification or file a flight plan in accordance with the Supplementary Procedures for the ICAO region concerned.
+. *Flight at and above FL 240.* If VOR navigation equipment is required under paragraph (c)(1)(ii) of this section, no person may operate a foreign civil aircraft within the 50 States and the District of Columbia at or above FL 240, unless the aircraft is equipped with approved DME or a suitable RNAV system. When the DME or RNAV system required by this paragraph fails at and above FL 240, the pilot in command of the aircraft must notify ATC immediately and may then continue operations at and above FL 240 to the next airport of intended landing where repairs or replacement of the equipment can be made. A foreign civil aircraft may be operated within the 50 States and the District of Columbia at or above FL 240 without DME or an RNAV system when operated for the following purposes, and ATC is notified before each takeoff:
+.. Ferry flights to and from a place in the United States where repairs or alterations are to be made.
+.. Ferry flights to a new country of registry.
+.. Flight of a new aircraft of U.S. manufacture for the purpose of—
+... Flight testing the aircraft;
+... Training foreign flight crews in the operation of the aircraft; or
+... Ferrying the aircraft for export delivery outside the United States.
+.. Ferry, demonstration, and test flight of an aircraft brought to the United States for the purpose of demonstration or testing the whole or any part thereof.
+
+## § 91.713
+
+### Operation of civil aircraft of Cuban registry.
+
+No person may operate a civil aircraft of Cuban registry except in controlled airspace and in accordance with air traffic clearance or air traffic control instructions that may require use of specific airways or routes and landings at specific airports.
+
+## § 91.715
+
+### Special flight authorizations for foreign civil aircraft.
+
+. Foreign civil aircraft may be operated without airworthiness certificates required under § 91.203 if a special flight authorization for that operation is issued under this section. Application for a special flight authorization must be made to the Flight Standards Division Manager or Aircraft Certification Directorate Manager of the FAA region in which the applicant is located or to the region within which the U.S. point of entry is located. However, in the case of an aircraft to be operated in the U.S. for the purpose of demonstration at an airshow, the application may be made to the Flight Standards Division Manager or Aircraft Certification Directorate Manager of the FAA region in which the airshow is located.
+. The Administrator may issue a special flight authorization for a foreign civil aircraft subject to any conditions and limitations that the Administrator considers necessary for safe operation in the U.S. airspace.
+. No person may operate a foreign civil aircraft under a special flight authorization unless that operation also complies with part 375 of the Special Regulations of the Department of Transportation (14 CFR part 375).
+
+## §§ 91.717-91.799
+
+### Reserved
+

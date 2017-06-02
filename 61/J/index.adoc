@@ -1,0 +1,168 @@
+# Sport Pilots
+:toc:
+
+## § 61.301
+
+### What is the purpose of this subpart and to whom does it apply?
+
+. This subpart prescribes the following requirements that apply to a sport pilot certificate:
+.. Eligibility.
+.. Aeronautical knowledge.
+.. Flight proficiency.
+.. Aeronautical experience.
+.. Endorsements.
+.. Privileges and limits.
+. Other provisions of this part apply to the logging of flight time and testing.
+. This subpart applies to applicants for, and holders of, sport pilot certificates. It also applies to holders of recreational pilot certificates and higher, as provided in § 61.303.
+
+## § 61.303
+
+### If I want to operate a light-sport aircraft, what operating limits and endorsement requirements in this subpart must I comply with?
+
+. Use the following table to determine what operating limits and endorsement requirements in this subpart, if any, apply to you when you operate a light-sport aircraft. The medical certificate specified in this table must be in compliance with § 61.2 in regards to currency and validity. If you hold a recreational pilot certificate, but not a medical certificate, you must comply with cross country requirements in § 61.101 (c), even if your flight does not exceed 50 nautical miles from your departure airport. You must also comply with requirements in other subparts of this part that apply to your certificate and the operation you conduct.
+. A person using a U.S. driver's license to meet the requirements of this paragraph must—
+.. Comply with each restriction and limitation imposed by that person's U.S. driver's license and any judicial or administrative order applying to the operation of a motor vehicle;
+.. Have been found eligible for the issuance of at least a third-class airman medical certificate at the time of his or her most recent application (if the person has applied for a medical certificate);
+.. Not have had his or her most recently issued medical certificate (if the person has held a medical certificate) suspended or revoked or most recent Authorization for a Special Issuance of a Medical Certificate withdrawn; and
+.. Not know or have reason to know of any medical condition that would make that person unable to operate a light-sport aircraft in a safe manner.
+
+## § 61.305
+
+### What are the age and language requirements for a sport pilot certificate?
+
+. To be eligible for a sport pilot certificate you must:
+.. Be at least 17 years old (or 16 years old if you are applying to operate a glider or balloon).
+.. Be able to read, speak, write, and understand English. If you cannot read, speak, write, and understand English because of medical reasons, the FAA may place limits on your certificate as are necessary for the safe operation of light-sport aircraft.
+
+## § 61.307
+
+### What tests do I have to take to obtain a sport pilot certificate?
+
+To obtain a sport pilot certificate, you must pass the following tests:
+
+. *Knowledge test.* You must pass a knowledge test on the applicable aeronautical knowledge areas listed in § 61.309. Before you may take the knowledge test for a sport pilot certificate, you must receive a logbook endorsement from the authorized instructor who trained you or reviewed and evaluated your home-study course on the aeronautical knowledge areas listed in § 61.309 certifying you are prepared for the test.
+. *Practical test.* You must pass a practical test on the applicable areas of operation listed in §§ 61.309 and 61.311. Before you may take the practical test for a sport pilot certificate, you must receive a logbook endorsement from the authorized instructor who provided you with flight training on the areas of operation specified in §§ 61.309 and 61.311 in preparation for the practical test. This endorsement certifies that you meet the applicable aeronautical knowledge and experience requirements and are prepared for the practical test.
+
+## § 61.309
+
+### What aeronautical knowledge must I have to apply for a sport pilot certificate?
+
+To apply for a sport pilot certificate you must receive and log ground training from an authorized instructor or complete a home-study course on the following aeronautical knowledge areas:
+
+. Applicable regulations of this chapter that relate to sport pilot privileges, limits, and flight operations.
+. Accident reporting requirements of the National Transportation Safety Board.
+. Use of the applicable portions of the aeronautical information manual and FAA advisory circulars.
+. Use of aeronautical charts for VFR navigation using pilotage, dead reckoning, and navigation systems, as appropriate.
+. Recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts.
+. Safe and efficient operation of aircraft, including collision avoidance, and recognition and avoidance of wake turbulence.
+. Effects of density altitude on takeoff and climb performance.
+. Weight and balance computations.
+. Principles of aerodynamics, powerplants, and aircraft systems.
+. Stall awareness, spin entry, spins, and spin recovery techniques, as applicable.
+. Aeronautical decision making and risk management.
+. Preflight actions that include—
+.. How to get information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and forecasts, and fuel requirements; and
+              
+.. How to plan for alternatives if the planned flight cannot be completed or if you encounter delays.
+
+## § 61.311
+
+### What flight proficiency requirements must I meet to apply for a sport pilot certificate?
+
+To apply for a sport pilot certificate you must receive and log ground and flight training from an authorized instructor on the following areas of operation, as appropriate, for airplane single-engine land or sea, glider, gyroplane, airship, balloon, powered parachute land or sea, and weight-shift-control aircraft land or sea privileges:
+
+. Preflight preparation.
+. Preflight procedures.
+. Airport, seaplane base, and gliderport operations, as applicable.
+. Takeoffs (or launches), landings, and go-arounds.
+. Performance maneuvers, and for gliders, performance speeds.
+. Ground reference maneuvers (not applicable to gliders and balloons).
+. Soaring techniques (applicable only to gliders).
+. Navigation.
+. Slow flight (not applicable to lighter-than-air aircraft and powered parachutes).
+. Stalls (not applicable to lighter-than-air aircraft, gyroplanes, and powered parachutes).
+. Emergency operations.
+. Post-flight procedures.
+
+## § 61.313
+
+### What aeronautical experience must I have to apply for a sport pilot certificate?
+
+Use the following table to determine the aeronautical experience you must have to apply for a sport pilot certificate:
+
+## § 61.315
+
+### What are the privileges and limits of my sport pilot certificate?
+
+. If you hold a sport pilot certificate you may act as pilot in command of a light-sport aircraft, except as specified in paragraph (c) of this section.
+. You may share the operating expenses of a flight with a passenger, provided the expenses involve only fuel, oil, airport expenses, or aircraft rental fees. You must pay at least half the operating expenses of the flight.
+. You may not act as pilot in command of a light-sport aircraft:
+.. That is carrying a passenger or property for compensation or hire.
+.. For compensation or hire.
+.. In furtherance of a business.
+.. While carrying more than one passenger.
+.. At night.
+.. In Class A airspace.
+.. In Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower unless you have met the requirements specified in § 61.325.
+.. Outside the United States, unless you have prior authorization from the country in which you seek to operate. Your sport pilot certificate carries the limit “Holder does not meet ICAO requirements.”
+.. To demonstrate the aircraft in flight to a prospective buyer if you are an aircraft salesperson.
+.. In a passenger-carrying airlift sponsored by a charitable organization.
+.. At an altitude of more than 10,000 feet MSL or 2,000 feet AGL, whichever is higher.
+.. When the flight or surface visibility is less than 3 statute miles.
+.. Without visual reference to the surface.
+.. If the aircraft:
+... Has a V*H* greater than 87 knots CAS, unless you have met the requirements of § 61.327(b).
+... Has a V*H* less than or equal to 87 knots CAS, unless you have met the requirements of § 61.327(a) or have logged flight time as pilot in command of an airplane with a V*H* less than or equal to 87 knots CAS before April 2, 2010.
+.. Contrary to any operating limitation placed on the airworthiness certificate of the aircraft being flown.
+.. Contrary to any limit on your pilot certificate or airman medical certificate, or any other limit or endorsement from an authorized instructor.
+.. Contrary to any restriction or limitation on your U.S. driver's license or any restriction or limitation imposed by judicial or administrative order when using your driver's license to satisfy a requirement of this part.
+.. While towing any object.
+.. As a pilot flight crewmember on any aircraft for which more than one pilot is required by the type certificate of the aircraft or the regulations under which the flight is conducted.
+
+## § 61.317
+
+### Is my sport pilot certificate issued with aircraft category and class ratings?
+
+Your sport pilot certificate does not list aircraft category and class ratings. When you successfully pass the practical test for a sport pilot certificate, regardless of the light-sport aircraft privileges you seek, the FAA will issue you a sport pilot certificate without any category and class ratings. The FAA will provide you with a logbook endorsement for the category and class of aircraft in which you are authorized to act as pilot in command.
+
+## § 61.319
+
+### Reserved
+
+## § 61.321
+
+### How do I obtain privileges to operate an additional category or class of light-sport aircraft?
+
+If you hold a sport pilot certificate and seek to operate an additional category or class of light-sport aircraft, you must—
+
+. Receive a logbook endorsement from the authorized instructor who trained you on the applicable aeronautical knowledge areas specified in § 61.309 and areas of operation specified in § 61.311. The endorsement certifies you have met the aeronautical knowledge and flight proficiency requirements for the additional light-sport aircraft privilege you seek;
+. Successfully complete a proficiency check from an authorized instructor other than the instructor who trained you on the aeronautical knowledge areas and areas of operation specified in §§ 61.309 and 61.311 for the additional light-sport aircraft privilege you seek;
+. Complete an application for those privileges on a form and in a manner acceptable to the FAA and present this application to the authorized instructor who conducted the proficiency check specified in paragraph (b) of this section; and
+. Receive a logbook endorsement from the instructor who conducted the proficiency check specified in paragraph (b) of this section certifying you are proficient in the applicable areas of operation and aeronautical knowledge areas, and that you are authorized for the additional category and class light-sport aircraft privilege.
+
+## § 61.323
+
+### Reserved
+
+## § 61.325
+
+### How do I obtain privileges to operate a light-sport aircraft at an airport within, or in airspace within, Class B, C, and D airspace, or in other airspace with an airport having an operational control tower?
+
+If you hold a sport pilot certificate and seek privileges to operate a light-sport aircraft in Class B, C, or D airspace, at an airport located in Class B, C, or D airspace, or to, from, through, or at an airport having an operational control tower, you must receive and log ground and flight training. The authorized instructor who provides this training must provide a logbook endorsement that certifies you are proficient in the following aeronautical knowledge areas and areas of operation:
+
+. The use of radios, communications, navigation system/facilities, and radar services.
+. Operations at airports with an operating control tower to include three takeoffs and landings to a full stop, with each landing involving a flight in the traffic pattern, at an airport with an operating control tower.
+. Applicable flight rules of part 91 of this chapter for operations in Class B, C, and D airspace and air traffic control clearances.
+
+## § 61.327
+
+### Are there specific endorsement requirements to operate a light-sport aircraft based on V*H*?
+
+. Except as specified in paragraph (c) of this section, if you hold a sport pilot certificate and you seek to operate a light-sport aircraft that is an airplane with a V*H* less than or equal to 87 knots CAS you must—
+.. Receive and log ground and flight training from an authorized instructor in an airplane that has a V*H* less than or equal to 87 knots CAS; and
+.. Receive a logbook endorsement from the authorized instructor who provided the training specified in paragraph (a)(1) of this section certifying that you are proficient in the operation of light-sport aircraft that is an airplane with a V*H* less than or equal to 87 knots CAS.
+. If you hold a sport pilot certificate and you seek to operate a light-sport aircraft that has a V*H* greater than 87 knots CAS you must—
+.. Receive and log ground and flight training from an authorized instructor in an aircraft that has a V*H* greater than 87 knots CAS; and
+.. Receive a logbook endorsement from the authorized instructor who provided the training specified in paragraph (b)(1) of this section certifying that you are proficient in the operation of light-sport aircraft with a V*H* greater than 87 knots CAS.
+. The training and endorsements required by paragraph (a) of this section are not required if you have logged flight time as pilot in command of an airplane with a V*H* less than or equal to 87 knots CAS prior to April 2, 2010.
+

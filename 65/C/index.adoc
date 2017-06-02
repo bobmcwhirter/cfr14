@@ -1,0 +1,128 @@
+# Aircraft Dispatchers
+:toc:
+
+## § 65.51
+
+### Certificate required.
+
+. No person may act as an aircraft dispatcher (exercising responsibility with the pilot in command in the operational control of a flight) in connection with any civil aircraft in air commerce unless that person has in his or her personal possession an aircraft dispatcher certificate issued under this subpart.
+. Each person who holds an aircraft dispatcher certificate must present it for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
+
+## § 65.53
+
+### Eligibility requirements: General.
+
+. To be eligible to take the aircraft dispatcher knowledge test, a person must be at least 21 years of age.
+. To be eligible for an aircraft dispatcher certificate, a person must—
+.. Be at least 23 years of age;
+.. Be able to read, speak, write, and understand the English language;
+.. Pass the required knowledge test prescribed by § 65.55 of this part;
+.. Pass the required practical test prescribed by § 65.59 of this part; and
+.. Comply with the requirements of § 65.57 of this part.
+
+## § 65.55
+
+### Knowledge requirements.
+
+. A person who applies for an aircraft dispatcher certificate must pass a knowledge test on the following aeronautical knowledge areas:
+.. Applicable Federal Aviation Regulations of this chapter that relate to airline transport pilot privileges, limitations, and flight operations;
+.. Meteorology, including knowledge of and effects of fronts, frontal characteristics, cloud formations, icing, and upper-air data;
+.. General system of weather and NOTAM collection, dissemination, interpretation, and use;
+.. Interpretation and use of weather charts, maps, forecasts, sequence reports, abbreviations, and symbols;
+              
+.. National Weather Service functions as they pertain to operations in the National Airspace System;
+.. Windshear and microburst awareness, identification, and avoidance;
+.. Principles of air navigation under instrument meteorological conditions in the National Airspace System;
+.. Air traffic control procedures and pilot responsibilities as they relate to enroute operations, terminal area and radar operations, and instrument departure and approach procedures;
+.. Aircraft loading, weight and balance, use of charts, graphs, tables, formulas, and computations, and their effect on aircraft performance;
+.. Aerodynamics relating to an aircraft's flight characteristics and performance in normal and abnormal flight regimes;
+.. Human factors;
+.. Aeronautical decision making and judgment; and
+.. Crew resource management, including crew communication and coordination.
+. The applicant must present documentary evidence satisfactory to the administrator of having passed an aircraft dispatcher knowledge test within the preceding 24 calendar months.
+
+## § 65.57
+
+### Experience or training requirements.
+
+An applicant for an aircraft dispatcher certificate must present documentary evidence satisfactory to the Administrator that he or she has the experience prescribed in paragraph (a) of this section or has accomplished the training described in paragraph (b) of this section as follows:
+
+. A total of at least 2 years experience in the 3 years before the date of application, in any one or in any combination of the following areas:
+.. In military aircraft operations  as a—
+... Pilot;
+... Flight navigator; or
+... Meteorologist.
+.. In aircraft operations conducted under part 121 of this chapter as—
+... An assistant in dispatching air carrier aircraft, under the direct supervision of a dispatcher certificated under this subpart;
+... A pilot;
+... A flight engineer; or
+... A meteorologist.
+.. In aircraft operations as—
+... An Air Traffic Controller; or
+... A Flight Service Specialist.
+.. In aircraft operations, performing other duties that the Administrator finds provide equivalent experience.
+. A statement of graduation issued or revalidated in accordance with § 65.70(b) of this part, showing that the person has successfully completed an approved aircraft dispatcher course.
+
+## § 65.59
+
+### Skill requirements.
+
+An applicant for an aircraft dispatcher certificate must pass a practical test given by the Administrator, with respect to any one type of large aircraft used in air carrier operations. The practical test must be based on the aircraft dispatcher practical test standards, as published by the FAA, on the items outlined in appendix A of this part.
+
+## § 65.61
+
+### Aircraft dispatcher certification courses: Content and minimum hours.
+
+. An approved aircraft dispatcher certification course must:
+.. Provide instruction in the areas of knowledge and topics listed in appendix A of this part;
+.. Include a minimum of 200 hours of instruction.
+. An applicant for approval of an aircraft dispatcher course must submit an outline that describes the major topics and subtopics to be covered and the number of hours proposed for each.
+. Additional subject headings for an aircraft dispatcher certification course may also be included, however the hours proposed for any subjects not listed in appendix A of this part must be in addition to the minimum 200 course hours required in paragraph (a) of this section.
+. For the purpose of completing an approved course, a student may substitute previous experience or training for a portion of the minimum 200 hours of training. The course operator determines the number of hours of credit based on an evaluation of the experience or training to determine if it is comparable to portions of the approved course curriculum. The credit allowed, including the total hours and the basis for it, must be placed in the student's record required by § 65.70(a) of this part.
+
+## § 65.63
+
+### Aircraft dispatcher certification courses: Application, duration, and other general requirements.
+
+. *Application.* Application for original approval of an aircraft dispatcher certification course or the renewal of approval of an aircraft dispatcher certification course under this part must be:
+.. Made in writing to the Administrator;
+.. Accompanied by two copies of the course outline required under § 65.61(b) of this part, for which approval is sought;
+.. Accompanied by a description of the equipment and facilities to be used; and
+.. Accompanied by a list of the instructors and their qualifications.
+. *Duration.* Unless withdrawn or canceled, an approval of an aircraft dispatcher certification course of study expires:
+.. On the last day of the 24th month from the month the approval was issued; or
+.. Except as provided in paragraph (f) of this section, on the date that any change in ownership of the school occurs.
+. *Renewal.* Application for renewal of an approved aircraft dispatcher certification course must be made within 30 days preceding the month the approval expires, provided the course operator meets the following requirements:
+.. At least 80 percent of the graduates from that aircraft dispatcher certification course, who applied for the practical test required by § 65.59 of this part, passed the practical test on their first attempt; and
+.. The aircraft dispatcher certification course continues to meet the requirements of this subpart for course approval.
+. *Course revisions.* Requests for approval of a revision of the course outline, facilities, or equipment must be in accordance with paragraph (a) of this section. Proposed revisions of the course outline or the description of facilities and equipment must be submitted in a format that will allow an entire page or pages of the approved outline or description to be removed and replaced by any approved revision. The list of instructors may be revised at any time without request for approval, provided the minimum requirements of § 65.67 of this part are maintained and the Administrator is notified in writing.
+. *Withdrawal or cancellation of approval.* Failure to continue to meet the requirements of this subpart for the approval or operation of an approved aircraft dispatcher certification course is grounds for withdrawal of approval of the course. A course operator may request cancellation of course approval by a letter to the Administrator. The operator must forward any records to the FAA as requested by the Administrator.
+. *Change in ownership.* A change in ownership of a part 65, appendix A-approved course does not terminate that aircraft dispatcher certification course approval if, within 10 days after the date that any change in ownership of the school occurs:
+.. Application is made for an appropriate amendment to the approval; and
+.. No change in the facilities, personnel, or approved aircraft dispatcher certification course is involved.
+. *Change in name or location.* A change in name or location of an approved aircraft dispatcher certification course does not invalidate the approval if, within 10 days after the date that any change in name or location occurs, the course operator of the part 65, appendix A-approved course notifies the Administrator, in writing, of the change.
+
+## § 65.65
+
+### Aircraft dispatcher certification courses: Training facilities.
+
+An applicant for approval of authority to operate an aircraft dispatcher course of study must have facilities, equipment, and materials adequate to provide each student the theoretical and practical aspects of aircraft dispatching. Each room, training booth, or other space used for instructional purposes must be temperature controlled, lighted, and ventilated to conform to local building, sanitation, and health codes. In addition, the training facility must be so located that the students in that facility are not distracted by the instruction conducted in other rooms.
+
+## § 65.67
+
+### Aircraft dispatcher certification courses: Personnel.
+
+. Each applicant for an aircraft dispatcher certification course must meet the following personnel requirements:
+.. Each applicant must have adequate personnel, including one instructor who holds an aircraft dispatcher certificate and is available to coordinate all training course instruction.
+.. Each applicant must not exceed a ratio of 25 students for one instructor.
+. The instructor who teaches the practical dispatch applications area of the appendix A course must hold an aircraft dispatchers certificate
+
+## § 65.70
+
+### Aircraft dispatcher certification courses: Records.
+
+. The operator of an aircraft dispatcher course must maintain a record for each student, including a chronological log of all instructors, subjects covered, and course examinations and results. The record must be retained for at least 3 years after graduation. The course operator also must prepare, for its records, and transmit to the Administrator not later than January 31 of each year, a report containing the following information for the previous year:
+.. The names of all students who graduated, together with the results of their aircraft dispatcher certification courses.
+.. The names of all the students who failed or withdrew, together with the results of their aircraft dispatcher certification courses or the reasons for their withdrawal.
+. Each student who successfully completes the approved aircraft dispatcher certification course must be given a written statement of graduation, which is valid for 90 days. After 90 days, the course operator may revalidate the graduation certificate for an additional 90 days if the course operator determines that the student remains proficient in the subject areas listed in appendix A of this part.
+

@@ -1,0 +1,353 @@
+# FLIGHT SIMULATION TRAINING DEVICE INITIAL AND CONTINUING QUALIFICATION AND USE
+:toc:
+
+## § 60.1
+
+### Applicability.
+
+. This part prescribes the rules governing the initial and continuing qualification and use of all aircraft flight simulation training devices (FSTD) used for meeting training, evaluation, or flight experience requirements of this chapter for flight crewmember certification or qualification.
+. The rules of this part apply to each person using or applying to use an FSTD to meet any requirement of this chapter.
+. The requirements of § 60.33 regarding falsification of applications, records, or reports also apply to each person who uses an FSTD for training, evaluation, or obtaining flight experience required for flight crewmember certification or qualification under this chapter.
+
+## § 60.2
+
+### Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.
+
+. The rules of this part that are directed to a sponsor of an FSTD also apply to any person who uses or causes the use of an FSTD when—
+.. That person knows that the FSTD does not have an FAA-approved sponsor; and
+.. The use of the FSTD by that person is nonetheless claimed for purposes of meeting any requirement of this chapter or that person knows or should have known that the person's acts or omissions would cause another person to mistakenly credit use of the FSTD for purposes of meeting any requirement of this chapter.
+            
+. A situation in which paragraph (a) of this section would not apply to a person would be when each of the following conditions are met:
+.. The person sold or leased the FSTD and merely represented to the purchaser or lessee that the FSTD is in a condition in which it should be able to obtain FAA approval and qualification under this part;
+.. The person does not falsely claim to be the FAA-approved sponsor for the FSTD;
+.. The person does not falsely make representations that someone else is the FAA-approved sponsor of the FSTD at a time when that other person is not the FAA-approved sponsor of the FSTD; and
+.. The person's acts or omissions do not cause another person to detrimentally rely on such acts or omissions for the mistaken conclusion that the FSTD is FAA-approved and qualified under this part at the time the FSTD is sold or leased.
+
+## § 60.3
+
+### Definitions.
+
+In addition to the definitions in part 1 of this chapter, other terms and definitions applicable to this part are found in appendix F of this part.
+
+## § 60.4
+
+### Qualification Performance Standards.
+
+The Qualification Performance Standards (QPS) are published in appendices to this part as follows:
+
+. Appendix A contains the QPS for Airplane Flight Simulators.
+. Appendix B contains the QPS for Airplane Flight Training Devices.
+. Appendix C contains the QPS for Helicopter Flight Simulators.
+. Appendix D contains the QPS for Helicopter Flight Training Devices.
+. Appendix E contains the QPS for Quality Management Systems for FSTDs.
+. Appendix F contains the QPS for Definitions and Abbreviations for FSTDs.
+
+## § 60.5
+
+### Quality management system.
+
+. After May 30, 2010, no sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience to meet any requirement of this chapter unless the sponsor has established and follows a quality management system (QMS), currently approved by the National Simulator Program Manager (NSPM), for the continuing surveillance and analysis of the sponsor's performance and effectiveness in providing a satisfactory FSTD for use on a regular basis as described in QPS appendix E of this part.
+. The QMS program must provide a process for identifying deficiencies in the program and for documenting how the program will be changed to address these deficiencies.
+. Whenever the NSPM finds that the QMS program does not adequately address the procedures necessary to meet the requirements of this part, the sponsor must, after notification by the NSPM, change the program so the procedures meet the requirements of this part. Each such change must be approved by the NSPM prior to implementation.
+. Within 30 days after the sponsor receives a notice described in paragraph (c) of this section, the sponsor may file a petition with the Director of Flight Standards Service (the Director) for reconsideration of the NSPM finding. The sponsor must address its petition to the Director, Flight Standards Service, AFS-1, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591. The filing of such a petition to reconsider stays the notice pending a decision by the Director. However, if the Director finds that there is a situation that requires immediate action in the interest of safety in air commerce, he may, upon a statement of the reasons, require a change effective without stay.
+
+## § 60.7
+
+### Sponsor qualification requirements.
+
+. A person is eligible to apply to be a sponsor of an FSTD if the following conditions are met:
+.. The person holds, or is an applicant for, a certificate under part 119, 141, or 142 of this chapter; or holds, or is an applicant for, an approved flight engineer course in accordance with part 63 of this chapter.
+            
+.. The FSTD will be used, or will be offered for use, in the sponsor's FAA-approved flight training program for the aircraft being simulated as evidenced in a request for evaluation submitted to the NSPM.
+. A person is a sponsor if the following conditions are met:
+.. The person is a certificate holder under part 119, 141, or 142 of this chapter or has an approved flight engineer course in accordance with part 63 of this chapter.
+.. The person has—
+... Operations specifications authorizing the use of the specific aircraft or set of aircraft and has an FAA-approved training program under which at least one FSTD, simulating the aircraft or set of aircraft and for which the person is the sponsor, is used by the sponsor as described in paragraphs (b)(5) or (b)(6) of this section; or
+... Training specifications or an FAA-approved course of training under which at least one FSTD, simulating that aircraft or set of aircraft and for which the person is the sponsor, is used by the sponsor as described in paragraphs (b)(5) or (b)(6) of this section.
+.. The person has a quality management system currently approved by the NSPM in accordance with § 60.5.
+.. The NSPM has accepted the person as the sponsor of the FSTD and that acceptance has not been withdrawn by the FAA.
+.. At least one FSTD (as referenced in paragraph (b)(2)(i) or (b)(2)(ii) of this section) that is initially qualified on or after May 30, 2008, is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the initial/upgrade evaluation, and at least once within each subsequent 12-month period thereafter.
+.. At least one FSTD (as referenced in paragraph (b)(2)(i) or (b)(2)(ii) of this section) that was qualified before May 30, 2008, is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the first continuing qualification evaluation conducted by the NSPM after May 30, 2008 and at least once within each subsequent 12-month period thereafter.
+. If the use requirements of paragraphs (b)(2) and either (b)(5) or (b)(6) of this section are not met, the person will forfeit the right to sponsor that FSTD and that person will not be eligible to apply to sponsor that FSTD for at least 12 calendar months following the expiration of the qualification status.
+. In addition to the FSTD described in paragraph (b) of this section, an FSTD sponsor may sponsor any number of other FSTDs regardless of specific aircraft or set of aircraft provided either—
+.. During the preceding 12-month period, all of the other FSTDs are used within the sponsor's or another certificate holder's FAA-approved flight training program for the aircraft or set of aircraft simulated; or
+.. The sponsor obtains a written statement at least annually from a qualified pilot who has flown the aircraft or set of aircraft (as appropriate) during the preceding 12-month period stating that the subject FSTD's performance and handling qualities, within the normal operating envelope, represent the aircraft or set of aircraft described in the FAA Type Certificate and the type data sheet, if appropriate. The sponsor must retain the two most current written statements for review by the NSPM.
+
+## § 60.9
+
+### Additional responsibilities of the sponsor.
+
+. The sponsor must allow the NSPM upon request to inspect the FSTD as soon as practicable. This inspection may include all records and documents relating to the FSTD, to determine its compliance with this part.
+. The sponsor must do the following for each FSTD:
+.. Establish a mechanism to receive written comments regarding the FSTD and its operation in accordance with the QPS appendix E of this part.
+.. Post in or adjacent to the FSTD the Statement of Qualification issued by the NSPM. An electronic copy of the Statement of Qualification that may be accessed by an appropriate terminal or display in or adjacent to the FSTD is satisfactory.
+. Each sponsor of an FSTD must identify to the NSPM by name, one individual to be the management representative (MR).
+.. One person may serve as an MR for more than one FSTD, but one FSTD must not have more than one person serving in this capacity.
+.. Each MR must be an employee of the sponsor with the responsibility and authority to—
+... Monitor the on-going qualification of assigned FSTDs to ensure that all matters regarding FSTD qualification are being carried out as provided for in this part;
+... Ensure that the QMS is properly established, implemented, and maintained by overseeing the structure (and modifying where necessary) of the QMS policies, practices, and procedures; and
+... Regularly brief sponsor's management on the status of the on-going FSTD qualification program and the effectiveness and efficiency of the QMS.
+.. The MR serves as the primary contact point for all matters between the sponsor and the NSPM regarding the qualification of that FSTD as provided for in this part.
+.. The MR may delegate the duties described in paragraph (c)(2) and (c)(3) of this section to an individual at each of the sponsor's locations.
+
+## § 60.11
+
+### FSTD use.
+
+No person may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience to meet any of the requirements under this chapter unless, in accordance with the QPS for the specific device, the FSTD meets all of the following:
+
+. Has a single sponsor who is qualified under § 60.7. The sponsor may arrange with another person for services of document preparation and presentation, as well as FSTD inspection, maintenance, repair, and servicing; however, the sponsor remains responsible for ensuring that these functions are conducted in a manner and with a result of continually meeting the requirements of this part.
+. Is qualified as described in the Statement of Qualification.
+. Remains qualified, through satisfactory inspection, continuing qualification evaluations, appropriate maintenance, and use requirements in accordance with this part and the applicable QPS.
+. Functions during day-to-day training, evaluation, or flight experience activities with the software and hardware that was evaluated as satisfactory by the NSPM and, if modified, modified only in accordance with the provisions of this part. However, this section does not apply to routine software or hardware changes that do not fall under the requirements of § 60.23.
+. Is operated in accordance with the provisions and limitations of § 60.25.
+
+## § 60.13
+
+### FSTD objective data requirements.
+
+. Except as provided in paragraph (b) and (c) of this section, for the purposes of validating FSTD performance and handling qualities during evaluation for qualification, the data made available to the NSPM (the validation data package) must include the aircraft manufacturer's flight test data and all relevant data developed after the type certificate was issued (*e.g.*, data developed in response to an airworthiness directive) if such data results from a change in performance, handling qualities, functions, or other characteristics of the aircraft that must be considered for flight crewmember training, evaluation, or for meeting experience requirements of this chapter.
+. The validation data package may contain flight test data from a source in addition to or independent of the aircraft manufacturer's data in support of an FSTD qualification, but only if this data is gathered and developed by that source in accordance with flight test methods, including a flight test plan, as described in the applicable QPS.
+. The validation data package may also contain predicted data, engineering simulation data, data from pilot owner or pilot operating manuals, or data from public domain sources, provided this data is acceptable to the NSPM. If found acceptable the data may then be used in particular applications for FSTD qualification.
+. Data or other material or elements must be submitted in a form and manner acceptable to the NSPM.
+. The NSPM may require additional objective data, which may include flight testing if necessary, if the validation data package does not support FSTD qualification requirements as described in this part and the applicable QPS appendix.
+. When an FSTD sponsor learns, or is advised by an aircraft manufacturer or other data provider, that an addition to, an amendment to, or a revision of data that may relate to FSTD performance or handling characteristics is available, the sponsor must notify the NSPM as described in the applicable QPS.
+
+## § 60.14
+
+### Special equipment and personnel requirements for qualification of the FSTD.
+
+When notified by the NSPM, the sponsor must make available all special equipment and qualified personnel needed to accomplish or assist in the accomplishment of tests during initial qualification, continuing qualification, or special evaluations.
+
+## § 60.15
+
+### Initial qualification requirements.
+
+. For each FSTD, the sponsor must submit a request to the NSPM to evaluate the FSTD for initial qualification at a specific level and simultaneously request the Training Program Approval Authority (TPAA) forward a concurring letter to the NSPM. The request must be submitted in the form and manner described in the applicable QPS.
+. The management representative described in § 60.9(c) must sign a statement (electronic signature is acceptable for electronic transmissions) after confirming the following:
+.. The performance and handling qualities of the FSTD represent those of the aircraft or set of aircraft within the normal operating envelope. This determination must be made by a pilot(s) meeting the requirements of paragraph (d) of this section after having flown all of the Operations Tasks listed in the applicable QPS appendix relevant to the qualification level of the FSTD. Exceptions, if any, must be noted. The name of the person(s) making this determination must be available to the NSPM upon request.
+.. The FSTD systems and sub-systems (including the simulated aircraft systems) functionally represent those in the aircraft or set of aircraft. This determination must be made by the pilot(s) described in paragraph (b)(1) of this section, or by a person(s) trained on simulator systems/sub-systems and trained on the operation of the simulated aircraft systems, after having exercised the operation of the FSTD and the pertinent functions available through the Instructor Operating Station(s). Exceptions, if any, must be noted. The name of the person(s) making this determination must be available to the NSPM upon request.
+.. The cockpit represents the configuration of the specific type; or aircraft make, model, and series aircraft being simulated, as appropriate. This determination must be made by the pilot(s) described in paragraph (b)(1) of this section, or by a person(s) trained on the configuration and operation of the aircraft simulated. Exceptions, if any, must be noted. The name of the person(s) making this determination must be available to the NSPM upon request.
+. Except for those FSTDs previously qualified and described in § 60.17, each FSTD evaluated for initial qualification must meet the standard that is in effect at the time of the evaluation. However—
+.. If the FAA publishes a change to the existing standard or publishes a new standard for the evaluation for initial qualification, a sponsor may request that the NSPM apply the standard that was in effect when an FSTD was ordered for delivery if the sponsor—
+... Within 30 days of the publication of the change to the existing standard or publication of the new standard, notifies the NSPM that an FSTD has been ordered;
+... Within 90 days of the NSPM notification described in paragraph (c)(1)(i) of this section, requests that the standard in effect at the time the order was placed be used for the evaluation for initial qualification; and
+... The evaluation is conducted within 24 months following the publication of the change to the existing standard or publication of the new standard.
+.. This notification must include a description of the FSTD; the anticipated qualification level of the FSTD; the make, model, and series of aircraft simulated; and any other pertinent information.
+.. Any tests, tolerances, or other requirements that are current at the time of the evaluation may be used during the initial evaluation, at the request of the sponsor, if the sponsor provides acceptable updates to the required qualification test guide.
+.. The standards used for the evaluation for initial qualification will be used for all subsequent evaluations of the FSTD.
+.. An FSTD sponsor or FSTD manufacturer may submit a request to the Administrator for approval of a deviation from the QPS requirements as defined in Appendix A through Appendix D of this part.
+... Requests for deviation must be submitted in a form and manner acceptable to the Administrator and must provide sufficient justification that the deviation meets or exceeds the testing requirements and tolerances as specified in the part 60 QPS or will otherwise not adversely affect the fidelity and capability of the FSTDs evaluated and qualified under the deviation.
+... The Administrator may consider deviation from the minimum requirements tables, the objective testing tables, the functions and subjective testing tables, and other supporting tables and requirements in the part 60 QPS.
+... Deviations may be issued to an FSTD manufacturer for the initial qualification of multiple FSTDs, subject to terms and limitations as determined by Administrator. Approved deviations will become a part of the permanent qualification basis of the individual FSTD and will be noted in the FSTD's Statement of Qualification.
+... If the FAA publishes a change to the existing part 60 standards as described in paragraph (c)(1) of this section or issues an FSTD Directive as described in § 60.23(b), which conflicts with or supersedes an approved deviation, the Administrator may terminate or revise a grant of deviation authority issued under this paragraph.
+. The pilot(s) who contributes to the confirmation statement required by paragraph (b) of this section must—
+.. Be designated by the sponsor; and
+.. Be qualified in—
+... The aircraft or set of aircraft being simulated; or
+... For aircraft not yet issued a type certificate, or aircraft not previously operated by the sponsor or not having previous FAA-approved training programs conducted by the sponsor, an aircraft similar in size and configuration.
+. The subjective tests that form the basis for the statements described in paragraph (b) of this section and the objective tests referenced in paragraph (f) of this section must be accomplished at the sponsor's training facility or other sponsor designated location where training will take place, except as provided for in the applicable QPS.
+. The person seeking to qualify the FSTD must provide the NSPM access to the FSTD for the length of time necessary for the NSPM to complete the required evaluation of the FSTD for initial qualification, which includes the conduct and evaluation of objective and subjective tests, including general FSTD requirements, as described in the applicable QPS, to determine that the FSTD meets the standards in that QPS.
+. When the FSTD passes an evaluation for initial qualification, the NSPM issues a Statement of Qualification that includes all of the following:
+.. Identification of the sponsor.
+.. Identification of the make, model, and series of the aircraft or set of aircraft being simulated.
+.. Identification of the configuration of the aircraft or set of aircraft being simulated (*e.g.*, engine model or models, flight instruments, or navigation or other systems).
+.. A statement that the FSTD is qualified as either a full flight simulator or a flight training device.
+.. Identification of the qualification level of the FSTD.
+            
+.. A statement that (with the exception of the noted exclusions for which the FSTD has not been subjectively tested by the sponsor or the NSPM and for which qualification is not sought) the qualification of the FSTD includes the tasks set out in the applicable QPS appendix relevant to the qualification level of the FSTD.
+.. A statement referencing any deviations that have been granted and included in the permanent qualification basis of the FSTD.
+. After the NSPM completes the evaluation for initial qualification, the sponsor must update the Qualification Test Guide (QTG), with the results of the FAA-witnessed tests together with the results of all the objective tests described in the applicable QPS.
+. Upon issuance of the Statement of Qualification the updated QTG becomes the Master Qualification Test Guide (MQTG). The MQTG must be made available to the NSPM upon request.
+
+## § 60.16
+
+### Additional qualifications for a currently qualified FSTD.
+
+. A currently qualified FSTD is required to undergo an additional qualification process if a user intends to use the FSTD for meeting training, evaluation, or flight experience requirements of this chapter beyond the qualification issued for that FSTD. This process consists of the following:
+.. The sponsor:
+... Must submit to the NSPM all modifications to the MQTG that are required to support the additional qualification.
+... Must describe to the NSPM all modifications to the FSTD that are required to support the additional qualification.
+... Must submit to the NSPM a confirmation statement as described in § 60.15(c) that a pilot, designated by the sponsor in accordance with § 60.15(d), has subjectively evaluated the FSTD in those areas not previously evaluated.
+.. The FSTD must successfully pass an evaluation—
+... Consisting of all the elements of an initial evaluation for qualification in those circumstances where the NSPM has determined that all the elements of an initial evaluation for qualification is necessary; or
+... Consisting of those elements of an initial evaluation for qualification designated as necessary by the NSPM.
+. In making the determinations described in paragraph (a)(2) of this section, the NSPM considers factors including the existing qualification of the FSTD, any modifications to the FSTD hardware or software that are involved, and any additions or modifications to the MQTG.
+. The FSTD is qualified for the additional uses when the NSPM issues an amended Statement of Qualification in accordance with § 60.15(h).
+. The sponsor may not modify the FSTD except as described in § 60.23.
+
+## § 60.17
+
+### Previously qualified FSTDs.
+
+. Unless otherwise specified by an FSTD Directive, further referenced in the applicable QPS, or as specified in paragraph (e) of this section, an FSTD qualified before May 31, 2016 will retain its qualification basis as long as it continues to meet the standards, including the objective test results recorded in the MQTG and subjective tests, under which it was originally evaluated, regardless of sponsor. The sponsor of such an FSTD must comply with the other applicable provisions of this part.
+. For each FSTD qualified before May 30, 2008, no sponsor may use or allow the use of or offer the use of such an FSTD after May 30, 2014 for flight crewmember training, evaluation or flight experience to meet any of the requirements of this chapter, unless that FSTD has been issued a Statement of Qualification, including the Configuration List and the List of Qualified Tasks in accordance with the procedures set out in the applicable QPS.
+. If the FSTD qualification is lost under § 60.27 and—
+. Except as provided in paragraph (e) of this section, any change in FSTD qualification level initiated on or after May 30, 2008 requires an evaluation for initial qualification in accordance with this part.
+. A sponsor may request that an FSTD be permanently downgraded. In such a case, the NSPM may downgrade a qualified FSTD without requiring and without conducting an initial evaluation for the new qualification level. Subsequent continuing qualification evaluations will use the existing MQTG, modified as necessary to reflect the new qualification level.
+. When the sponsor has appropriate validation data available and receives approval from the NSPM, the sponsor may adopt tests and associated tolerances described in the current qualification standards as the tests and tolerances applicable for the continuing qualification of a previously qualified FSTD. The updated test(s) and tolerance(s) must be made a permanent part of the MQTG.
+
+(i) Restored under § 60.27 in less than (2) years, then the qualification basis (in terms of objective tests and subjective tests) for the re-qualification will be those against which the FSTD was originally evaluated and qualified.
+
+(ii) Not restored under § 60.27 for two (2) years or more, then the qualification basis (in terms of objective tests and subjective tests) for the re-qualification will be those standards in effect and current at the time of re-qualification application.
+
+## § 60.19
+
+### Inspection, continuing qualification evaluation, and maintenance requirements.
+
+. *Inspection.* No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training, evaluation, or flight experience to meet any of the requirements of this chapter unless the sponsor does the following:
+.. Accomplishes all appropriate objective tests each year as specified in the applicable QPS.
+.. Completes a functional preflight check within the preceding 24 hours.
+. *Continuing qualification evaluation.* (1) This evaluation consists of objective tests, and subjective tests, including general FSTD requirements, as described in the applicable QPS or as may be amended by an FSTD Directive.
+. *Maintenance.* The sponsor is responsible for continuing corrective and preventive maintenance on the FSTD to ensure that it continues to meet the requirements of this part and the applicable QPS appendix. No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training, evaluation, or flight experience to meet any of the requirements of this chapter unless the sponsor does the following:
+.. Maintains a discrepancy log.
+.. Ensures that, when a discrepancy is discovered, the following requirements are met:
+... A description of each discrepancy is entered in the log and remains in the log until the discrepancy is corrected as specified in § 60.25(b).
+... A description of the corrective action taken for each discrepancy, the identity of the individual taking the action, and the date that action is taken is entered in the log.
+... The discrepancy log is kept in a form and manner acceptable to the Administrator and is kept in or adjacent to the FSTD. An electronic log that may be accessed by an appropriate terminal or display in or adjacent to the FSTD is satisfactory.
+
+(2) The sponsor must contact the NSPM to schedule the FSTD for continuing qualification evaluations not later than 60 days before the evaluation is due.
+
+(3) The sponsor must provide the NSPM access to the objective test results in the MQTG and access to the FSTD for the length of time necessary for the NSPM to complete the required continuing qualification evaluations.
+
+(4) The frequency of NSPM-conducted continuing qualification evaluations for each FSTD will be established by the NSPM and specified in the Statement of Qualification.
+
+(5) Continuing qualification evaluations conducted in the 3 calendar months before or after the calendar month in which these continuing qualification evaluations are required will be considered to have been conducted in the calendar month in which they were required.
+
+(6) No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience for the flight crewmember to meet any requirement of this chapter unless the FSTD has passed an NSPM-conducted continuing qualification evaluation within the time frame specified in the Statement of Qualification or within the grace period as described in paragraph (b)(5) of this section.
+
+## § 60.20
+
+### Logging FSTD discrepancies.
+
+Each instructor, check airman, or representative of the Administrator conducting training, evaluation, or flight experience, and each person conducting the preflight inspection who discovers a discrepancy, including any missing, malfunctioning, or inoperative components in the FSTD, must write or cause to be written a description of that discrepancy into the discrepancy log at the end of the FSTD preflight or FSTD use session.
+
+## § 60.21
+
+### Interim qualification of FSTDs for new aircraft types or models.
+
+. A sponsor may apply for and the NSPM may issue an interim qualification level for an FSTD for a new type or model of aircraft, even though the aircraft manufacturer's aircraft data package is preliminary, if the sponsor provides the following to the satisfaction of the NSPM—
+.. The aircraft manufacturer's data, which consists of at least predicted data, validated by a limited set of flight test data;
+.. The aircraft manufacturer's description of the prediction methodology used to develop the predicted data; and
+.. The QTG test results.
+. An FSTD that has been issued interim qualification is deemed to have been issued initial qualification unless the NSPM rescinds the qualification. Interim qualification terminates two years after its issuance, unless the NSPM determines that specific conditions warrant otherwise.
+. Within twelve months of the release of the final aircraft data package by the aircraft manufacturer, but no later than two years after the issuance of the interim qualification status, the sponsor must apply for initial qualification in accordance with § 60.15 based on the final aircraft data package approved by the aircraft manufacturer, unless the NSPM determines that specific conditions warrant otherwise.
+. An FSTD with interim qualification may be modified only in accordance with § 60.23.
+
+## § 60.23
+
+### Modifications to FSTDs.
+
+. *Description of a modification.* For the purposes of this part, an FSTD is said to have been modified when:
+.. Equipment or devices intended to simulate aircraft appliances are added to or removed from FSTD, which change the Statement of Qualification or the MQTG; or
+.. Changes are made to either software or hardware that are intended to impact flight or ground dynamics; changes are made that impact performance or handling characteristics of the FSTD (including motion, visual, control loading, or sound systems for those FSTD levels requiring sound tests and measurements); or changes are made to the MQTG. Changes to the MQTG which do not affect required objective testing results or validation data approved during the initial evaluation of the FSTD are not considered modifications under this section.
+. *FSTD Directive.* When the FAA determines that FSTD modification is necessary for safety of flight reasons, the sponsor of each affected FSTD must ensure that the FSTD is modified according to the FSTD Directive regardless of the original qualification standards applicable to any specific FSTD.
+. *Using the modified FSTD.* The sponsor may not use, or allow the use of, or offer the use of, the FSTD with the proposed modification for flight crewmember training or evaluation or for obtaining flight experience for the flight crewmember to meet any requirement of this chapter unless:
+.. The sponsor has notified the NSPM and the TPAA of their intent to incorporate the proposed modification, and one of the following has occurred;
+... Twenty-one days have passed since the sponsor notified the NSPM and the TPAA of the proposed modification and the sponsor has not received any response from either the NSPM or the TPAA;
+... Twenty-one days have passed since the sponsor notified the NSPM and the TPAA of the proposed modification and one has approved the proposed modification and the other has not responded;
+... Fewer than twenty-one days have passed since the sponsor notified the NSPM and the TPAA of the proposed modification and the NSPM and TPAA both approve the proposed modification;
+... The sponsor has successfully completed any evaluation the NSPM may require in accordance with the standards for an evaluation for initial qualification or any part thereof before the modified FSTD is placed in service.
+.. The notification is submitted with the content as, and in a form and manner as, specified in the applicable QPS.
+. *User notification.* When a modification is made to an FSTD that affects the Statement of Qualification, the sponsor must post an addendum to the Statement of Qualification until such time as a permanent, updated statement is posted.
+. *MQTG update.* The MQTG must be updated with current objective test results in accordance with § 60.15(h) and (i) and appropriate objective data in accordance with § 60.13, each time an FSTD is modified and an objective test or other MQTG section is affected by the modification. If an FSTD Directive is the cause of this update, the direction to make the modification and the record of the modification completion must be filed in the MQTG.
+
+## § 60.25
+
+### Operation with missing, malfunctioning, or inoperative components.
+
+. No person may knowingly use or allow the use of or misrepresent the capability of an FSTD for any maneuver, procedure, or task that is to be accomplished to meet training, evaluation, or flight experience requirements of this chapter for flight crewmember certification or qualification when there is a missing, malfunctioning, or inoperative (MMI) component that is required to be present and correctly operate for the satisfactory completion of that maneuver, procedure, or task.
+. Each MMI component as described in paragraph (a) of this section, or any MMI component installed and required to operate correctly to meet the current Statement of Qualification, must be repaired or replaced within 30 calendar days, unless otherwise required or authorized by the NSPM.
+. A list of the current MMI components must be readily available in or adjacent to the FSTD for review by users of the device. Electronic access to this list via an appropriate terminal or display in or adjacent to the FSTD is satisfactory. The discrepancy log may be used to satisfy this requirement provided each currently MMI component is listed in the discrepancy log.
+
+## § 60.27
+
+### Automatic loss of qualification and procedures for restoration of qualification.
+
+. An FSTD qualification is automatically lost when any of the following occurs:
+.. The FSTD is not used in the sponsor's FAA-approved flight training program in accordance with § 60.7(b)(5) or (b)(6) and the sponsor does not obtain and maintain the written statement as described in § 60.7(d)(2).
+.. The FSTD is not inspected in accordance with § 60.19.
+.. The FSTD is physically moved from one location and installed in a different location, regardless of distance.
+.. The MQTG is missing or otherwise not available and a replacement is not made within 30 days.
+. If FSTD qualification is lost under paragraph (a) of this section, qualification is restored when either of the following provisions is met:
+.. The FSTD successfully passes an evaluation:
+... For initial qualification, in accordance with §§ 60.15 and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+            
+... For those elements of an evaluation for initial qualification, in accordance with §§ 60.15 and 60.17(c), as determined to be necessary by the NSPM.
+.. The NSPM advises the sponsor that an evaluation is not necessary.
+. In making the determinations described in paragraph (b) of this section, the NSPM considers factors including the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the last evaluation.
+
+## § 60.29
+
+### Other losses of qualification and procedures for restoration of qualification.
+
+. Except as provided in paragraph (c) of this section, when the NSPM determines that the FSTD no longer meets qualification standards, the following procedure applies:
+.. The NSPM notifies the sponsor in writing that the FSTD no longer meets some or all of its qualification standards.
+.. The NSPM sets a reasonable period (but not less than 7 days) within which the sponsor may submit written information, views, and arguments on the FSTD qualification.
+.. After considering all material presented, the NSPM notifies the sponsor about the determination with regard to the qualification of the FSTD.
+.. When the NSPM notifies the sponsor that some or all of the FSTD is no longer qualified, the action described in the notification becomes effective not less than 30 days after the sponsor receives that notice unless—
+... The NSPM finds under paragraph (c) of this section that there is an emergency requiring immediate action with respect to safety in air commerce; or
+... The sponsor petitions the Director of Flight Standards Service for reconsideration of the NSPM finding under paragraph (b) of this section.
+. When a sponsor seeks reconsideration of a decision from the NSPM concerning the FSTD qualification, the following procedure applies:
+.. The sponsor must petition for reconsideration of that decision within 30 days of the date that the sponsor receives a notice that some or all of the FSTD is no longer qualified.
+.. The sponsor must address its petition to the Director, Flight Standards Service, AFS-1, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591.
+.. A petition for reconsideration, if filed within the 30-day period, suspends the effectiveness of the determination by the NSPM that the FSTD is no longer qualified unless the NSPM has found, under paragraph (c) of this section, that an emergency exists requiring immediate action with respect to safety in air commerce.
+. If the NSPM find that an emergency exists requiring immediate action with respect to safety in air commerce that makes the procedures set out in this section impracticable or contrary to the public interest:
+.. The NSPM withdraws qualification of some or all of the FSTD and makes the withdrawal of qualification effective on the day the sponsor receives notice of it.
+.. In the notice to the sponsor, the NSPM articulates the reasons for its finding that an emergency exists requiring immediate action with respect to safety in air transportation or air commerce or that makes it impracticable or contrary to the public interest to stay the effectiveness of the finding.
+. FSTD qualification lost under paragraph (a) or (c) of this section may be restored when either of the following provisions are met:
+.. The FSTD successfully passes an evaluation for initial qualification, in accordance with §§ 60.15 and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+.. The FSTD successfully passes an evaluation for those elements of an initial qualification evaluation, in accordance with §§ 60.15 and 60.17(c), as determined to be necessary by the NSPM.
+. In making the determinations described in paragraph (d) of this section, the NSPM considers factors including the reason for the loss of qualification, any repairs or replacements that may have to have been completed, the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the loss of qualification.
+
+## § 60.31
+
+### Recordkeeping and reporting.
+
+. The FSTD sponsor must maintain the following records for each FSTD it sponsors:
+.. The MQTG and each amendment thereto.
+.. A record of all FSTD modifications affected under § 60.23 since the issuance of the original Statement of Qualification.
+.. A copy of all of the following:
+... Results of the qualification evaluations (initial and each upgrade) since the issuance of the original Statement of Qualification.
+... Results of the objective tests conducted in accordance with § 60.19(a) for a period of 2 years.
+... Results of the previous three continuing qualification evaluations, or the continuing qualification evaluations from the previous 2 years, whichever covers a longer period.
+... Comments obtained in accordance with § 60.9(b) for a period of at least 90 days.
+.. A record of all discrepancies entered in the discrepancy log over the previous 2 years, including the following:
+... A list of the components or equipment that were or are missing, malfunctioning, or inoperative.
+... The action taken to correct the discrepancy.
+... The date the corrective action was taken.
+... The identity of the person determining that the discrepancy has been corrected.
+. The records specified in this section must be maintained in plain language form or in coded form if the coded form provides for the preservation and retrieval of information in a manner acceptable to the NSPM.
+
+## § 60.33
+
+### Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.
+
+. No person may make, or cause to be made, any of the following:
+.. A fraudulent or intentionally false statement in any application or any amendment thereto, or any other report or test result required by this part.
+.. A fraudulent or intentionally false statement in or a known omission from any record or report that is kept, made, or used to show compliance with this part, or to exercise any privileges under this chapter.
+.. Any reproduction or alteration, for fraudulent purpose, of any report, record, or test result required under this part.
+. The commission by any person of any act prohibited under paragraph (a) of this section is a basis for any one or any combination of the following:
+.. A civil penalty.
+.. Suspension or revocation of any certificate held by that person that was issued under this chapter.
+.. The removal of FSTD qualification and approval for use in a training program.
+. The following may serve as a basis for removal of qualification of an FSTD including the withdrawal of approval for use of an FSTD; or denying an application for a qualification:
+.. An incorrect statement, upon which the FAA relied or could have relied, made in support of an application for a qualification or a request for approval for use.
+.. An incorrect entry, upon which the FAA relied or could have relied, made in any logbook, record, or report that is kept, made, or used to show compliance with any requirement for an FSTD qualification or an approval for use.
+
+## § 60.35
+
+### Specific full flight simulator compliance requirements.
+
+. No device will be eligible for initial or upgrade qualification to a FFS at Level C or Level D under this part unless it includes the equipment and appliances installed and operating to the extent necessary for the issuance of an airman certificate or rating.
+. No device will be eligible for initial or upgrade qualification to a FFS at Level A or Level B under this part unless it includes the equipment and appliances installed and operating to the extent necessary for the training, testing, and/or checking that comprise the simulation portion of the requirements for issuance of an airman certificate or rating.
+
+## § 60.37
+
+### FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).
+
+. The evaluation and qualification of an FSTD by a contracting State to the Convention on International Civil Aviation for the sponsor of an FSTD located in that contracting State may be used as the basis for issuing a U.S. statement of qualification (see applicable QPS, attachment 4, figure 4) by the NSPM to the sponsor of that FSTD in accordance with—
+.. A BASA between the United States and the Contracting State that issued the original qualification; and
+.. A Simulator Implementation Procedure (SIP) established under the BASA.
+. The SIP must contain any conditions and limitations on validation and issuance of such qualification by the U.S.
+

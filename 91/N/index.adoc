@@ -1,0 +1,199 @@
+# Mitsubishi MU-2B Series Special Training, Experience, and Operating Requirements
+:toc:
+
+## § 91.1701
+
+### Applicability.
+
+. On and after November 7, 2016, all training conducted in an MU-2B must follow an approved MU-2B training program that meets the standards of this subpart.
+. This subpart applies to all persons who operate a Mitsubishi MU-2B series airplane, including those who act as pilot in command, act as second-in-command, or other persons who manipulate the controls while under the supervision of a pilot in command.
+. This subpart also applies to those persons who provide pilot training for a Mitsubishi MU-2B series airplane. The requirements in this subpart are in addition to the requirements of parts 61, 91, and 135 of this chapter.
+
+## § 91.1703
+
+### Compliance and eligibility.
+
+. Except as provided in paragraph (b) of this section, no person may manipulate the controls, act as PIC, act as second-in-command, or provide pilot training for a Mitsubishi MU-2B series airplane unless that person meets the requirements of this subpart.
+. A person who does not meet the requirements of this subpart may manipulate the controls of a Mitsubishi MU-2B series airplane if a pilot in command who meets the requirements of this subpart is occupying a pilot station, no passengers or cargo are carried on board the airplane, and the flight is being conducted for one of the following reasons—
+.. The pilot in command is providing pilot training to the manipulator of the controls;
+.. The pilot in command is conducting a maintenance test flight with a second pilot or certificated mechanic; or
+.. The pilot in command is conducting simulated instrument flight and is using a safety pilot other than the pilot in command who manipulates the controls for the purposes of § 91.109(b).
+. A person is required to complete *Initial/transition training* if that person has fewer than—
+.. 50 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane in the preceding 24 months; or
+.. 500 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane.
+. A person is eligible to receive *Requalification training* in lieu of Initial/transition training if that person has at least—
+.. 50 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane in the preceding 24 months; or
+.. 500 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane.
+              
+. A person is required to complete *Recurrent training* within the preceding 12 months. Successful completion of Initial/transition or Requalification training within the preceding 12 months satisfies the requirement of Recurrent training. A person must successfully complete Initial/transition training or Requalification training before being eligible to receive Recurrent training.
+. Successful completion of Initial/transition training or Requalification training is a one-time requirement. A person may elect to retake Initial/transition training or Requalification training in lieu of Recurrent training.
+. A person is required to complete Differences training in accordance with an FAA approved MU-2B training program if that person operates more than one MU-2B model as specified in § 91.1707(c).
+
+## § 91.1705
+
+### Required pilot training.
+
+. Except as provided in § 91.1703(b), no person may manipulate the controls, act as pilot in command, or act as second-in-command of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
+.. The requirements for ground and flight training on Initial/transition, Requalification, Recurrent, and Differences training have been completed in accordance with an FAA approved MU-2B training program that meets the standards of this subpart; and
+.. That person's logbook has been endorsed in accordance with paragraph (f) of this section.
+. Except as provided in § 91.1703(b), no person may manipulate the controls, act as pilot in command, or act as second-in-command, of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
+.. That person satisfactorily completes, if applicable, annual Recurrent pilot training on the *Special Emphasis Items,* and all items listed in the *Training Course Final Phase Check* in accordance with an FAA approved MU-2B training program that meets the standards of this subpart; and
+.. That person's logbook has been endorsed in accordance with paragraph (f) of this section.
+. Satisfactory completion of the competency check required by § 135.293 of this chapter within the preceding 12 calendar months may not be substituted for the Mitsubishi MU-2B series airplane annual recurrent flight training of this section.
+. Satisfactory completion of a Federal Aviation Administration sponsored pilot proficiency program, as described in § 61.56(e) of this chapter may not be substituted for the Mitsubishi MU-2B series airplane annual recurrent flight training of this section.
+. If a person complies with the requirements of paragraph (a) or (b) of this section in the calendar month before or the calendar month after the month in which compliance with these paragraphs are required, that person is considered to have accomplished the training requirement in the month the training is due.
+. The endorsement required under paragraph (a) and (b) of this section must be made by—
+.. A certificated flight instructor or a simulator instructor authorized by a Training Center certificated under part 142 of this chapter and meeting the qualifications of § 91.1713; or
+.. For persons operating the Mitsubishi MU-2B series airplane for a 14 CFR part 119 certificate holder within the last 12 calendar months, the part 119 certificate holder's flight instructor if authorized by the FAA and if that flight instructor meets the requirements of § 91.1713.
+. All training conducted for a Mitsubishi MU-2B series airplane must be completed in accordance with an MU-2B series airplane checklist that has been accepted by the Federal Aviation Administration's MU-2B Flight Standardization Board or the applicable MU-2B series checklist (incorporated by reference, see § 91.1721).
+. MU-2B training programs must contain ground training and flight training sufficient to ensure pilot proficiency for the safe operation of MU-2B aircraft, including:
+.. A ground training curriculum sufficient to ensure pilot knowledge of MU-2B aircraft, aircraft systems, and procedures, necessary for safe operation; and
+              
+.. Flight training curriculum including flight training maneuver profiles sufficient in number and detail to ensure pilot proficiency in all MU-2B operations for each MU-2B model in correlation with MU-2B limitations, procedures, aircraft performance, and MU-2B Cockpit Checklist procedures applicable to the MU-2B model being trained. A MU-2B training program must contain, at a minimum, the following flight training maneuver profiles applicable to the MU-2B model being trained:
+... Normal takeoff with 5- and 20- degrees flaps;
+... Takeoff engine failure with 5- and 20- degrees flaps;
+... Takeoff engine failure on runway or rejected takeoff;
+... Takeoff engine failure after liftoff—unable to climb (may be completed in classroom or flight training device only);
+... Steep turns;
+... Slow flight maneuvers;
+... One engine inoperative maneuvering with loss of directional control;
+... Approach to stall in clean configuration and with wings level;
+... Approach to stall in takeoff configuration with 15- to 30- degrees bank;
+... Approach to stall in landing configuration with gear down and 40-degrees of flaps;
+... Accelerated stall with no flaps;
+... Emergency descent at low speed;
+... Emergency descent at high speed;
+... Unusual attitude recovery with the nose high;
+... Unusual attitude recovery with the nose low;
+... Normal landing with 20- and 40- degrees flaps;
+... Go around and rejected landing;
+... No flap or 5- degrees flaps landing;
+... One engine inoperative landing with 5- and 20- degrees flaps;
+... Crosswind landing;
+... Instrument landing system (ILS) and missed approach ;
+... Two engine missed approach;
+... One engine inoperative ILS and missed approach;
+... One engine inoperative missed approach;
+... Non-precision and missed approach;
+... Non-precision continuous descent final approach and missed approach;
+... One engine inoperative non-precision and missed approach;
+... One engine inoperative non-precision CDFA and missed approach;
+... Circling approach at weather minimums;
+... One engine inoperative circling approach at weather minimums.
+.. Flight training must include a final phase check sufficient to document pilot proficiency in the flight training maneuver profiles at the completion of training; and
+.. Differences training for applicable MU-2B model variants sufficient to ensure pilot proficiency in each model operated. Current MU-2B differences requirements are specified in § 91.1707(c). A person must complete Differences training if a person operates more than one MU-2B model as specified in § 91.1707(c). Differences training between the factory type design K and M models of the MU-2B airplane, and the factory type design J and L models of the MU-2B airplane, may be accomplished with Level A training. All other factory type design differences training must be accomplished with Level B training unless otherwise specified in § 91.1707(c) . A Level A or B differences training is not a recurring annual requirement. Once a person has completed Initial Level A or B Differences training between the applicable different models, no additional differences training between those models is required.
+.. Icing training sufficient to ensure pilot knowledge and safe operation of the MU-2B aircraft in icing conditions as established by the FAA;
+.. Ground and flight training programs must include training hours identified by § 91.1707(a) for ground instruction, § 91.1707(b) for flight instruction, and § 91.1707(c) for differences training.
+... No training credit is given for second-in-command training and no credit is given for right seat time under this program. Only the sole manipulator of the controls of the MU-2B airplane, flight training device, or Level C or D simulator can receive training credit under this program;
+... An MU-2B airplane must be operated in accordance with an FAA approved MU-2B training program that meets the standards of this subpart and the training hours in § 91.1707.
+.. Endorsements given for compliance with paragraph (f) of this section must be appropriate to the content of that specific MU-2B training program's compliance with standards of this subpart.
+
+## § 91.1707
+
+### Training program hours.
+
+. Ground instruction hours are listed in the following table:
+. Flight instruction hours are listed in the following table:
+. Differences training hours are listed in the following table:
+. Definitions of levels of training as used in this subpart:
+.. LEVEL A Training—Training that is conducted through self-instruction by the pilot.
+.. LEVEL B Training—Training that is conducted in the classroom environment with the aid of a qualified instructor who meets the requirements of this subpart.
+.. LEVEL C Training—Training that is accomplished in an FAA-approved Level 5 or 6 flight training device. In addition to the basic FTD requirements, the FTD must be representative of the MU-2B cockpit controls and be specifically approved by the FAA for the MU-2B airplane.
+.. Level E Training—Training that must be accomplished in the MU-2B airplane, Level C simulator, or Level D simulator.
+
+## § 91.1709
+
+### Training program approval.
+
+To obtain approval for an MU-2B training program, training providers must submit a proposed training program to the Administrator.
+
+. Only training programs approved by the Administrator may be used to satisfy the standards of this subpart.
+. For part 91 training providers, training programs will be approved for 24 months, unless sooner superseded or rescinded.
+. The Administrator may require revision of an approved MU-2B training program at any time.
+. A training provider must present its approved training program and FAA approval documentation to any representative of the Administrator, upon request.
+
+## § 91.1711
+
+### Aeronautical experience.
+
+No person may act as a pilot in command of a Mitsubishi MU-2B series airplane for the purpose of flight unless that person holds an airplane category and multi-engine land class rating, and has logged a minimum of 100 flight hours of PIC time in multi-engine airplanes.
+
+## § 91.1713
+
+### Instruction, checking, and evaluation.
+
+. *Flight Instructor (Airplane).* No flight instructor may provide instruction or conduct a flight review in a Mitsubishi MU-2B series airplane unless that flight instructor
+.. Meets the pilot training and documentation requirements of § 91.1705 before giving flight instruction in the Mitsubishi MU-2B series airplane;
+.. Meets the currency requirements of §§ 91.1715(a) and 91.1715(c)
+.. Has a minimum total pilot time of 2,000 pilot-in-command hours and 800 pilot-in-command hours in multiengine airplanes; and
+.. Has:
+... 300 pilot-in-command hours in the Mitsubishi MU-2B series airplane, 50 hours of which must have been within the preceding 12 months; or
+... 100 pilot-in-command hours in the Mitsubishi MU-2B series airplane, 25 hours of which must have been within the preceding 12 months, and 300 hours providing instruction in a FAA-approved Mitsubishi MU-2B simulator or FAA-approved Mitsubishi MU-2B flight training device, 25 hours of which must have been within the preceding 12 months.
+. *Flight Instructor (Simulator/Flight Training Device).* No flight instructor may provide instruction for the Mitsubishi MU-2B series airplane unless that instructor meets the requirements of this paragraph—
+.. Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must meet the pilot training and documentation requirements of § 91.1705 before giving flight instruction for the Mitsubishi MU-2B series airplane;
+.. Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must meet the currency requirements of § 91.1715(c) before giving flight instruction for the Mitsubishi MU-2B series airplane;
+.. Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must have:
+... A minimum total pilot time of 2000 pilot-in-command hours and 800 pilot-in-command hours in multiengine airplanes; and
+... Within the preceding 12 months, either 50 hours of Mitsubishi MU-2B series airplane pilot-in-command experience or 50 hours providing simulator or flight training device instruction for the Mitsubishi MU-2B.
+. *Checking and evaluation.* No person may provide checking or evaluation for the Mitsubishi MU-2B series airplane unless that person meets the requirements of this paragraph—
+.. For the purpose of checking, designated pilot examiners, training center evaluators, and check airmen must have completed the appropriate training in the Mitsubishi MU-2B series airplane in accordance with § 91.1705;
+.. For checking conducted in the Mitsubishi MU-2B series airplane, each designated pilot examiner and check airman must have 100 hours pilot-in-command flight time in the Mitsubishi MU-2B series airplane and maintain currency in accordance with § 91.1715.
+
+## § 91.1715
+
+### Currency requirements and flight review.
+
+. The takeoff and landing currency requirements of § 61.57 of this chapter must be maintained in the Mitsubishi MU-2B series airplane. Takeoff and landings in other multiengine airplanes do not meet the takeoff landing currency requirements for the Mitsubishi MU-2B series airplane. Takeoff and landings in either the short-body or long-body Mitsubishi MU-2B model airplane may be credited toward takeoff and landing currency for both Mitsubishi MU-2B model groups.
+. Instrument experience obtained in other category and class of aircraft may be used to satisfy the instrument currency requirements of § 61.57 of this chapter for the Mitsubishi MU-2B series airplane.
+. Satisfactory completion of a flight review to satisfy the requirements of § 61.56 of this chapter is valid for operation of a Mitsubishi MU-2B series airplane only if that flight review is conducted in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter. The flight review for Mitsubishi MU-2B series airplanes must include the *Special Emphasis Items,* and all items listed in the *Training Course Final Phase Check* in accordance with an approved MU-2B Training Program.
+. A person who successfully completes the Initial/transition, Requalification, or Recurrent training requirements under § 91.1705 of this chapter also meet the requirements of § 61.56 of this chapter and need not accomplish a separate flight review provided that at least 1 hour of the flight training was conducted in the Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter.
+
+## § 91.1717
+
+### Operating requirements.
+
+. Except as provided in paragraph (b) of this section, no person may operate a Mitsubishi MU-2B airplane in single pilot operations unless that airplane has a functional autopilot.
+. A person may operate a Mitsubishi MU-2B airplane in single pilot operations without a functional autopilot when—
+.. Operating under day visual flight rule requirements; or
+.. Authorized under a FAA approved minimum equipment list for that airplane, operating under instrument flight rule requirements in daytime visual meteorological conditions.
+. No person may operate a Mitsubishi MU-2B series airplane unless a copy of the appropriate Mitsubishi Heavy Industries MU-2B Airplane Flight Manual is carried on board the airplane and is accessible during each flight at the pilot station.
+. No person may operate a Mitsubishi MU-2B series airplane unless an MU-2B series airplane checklist, appropriate for the model being operated and accepted by the Federal Aviation Administration MU-2B Flight Standardization Board, is accessible for each flight at the pilot station and is used by the flight crewmembers when operating the airplane.
+. No person may operate a Mitsubishi MU-2B series airplane contrary to the standards of this subpart.
+. If there are any differences between the training and operating requirements of this subpart and the MU-2B Airplane Flight Manual's procedures sections (Normal, Abnormal, and Emergency) and the MU-2B airplane series checklist incorporated by reference in § 91.1721, the person operating the airplane must operate the airplane in accordance with the training specified in this subpart.
+
+## § 91.1719
+
+### Credit for prior training.
+
+Initial/transition, requalification, recurrent or Level B differences training conducted prior to November 7, 2016, compliant with SFAR No. 108, Section 3 of this part, is considered to be compliant with this subpart, if the student met the eligibility requirements for the applicable category of training and the student's instructor met the experience requirements of this subpart.
+
+## § 91.1721
+
+### Incorporation by reference.
+
+. The Mitsubishi Heavy Industries MU-2B Cockpit Checklists are incorporated by reference into this part. The Director of the Federal Register approved this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at U.S. Department of Transportation, Docket Management Facility, Room W 12-140, West Building Ground Floor, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, or at the National Archives and Records Administration, call 202-741-6030, or go to: *http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.*
+              
+. Turbine Aircraft Services, Inc., 4550 Jimmy Doolittle Drive, Addison, Texas 75001, USA.
+.. Mitsubishi Heavy Industries MU-2B Checklists:
+... Cockpit Checklist, Model MU-2B-60, Type Certificate A10SW, MHI Document No. YET06220C, accepted by FSB on February 12, 2007.
+... Cockpit Checklist, Model MU-2B-40, Type Certificate A10SW, MHI Document No. YET06256A, accepted by FSB on February 12, 2007.
+... Cockpit Checklist, Model MU-2B-36A, Type Certificate A10SW, MHI Document No. YET06257B, accepted by FSB on February 12, 2007.
+... Cockpit Checklist, Model MU-2B-36, Type Certificate A2PC, MHI Document No. YET06252B, accepted by FSB on February 12, 2007.
+... Cockpit Checklist, Model MU-2B-35, Type Certificate A2PC, MHI Document No. YET06251B, accepted by FSB on February 12, 2007.
+... Cockpit Checklist, Model MU-2B-30, Type Certificate A2PC, MHI Document No. YET06250A, accepted by FSB on March 2, 2007.
+... Cockpit Checklist, Model MU-2B-26A, Type Certificate A10SW, MHI Document No. YET06255A, accepted by FSB on February 12, 2007.
+              
+... Cockpit Checklist, Model MU-2B-26, Type Certificate A2PC, MHI Document No. YET06249A, accepted by FSB on March 2, 2007.
+... Cockpit Checklist, Model MU-2B-26, Type Certificate A10SW, MHI Document No. YET06254A, accepted by FSB on March 2, 2007.
+... Cockpit Checklist, Model MU-2B-25, Type Certificate A10SW, MHI Document No. YET06253A, accepted by FSB on March 2, 2007.
+... Cockpit Checklist, Model MU-2B-25, Type Certificate A2PC, MHI Document No. YET06248A, accepted by FSB on March 2, 2007.
+... Cockpit Checklist, Model MU-2B-20, Type Certificate A2PC, MHI Document No. YET06247A, accepted by FSB on February 12, 2007.
+... [Reserved]
+.. [Reserved]
+
+(xv) Cockpit Checklist, Model MU-2B-15, Type Certificate A2PC, MHI Document No. YET06246A, accepted by FSB on March 2, 2007.
+
+(xvi) Cockpit Checklist, Model MU-2B-10, Type Certificate A2PC, MHI Document No. YET06245A, accepted by FSB on March 2, 2007.
+
+(xvii) Cockpit Checklist, Model MU-2B, Type Certificate A2PC, MHI Document No. YET06244A, accepted by FSB on March 2, 2007.
+

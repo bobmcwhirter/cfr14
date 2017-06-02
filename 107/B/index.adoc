@@ -1,0 +1,199 @@
+# Operating Rules
+:toc:
+
+## § 107.11
+
+### Applicability.
+
+This subpart applies to the operation of all civil small unmanned aircraft systems subject to this part.
+
+## § 107.12
+
+### Requirement for a remote pilot certificate with a small UAS rating.
+
+. Except as provided in paragraph (c) of this section, no person may manipulate the flight controls of a small unmanned aircraft system unless:
+.. That person has a remote pilot certificate with a small UAS rating issued pursuant to subpart C of this part and satisfies the requirements of § 107.65; or
+.. That person is under the direct supervision of a remote pilot in command and the remote pilot in command has the ability to immediately take direct control of the flight of the small unmanned aircraft.
+. Except as provided in paragraph (c) of this section, no person may act as a remote pilot in command unless that person has a remote pilot certificate with a small UAS rating issued pursuant to Subpart C of this part and satisfies the requirements of § 107.65.
+. The Administrator may, consistent with international standards, authorize an airman to operate a civil foreign-registered small unmanned aircraft without an FAA-issued remote pilot certificate with a small UAS rating.
+
+## § 107.13
+
+### Registration.
+
+A person operating a civil small unmanned aircraft system for purposes of flight must comply with the provisions of § 91.203(a)(2) of this chapter.
+
+## § 107.15
+
+### Condition for safe operation.
+
+. No person may operate a civil small unmanned aircraft system unless it is in a condition for safe operation. Prior to each flight, the remote pilot in command must check the small unmanned aircraft system to determine whether it is in a condition for safe operation.
+. No person may continue flight of the small unmanned aircraft when he or she knows or has reason to know that the small unmanned aircraft system is no longer in a condition for safe operation.
+
+## § 107.17
+
+### Medical condition.
+
+No person may manipulate the flight controls of a small unmanned aircraft system or act as a remote pilot in command, visual observer, or direct participant in the operation of the small unmanned aircraft if he or she knows or has reason to know that he or she has a physical or mental condition that would interfere with the safe operation of the small unmanned aircraft system.
+
+## § 107.19
+
+### Remote pilot in command.
+
+. A remote pilot in command must be designated before or during the flight of the small unmanned aircraft.
+. The remote pilot in command is directly responsible for and is the final authority as to the operation of the small unmanned aircraft system.
+. The remote pilot in command must ensure that the small unmanned aircraft will pose no undue hazard to other people, other aircraft, or other property in the event of a loss of control of the aircraft for any reason.
+. The remote pilot in command must ensure that the small UAS operation complies with all applicable regulations of this chapter.
+. The remote pilot in command must have the ability to direct the small unmanned aircraft to ensure compliance with the applicable provisions of this chapter.
+
+## § 107.21
+
+### In-flight emergency.
+
+. In an in-flight emergency requiring immediate action, the remote pilot in command may deviate from any rule of this part to the extent necessary to meet that emergency.
+. Each remote pilot in command who deviates from a rule under paragraph (a) of this section must, upon request of the Administrator, send a written report of that deviation to the Administrator.
+
+## § 107.23
+
+### Hazardous operation.
+
+No person may:
+
+. Operate a small unmanned aircraft system in a careless or reckless manner so as to endanger the life or property of another; or
+              
+. Allow an object to be dropped from a small unmanned aircraft in a manner that creates an undue hazard to persons or property.
+
+## § 107.25
+
+### Operation from a moving vehicle or aircraft.
+
+No person may operate a small unmanned aircraft system—
+
+. From a moving aircraft; or
+. From a moving land or water-borne vehicle unless the small unmanned aircraft is flown over a sparsely populated area and is not transporting another person's property for compensation or hire.
+
+## § 107.27
+
+### Alcohol or drugs.
+
+A person manipulating the flight controls of a small unmanned aircraft system or acting as a remote pilot in command or visual observer must comply with the provisions of §§ 91.17 and 91.19 of this chapter.
+
+## § 107.29
+
+### Daylight operation.
+
+. No person may operate a small unmanned aircraft system during night.
+. No person may operate a small unmanned aircraft system during periods of civil twilight unless the small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statute miles. The remote pilot in command may reduce the intensity of the anti-collision lighting if he or she determines that, because of operating conditions, it would be in the interest of safety to do so.
+. For purposes of paragraph (b) of this section, civil twilight refers to the following:
+.. Except for Alaska, a period of time that begins 30 minutes before official sunrise and ends at official sunrise;
+.. Except for Alaska, a period of time that begins at official sunset and ends 30 minutes after official sunset; and
+.. In Alaska, the period of civil twilight as defined in the Air Almanac.
+
+## § 107.31
+
+### Visual line of sight aircraft operation.
+
+. With vision that is unaided by any device other than corrective lenses, the remote pilot in command, the visual observer (if one is used), and the person manipulating the flight control of the small unmanned aircraft system must be able to see the unmanned aircraft throughout the entire flight in order to:
+.. Know the unmanned aircraft's location;
+.. Determine the unmanned aircraft's attitude, altitude, and direction of flight;
+.. Observe the airspace for other air traffic or hazards; and
+.. Determine that the unmanned aircraft does not endanger the life or property of another.
+. Throughout the entire flight of the small unmanned aircraft, the ability described in paragraph (a) of this section must be exercised by either:
+.. The remote pilot in command and the person manipulating the flight controls of the small unmanned aircraft system; or
+.. A visual observer.
+
+## § 107.33
+
+### Visual observer.
+
+If a visual observer is used during the aircraft operation, all of the following requirements must be met:
+
+. The remote pilot in command, the person manipulating the flight controls of the small unmanned aircraft system, and the visual observer must maintain effective communication with each other at all times.
+. The remote pilot in command must ensure that the visual observer is able to see the unmanned aircraft in the manner specified in § 107.31.
+. The remote pilot in command, the person manipulating the flight controls of the small unmanned aircraft system, and the visual observer must coordinate to do the following:
+.. Scan the airspace where the small unmanned aircraft is operating for any potential collision hazard; and
+.. Maintain awareness of the position of the small unmanned aircraft through direct visual observation.
+
+## § 107.35
+
+### Operation of multiple small unmanned aircraft.
+
+A person may not operate or act as a remote pilot in command or visual observer in the operation of more than one unmanned aircraft at the same time.
+
+## § 107.36
+
+### Carriage of hazardous material.
+
+A small unmanned aircraft may not carry hazardous material. For purposes of this section, the term hazardous material is defined in 49 CFR 171.8.
+
+## § 107.37
+
+### Operation near aircraft; right-of-way rules.
+
+. Each small unmanned aircraft must yield the right of way to all aircraft, airborne vehicles, and launch and reentry vehicles. Yielding the right of way means that the small unmanned aircraft must give way to the aircraft or vehicle and may not pass over, under, or ahead of it unless well clear.
+. No person may operate a small unmanned aircraft so close to another aircraft as to create a collision hazard.
+
+## § 107.39
+
+### Operation over human beings.
+
+No person may operate a small unmanned aircraft over a human being unless that human being is:
+
+. Directly participating in the operation of the small unmanned aircraft; or
+. Located under a covered structure or inside a stationary vehicle that can provide reasonable protection from a falling small unmanned aircraft.
+
+## § 107.41
+
+### Operation in certain airspace.
+
+No person may operate a small unmanned aircraft in Class B, Class C, or Class D airspace or within the lateral boundaries of the surface area of Class E airspace designated for an airport unless that person has prior authorization from Air Traffic Control (ATC).
+
+## § 107.43
+
+### Operation in the vicinity of airports.
+
+No person may operate a small unmanned aircraft in a manner that interferes with operations and traffic patterns at any airport, heliport, or seaplane base.
+
+## § 107.45
+
+### Operation in prohibited or restricted areas.
+
+No person may operate a small unmanned aircraft in prohibited or restricted areas unless that person has permission from the using or controlling agency, as appropriate.
+
+## § 107.47
+
+### Flight restrictions in the proximity of certain areas designated by notice to airmen.
+
+A person acting as a remote pilot in command must comply with the provisions of §§ 91.137 through 91.145 and 99.7 of this chapter.
+
+## § 107.49
+
+### Preflight familiarization, inspection, and actions for aircraft operation.
+
+Prior to flight, the remote pilot in command must:
+
+. Assess the operating environment, considering risks to persons and property in the immediate vicinity both on the surface and in the air. This assessment must include:
+.. Local weather conditions;
+.. Local airspace and any flight restrictions;
+.. The location of persons and property on the surface; and
+.. Other ground hazards.
+. Ensure that all persons directly participating in the small unmanned aircraft operation are informed about the operating conditions, emergency procedures, contingency procedures, roles and responsibilities, and potential hazards;
+. Ensure that all control links between ground control station and the small unmanned aircraft are working properly;
+. If the small unmanned aircraft is powered, ensure that there is enough available power for the small unmanned aircraft system to operate for the intended operational time; and
+. Ensure that any object attached or carried by the small unmanned aircraft is secure and does not adversely affect the flight characteristics or controllability of the aircraft.
+
+## § 107.51
+
+### Operating limitations for small unmanned aircraft.
+
+A remote pilot in command and the person manipulating the flight controls of the small unmanned aircraft system must comply with all of the following operating limitations when operating a small unmanned aircraft system:
+
+. The groundspeed of the small unmanned aircraft may not exceed 87 knots (100 miles per hour).
+. The altitude of the small unmanned aircraft cannot be higher than 400 feet above ground level, unless the small unmanned aircraft:
+.. Is flown within a 400-foot radius of a structure; and
+.. Does not fly higher than 400 feet above the structure's immediate uppermost limit.
+. The minimum flight visibility, as observed from the location of the control station must be no less than 3 statute miles. For purposes of this section, flight visibility means the average slant distance from the control station at which prominent unlighted objects may be seen and identified by day and prominent lighted objects may be seen and identified by night.
+. The minimum distance of the small unmanned aircraft from clouds must be no less than:
+.. 500 feet below the cloud; and
+.. 2,000 feet horizontally from the cloud.
+

@@ -1,0 +1,41 @@
+# General
+:toc:
+
+## § 103.1
+
+### Applicability.
+
+This part prescribes rules governing the operation of ultralight vehicles in the United States. For the purposes of this part, an ultralight vehicle is a vehicle that:
+
+. Is used or intended to be used for manned operation in the air by a single occupant;
+              
+. Is used or intended to be used for recreation or sport purposes only;
+. Does not have any U.S. or foreign airworthiness certificate; and
+. If unpowered, weighs less than 155 pounds; or
+. If powered:
+.. Weighs less than 254 pounds empty weight, excluding floats and safety devices which are intended for deployment in a potentially catastrophic situation;
+.. Has a fuel capacity not exceeding 5 U.S. gallons;
+.. Is not capable of more than 55 knots calibrated airspeed at full power in level flight; and
+.. Has a power-off stall speed which does not exceed 24 knots calibrated airspeed.
+
+## § 103.3
+
+### Inspection requirements.
+
+. Any person operating an ultralight vehicle under this part shall, upon request, allow the Administrator, or his designee, to inspect the vehicle to determine the applicability of this part.
+. The pilot or operator of an ultralight vehicle must, upon request of the Administrator, furnish satisfactory evidence that the vehicle is subject only to the provisions of this part.
+
+## § 103.5
+
+### Waivers.
+
+No person may conduct operations that require a deviation from this part except under a written waiver issued by the Administrator.
+
+## § 103.7
+
+### Certification and registration.
+
+. Notwithstanding any other section pertaining to certification of aircraft or their parts or equipment, ultralight vehicles and their component parts and equipment are not required to meet the airworthiness certification standards specified for aircraft or to have certificates of airworthiness.
+. Notwithstanding any other section pertaining to airman certification, operators of ultralight vehicles are not required to meet any aeronautical knowledge, age, or experience requirements to operate those vehicles or to have airman or medical certificates.
+. Notwithstanding any other section pertaining to registration and marking of aircraft, ultralight vehicles are not required to be registered or to bear markings of any type.
+
