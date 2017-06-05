@@ -1,155 +1,161 @@
 # Rules and Procedures for Airport Development Projects
 :toc:
 
-## § 151.21
+## § 151.21 - Procedures: Application; general information.
 
-### Procedures: Application; general information.
-
+[loweralpha]
 . An eligible sponsor that desires to obtain Federal aid for eligible airport development must submit to the Area Manager of the area in which the sponsor is located (hereinafter in this part referred to as the “Area Manager”), a request on FAA Form 5100-3, accompanied by—
+[arabic]
 .. The sponsor's written statement as to whether the proposed project involves the displacement and relocation of persons residing on land physically acquired or to be acquired for the project development; and
 .. The sponsor's written assurance, if the project involves displacement and relocation of such persons, that adequate replacement housing will be available or provided for (built, if necessary), without regard to their race, color, religion, sex, or national origin, before the execution of a grant agreement for the project.
 . A proposed project is selected for inclusion in a program only if the sponsor has submitted a written assurance when required by paragraph (a)(2) of this section, or if the Administrator has determined that the project does not involve the displacement and relocation of persons residing on land to be physically acquired or to be acquired for the project development. If the Administrator selects a proposed project for inclusion in a program, a tentative allocation of funds is made for it and the sponsor is notified of the allocation. The tentative allocation may be withdrawn if the sponsor fails to submit an acceptable project application as provided in paragraph (c) of this section or fails to proceed diligently with the project, or if adequate replacement housing is not available or provided for in accordance with a written assurance when required by paragraph (a)(2) of this section.
 . As soon as practicable after receiving notice of the tentative allocation, the sponsor must submit a project application on FAA Form 1624 to the Area Manager, without changing the language of the form, unless the change is approved in advance by the Administrator. In the case of a joint project, each sponsor executes only those provisions of the project application that apply to it. A sponsor who has executed a grant agreement for a project for the development of an airport under the Program, may, in the Administrator's discretion, submit additional project applications on FAA Form 1624 for further development of that airport.
 
-## § 151.23
-
-### Procedures: Application; funding information.
+## § 151.23 - Procedures: Application; funding information.
 
 Each sponsor must state in its application that it has on hand, or show that it can obtain as needed, funds to pay all estimated costs of the proposed project that are not borne by the United States or by another sponsor. If any of the funds are to be furnished to a sponsor, or used to pay project costs on behalf of a sponsor, by a State agency or any other public agency that is not a sponsor of the project, that agency may, instead of the sponsor, submit evidence that the funds will be provided if the project is approved.
 
-## § 151.24
+## § 151.24 - Procedures: Application; information on estimated project costs.
 
-### Procedures: Application; information on estimated project costs.
-
+[loweralpha]
 . If any part of the estimated project costs consists of the value of donated land, labor, materials, or equipment, or of the value of a property interest in land acquired at a cost that (as represented by the sponsor) is not the actual cost or the amount of an award in eminent domain proceedings, the sponsor must so state in the application, indicating the nature of the donation or other transaction and the value it places on it.
 . If, after the grant agreement is executed and before the final payment of the allowable project costs is made under § 151.63, it appears that the sponsor inadvertently or unknowingly failed to comply with paragraph (a) of this section as to any item, the Administrator—
+[arabic]
 .. Makes or obtains an appraisal of the item, and if the appraised value is less than the value placed on the item in the project application, notifies the sponsor that it may, within a stated time, ask in writing for reconsideration of the appraisal and submit statements of pertinent facts and opinion; and
 .. Adjusts the U.S. share of the project costs to reflect any decrease in value of the item below that stated in the project application.
 
-## § 151.25
+## § 151.25 - Procedures: Application; information as to property interests.
 
-### Procedures: Application; information as to property interests.
-
+[loweralpha]
 . Each sponsor must state in its application all of the property interests that he holds in the lands to be developed or used as part of, or in connection with, the airport as it will be when the project is completed. Each project application contains a covenant on the part of the sponsor to acquire, before starting construction work, or within a reasonable time if not needed for the construction, property interests satisfactory to the Administrator in all the lands in which it does not hold those property interests at the time it submits the application. In the case of a joint project, any one or more of the sponsors may hold or acquire the necessary property interests. In such a case, each sponsor may show on its application only those property interests that it holds or is to acquire.
 . Each sponsor of a project must send with its application a property map (designated as Exhibit A) or incorporate such a map by reference to one in a previous application that was approved. The sponsor must clearly identify on the map all property interests required in paragraph (a) of this section, showing prior and proposed acquisitions for which United States aid is requested under the project.
 . For the purposes of paragraphs (a) and (b) of this section, the property interest that the sponsor must have or agree to obtain, is—
+[arabic]
 .. Title free and clear of any reversionary interest, lien, easement, lease, or other encumbrance that, in the opinion of the Administrator, would create an undue risk that it might deprive the sponsor of possession or control, interfere with its use for public airport purposes, or make it impossible for the sponsor to carry out the agreements and covenants in the application;
 .. A lease of not less than 20 years granted to the sponsor by another public agency that has title as described in paragraph (c)(1) of this section, on terms that the Administrator considers satisfactory; or
 .. In the case of an offsite area an agreement, easement, leasehold, or other right or property interest that, in the Administrator's opinion, provides reasonable assurance that the sponsor will not be deprived of its right to use the land for the intended purpose during the period necessary to meet the requirements of the grant agreement.
 . For the purposes of this section, the word “land” includes landing areas, building areas, runway clear zones, clearways and approach zones, and areas required for offsite construction, entrance roads, drainage, protection of approaches, installation of air navigation facilities, or other airport purposes.
 
-## § 151.26
+## § 151.26 - Procedures: Applications; compatible land use information; consideration of local community interest; relocation of displaced persons.
 
-### Procedures: Applications; compatible land use information; consideration of local community interest; relocation of displaced persons.
-
+[loweralpha]
 . Each sponsor must state in its application the action that it has taken to restrict the use of land adjacent to or in the immediate vicinity of the airport to activities and purposes compatible with normal airport operations including landing and take-off of aircraft. The sponsor's statement must include information on—
+[arabic]
 .. Any property interests (such as airspace easements or title to airspace) acquired by the sponsor to assure compatible land use, or to protect or control aerial approaches;
 .. Any zoning laws enacted or in force restricting the use of land adjacent to or in the vicinity of the airport, or assuring protection or control of aerial approaches, whether or not enacted by the sponsor; and
 .. Any action taken by the sponsor to induce the appropriate government authority to enact zoning laws restricting the use of land adjacent to or in the vicinity of the airport, or assuring protection or control of aerial approaches, when the sponsor lacks the power to zone the land.
               
 . Each sponsor must submit with his application—
+[arabic]
 .. A written statement—
+[lowerroman]
 ... Specifying what consideration has been given to the interest of all communities in or near which the project is located; and
 ... Containing the substance of any objection to, or approval of, the proposed project made known to the sponsor by any local individual, group or community; and
 .. A written statement showing that adequate replacement housing that is open to all persons, regardless of race, color, religion, sex, or national origin, is available and has been offered on the same nondiscriminatory basis to persons who have resided on land physically acquired or to be acquired for the project development and who will be displaced thereby.
 
-## § 151.27
+## § 151.27 - Procedures: Application, plans, specifications, and appraisals.
 
-### Procedures: Application, plans, specifications, and appraisals.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, each sponsor shall incorporate by reference in its project application the final plans and specifications, describing the items of airport development for which it requests United States aid. It must submit the plans and specifications with the application unless they were previously submitted or are submitted with that of another sponsor of the project.
 . In special cases, the Administrator authorizes the postponement of the submission of final plans and specifications until a later date to be specified in the grant agreement, if the sponsor has submitted—
+[arabic]
 .. An airport layout plan approved by the Administrator; and
 .. Preliminary plans and specifications in enough detail to identify all items of development included in the project, and prepared so as to provide for accomplishing the project in accordance with the master plan layout, the rules in subparts B and C and applicable local laws and regulations.
 . If the project involves acquiring a property interest in land by donation, or at a cost that (as represented by the sponsor) is not the actual cost or the amount of an award in eminent domain proceedings, the Administrator, before passing on the eligibility of the project makes or obtains an appraisal of the interest. If the appraised value is less than the value placed on the interest by the sponsor (§ 151.23), the Administrator notifies the sponsor that he may within a stated time, ask in writing for reconsideration of the appraisal and submit statements of pertinent facts and opinion.
 
-## § 151.29
+## § 151.29 - Procedures: Offer, amendment, and acceptance.
 
-### Procedures: Offer, amendment, and acceptance.
-
+[loweralpha]
 . Upon approving a project, the Administrator makes an offer to the sponsor to pay the United States share of the allowable project costs. The offer states a definite amount as the maximum obligation of the United States, and is subject to change or withdrawal by the Administrator, in his discretion, at any time before it is accepted.
 . If, before the sponsor accepts the offer, it is determined that the maximum obligation of the United States stated in the offer is not enough to pay the United States share of the allowable project costs, the sponsor may request an increase in the amount in the offer, through the Area Manager.
 . An official of the sponsor must accept the offer for the sponsor within the time prescribed in the offer, and in the required number of counterparts, by signing it in the space provided. The signing official must have been authorized to sign the acceptance by a resolution or ordinance adopted by the sponsor's governing body. The resolution or ordinance must, as appropriate under the local law—
+[arabic]
 .. Set forth the terms of the offer at length; or
 .. Have a copy of the offer attached to the resolution or ordinance and incorporated into it by reference.
 
-## § 151.31
+## § 151.31 - Procedures: Grant agreement.
 
-### Procedures: Grant agreement.
-
+[loweralpha]
 . An offer by the Administrator, and acceptance by the sponsor, as set forth in § 151.29, constitute a grant agreement between the sponsor and the United States. Except as provided in § 151.41(c)(3), the United States does not pay, and is not obligated to pay, any part of the project costs that have been or may be incurred, before the grant agreement is executed.
 . The Administrator and the sponsor may agree to a change in a grant agreement if—
+[arabic]
 .. The change does not increase the maximum obligation of the United States under the grant agreement by more than 10 percent;
 .. The change provides only for airport development that meets the requirements of subparts B and C; and
 .. The change does not prejudice the interests of the United States.
 . When a change is agreed to, the Administrator issues a supplemental agreement incorporating the change. The sponsor must accept the supplemental agreement in the manner provided in § 151.29(c).
 
-## § 151.33
+## § 151.33 - Cosponsorship and agency.
 
-### Cosponsorship and agency.
-
+[loweralpha]
 . Any two or more public agencies that desire to participate either in accomplishing development under a project or in maintaining or operating the airport, may cosponsor it if they meet the requirements of subparts B and C, including—
+[arabic]
 .. The eligibility requirements of § 151.37; and
 .. The submission of a single project application, executed by each sponsor, clearly stating the certifications, representations, warranties, and obligations made or assumed by each, or a separate application by each that does not meet all the requirements of subparts B and C if in the Administrator's opinion, the applications collectively meet the requirements of subparts B and C as applied to a project with a single sponsor.
 . A public agency that desires to participate in a project only by contributing funds to a sponsor need not become a sponsor or an agent of the sponsor, as provided in this section. However, any funds that it contributes are considered as funds of the sponsor for the purposes of the Federal Airport Act and this part.
 . If the sponsors of a joint project are not each willing to assume, jointly and severally, the obligations that subparts B and C requires a sponsor to assume, they must send a true copy of an agreement between them, satisfactory to the Administrator, to be incorporated into the grant agreement. Each agreement must state—
+[arabic]
 .. The responsibilities of each sponsor to the others with respect to accomplishing the proposed development and operating and maintaining the airport;
 .. The obligations that each will assume to the United States; and
 .. The name of the sponsor or sponsors who will accept, receipt for, and disburse grant payments.
 . A public agency may, if it is authorized by local law, act as agent of the public agency that is to own and operate the airport, with or without participating financially and without becoming a sponsor. The terms and conditions of the agency and the agent's authority to act for the sponsor must be set forth in an agency agreement that is satisfactory to the Administrator. The sponsor must submit a true copy of the agreement with the project application. Such an agent may accept, on behalf of the sponsor, an offer made under § 151.29, only if that acceptance has been specifically and legally authorized by the sponsor's governing body and the authority is specifically set forth in the agency agreement.
 . When the cosponsors of an airport are not located in the same area, they must submit a joint request to the Area Manager of the area in which the airport development will be located.
 
-## § 151.35
+## § 151.35 - Airport development and facilities to which subparts B and C apply.
 
-### Airport development and facilities to which subparts B and C apply.
-
+[loweralpha]
 . Subparts B and C applies to the following kinds of airport development:
+[arabic]
 .. Any work involved in constructing, improving, or repairing a public airport or part thereof, including the constructing, altering, or repairing of only those buildings or parts thereof that are intended to house facilities or activities directly related to the safety of persons at the airport.
 .. Removing, lowering, relocating, marking, and lighting of airport hazards as defined in § 151.39(b).
 .. Acquiring land or an interest therein, or any easement through or other interest in air space, that is necessary to allow any work covered by paragraph (a)(1) or (2) of this section, or to remove or mitigate, or prevent or limit the establishment of, airport hazards as defined in § 151.39(b).
 . The airport facilities to which subparts B and C applies are those structures, runways, or other items, on or at an airport, that are—
+[arabic]
 .. Used or intended to be used, in connection with the landing, takeoff, or maneuvering of aircraft, or for or in connection with operating and maintaining the airport itself; or
 .. Required to be located at the airport for use by the users of its aeronautical facilities or by airport operators, concessionaires, and other users of the airport in connection with providing services or commodities to the users of those aeronautical facilities.
 . For the purposes of subparts B and C, “public airport” means an airport used for public purposes, under the control of a public agency named in § 151.37(a), with a publicly owned landing area.
 
-## § 151.37
-
-### Sponsor eligibility.
+## § 151.37 - Sponsor eligibility.
 
 To be eligible to apply for an individual or joint project for development with respect to a particular airport a sponsor must—
 
+[loweralpha]
 . Be a public agency, which includes for the purposes of this part only, a State, the District of Columbia, Puerto Rico, the Virgin Islands, Guam or an agency of any of them; a municipality or other political subdivision; a tax-supported organization; or the United States or an agency thereof;
 . Be legally, financially, and otherwise able to—
+[arabic]
 .. Make the certifications, representations, and warranties in the application form prescribed in § 151.67(a);
 .. Make, keep, and perform the assurances, agreements, and covenants in that form; and
 .. Meet the other applicable requirements of the Federal Airport Act and subparts B and C;
 . Have, or be able to obtain, enough funds to meet the requirements of § 151.23; and
 . Have, or be able to obtain, property interests that meet the requirements of § 151.25(a).
               
+[arabic]
 .. Is located in Puerto Rico, the Virgin Islands, or Guam;
 .. Is in or is in close proximity to a national park, a national recreation area, or a national monument; or
 .. Is in a national forest or a special reservation for United States purposes.
 
-## § 151.39
+## § 151.39 - Project eligibility.
 
-### Project eligibility.
-
+[loweralpha]
 . A project for construction or land acquisition may not be approved under subparts B and C unless—
+[arabic]
 .. It is an item of airport development described in § 151.35(a);
 .. The airport development is within the scope of the current National Airport Plan;
               
 .. The airport development is, in the opinion of the Administrator, reasonably necessary to provide a needed civil airport facility;
 .. The Administrator is satisfied that the project is reasonably consistent with existing plans of public agencies for the development of the area in which the airport is located and will contribute to the accomplishment of the purposes of the Federal-aid Airport Program;
 .. The Administrator is satisfied, after considering the pertinent information including the sponsor's statements required by § 151.26(b), that—
+[lowerroman]
 ... Fair consideration has been given to the interest of all communities in or near which the project is located; and
 ... Adequate replacement housing that is open to all persons, regardless of race, color, religion, sex, or national origin, is available and has been offered on the same nondiscriminatory basis to persons who have resided on land physically acquired or to be acquired for the project development and have been or will be displaced thereby;
 .. The project provides for installing such of the landing aids specified in section 10(d) of the Federal Airport Act (49 U.S.C. 1109(d)) as the Administrator considers are needed for the safe and efficient use of the airport by aircraft, based on the category of the airport and the type and volume of its traffic.
 . Only the following kinds of airport development described in § 151.35(a) are eligible to be included in a project under subparts B and C:
+[arabic]
 .. Preparing all or part of an airport site, including clearing, grubbing filling and grading.
 .. Dredging of seaplane anchorages and channels.
 .. Drainage work, on or off the airport or airport site.
 .. Constructing, altering, or repairing airport buildings or parts thereof to the extent that it is covered by § 151.35(a).
 .. Constructing, altering, or repairing runways, taxiways, and aprons, including—
+[lowerroman]
 ... Bituminous resurfacing of pavements with a minimum of 100 pounds of plant-mixed material for each square yard;
 ... Applying bituminous surface treatment on a pavement (in accordance with FAA Specification P-609), the existing surface of which consists of that kind of surface treatment; and
 ... Resealing a runway that has been substantially extended or partially reconstructed, if that resealing is necessary for the uniform color and appearance of the runway.
@@ -161,6 +167,7 @@ To be eligible to apply for an individual or joint project for development with 
 .. Clearing, grading, and filling to allow the installing of landing aids.
 .. Relocating structures, roads, and utilities necessary to allow eligible airport development.
 .. Acquiring land or an interest therein, or any easement through or other interest in airspace, when necessary to—
+[lowerroman]
 ... Allow other airport development to be made, whether or not a part of the Federal-aid Airport Program;
 ... Prevent or limit the establishment of airport hazards;
 ... Allow the removal, lowering, relocation, marking, and lighting of existing airport hazards;
@@ -170,11 +177,11 @@ To be eligible to apply for an individual or joint project for development with 
               
 . A project for acquiring land that has been or will be donated to the sponsor is not eligible for inclusion in the Federal-aid Airport Program, unless the project also includes other items of airport development that would require a sponsor's contribution equal to or more than the United States share of the value of the donated land as appraised by the Administrator.
 
-## § 151.41
+## § 151.41 - Project costs.
 
-### Project costs.
-
+[loweralpha]
 . For the purposes of subparts B and C, project costs consist of any costs involved in accomplishing a project, including those of—
+[arabic]
 .. Making field surveys;
 .. Preparing plans and specifications;
 .. Accomplishing or procuring the accomplishing of the work;
@@ -182,9 +189,11 @@ To be eligible to apply for an individual or joint project for development with 
 .. Acquiring land, or an interest therein, or any casement through or other interest in airspace; and
 .. Administrative and other incidental costs incurred specifically in connection with accomplishing a project, and that would not have otherwise been incurred.
 . The costs described in paragraph (a) of this section, including the value of land, labor, materials, and equipment donated or loaned to the sponsor and appropriated to the project by the sponsor, are eligible for consideration as to their allowability, except for—
+[arabic]
 .. That part of the cost of rehabilitation or repair for which funds have been appropriated under section 17 of the Federal Airport Act (49 U.S.C. 1116);
 .. That part of the cost of acquiring an existing private airport that represents the cost of acquiring passenger automobile parking facilities, buildings to be used as hangars, living quarters, or for nonairport purposes, at the airport, and those buildings or parts of buildings the construction of which is not airport development within the meaning of § 151.35(a);
 .. The cost of materials and supplies owned by the sponsor or furnished from a source of supply owned by the sponsor if—
+[lowerroman]
 ... Those materials and supplies were used for airport development before the grant agreement was executed; or
 ... The cost is not supported by proper evidence of quantity and value;
 .. The cost of nonexpendable machinery, tools, or equipment owned by the sponsor and used under a project by the sponsors force account, except to the extent of the fair rental value of that machinery, tools, or equipment for the period it is used on the project;
@@ -192,56 +201,57 @@ To be eligible to apply for an individual or joint project for development with 
 .. The value of any land, including improvements, donated to the sponsor by another public agency; and
 .. Any costs incurred in connection with raising funds by the sponsor, including interest and premium charges and administrative expenses involved in conducting bond elections and in the sale of bonds.
 . To be an allowable project cost, for the purposes of computing the amount of a grant, an item that is paid or incurred must, in the opinion of the Administrator—
+[arabic]
 .. Have been necessary to accomplish airport development in conformity with the approved plans and specifications for an approved project and with the terms of the grant agreement for the project;
 .. Be reasonable in amount (or be subject to partial disallowance under section 13(a)(3) of the Federal Airport Act (49 U.S.C. 1112(a)(3));
 .. Have been incurred after the date the grant agreement was executed, except that costs of land acquisition, field surveys, planning, preparing plans and specifications, and administrative and incidental costs, may be allowed even though they were incurred before that date, if they were incurred after May 13, 1946; and
 .. Be supported by satisfactory evidence.
 
-## § 151.43
+## § 151.43 - United States share of project costs.
 
-### United States share of project costs.
-
+[loweralpha]
 . The United States share of the allowable costs of a project is stated in the grant agreement for the project, to be paid from appropriations made under the Federal Airport Act.
 . Except as provided in paragraphs (c) and (d) of this section and in subpart C of this part, the United States share of the costs of an approved project for airport development (regardless of its size or location) is 50 percent of the allowable costs of the project.
 . The U.S. share of the costs of an approved project for airport development in a State in which the unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) is more than 5 percent of its total land, is the percentage set forth in the following table:
 . The United States share of the costs of an approved project, representing the costs of any of the following, is 75 percent:
+[arabic]
 .. The costs of installing high intensity runway edge lighting on a designated instrument landing runway or other runway with an approved straight-in approach procedure.
 .. The costs of installing in-runway lighting (touchdown zone lighting system, and centerline lighting system).
 .. The costs of installing runway distance markers.
 .. The costs of acquiring land, or a suitable property interest in land or in or over water, needed for installing operating, and maintaining an ALS (as described in § 151.13).
 .. The costs of any project in the Virgin Islands.
 
-## § 151.45
+## § 151.45 - Performance of construction work: General requirements.
 
-### Performance of construction work: General requirements.
-
+[loweralpha]
 . All construction work under a project must be performed under contract, except in a case where the Administrator determines that the project, or a part of it, can be more effectively and economically accomplished on a force account basis by the sponsor or by another public agency acting for or as agent of the sponsor.
 . Each contract under a project must meet the requirements of local law.
 . No sponsor may issue any change order under any of its construction contracts or enter into a supplemental agreement unless three copies of that order or agreement have been sent to and approved by the Area Manager. §§ 151.47 and 151.49 apply to supplemental agreements as well as to original contracts.
 . This section and §§ 151.47 through 151.49 do not apply to contracts with the owners of airport hazards, (as described in § 151.39(b)), buildings, pipe lines, power lines, or other structures or facilities, for installing, extending, changing, removing, or relocating that structure or facility. However, the sponsor must obtain the approval of the Area Manager before entering into such a contract.
 . No sponsor may allow a contractor or subcontractor to begin work under a project until—
+[arabic]
 .. The sponsor has furnished three conformed copies of the contract to the Area Manager; and
 .. The Area Manager agrees to the issuance of a notice to proceed with the work to the contractor. However, the Area Manager does not agree to the issuance of such a notice unless he is satisfied that adequate replacement housing is available and has been offered to affected persons, as required for project eligibility by § 151.39(a)(5).
 . Except when the Area Manager determines that the sponsor has previously demonstrated satisfactory engineering and construction supervision and inspection, no sponsor may allow a contractor or subcontractor to begin work, nor may the sponsor begin force account work, until the sponsor has notified the Area Manager in writing that engineering and construction supervision and inspection have been arranged to insure that construction will conform to FAA approved plans and specifications, and that the sponsor has caused a review to be made of the qualifications of personnel who will be performing such supervision and inspection and is satisfied that they are qualified to do so.
 
-## § 151.47
+## § 151.47 - Performance of construction work: Letting of contracts.
 
-### Performance of construction work: Letting of contracts.
-
+[loweralpha]
 . *Advertising required; exceptions.* Unless the Administrator approves another method for use on a particular airport development project, each contract for construction work on a project in the amount of more than $2,000 must be awarded on the basis of public advertising and open competitive bidding under the local law applicable to the letting of public contracts. Any oral or written agreement or understanding between a sponsor and another public agency that is not a sponsor of the project, under which that public agency undertakes construction work for or as agent of the sponsor, is not considered to be a construction contract for the purposes of this section, or §§ 151.45, 151.49, and 151.51.
 . *Advertisement; conditions and contents.* There may be no advertisement for bids on, or negotiation of, a construction contract until the Administrator has approved the plans and specifications. The advertisement shall inform the bidders of the contract and reporting provisions required by § 151.54. Unless the estimated contract price or construction cost is $2,000 or less, there may be no advertisement for bids or negotiation until the Administrator has given the sponsor a copy of a decision of the Secretary of Labor establishing the minimum wage rates for skilled and unskilled labor under the proposed contract. In each case, a copy of the wage determination decision must be set forth in the initial invitation for bids or proposed contract or incorporated therein by reference to a copy set forth in the advertised or negotiated specifications.
 . *Procedure for the Secretary of Labor's wage determinations.* At least 60 days before the intended date of advertising or negotiating under paragraph (b) of this section, the sponsor shall send to the Area Manager, completed Department of Labor Form DB-11, with only the classifications needed in the performance of the work checked. General entries (such as “entire schedule” or “all applicable classifications”) may not be used. Additional necessary classifications not on the form may be typed in the blank spaces or on an attached separate list. A classification that can be fitted into classifications on the form, or a classification that is not generally recognized in the area or in the industry, may not be used. Except in areas where the wage patterns are clearly established, the Form must be accompanied by any available pertinent wage payment or locally prevailing fringe benefit information.
-. *Use and effectiveness of the Secretary of Labor's wage determinations.* (1) Wage determinations are effective only for 120 days from the date of the determinations. If it appears that a determination may expire between bid opening and award, the sponsor shall so advise the FAA as soon as possible. If he wishes a new request for wage determination to be made and if any pertinent circumstances have changed, he shall submit a new Form DB-11 and accompanying information. If he claims that the determination expires before award and after bid opening due to unavoidable circumstances, he shall submit proof of the facts which he claims support a finding to that effect.
+. *Use and effectiveness of the Secretary of Labor's wage determinations.*
+[arabic]
+.. Wage determinations are effective only for 120 days from the date of the determinations. If it appears that a determination may expire between bid opening and award, the sponsor shall so advise the FAA as soon as possible. If he wishes a new request for wage determination to be made and if any pertinent circumstances have changed, he shall submit a new Form DB-11 and accompanying information. If he claims that the determination expires before award and after bid opening due to unavoidable circumstances, he shall submit proof of the facts which he claims support a finding to that effect.
+.. The Secretary of Labor may modify any wage determination before the award of the contract or contracts for which it was sought. If the proposed contract is awarded on the basis of public advertisement and open competitive bidding, any modification that the FAA receives less than 10 days before the opening of bids is not effective, unless the Administrator finds that there is reasonable time to notify bidders. A modification may not continue in effect beyond the effective period of the wage determination to which it relates. The Administrator sends any modification to the sponsor as soon as possible. If the modification is effective, it must be incorporated in the invitation for bids, by issuing an addendum to the specifications or otherwise.
 . *Requirements for awarding construction contracts.* A sponsor may not award a construction contract without the written concurrence of the Administrator (through the Area Manager) that the contract prices are reasonable and that the contract conforms to the sponsor's grant agreement with the United States. A sponsor that awards contracts on the basis of public advertising and open competitive bidding, shall, after the bids are opened, send a tabulation of the bids and its recommendations for award to the Area Manager. The allowable project costs of the work, on which the Federal participation is computed, may not be more than the bid of the lowest responsible bidder. The sponsor may not accept a bid by a contractor whose name appears on the current list of ineligible contractors published by the Comptroller General of the United States under § 5.6(b) of Title 29 of the regulations of the Secretary of Labor (29 CFR part 5), or a bid by any firm, corporation, partnership, or association in which that contractor has a substantial interest.
 . *Secretary of Labor's interpretations apply.* Where applicable by their terms, the regulations of the Secretary of Labor (29 CFR 5.20-5.32) interpreting the fringe benefit provisions of the Davis-Bacon Act apply to this section.
 
-(2) The Secretary of Labor may modify any wage determination before the award of the contract or contracts for which it was sought. If the proposed contract is awarded on the basis of public advertisement and open competitive bidding, any modification that the FAA receives less than 10 days before the opening of bids is not effective, unless the Administrator finds that there is reasonable time to notify bidders. A modification may not continue in effect beyond the effective period of the wage determination to which it relates. The Administrator sends any modification to the sponsor as soon as possible. If the modification is effective, it must be incorporated in the invitation for bids, by issuing an addendum to the specifications or otherwise.
+## § 151.49 - Performance of construction work: Contract requirements.
 
-## § 151.49
-
-### Performance of construction work: Contract requirements.
-
+[loweralpha]
 . *Contract provisions.* In addition to any other provisions necessary to ensure completion of the work in accordance with the grant agreement, each sponsor entering into a construction contract for an airport development project shall insert in the contract the provisions required by the Secretary of Labor, as set forth in appendix H of this part. The Director, Airports Service, may amend any provision in appendix H from time to time to accord with rule-making action of the Secretary of Labor. The provisions in the following paragraphs also must be inserted in the contract:
+[arabic]
 .. *Federal Aid to Airport Program Project.* The work in this contract is included in Federal-aid Airport Project No. _, which is being undertaken and accomplished by the [insert sponsor's name] in accordance with the terms and conditions of a grant agreement between the [insert sponsor's name] and the United States, under the Federal Airport Act (49 U.S.C. 1101) and part 151 of the Federal Aviation Regulations (14 CFR part 151), pursuant to which the United States has agreed to pay a certain percentage of the costs of the project that are determined to be allowable project costs under that Act. The United States is not a party to this contract and no reference in this contract to the FAA or any representative thereof, or to any rights granted to the FAA or any representative thereof, or the United States, by the contract, makes the United States a party to this contract.
 .. *Consent to assignment.* The contractor shall obtain the prior written consent of the [insert sponsor's name] to any proposed assignment of any interest in or part of this contract.
 .. *Convict labor.* No convict labor may be employed under this contract.
@@ -254,16 +264,17 @@ To be eligible to apply for an individual or joint project for development with 
 .. *Contract termination.* A breach of paragraphs [insert designation of 3 paragraphs corresponding to paragraphs (6), (7) and (8) of this paragraph] may be grounds for termination of the contract.
 . *Exemption of certain contracts.* Appendix H to this part and paragraph (a)(5) of this section do not apply to prime contracts of $2,000 or less.
 . *Adjustment in liquidated damages.* A contractor or subcontractor who has become liable for liquidated damages under paragraph G of appendix H and who claims that the amount administratively determined as liquidated damages under section 104(a) of the Contract Work Hours Standards Act is incorrect or that he violated inadvertently the Contract Work Hours Standards Act notwithstanding the exercise of due care, may—
+[arabic]
 .. If the amount determined is more than $100, apply to the Administrator for a recommendation to the Secretary of Labor that an appropriate adjustment be made or that he be relieved of liability for such liquidated damages; or
 .. If the amount determined is $100 or less, apply to the Administrator for an appropriate adjustment in liquidated damages or for release from liability for the liquidated damages.
 . *Corrected wage determinations.* The Secretary of Labor corrects any wage determination included in any contract under this section whenever the wage determination contains clerical errors. A correction may be made at the Administrator's request or on the initiative of the Secretary of Labor.
 . *Secretary of Labor's interpretations apply.* Where applicable by their terms, the regulations of the Secretary of Labor (29 CFR 5.20-5.32) interpreting the “fringe benefit provisions” of the Davis-Bacon Act apply to the contract provisions in appendix H, and to this section.
 
-## § 151.51
+## § 151.51 - Performance of construction work: Sponsor force account.
 
-### Performance of construction work: Sponsor force account.
-
+[loweralpha]
 . Before undertaking any force account construction work, the sponsor (or any public agency acting as agent for the sponsor) must obtain the written consent of the Administrator through the Area Manager. In requesting that consent, the sponsor must submit—
+[arabic]
 .. Adequate plans and specifications showing the nature and extent of the construction work to be performed under that force account;
 .. A schedule of the proposed construction and of the construction equipment that will be available for the project;
               
@@ -271,50 +282,49 @@ To be eligible to apply for an individual or joint project for development with 
 .. A detailed estimate of the cost of the work, broken down for each class of costs involved, such as labor, materials, rental of equipment, and other pertinent items of cost.
 . [Reserved]
 
-## § 151.53
-
-### Performance of construction work: Labor requirements.
+## § 151.53 - Performance of construction work: Labor requirements.
 
 A sponsor who is required to include in a construction contract the labor provisions required by § 151.49 shall require the contractor to comply with those provisions and shall cooperate with the FAA in effecting that compliance. For this purpose the sponsor shall—
 
+[loweralpha]
 . Keep, and preserve, for a three-year period beginning on the date the contract is completed, each affidavit and payroll copy furnished by the contractor, and make those affidavits and copies available to the FAA, upon request, during that period;
 . Have each of those affidavits and payrolls examined by its resident engineer (or any other of its employees or agents who are qualified to make the necessary determinations), as soon as possible after receiving it, to the extent necessary to determine whether the contractor is complying with the labor provisions required by § 151.49 and particularly with respect to whether the contractor's employees are correctly classified;
 . Have investigations made during the performance of work under the contract, to the extent necessary to determine whether the contractor is complying with those labor provisions, particularly with respect to whether the contractor's employees are correctly classified, including in the investigations, interviews with employees and examinations of payroll information at the work site by the sponsor's resident engineer (or any other of its employees or agents who are qualified to make the necessary determinations); and
 . Keep the Area Manager fully advised of all examinations and investigations made under this section, all determinations made on the basis of those examinations and investigations, and all efforts made to obtain compliance with the labor provisions of the contract.
               
 
-## § 151.54
-
-### Equal employment opportunity requirements: Before July 1, 1968.
+## § 151.54 - Equal employment opportunity requirements: Before July 1, 1968.
 
 In conformity with Executive Order 11246 of September 24, 1965 (30 FR 12319, 3 CFR, 1965 Supp., p. 167) the regulations of the former President's Committee on Equal Employment Opportunity, 41 CFR part 60-1 (28 FR 9812, 11305), as adopted “to the extent not inconsistent with Executive Order 11246” by the Secretary of Labor (“Transfer of Functions,” Oct. 19, 1965, 30 FR 13441), are incorporated by reference into subparts B and C of this part as set forth below. They are referred to in this section by section numbers of part 60-1 of title 41.
 
+[loweralpha]
 . *Equal employment opportunity requirements.* There are hereby incorporated by reference into subparts B and C, as requirements, the provisions of § 60-1.3(b)(1). The FAA is primarily responsible for the sponsor's compliance.
 . *Equal employment opportunity requirements in construction contracts.* The sponsor shall cause the “equal opportunity clause” in § 60-1.3(b)(1) to be incorporated into all prime contracts and subcontracts as required by § 60-1.3(c).
 . *Reporting requirements for contractors and subcontractors.* The sponsor shall cause the filing of compliance reports by contractors and subcontractors as provided in § 60-1.6(a) and the furnishing of such other information as may be required under that provision.
-. *Bidders' reports.* (1) The sponsor shall include in his invitations for bids or negotiations for contracts, and shall require his contractors to include in their invitations for bids or negotiations for subcontracts, the following provisions based on § 60-1.6(b)(1):
+. *Bidders' reports.*
+[arabic]
+.. The sponsor shall include in his invitations for bids or negotiations for contracts, and shall require his contractors to include in their invitations for bids or negotiations for subcontracts, the following provisions based on § 60-1.6(b)(1):
               
+.. The sponsor or his contractors shall give express notice of the requirements of this paragraph (d) in all invitations for bids or negotiations for contracts.
 . *Enforcement.* The FAA conducts compliance reviews, handles complaints and, where appropriate, conducts hearings and imposes, or recommends to the Office of Federal Contract Compliance, sanctions, as provided in subpart B—General Enforcement; Complaint Procedure of part 60-1.
 . *Exempted contracts.* Except for subcontracts for the performance of construction work at the site of construction, the requirements of this section do not apply to subcontracts below the second tier (§ 60-1.3(c)). The requirements of this section do not apply to contracts and subcontracts exempted by § 60-1.4.
 . *Meaning of terms.* The term *“applicant”* in the provisions of part 60-1 incorporated by reference in this section means the sponsor, except where part 60-1 refers to an applicant for employment, and the term “administering agency” therein means the FAA.
 . *Applicability to existing agreements and contracts.* This section applies to grant agreements made after December 20, 1964, and before July 1, 1968. Except as provided in § 151.54A(b), it applies to contracts and subcontracts as defined in § 60-1.2 (i) and (k) of Title 41 made in accordance with a grant agreement to which this section applies.
 
-(2) The sponsor or his contractors shall give express notice of the requirements of this paragraph (d) in all invitations for bids or negotiations for contracts.
+## § 151.54a - Equal employment opportunity requirements: After June 30, 1968.
 
-## § 151.54a
-
-### Equal employment opportunity requirements: After June 30, 1968.
-
+[loweralpha]
 . *Incorporation by reference.* There are hereby incorporated by reference into this part the regulations issued by the Secretary of Labor on May 21, 1968, and published in the *Federal Register* on May 28, 1968 (41 CFR part 60-1, 33 FR 7804), except for the following provisions:
+[arabic]
 .. Paragraph (a), “Government contracts”, of § 60-1.4, “Equal opportunity clause”.
 .. Section 60-1.6, “Duties of agencies”.
 . *Applicability and effectiveness.* The regulations incorporated by reference in paragraph (a) of this section apply to grant agreements made after June 30, 1968. They also apply to contracts, as defined in § 60-1.3(f) of Title 41, entered into under any grant agreement made before or after that date, as provided in § 60-1.47 of Title 41.
 
-## § 151.55
+## § 151.55 - Accounting and audit.
 
-### Accounting and audit.
-
+[loweralpha]
 . Each sponsor shall establish and maintain, for each individual project, an adequate accounting record to allow appropriate personnel of the FAA to determine all funds received (including funds of the sponsor and funds received from the United States or other sources), and to determine the allowability of all incurred costs of the project. The sponsor shall segregate and group project costs so that it can furnish, on due notice, cost information in the following cost classifications:
+[arabic]
 .. Purchase price or value of land.
 .. Incidental costs of land acquisition.
 .. Costs of contract construction.
@@ -326,11 +336,11 @@ In conformity with Executive Order 11246 of September 24, 1965 (30 FR 12319, 3 C
 . The sponsor shall retain, for a period of three years after the date of the final grant payment, evidence of all payments for items of project costs including vouchers, cancelled checks or warrants, and receipts for cash payments.
 . The sponsor shall allow the Administrator and the Comptroller General of the United States, or an authorized representative of either of them, access to any of its books, documents, papers, and records that are pertinent to grants received under the Federal-aid Airport Program for the purposes of accounting and audit. Appropriate FAA personnel may make progress audits at any time during the project, upon notice to the sponsor. If work is suspended on the project for an appreciable period of time, an audit will be made before any semi-final payment is made. In each case an audit is made before the final payment.
 
-## § 151.57
+## § 151.57 - Grant payments: General.
 
-### Grant payments: General.
-
+[loweralpha]
 . An application for a grant payment is made on FAA Form 5100-6, accompanied by—
+[arabic]
 .. A summary of project costs on Form FAA-1630;
 .. A periodic cost estimate on Form FAA-1629 for each contract representing costs for which payment is requested; and
 .. Any supporting information, including appraisals of property interests, that the FAA needs to determine the allowability of any costs for which payment is requested.
@@ -338,52 +348,50 @@ In conformity with Executive Order 11246 of September 24, 1965 (30 FR 12319, 3 C
 . If a contractor or subcontractor fails or refuses to comply with the labor provisions of the contract with the sponsor, further grant payments to the sponsor are suspended until the violations stop, until the Administrator determines the allowability of the project costs to which the violations related, or, to the extent that the violations consist of underpayments to labor, until the sponsor furnishes satisfactory assurances to the FAA that restitution has been or will be made to the affected employees.
 . If, upon final determination of the allowability of all project costs of a project, it is found that the total of grant payments to the sponsor was more than the total United States share of the allowable costs of the project, the sponsor shall promptly return the excess to the FAA.
 
-## § 151.59
-
-### Grant payments: Land acquisition.
+## § 151.59 - Grant payments: Land acquisition.
 
 If an approved project includes land acquisition as an item of airport development, the sponsor may, at any time after executing the grant agreement and after title evidence has been approved by the Administrator for the property interest for which payment is requested, apply to the FAA, through the Area Manager, for payment of the United States share of the allowable project costs of the acquisition, including any acquisition that is completed before executing the grant agreement and is part of the airport development included in the project.
 
-## § 151.61
+## § 151.61 - Grant payments: Partial.
 
-### Grant payments: Partial.
-
+[loweralpha]
 . Subject to the final determination of allowable project costs as provided in § 151.63 partial grant payments for project costs may be made to a sponsor upon application. Unless previously agreed otherwise, a sponsor may apply for partial payments on a monthly basis. The payments may be paid, upon application, on the basis of the costs of airport development that is accomplished or on the basis of the estimated cost of airport development expected to be accomplished.
 . Except as otherwise provided, partial grant payments are made in amounts large enough to bring the aggregate amount of all partial payments to the estimated United States share of the project costs of the airport development accomplished under the project as of the date of the sponsor's latest application for payment. In addition, if the sponsor applies, a partial grant payment is made as an advance payment in an amount large enough to bring the aggregate amount of all partial payments to the estimated United States share of the estimated project costs of the airport development expected to be accomplished within 30 days after the date of the sponsor's application for advance payment. However, no partial payment may be made in an amount that would bring the aggregate amount of all partial payments for the project to more than 90 percent of the estimated United States share of the total estimated cost of all airport development included in the project, but not including contingency items, or 90 percent of the maximum obligation of the United States as stated in the grant agreement, whichever amount is the lower. In determining the amount of a partial grant payment, those project costs that the Administrator considers to be of questionable allowability are deducted both from the amount of proj- ect costs incurred and from the amount of the estimated total project cost.
 
-## § 151.63
+## § 151.63 - Grant payments: Semifinal and final.
 
-### Grant payments: Semifinal and final.
-
+[loweralpha]
 . Whenever airport development on a project is delayed or suspended for an appreciable period of time for reasons beyond the sponsor's control and the allowability of the project costs of all airport development completed has been determined on the basis of an audit and review of all costs, a semifinal grant payment may be made in an amount large enough to bring the aggregate amount of all partial grant payments for the project to the United States share of all allowable project costs incurred, even if the amount is more than the 90 percent limitation prescribed in § 151.61(b). However, it may not be more than the maximum obligation of the United States as stated in the grant agreement.
 . Whenever the project is completed in accordance with the grant agreement, the sponsor may apply for final payment. The final payment is made to the sponsor if—
+[arabic]
 .. A final inspection of all work at the airport site has been made jointly by the Area Manager and representatives of the sponsor and the contractor, unless the Area Manager agrees to a different procedure for final inspection.
 .. A final audit of the project account has been completed by appropriate personnel of the FAA; and
 .. The sponsor has furnished final “as constructed” plans, unless otherwise agreed to by the Administrator.
 . Based upon the final inspection, the final audit, the plans, and the documents and supporting information required by § 151.57(a), the Administrator determines the total amount of the allowable project costs and pays the sponsor the United States' share, less the total amount of all prior payments.
 
-## § 151.65
+## § 151.65 - Memoranda and hearings.
 
-### Memoranda and hearings.
-
+[loweralpha]
 . At any time before the FAA issues a grant offer for a project, any public agency or person having a substantial interest in the disposition of the project application may file a memorandum supporting or opposing it with the Area Manager of the area in which the project is located. In addition, that public agency or person may request a public hearing on the location of the airport to be developed. If, in the Administrator's opinion, that public agency or person has a substantial interest in the matter, a public hearing is held.
 . The Administrator sets the time and place of each hearing under this section, to avoid undue delay in disposing of the application, to afford reasonable time for all parties concerned to prepare for it, and to hold it at a place convenient to the sponsor. Notice of the time and place is mailed to the public agency or person filing the memorandum, the sponsor, and any other necessary persons.
 . The purpose of the hearing is to help the Administrator discover facts relating to the location of the airport that is proposed to be developed under an application pending before him. There are no adverse parties or interests and no defendant or respondent. They are not hearings for the purposes of 5 U.S.C. 554, 556, and 557, and do not terminate in an adjudication as defined in that Act.
 . Each hearing under this section is conducted by a hearing officer designated by the Administrator. The hearing officer decides the length of the hearing, the kind of testimony to be heard, and all other matters respecting the conduct of the hearing. The hearing is recorded in a manner determined by the hearing officer and the record becomes a part of the record of the project application. The Administrator's decision is not made solely on the basis of the hearing, but on all relevant facts.
 
-## § 151.67
+## § 151.67 - Forms.
 
-### Forms.
-
+[loweralpha]
 . The various forms used for the purposes of subparts B and C are as follows:
+[arabic]
 .. Requests for Federal-aid, FAA Form 5100-3: Contains a statement requesting Federal-aid in carrying out a project under the Federal Airport Act, with appropriate spaces for inserting information needed for considering the request, including the location of the airport, the amount of funds available to the sponsor, a description of the proposed work, and its estimated cost.
 .. Project application, Form FAA-1624: A formal application for Federal-aid to carry out a project under this part. It contains four parts:
+[lowerroman]
 ... Part I—For pertinent information regarding the airport and proposed work included in the project.
 ... Part II—For incorporating the representations of the sponsor relating to its legal authority to undertake the project, the availability of funds for its share of the project costs, approvals of other non-United States agencies, the existence of any default on the compliance requirements of § 151.77(a), possible disabilities, and the ownership of lands and interests in lands to be used in carrying out the project and operating the airport.
 ... Part III—For incorporating the sponsor's assurances regarding the operation and maintenance of the airport, further development of the airport, and the acquisition of any additional interests in lands that may be needed to carry out the project or for operating the airport.
 ... Part IV—For a statement of the sponsor's acceptance, to be executed by the sponsor and certificated by its attorney.
 .. [Reserved]
 .. Grant agreement, Form FAA-1632:
+[lowerroman]
 ... Part I—Offer by the United States to pay a specified percentage of the allowable costs of the project, as described therein, on specified terms relating to the undertaking and carrying out of the project, determination of allowability of costs, payment of the United States share, and operation and maintenance of the airport in accordance with assurances in the proj- ect application.
 ... Part II—Acceptance of the offer by the sponsor, execution of the acceptance by the sponsor, and certification by its attorney.
 .. Periodic cost estimate, Form FAA-1629: a certification to be executed by the contractor, with space for information regarding the progress of construction work as of a specific date, and the value of the completed work.

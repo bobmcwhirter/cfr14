@@ -1,30 +1,29 @@
 # Parachute Equipment and Packing
 :toc:
 
-## § 105.41
-
-### Applicability.
+## § 105.41 - Applicability.
 
 This subpart prescribed rules governing parachute equipment used in civil parachute operations.
 
-## § 105.43
-
-### Use of single-harness, dual-parachute systems.
+## § 105.43 - Use of single-harness, dual-parachute systems.
 
 No person may conduct a parachute operation using a single-harness, dual-parachute system, and no pilot in command of an aircraft may allow any person to conduct a parachute operation from that aircraft using a single-harness, dual-parachute system, unless that system has at least one main parachute, one approved reserve parachute, and one approved single person harness and container that are packed as follows:
 
+[loweralpha]
 . The main parachute must have been packed within 180 days before the date of its use by a certificated parachute rigger, the person making the next jump with that parachute, or a non-certificated person under the direct supervision of a certificated parachute rigger.
 . The reserve parachute must have been packed by a certificated parachute rigger—
+[arabic]
 .. Within 180 days before the date of its use, if its canopy, shroud, and harness are composed exclusively of nylon, rayon, or similar synthetic fiber or material that is substantially resistant to damage from mold, mildew, and other fungi, and other rotting agents propagated in a moist environment; or
 .. Within 60 days before the date of its use, if it is composed of any amount of silk, pongee, or other natural fiber, or material not specified in paragraph (b)(1) of this section.
 . If installed, the automatic activation device must be maintained in accordance with manufacturer instructions for that automatic activation device.
 
-## § 105.45
+## § 105.45 - Use of tandem parachute systems.
 
-### Use of tandem parachute systems.
-
+[loweralpha]
 . No person may conduct a parachute operation using a tandem parachute system, and no pilot in command of an aircraft may allow any person to conduct a parachute operation from that aircraft using a tandem parachute system, unless—
+[arabic]
 .. One of the parachutists using the tandem parachute system is the parachutist in command, and meets the following requirements:
+[lowerroman]
 ... Has a minimum of 3 years of experience in parachuting, and must provide documentation that the parachutist—
 ... Has completed a minimum of 500 freefall parachute jumps using a ram-air parachute, and
 ... Holds a master parachute license issued by an organization recognized by the FAA, and
@@ -32,43 +31,49 @@ No person may conduct a parachute operation using a single-harness, dual-parachu
 ... Has successfully completed a tandem instructor course given by the manufacturer of the tandem parachute system used in the parachute operation or a course acceptable to the Administrator.
 ... Has been certified by the appropriate parachute manufacturer or tandem course provider as being properly trained on the use of the specific tandem parachute system to be used.
 .. The person acting as parachutist in command:
+[lowerroman]
 ... Has briefed the passenger parachutist before boarding the aircraft. The briefing must include the procedures to be used in case of an emergency with the aircraft or after exiting the aircraft, while preparing to exit and exiting the aircraft, freefall, operating the parachute after freefall, landing approach, and landing.
 ... Uses the harness position prescribed by the manufacturer of the tandem parachute equipment.
 . No person may make a parachute jump with a tandem parachute system unless—
+[arabic]
 .. The main parachute has been packed by a certificated parachute rigger, the parachutist in command making the next jump with that parachute, or a person under the direct supervision of a certificated parachute rigger.
 .. The reserve parachute has been packed by a certificated parachute rigger in accordance with § 105.43(b) of this part.
 .. The tandem parachute system contains an operational automatic activation device for the reserve parachute, approved by the manufacturer of that tandem parachute system. The device must—
+[lowerroman]
 ... Have been maintained in accordance with manufacturer instructions, and
 ... Be armed during each tandem parachute operation.
 .. The passenger parachutist is provided with a manual main parachute activation device and instructed on the use of that device, if required by the owner/operator.
 .. The main parachute is equipped with a single-point release system.
 .. The reserve parachute meets Technical Standard Order C23 specifications.
 
-## § 105.47
+## § 105.47 - Use of static lines.
 
-### Use of static lines.
-
+[loweralpha]
 . Except as provided in paragraph (c) of this section, no person may conduct a parachute operation using a static line attached to the aircraft and the main parachute unless an assist device, described and attached as follows, is used to aid the pilot chute in performing its function, or, if no pilot chute is used, to aid in the direct deployment of the main parachute canopy. The assist device must—
+[arabic]
 .. Be long enough to allow the main parachute container to open before a load is placed on the device.
 .. Have a static load strength of—
+[lowerroman]
 ... At least 28 pounds but not more than 160 pounds if it is used to aid the pilot chute in performing its function; or
 ... At least 56 pounds but not more than 320 pounds if it is used to aid in the direct deployment of the main parachute canopy; and
 .. Be attached as follows:
+[lowerroman]
 ... At one end, to the static line above the static-line pins or, if static-line pins are not used, above the static-line ties to the parachute cone.
 ... At the other end, to the pilot chute apex, bridle cord, or bridle loop, or, if no pilot chute is used, to the main parachute canopy.
 . No person may attach an assist device required by paragraph (a) of this section to any main parachute unless that person is a certificated parachute rigger or that person makes the next parachute jump with that parachute.
 . An assist device is not required for parachute operations using direct-deployed, ram-air parachutes.
 
-## § 105.49
+## § 105.49 - Foreign parachutists and equipment.
 
-### Foreign parachutists and equipment.
-
+[loweralpha]
 . No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft with an unapproved foreign parachute system unless—
+[arabic]
 .. The parachute system is worn by a foreign parachutist who is the owner of that system.
               
 .. The parachute system is of a single-harness dual parachute type.
 .. The parachute system meets the civil aviation authority requirements of the foreign parachutist's country.
 .. All foreign non-approved parachutes deployed by a foreign parachutist during a parachute operation conducted under this section shall be packed as follows—
+[lowerroman]
 ... The main parachute must be packed by the foreign parachutist making the next parachute jump with that parachute, a certificated parachute rigger, or any other person acceptable to the Administrator.
 ... The reserve parachute must be packed in accordance with the foreign parachutist's civil aviation authority requirements, by a certificated parachute rigger, or any other person acceptable to the Administrator.
 

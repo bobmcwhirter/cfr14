@@ -1,21 +1,20 @@
 # PARACHUTE OPERATIONS
 :toc:
 
-## § 105.1
+## § 105.1 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . Except as provided in paragraphs (b) and (c) of this section, this part prescribes rules governing parachute operations conducted in the United States.
 . This part does not apply to a parachute operation conducted—
+[arabic]
 .. In response to an in-flight emergency, or
 .. To meet an emergency on the surface when it is conducted at the direction or with the approval of an agency of the United States, or of a State, Puerto Rico, the District of Columbia, or a possession of the United States, or an agency or political subdivision thereof.
 . Sections 105.5, 105.9, 105.13, 105.15, 105.17, 105.19 through 105.23, 105.25(a)(1) and 105.27 of this part do not apply to a parachute operation conducted by a member of an Armed Force—
+[arabic]
 .. Over or within a restricted area when that area is under the control of an Armed Force.
 .. During military operations in uncontrolled airspace.
 
-## § 105.3
-
-### Definitions.
+## § 105.3 - Definitions.
 
 For the purposes of this part—
 
@@ -59,24 +58,19 @@ For the purposes of this part—
 
 *Tandem parachute system:* means the combination of a main parachute, approved reserve parachute, and approved harness and dual parachute container, and a separate approved forward harness for a passenger parachutist. This parachute system must have an operational automatic activation device installed.
 
-## § 105.5
-
-### General.
+## § 105.5 - General.
 
 No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from an aircraft, if that operation creates a hazard to air traffic or to persons or property on the surface.
 
-## § 105.7
-
-### Use of alcohol and drugs.
+## § 105.7 - Use of alcohol and drugs.
 
 No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a person to conduct a parachute operation from that aircraft, if that person is or appears to be under the influence of—
 
+[loweralpha]
 . Alcohol, or
 . Any drug that affects that person's faculties in any way contrary to safety.
 
-## § 105.9
-
-### Inspections.
+## § 105.9 - Inspections.
 
 The Administrator may inspect any parachute operation to which this part applies (including inspections at the site where the parachute operation is being conducted) to determine compliance with the regulations of this part.
 

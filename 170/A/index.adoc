@@ -1,15 +1,11 @@
 # General
 :toc:
 
-## § 170.1
-
-### Scope.
+## § 170.1 - Scope.
 
 This subpart sets forth establishment and discontinuance criteria for navigation aids operated and maintained by the United States.
 
-## § 170.3
-
-### Definitions.
+## § 170.3 - Definitions.
 
 For purposes of this subpart—
 
@@ -23,15 +19,13 @@ For purposes of this subpart—
 
 *Aircraft operations* means the airborne movement of aircraft in controlled or noncontrolled airport terminal areas, and counts at en route fixes or other points where counts can be made. There are two types of operations: local and itinerant.
 
-(1) *Local operations* mean operations performed by aircraft which:
-
-(i) Operate in the local traffic pattern or within sight of the airport;
-
-(ii) Are known to be departing for, or arriving from flight in local practice areas located within a 20-mile radius of the airport; or
-
-(iii) Execute simulated instrument approaches or low passes at the airport.
-
-(2) *Itinerant operations* mean all aircraft operations other than local operations.
+[arabic]
+. *Local operations* mean operations performed by aircraft which:
+[lowerroman]
+.. Operate in the local traffic pattern or within sight of the airport;
+.. Are known to be departing for, or arriving from flight in local practice areas located within a 20-mile radius of the airport; or
+.. Execute simulated instrument approaches or low passes at the airport.
+. *Itinerant operations* mean all aircraft operations other than local operations.
 
 *Airport traffic control tower* means a terminal facility, which through the use of air/ground communications, visual signaling, and other devices, provides ATC services to airborne aircraft operating in the vicinity of an airport and to aircraft operating on the airport area.
 

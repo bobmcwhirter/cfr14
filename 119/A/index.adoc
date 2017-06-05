@@ -1,14 +1,15 @@
 # General
 :toc:
 
-## § 119.1
+## § 119.1 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This part applies to each person operating or intending to operate civil aircraft—
+[arabic]
 .. As an air carrier or commercial operator, or both, in air commerce; or
 .. When common carriage is not involved, in operations of U.S.-registered civil airplanes with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more.
 . This part prescribes—
+[arabic]
 .. The types of air operator certificates issued by the Federal Aviation Administration, including air carrier certificates and operating certificates;
 .. The certification requirements an operator must meet in order to obtain and hold a certificate authorizing operations under part 121, 125, or 135 of this chapter and operations specifications for each kind of operation to be conducted and each class and size of aircraft to be operated under part 121 or 135 of this chapter;
 .. The requirements an operator must meet to conduct operations under part 121, 125, or 135 of this chapter and in operating each class and size of aircraft authorized in its operations specifications;
@@ -19,10 +20,12 @@
 . Persons subject to this part must comply with the other requirements of this chapter, except where those requirements are modified by or where additional requirements are imposed by part 119, 121, 125, or 135 of this chapter.
 . This part does not govern operations conducted under part 91, subpart K (when common carriage is not involved) nor does it govern operations conducted under part 129, 133, 137, or 139 of this chapter.
 . Except for operations when common carriage is not involved conducted with airplanes having a passenger-seat configuration of 20 seats or more, excluding any required crewmember seat, or a payload capacity of 6,000 pounds or more, this part does not apply to—
+[arabic]
 .. Student instruction;
 .. Nonstop Commercial Air Tours conducted after September 11, 2007, in an airplane or helicopter having a standard airworthiness certificate and passenger-seat configuration of 30 seats or fewer and a maximum payload capacity of 7,500 pounds or less that begin and end at the same airport, and are conducted within a 25-statute mile radius of that airport, in compliance with the Letter of Authorization issued under § 91.147 of this chapter. For nonstop Commercial Air Tours conducted in accordance with part 136, subpart B of this chapter, National Parks Air Tour Management, the requirements of part 119 of this chapter apply unless excepted in § 136.37(g)(2). For Nonstop Commercial Air Tours conducted in the vicinity of the Grand Canyon National Park, Arizona, the requirements of SFAR 50-2, part 93, subpart U, and part 119 of this chapter, as applicable, apply.
 .. Ferry or training flights;
 .. Aerial work operations, including—
+[lowerroman]
 ... Crop dusting, seeding, spraying, and bird chasing;
 ... Banner towing;
 ... Aerial photography or survey;
@@ -32,6 +35,7 @@
 .. Sightseeing flights conducted in hot air balloons;
 .. Nonstop flights conducted within a 25-statute-mile radius of the airport of takeoff carrying persons or objects for the purpose of conducting intentional parachute operations.
 .. Helicopter flights conducted within a 25 statute mile radius of the airport of takeoff if—
+[lowerroman]
 ... Not more than two passengers are carried in the helicopter in addition to the required flightcrew;
 ... Each flight is made under day VFR conditions;
 ... The helicopter used is certificated in the standard category and complies with the 100-hour inspection requirements of part 91 of this chapter;
@@ -44,49 +48,52 @@
 .. Operations conducted under the provisions of § 91.321 of this chapter; or
 .. Small UAS operations conducted under part 107 of this chapter.
 
-## § 119.3 
+## § 119.3  - Reserved
 
-### Reserved
 
-## § 119.5
+Reserved
 
-### Certifications, authorizations, and prohibitions.
+## § 119.5 - Certifications, authorizations, and prohibitions.
 
+[loweralpha]
 . A person authorized by the Administrator to conduct operations as a direct air carrier will be issued an Air Carrier Certificate.
 . A person who is not authorized to conduct direct air carrier operations, but who is authorized by the Administrator to conduct operations as a U.S. commercial operator, will be issued an Operating Certificate.
 . A person who is not authorized to conduct direct air carrier operations, but who is authorized by the Administrator to conduct operations when common carriage is not involved as an operator of U.S.-registered civil airplanes with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more, will be issued an Operating Certificate.
 . A person authorized to engage in common carriage under part 121 or part 135 of this chapter, or both, shall be issued only one certificate authorizing such common carriage, regardless of the kind of operation or the class or size of aircraft to be operated.
 . A person authorized to engage in noncommon or private carriage under part 125 or part 135 of this chapter, or both, shall be issued only one certificate authorizing such carriage, regardless of the kind of operation or the class or size of aircraft to be operated.
 . A person conducting operations under more than one paragraph of §§ 119.21, 119.23, or 119.25 shall conduct those operations in compliance with—
+[arabic]
 .. The requirements specified in each paragraph of those sections for the kind of operation conducted under that paragraph; and
 .. The appropriate authorizations, limitations, and procedures specified in the operations specifications for each kind of operation.
 . No person may operate as a direct air carrier or as a commercial operator without, or in violation of, an appropriate certificate and appropriate operations specifications. No person may operate as a direct air carrier or as a commercial operator in violation of any deviation or exemption authority, if issued to that person or that person's representative.
 . A person holding an Operating Certificate authorizing noncommon or private carriage operations shall not conduct any operations in common carriage. A person holding an Air Carrier Certificate or Operating Certificate authorizing common carriage operations shall not conduct any operations in noncommon carriage.
-. No person may operate as a direct air carrier without holding appropriate economic authority from the Department of Transportation.
-. A certificate holder under this part may not operate aircraft under part 121 or part 135 of this chapter in a geographical area unless its operations specifications specifically authorize the certificate holder to operate in that area.
-. No person may advertise or otherwise offer to perform an operation subject to this part unless that person is authorized by the Federal Aviation Administration to conduct that operation.
-. No person may operate an aircraft under this part, part 121 of this chapter, or part 135 of this chapter in violation of an air carrier operating certificate, operating certificate, or appropriate operations specifications issued under this part.
+[lowerroman]
+.. No person may operate as a direct air carrier without holding appropriate economic authority from the Department of Transportation.
 
-## § 119.7
+(j) A certificate holder under this part may not operate aircraft under part 121 or part 135 of this chapter in a geographical area unless its operations specifications specifically authorize the certificate holder to operate in that area.
 
-### Operations specifications.
+(k) No person may advertise or otherwise offer to perform an operation subject to this part unless that person is authorized by the Federal Aviation Administration to conduct that operation.
 
+(l) No person may operate an aircraft under this part, part 121 of this chapter, or part 135 of this chapter in violation of an air carrier operating certificate, operating certificate, or appropriate operations specifications issued under this part.
+
+## § 119.7 - Operations specifications.
+
+[loweralpha]
 . Each certificate holder's operations specifications must contain—
+[arabic]
 .. The authorizations, limitations, and certain procedures under which each kind of operation, if applicable, is to be conducted; and
 .. Certain other procedures under which each class and size of aircraft is to be operated.
 . Except for operations specifications paragraphs identifying authorized kinds of operations, operations specifications are not a part of a certificate.
 
-## § 119.8
+## § 119.8 - Safety Management Systems.
 
-### Safety Management Systems.
-
+[loweralpha]
 . Certificate holders authorized to conduct operations under part 121 of this chapter must have a safety management system that meets the requirements of part 5 of this chapter and is acceptable to the Administrator by March 9, 2018.
 . A person applying to the Administrator for an air carrier certificate or operating certificate to conduct operations under part 121 of this chapter after March 9, 2015, must demonstrate, as part of the application process under § 119.35, that it has an SMS that meets the standards set forth in part 5 of this chapter and is acceptable to the Administrator.
 
-## § 119.9
+## § 119.9 - Use of business names.
 
-### Use of business names.
-
+[loweralpha]
 . A certificate holder under this part may not operate an aircraft under part 121 or part 135 of this chapter using a business name other than a business name appearing in the certificate holder's operations specifications.
 . No person may operate an aircraft under part 121 or part 135 of this chapter unless the name of the certificate holder who is operating the aircraft, or the air carrier or operating certificate number of the certificate holder who is operating the aircraft, is legibly displayed on the aircraft and is clearly visible and readable from the outside of the aircraft to a person standing on the ground at any time except during flight time. The means of displaying the name on the aircraft and its readability must be acceptable to the Administrator.
 

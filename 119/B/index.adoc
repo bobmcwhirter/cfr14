@@ -1,12 +1,13 @@
 # Applicability of Operating Requirements to Different Kinds of Operations Under Parts 121, 125, and 135 of This Chapter
 :toc:
 
-## § 119.21
+## § 119.21 - Commercial operators engaged in intrastate common carriage and direct air carriers.
 
-### Commercial operators engaged in intrastate common carriage and direct air carriers.
-
+[loweralpha]
 . Each person who conducts airplane operations as a commercial operator engaged in intrastate common carriage of persons or property for compensation or hire in air commerce, or as a direct air carrier, shall comply with the certification and operations specifications requirements in subpart C of this part, and shall conduct its:
+[arabic]
 .. Domestic operations in accordance with the applicable requirements of part 121 of this chapter, and shall be issued operations specifications for those operations in accordance with those requirements. However, based on a showing of safety in air commerce, the Administrator may permit persons who conduct domestic operations between any point located within any of the following Alaskan islands and any point in the State of Alaska to comply with the requirements applicable to flag operations contained in subpart U of part 121 of this chapter:
+[lowerroman]
 ... The Aleutian Islands.
 ... The Pribilof Islands.
 ... The Shumagin Islands.
@@ -17,25 +18,25 @@
 . Persons who are subject to the requirements of paragraph (a)(4) of this section may conduct those operations in accordance with the requirements of paragraph (a)(1) or (a)(2) of this section, provided they obtain authorization from the Administrator.
 . Persons who are subject to the requirements of paragraph (a)(5) of this section may conduct those operations in accordance with the requirements of paragraph (a)(3) of this section, provided they obtain authorization from the Administrator.
 
-## § 119.23
+## § 119.23 - Operators engaged in passenger-carrying operations, cargo operations, or both with airplanes when common carriage is not involved.
 
-### Operators engaged in passenger-carrying operations, cargo operations, or both with airplanes when common carriage is not involved.
-
+[loweralpha]
 . Each person who conducts operations when common carriage is not involved with airplanes having a passenger-seat configuration of 20 seats or more, excluding each crewmember seat, or a payload capacity of 6,000 pounds or more, shall, unless deviation authority is issued—
+[arabic]
 .. Comply with the certification and operations specifications requirements of part 125 of this chapter;
 .. Conduct its operations with those airplanes in accordance with the requirements of part 125 of this chapter; and
 .. Be issued operations specifications in accordance with those requirements.
 . Each person who conducts noncommon carriage (except as provided in § 91.501(b) of this chapter) or private carriage operations for compensation or hire with airplanes having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds shall—
+[arabic]
 .. Comply with the certification and operations specifications requirements in subpart C of this part;
 .. Conduct those operations in accordance with the requirements of part 135 of this chapter, except for those requirements applicable only to commuter operations; and
 .. Be issued operations specifications in accordance with those requirements.
 
-## § 119.25
-
-### Rotorcraft operations: Direct air carriers and commercial operators.
+## § 119.25 - Rotorcraft operations: Direct air carriers and commercial operators.
 
 Each person who conducts rotorcraft operations for compensation or hire must comply with the certification and operations specifications requirements of Subpart C of this part, and shall conduct its:
 
+[loweralpha]
 . Commuter operations in accordance with the applicable requirements of part 135 of this chapter, and shall be issued operations specifications for those operations in accordance with those requirements.
 . On-demand operations in accordance with the applicable requirements of part 135 of this chapter, and shall be issued operations specifications for those operations in accordance with those requirements.
 

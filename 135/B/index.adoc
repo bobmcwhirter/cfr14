@@ -1,22 +1,21 @@
 # Flight Operations
 :toc:
 
-## § 135.61
-
-### General.
+## § 135.61 - General.
 
 This subpart prescribes rules, in addition to those in part 91 of this chapter, that apply to operations under this part.
 
-## § 135.63
+## § 135.63 - Recordkeeping requirements.
 
-### Recordkeeping requirements.
-
+[loweralpha]
 . Each certificate holder shall keep at its principal business office or at other places approved by the Administrator, and shall make available for inspection by the Administrator the following—
+[arabic]
 .. The certificate holder's operating certificate;
 .. The certificate holder's operations specifications;
               
 .. A current list of the aircraft used or available for use in operations under this part and the operations for which each is equipped;
 .. An individual record of each pilot used in operations under this part, including the following information:
+[lowerroman]
 ... The full name of the pilot.
 ... The pilot certificate (by type and number) and ratings that the pilot holds.
 ... The pilot's aeronautical experience in sufficient detail to determine the pilot's qualifications to pilot aircraft in operations under this part.
@@ -30,6 +29,7 @@ This subpart prescribes rules, in addition to those in part 91 of this chapter, 
 .. An individual record for each flight attendant who is required under this part, maintained in sufficient detail to determine compliance with the applicable portions of § 135.273 of this part.
 . Each certificate holder must keep each record required by paragraph (a)(3) of this section for at least 6 months, and must keep each record required by paragraphs (a)(4) and (a)(5) of this section for at least 12 months.
 . For multiengine aircraft, each certificate holder is responsible for the preparation and accuracy of a load manifest in duplicate containing information concerning the loading of the aircraft. The manifest must be prepared before each takeoff and must include:
+[arabic]
 .. The number of passengers;
 .. The total weight of the loaded aircraft;
 .. The maximum allowable takeoff weight for that flight;
@@ -40,106 +40,90 @@ This subpart prescribes rules, in addition to those in part 91 of this chapter, 
 .. Identification of crew members and their crew position assignments.
 . The pilot in command of an aircraft for which a load manifest must be prepared shall carry a copy of the completed load manifest in the aircraft to its destination. The certificate holder shall keep copies of completed load manifests for at least 30 days at its principal operations base, or at another location used by it and approved by the Administrator.
 
-## § 135.64
-
-### Retention of contracts and amendments: Commercial operators who conduct intrastate operations for compensation or hire.
+## § 135.64 - Retention of contracts and amendments: Commercial operators who conduct intrastate operations for compensation or hire.
 
 Each commercial operator who conducts intrastate operations for compensation or hire shall keep a copy of each written contract under which it provides services as a commercial operator for a period of at least one year after the date of execution of the contract. In the case of an oral contract, it shall keep a memorandum stating its elements, and of any amendments to it, for a period of at least one year after the execution of that contract or change.
 
-## § 135.65
+## § 135.65 - Reporting mechanical irregularities.
 
-### Reporting mechanical irregularities.
-
+[loweralpha]
 . Each certificate holder shall provide an aircraft maintenance log to be carried on board each aircraft for recording or deferring mechanical irregularities and their correction.
 . The pilot in command shall enter or have entered in the aircraft maintenance log each mechanical irregularity that comes to the pilot's attention during flight time. Before each flight, the pilot in command shall, if the pilot does not already know, determine the status of each irregularity entered in the maintenance log at the end of the preceding flight.
 . Each person who takes corrective action or defers action concerning a reported or observed failure or malfunction of an airframe, powerplant, propeller, rotor, or appliance, shall record the action taken in the aircraft maintenance log under the applicable maintenance requirements of this chapter.
 . Each certificate holder shall establish a procedure for keeping copies of the aircraft maintenance log required by this section in the aircraft for access by appropriate personnel and shall include that procedure in the manual required by § 135.21.
 
-## § 135.67
-
-### Reporting potentially hazardous meteorological conditions and irregularities of ground facilities or navigation aids.
+## § 135.67 - Reporting potentially hazardous meteorological conditions and irregularities of ground facilities or navigation aids.
 
 Whenever a pilot encounters a potentially hazardous meteorological condition or an irregularity in a ground facility or navigation aid in flight, the knowledge of which the pilot considers essential to the safety of other flights, the pilot shall notify an appropriate ground radio station as soon as practicable.
 
-## § 135.69
+## § 135.69 - Restriction or suspension of operations: Continuation of flight in an emergency.
 
-### Restriction or suspension of operations: Continuation of flight in an emergency.
-
+[loweralpha]
 . During operations under this part, if a certificate holder or pilot in command knows of conditions, including airport and runway conditions, that are a hazard to safe operations, the certificate holder or pilot in command, as the case may be, shall restrict or suspend operations as necessary until those conditions are corrected.
 . No pilot in command may allow a flight to continue toward any airport of intended landing under the conditions set forth in paragraph (a) of this section, unless, in the opinion of the pilot in command, the conditions that are a hazard to safe operations may reasonably be expected to be corrected by the estimated time of arrival or, unless there is no safer procedure. In the latter event, the continuation toward that airport is an emergency situation under § 135.19.
 
-## § 135.71
-
-### Airworthiness check.
+## § 135.71 - Airworthiness check.
 
 The pilot in command may not begin a flight unless the pilot determines that the airworthiness inspections required by § 91.409 of this chapter, or § 135.419, whichever is applicable, have been made.
 
-## § 135.73
-
-### Inspections and tests.
+## § 135.73 - Inspections and tests.
 
 Each certificate holder and each person employed by the certificate holder shall allow the Administrator, at any time or place, to make inspections or tests (including en route inspections) to determine the holder's compliance with the Federal Aviation Act of 1958, applicable regulations, and the certificate holder's operating certificate, and operations specifications.
 
-## § 135.75
+## § 135.75 - Inspectors credentials: Admission to pilots' compartment: Forward observer's seat.
 
-### Inspectors credentials: Admission to pilots' compartment: Forward observer's seat.
-
+[loweralpha]
 . Whenever, in performing the duties of conducting an inspection, an FAA inspector presents an Aviation Safety Inspector credential, FAA Form 110A, to the pilot in command of an aircraft operated by the certificate holder, the inspector must be given free and uninterrupted access to the pilot compartment of that aircraft. However, this paragraph does not limit the emergency authority of the pilot in command to exclude any person from the pilot compartment in the interest of safety.
 . A forward observer's seat on the flight deck, or forward passenger seat with headset or speaker must be provided for use by the Administrator while conducting en route inspections. The suitability of the location of the seat and the headset or speaker for use in conducting en route inspections is determined by the Administrator.
 
-## § 135.76
+## § 135.76 - DOD Commercial Air Carrier Evaluator's Credentials: Admission to pilots compartment: Forward observer's seat.
 
-### DOD Commercial Air Carrier Evaluator's Credentials: Admission to pilots compartment: Forward observer's seat.
-
+[loweralpha]
 . Whenever, in performing the duties of conducting an evaluation, a DOD commercial air carrier evaluator presents S&A Form 110B, “DOD Commercial Air Carrier Evaluator's Credential,” to the pilot in command of an aircraft operated by the certificate holder, the evaluator must be given free and uninterrupted access to the pilot's compartment of that aircraft. However, this paragraph does not limit the emergency authority of the pilot in command to exclude any person from the pilot compartment in the interest of safety.
 . A forward observer's seat on the flight deck or forward passenger seat with headset or speaker must be provided for use by the evaluator while conducting en route evaluations. The suitability of the location of the seat and the headset or speaker for use in conducting en route evaluations is determined by the FAA.
 
-## § 135.77
-
-### Responsibility for operational control.
+## § 135.77 - Responsibility for operational control.
 
 Each certificate holder is responsible for operational control and shall list, in the manual required by § 135.21, the name and title of each person authorized by it to exercise operational control.
 
-## § 135.78
-
-### Instrument approach procedures and IFR landing minimums.
+## § 135.78 - Instrument approach procedures and IFR landing minimums.
 
 No person may make an instrument approach at an airport except in accordance with IFR weather minimums and instrument approach procedures set forth in the certificate holder's operations specifications.
 
-## § 135.79
+## § 135.79 - Flight locating requirements.
 
-### Flight locating requirements.
-
+[loweralpha]
 . Each certificate holder must have procedures established for locating each flight, for which an FAA flight plan is not filed, that—
+[arabic]
 .. Provide the certificate holder with at least the information required to be included in a VFR flight plan;
 .. Provide for timely notification of an FAA facility or search and rescue facility, if an aircraft is overdue or missing; and
 .. Provide the certificate holder with the location, date, and estimated time for reestablishing communications, if the flight will operate in an area where communications cannot be maintained.
 . Flight locating information shall be retained at the certificate holder's principal place of business, or at other places designated by the certificate holder in the flight locating procedures, until the completion of the flight.
 . Each certificate holder shall furnish the representative of the Administrator assigned to it with a copy of its flight locating procedures and any changes or additions, unless those procedures are included in a manual required under this part.
 
-## § 135.81
-
-### Informing personnel of operational information and appropriate changes.
+## § 135.81 - Informing personnel of operational information and appropriate changes.
 
 Each certificate holder shall inform each person in its employment of the operations specifications that apply to that person's duties and responsibilities and shall make available to each pilot in the certificate holder's employ the following materials in current form:
               
 
+[loweralpha]
 . Airman's Information Manual (Alaska Supplement in Alaska and Pacific Chart Supplement in Pacific-Asia Regions) or a commercial publication that contains the same information.
 . This part and part 91 of this chapter.
 . Aircraft Equipment Manuals, and Aircraft Flight Manual or equivalent.
 . For foreign operations, the International Flight Information Manual or a commercial publication that contains the same information concerning the pertinent operational and entry requirements of the foreign country or countries involved.
 
-## § 135.83
+## § 135.83 - Operating information required.
 
-### Operating information required.
-
+[loweralpha]
 . The operator of an aircraft must provide the following materials, in current and appropriate form, accessible to the pilot at the pilot station, and the pilot shall use them:
+[arabic]
 .. A cockpit checklist.
 .. For multiengine aircraft or for aircraft with retractable landing gear, an emergency cockpit checklist containing the procedures required by paragraph (c) of this section, as appropriate.
 .. Pertinent aeronautical charts.
 .. For IFR operations, each pertinent navigational en route, terminal area, and approach and letdown chart.
 .. For multiengine aircraft, one-engine-inoperative climb performance data and if the aircraft is approved for use in IFR or over-the-top operations, that data must be sufficient to enable the pilot to determine compliance with § 135.181(a)(2).
 . Each cockpit checklist required by paragraph (a)(1) of this section must contain the following procedures:
+[arabic]
 .. Before starting engines;
 .. Before takeoff;
 .. Cruise;
@@ -147,17 +131,17 @@ Each certificate holder shall inform each person in its employment of the operat
 .. After landing;
 .. Stopping engines.
 . Each emergency cockpit checklist required by paragraph (a)(2) of this section must contain the following procedures, as appropriate:
+[arabic]
 .. Emergency operation of fuel, hydraulic, electrical, and mechanical systems.
 .. Emergency operation of instruments and controls.
 .. Engine inoperative procedures.
 .. Any other emergency procedures necessary for safety.
 
-## § 135.85
-
-### Carriage of persons without compliance with the passenger-carrying provisions of this part.
+## § 135.85 - Carriage of persons without compliance with the passenger-carrying provisions of this part.
 
 The following persons may be carried aboard an aircraft without complying with the passenger-carrying requirements of this part:
 
+[loweralpha]
 . A crewmember or other employee of the certificate holder.
 . A person necessary for the safe handling of animals on the aircraft.
 . A person necessary for the safe handling of hazardous materials (as defined in subchapter C of title 49 CFR).
@@ -167,16 +151,16 @@ The following persons may be carried aboard an aircraft without complying with t
 . A person, authorized by the Administrator, who is performing a duty connected with a cargo operation of the certificate holder.
 . A DOD commercial air carrier evaluator conducting an en route evaluation.
 
-## § 135.87
-
-### Carriage of cargo including carry-on baggage.
+## § 135.87 - Carriage of cargo including carry-on baggage.
 
 No person may carry cargo, including carry-on baggage, in or on any aircraft unless—
 
+[loweralpha]
 . It is carried in an approved cargo rack, bin, or compartment installed in or on the aircraft;
 . It is secured by an approved means; or
 . It is carried in accordance with each of the following:
               
+[arabic]
 .. For cargo, it is properly secured by a safety belt or other tie-down having enough strength to eliminate the possibility of shifting under all normally anticipated flight and ground conditions, or for carry-on baggage, it is restrained so as to prevent its movement during air turbulence.
 .. It is packaged or covered to avoid possible injury to occupants.
 .. It does not impose any load on seats or on the floor structure that exceeds the load limitation for those components.
@@ -187,31 +171,30 @@ No person may carry cargo, including carry-on baggage, in or on any aircraft unl
 . Each passenger seat under which baggage is stowed shall be fitted with a means to prevent articles of baggage stowed under it from sliding under crash impacts severe enough to induce the ultimate inertia forces specified in the emergency landing condition regulations under which the aircraft was type certificated.
 . When cargo is carried in cargo compartments that are designed to require the physical entry of a crewmember to extinguish any fire that may occur during flight, the cargo must be loaded so as to allow a crewmember to effectively reach all parts of the compartment with the contents of a hand fire extinguisher.
 
-## § 135.89
+## § 135.89 - Pilot requirements: Use of oxygen.
 
-### Pilot requirements: Use of oxygen.
-
+[loweralpha]
 . *Unpressurized aircraft.* Each pilot of an unpressurized aircraft shall use oxygen continuously when flying—
+[arabic]
 .. At altitudes above 10,000 feet through 12,000 feet MSL for that part of the flight at those altitudes that is of more than 30 minutes duration; and
 .. Above 12,000 feet MSL.
-. *Pressurized aircraft.* (1) Whenever a pressurized aircraft is operated with the cabin pressure altitude more than 10,000 feet MSL, each pilot shall comply with paragraph (a) of this section.
+. *Pressurized aircraft.*
+[arabic]
+.. Whenever a pressurized aircraft is operated with the cabin pressure altitude more than 10,000 feet MSL, each pilot shall comply with paragraph (a) of this section.
+.. Whenever a pressurized aircraft is operated at altitudes above 25,000 feet through 35,000 feet MSL, unless each pilot has an approved quick-donning type oxygen mask—
+[lowerroman]
+... At least one pilot at the controls shall wear, secured and sealed, an oxygen mask that either supplies oxygen at all times or automatically supplies oxygen whenever the cabin pressure altitude exceeds 12,000 feet MSL; and
+... During that flight, each other pilot on flight deck duty shall have an oxygen mask, connected to an oxygen supply, located so as to allow immediate placing of the mask on the pilot's face sealed and secured for use.
+.. Whenever a pressurized aircraft is operated at altitudes above 35,000 feet MSL, at least one pilot at the controls shall wear, secured and sealed, an oxygen mask required by paragraph (b)(2)(i) of this section.
+.. If one pilot leaves a pilot duty station of an aircraft when operating at altitudes above 25,000 feet MSL, the remaining pilot at the controls shall put on and use an approved oxygen mask until the other pilot returns to the pilot duty station of the aircraft.
 
-(2) Whenever a pressurized aircraft is operated at altitudes above 25,000 feet through 35,000 feet MSL, unless each pilot has an approved quick-donning type oxygen mask—
+## § 135.91 - Oxygen and portable oxygen concentrators for medical use by passengers.
 
-(i) At least one pilot at the controls shall wear, secured and sealed, an oxygen mask that either supplies oxygen at all times or automatically supplies oxygen whenever the cabin pressure altitude exceeds 12,000 feet MSL; and
-
-(ii) During that flight, each other pilot on flight deck duty shall have an oxygen mask, connected to an oxygen supply, located so as to allow immediate placing of the mask on the pilot's face sealed and secured for use.
-
-(3) Whenever a pressurized aircraft is operated at altitudes above 35,000 feet MSL, at least one pilot at the controls shall wear, secured and sealed, an oxygen mask required by paragraph (b)(2)(i) of this section.
-
-(4) If one pilot leaves a pilot duty station of an aircraft when operating at altitudes above 25,000 feet MSL, the remaining pilot at the controls shall put on and use an approved oxygen mask until the other pilot returns to the pilot duty station of the aircraft.
-
-## § 135.91
-
-### Oxygen and portable oxygen concentrators for medical use by passengers.
-
+[loweralpha]
 . Except as provided in paragraphs (d) and (e) of this section, no certificate holder may allow the carriage or operation of equipment for the storage, generation or dispensing of medical oxygen unless the conditions in paragraphs (a) through (c) of this section are satisfied. Beginning August 22, 2016, a certificate holder may allow a passenger to carry and operate a portable oxygen concentrator when the conditions in paragraphs (b) and (f) of this section are satisfied.
+[arabic]
 .. The equipment must be—
+[lowerroman]
 ... Of an approved type or in conformity with the manufacturing, packaging, marking, labeling, and maintenance requirements of title 49 CFR parts 171, 172, and 173, except § 173.24(a)(1);
 ... When owned by the certificate holder, maintained under the certificate holder's approved maintenance program;
 ... Free of flammable contaminants on all exterior surfaces;
@@ -219,6 +202,7 @@ No person may carry cargo, including carry-on baggage, in or on any aircraft unl
 ... Appropriately secured.
 .. When the oxygen is stored in the form of a liquid, the equipment must have been under the certificate holder's approved maintenance program since its purchase new or since the storage container was last purged.
 .. When the oxygen is stored in the form of a compressed gas as defined in title 49 CFR 173.115(b)—
+[lowerroman]
 ... When owned by the certificate holder, it must be maintained under its approved maintenance program; and
 ... The pressure in any oxygen cylinder must not exceed the rated cylinder pressure.
 .. The pilot in command must be advised when the equipment is on board, and when it is intended to be used.
@@ -228,98 +212,84 @@ No person may carry cargo, including carry-on baggage, in or on any aircraft unl
 . Paragraph (a)(1)(i) of this section does not apply when that equipment is furnished by a professional or medical emergency service for use on board an aircraft in a medical emergency when no other practical means of transportation (including any other properly equipped certificate holder) is reasonably available and the person carried under the medical emergency is accompanied by a person trained in the use of medical oxygen.
 . Each certificate holder who, under the authority of paragraph (d) of this section, deviates from paragraph (a)(1)(i) of this section under a medical emergency shall, within 10 days, excluding Saturdays, Sundays, and Federal holidays, after the deviation, send to the certificate-holding district office a complete report of the operation involved, including a description of the deviation and the reasons for it.
 . *Portable oxygen concentrators*—(1) *Acceptance criteria.* A passenger may carry or operate a portable oxygen concentrator for personal use on board an aircraft and a certificate holder may allow a passenger to carry or operate a portable oxygen concentrator on board an aircraft operated under this part during all phases of flight if the portable oxygen concentrator satisfies all of the requirements of this paragraph (f):
-
-(i) Is legally marketed in the United States in accordance with Food and Drug Administration requirements in title 21 of the CFR;
-
-(ii) Does not radiate radio frequency emissions that interfere with aircraft systems;
-
-(iii) Generates a maximum oxygen pressure of less than 200 kPa gauge (29.0 psig/43.8 psia) at 20 °C (68 °F);
-
-(iv) Does not contain any hazardous materials subject to the Hazardous Materials Regulations (49 CFR parts 171 through 180) except as provided in 49 CFR 175.10 for batteries used to power portable electronic devices and that do not require aircraft operator approval; and
-
-(v) Bears a label on the exterior of the device applied in a manner that ensures the label will remain affixed for the life of the device and containing the following certification statement in red lettering: “The manufacturer of this POC has determined this device conforms to all applicable FAA acceptance criteria for POC carriage and use on board aircraft.” The label requirements in this paragraph (f)(1)(v) do not apply to the following portable oxygen concentrators approved by the FAA for use on board aircraft prior to May 24, 2016:
-
-(A) AirSep Focus;
-
-(B) AirSep FreeStyle;
-
-(C) AirSep FreeStyle 5;
-
-(D) AirSep LifeStyle;
-
-(E) Delphi RS-00400;
-
-(F) DeVilbiss Healthcare iGo;
-
-(G) Inogen One;
-
-(H) Inogen One G2;
-
-(I) Inogen One G3;
-
-(J) Inova Labs LifeChoice;
-
-(K) Inova Labs LifeChoice Activox;
-
-(L) International Biophysics LifeChoice;
-
-(M) Invacare Solo2;
-
-(N) Invacare XPO2;
-
-(O) Oxlife Independence Oxygen Concentrator;
-
-(P) Oxus RS-00400;
-
-(Q) Precision Medical EasyPulse;
-
-(R) Respironics EverGo;
-
-(S) Respironics SimplyGo;
-
-(T) SeQual Eclipse;
-
-(U) SeQual eQuinox Oxygen System (model 4000);
-
-(V) SeQual Oxywell Oxygen System (model 4000);
-
-(W) SeQual SAROS; and
-
-(X) VBox Trooper Oxygen Concentrator.
+[lowerroman]
+.. Is legally marketed in the United States in accordance with Food and Drug Administration requirements in title 21 of the CFR;
+.. Does not radiate radio frequency emissions that interfere with aircraft systems;
+.. Generates a maximum oxygen pressure of less than 200 kPa gauge (29.0 psig/43.8 psia) at 20 °C (68 °F);
+.. Does not contain any hazardous materials subject to the Hazardous Materials Regulations (49 CFR parts 171 through 180) except as provided in 49 CFR 175.10 for batteries used to power portable electronic devices and that do not require aircraft operator approval; and
+.. Bears a label on the exterior of the device applied in a manner that ensures the label will remain affixed for the life of the device and containing the following certification statement in red lettering: “The manufacturer of this POC has determined this device conforms to all applicable FAA acceptance criteria for POC carriage and use on board aircraft.” The label requirements in this paragraph (f)(1)(v) do not apply to the following portable oxygen concentrators approved by the FAA for use on board aircraft prior to May 24, 2016:
+[upperalpha]
+... AirSep Focus;
+... AirSep FreeStyle;
+... AirSep FreeStyle 5;
+... AirSep LifeStyle;
+... Delphi RS-00400;
+... DeVilbiss Healthcare iGo;
+... Inogen One;
+... Inogen One G2;
+... Inogen One G3;
+... Inova Labs LifeChoice;
+... Inova Labs LifeChoice Activox;
+... International Biophysics LifeChoice;
+... Invacare Solo2;
+... Invacare XPO2;
+... Oxlife Independence Oxygen Concentrator;
+... Oxus RS-00400;
+... Precision Medical EasyPulse;
+... Respironics EverGo;
+... Respironics SimplyGo;
+... SeQual Eclipse;
+... SeQual eQuinox Oxygen System (model 4000);
+... SeQual Oxywell Oxygen System (model 4000);
+... SeQual SAROS; and
+... VBox Trooper Oxygen Concentrator.
 
 (2) *Operating requirements.* Portable oxygen concentrators that satisfy the acceptance criteria identified in paragraph (f)(1) of this section may be carried on or operated by a passenger on board an aircraft provided the aircraft operator ensures that all of the conditions in this paragraph (f)(2) are satisfied:
 
-(i) *Exit seats.* No person operating a portable oxygen concentrator is permitted to occupy an exit seat.
+[lowerroman]
+. *Exit seats.* No person operating a portable oxygen concentrator is permitted to occupy an exit seat.
+. *Stowage of device.* During movement on the surface, takeoff and landing, the device must be stowed under the seat in front of the user, or in another approved stowage location so that it does not block the aisle way or the entryway to the row. If the device is to be operated by the user, it must be operated only at a seat location that does not restrict any passenger's access to, or use of, any required emergency or regular exit, or the aisle(s) in the passenger compartment.
 
-(ii) *Stowage of device.* During movement on the surface, takeoff and landing, the device must be stowed under the seat in front of the user, or in another approved stowage location so that it does not block the aisle way or the entryway to the row. If the device is to be operated by the user, it must be operated only at a seat location that does not restrict any passenger's access to, or use of, any required emergency or regular exit, or the aisle(s) in the passenger compartment.
+## § 135.93 - Minimum altitudes for use of autopilot.
 
-## § 135.93
-
-### Minimum altitudes for use of autopilot.
-
+[loweralpha]
 . *Definitions.* For purpose of this section—
+[arabic]
 .. Altitudes for takeoff/initial climb and go-around/missed approach are defined as above the airport elevation.
 .. Altitudes for enroute operations are defined as above terrain elevation.
 .. Altitudes for approach are defined as above the touchdown zone elevation (TDZE), unless the altitude is specifically in reference to DA (H) or MDA, in which case the altitude is defined by reference to the DA(H) or MDA itself.
 . *Takeoff and initial climb.* No person may use an autopilot for takeoff or initial climb below the higher of 500 feet or an altitude that is no lower than twice the altitude loss specified in the Airplane Flight Manual (AFM), except as follows—
+[arabic]
 .. At a minimum engagement altitude specified in the AFM; or
 .. At an altitude specified by the Administrator, whichever is greater.
 . *Enroute.* No person may use an autopilot enroute, including climb and descent, below the following—
+[arabic]
 .. 500 feet;
 .. At an altitude that is no lower than twice the altitude loss specified in the AFM for an autopilot malfunction in cruise conditions; or
 .. At an altitude specified by the Administrator, whichever is greater.
 . *Approach.* No person may use an autopilot at an altitude lower than 50 feet below the DA(H) or MDA for the instrument procedure being flown, except as follows—
+[arabic]
 .. For autopilots with an AFM specified altitude loss for approach operations—
+[lowerroman]
 ... An altitude no lower than twice the specified altitude loss if higher than 50 feet below the MDA or DA(H);
               
 ... An altitude no lower than 50 feet higher than the altitude loss specified in the AFM, when the following conditions are met—
+[upperalpha]
+.... Reported weather conditions are less than the basic VFR weather conditions in § 91.155 of this chapter;
+.... Suitable visual references specified in § 91.175 of this chapter have been established on the instrument approach procedure; and
+.... The autopilot is coupled and receiving both lateral and vertical path references;
 ... An altitude no lower than the higher of the altitude loss specified in the AFM or 50 feet above the TDZE, when the following conditions are met—
+[upperalpha]
+.... Reported weather conditions are equal to or better than the basic VFR weather conditions in § 91.155 of this chapter; and
+.... The autopilot is coupled and receiving both lateral and vertical path references; or
 ... A greater altitude specified by the Administrator.
 .. For autopilots with AFM specified approach altitude limitations, the greater of—
+[lowerroman]
 ... The minimum use altitude specified for the coupled approach mode selected;
 ... 50 feet; or
 ... An altitude specified by Administrator.
 .. For autopilots with an AFM specified negligible or zero altitude loss for an autopilot approach mode malfunction, the greater of—
+[lowerroman]
 ... 50 feet; or
 ... An altitude specified by Administrator.
 .. If executing an autopilot coupled go-around or missed approach using a certificated and functioning autopilot in accordance with paragraph (e) in this section.
@@ -327,37 +297,23 @@ No person may carry cargo, including carry-on baggage, in or on any aircraft unl
 . *Landing.* Notwithstanding paragraph (d) of this section, autopilot minimum use altitudes do not apply to autopilot operations when an approved automatic landing system mode is being used for landing. Automatic landing systems must be authorized in an operations specification issued to the operator.
 . This section does not apply to operations conducted in rotorcraft.
 
-(A) Reported weather conditions are less than the basic VFR weather conditions in § 91.155 of this chapter;
-
-(B) Suitable visual references specified in § 91.175 of this chapter have been established on the instrument approach procedure; and
-
-(C) The autopilot is coupled and receiving both lateral and vertical path references;
-
-(A) Reported weather conditions are equal to or better than the basic VFR weather conditions in § 91.155 of this chapter; and
-
-(B) The autopilot is coupled and receiving both lateral and vertical path references; or
-
-## § 135.95
-
-### Airmen: Limitations on use of services.
+## § 135.95 - Airmen: Limitations on use of services.
 
 No certificate holder may use the services of any person as an airman unless the person performing those services—
 
+[loweralpha]
 . Holds an appropriate and current airman certificate; and
 . Is qualified, under this chapter, for the operation for which the person is to be used.
 
-## § 135.97
-
-### Aircraft and facilities for recent flight experience.
+## § 135.97 - Aircraft and facilities for recent flight experience.
 
 Each certificate holder shall provide aircraft and facilities to enable each of its pilots to maintain and demonstrate the pilot's ability to conduct all operations for which the pilot is authorized.
 
-## § 135.98
-
-### Operations in the North Polar Area.
+## § 135.98 - Operations in the North Polar Area.
 
 After August 13, 2008, no certificate holder may operate an aircraft in the region north of 78° N latitude (“North Polar Area”), other than intrastate operations wholly within the state of Alaska, unless authorized by the FAA. The certificate holder's operation specifications must include the following:
 
+[loweralpha]
 . The designation of airports that may be used for en-route diversions and the requirements the airports must meet at the time of diversion.
 . Except for all-cargo operations, a recovery plan for passengers at designated diversion airports.
 . A fuel-freeze strategy and procedures for monitoring fuel freezing for operations in the North Polar Area.
@@ -368,86 +324,76 @@ After August 13, 2008, no certificate holder may operate an aircraft in the regi
 . A plan for mitigating crew exposure to radiation during solar flare activity.
 . A plan for providing at least two cold weather anti-exposure suits in the aircraft, to protect crewmembers during outside activity at a diversion airport with extreme climatic conditions. The FAA may relieve the certificate holder from this requirement if the season of the year makes the equipment unnecessary.
 
-## § 135.99
+## § 135.99 - Composition of flight crew.
 
-### Composition of flight crew.
-
+[loweralpha]
 . No certificate holder may operate an aircraft with less than the minimum flight crew specified in the aircraft operating limitations or the Aircraft Flight Manual for that aircraft and required by this part for the kind of operation being conducted.
 . No certificate holder may operate an aircraft without a second in command if that aircraft has a passenger seating configuration, excluding any pilot seat, of ten seats or more.
 
-## § 135.100
+## § 135.100 - Flight crewmember duties.
 
-### Flight crewmember duties.
-
+[loweralpha]
 . No certificate holder shall require, nor may any flight crewmember perform, any duties during a critical phase of flight except those duties required for the safe operation of the aircraft. Duties such as company required calls made for such nonsafety related purposes as ordering galley supplies and confirming passenger connections, announcements made to passengers promoting the air carrier or pointing out sights of interest, and filling out company payroll and related records are not required for the safe operation of the aircraft.
 . No flight crewmember may engage in, nor may any pilot in command permit, any activity during a critical phase of flight which could distract any flight crewmember from the performance of his or her duties or which could interfere in any way with the proper conduct of those duties. Activities such as eating meals, engaging in nonessential conversations within the cockpit and nonessential communications between the cabin and cockpit crews, and reading publications not related to the proper conduct of the flight are not required for the safe operation of the aircraft.
 . For the purposes of this section, critical phases of flight includes all ground operations involving taxi, takeoff and landing, and all other flight operations conducted below 10,000 feet, except cruise flight.
               
 
-## § 135.101
-
-### Second in command required under IFR.
+## § 135.101 - Second in command required under IFR.
 
 Except as provided in § 135.105, no person may operate an aircraft carrying passengers under IFR unless there is a second in command in the aircraft.
 
-## § 135.103
+## § 135.103 - Reserved
 
-### Reserved
 
-## § 135.105
+Reserved
 
-### Exception to second in command requirement: Approval for use of autopilot system.
+## § 135.105 - Exception to second in command requirement: Approval for use of autopilot system.
 
+[loweralpha]
 . Except as provided in §§ 135.99 and 135.111, unless two pilots are required by this chapter for operations under VFR, a person may operate an aircraft without a second in command, if it is equipped with an operative approved autopilot system and the use of that system is authorized by appropriate operations specifications. No certificate holder may use any person, nor may any person serve, as a pilot in command under this section of an aircraft operated in a commuter operation, as defined in part 119 of this chapter unless that person has at least 100 hours pilot in command flight time in the make and model of aircraft to be flown and has met all other applicable requirements of this part.
 . The certificate holder may apply for an amendment of its operations specifications to authorize the use of an autopilot system in place of a second in command.
               
 . The Administrator issues an amendment to the operations specifications authorizing the use of an autopilot system, in place of a second in command, if—
+[arabic]
 .. The autopilot is capable of operating the aircraft controls to maintain flight and maneuver it about the three axes; and
 .. The certificate holder shows, to the satisfaction of the Administrator, that operations using the autopilot system can be conducted safely and in compliance with this part.
 
 The amendment contains any conditions or limitations on the use of the autopilot system that the Administrator determines are needed in the interest of safety.
 
-## § 135.107
-
-### Flight attendant crewmember requirement.
+## § 135.107 - Flight attendant crewmember requirement.
 
 No certificate holder may operate an aircraft that has a passenger seating configuration, excluding any pilot seat, of more than 19 unless there is a flight attendant crewmember on board the aircraft.
 
-## § 135.109
+## § 135.109 - Pilot in command or second in command: Designation required.
 
-### Pilot in command or second in command: Designation required.
-
+[loweralpha]
 . Each certificate holder shall designate a—
+[arabic]
 .. Pilot in command for each flight; and
 .. Second in command for each flight requiring two pilots.
 . The pilot in command, as designated by the certificate holder, shall remain the pilot in command at all times during that flight.
 
-## § 135.111
-
-### Second in command required in Category II operations.
+## § 135.111 - Second in command required in Category II operations.
 
 No person may operate an aircraft in a Category II operation unless there is a second in command of the aircraft.
 
-## § 135.113
-
-### Passenger occupancy of pilot seat.
+## § 135.113 - Passenger occupancy of pilot seat.
 
 No certificate holder may operate an aircraft type certificated after October 15, 1971, that has a passenger seating configuration, excluding any pilot seat, of more than eight seats if any person other than the pilot in command, a second in command, a company check airman, or an authorized representative of the Administrator, the National Transportation Safety Board, or the United States Postal Service occupies a pilot seat.
 
-## § 135.115
-
-### Manipulation of controls.
+## § 135.115 - Manipulation of controls.
 
 No pilot in command may allow any person to manipulate the flight controls of an aircraft during flight conducted under this part, nor may any person manipulate the controls during such flight unless that person is—
 
+[loweralpha]
 . A pilot employed by the certificate holder and qualified in the aircraft; or
 . An authorized safety representative of the Administrator who has the permission of the pilot in command, is qualified in the aircraft, and is checking flight operations.
 
-## § 135.117
+## § 135.117 - Briefing of passengers before flight.
 
-### Briefing of passengers before flight.
-
+[loweralpha]
 . Before each takeoff each pilot in command of an aircraft carrying passengers shall ensure that all passengers have been orally briefed on—
+[arabic]
 .. *Smoking.* Each passenger shall be briefed on when, where, and under what conditions smoking is prohibited (including, but not limited to, any applicable requirements of part 252 of this title). This briefing shall include a statement that the Federal Aviation Regulations require passenger compliance with the lighted passenger information signs (if such signs are required), posted placards, areas designated for safety purposes as no smoking areas, and crewmember instructions with regard to these items. The briefing shall also include a statement (if the aircraft is equipped with a lavatory) that Federal law prohibits: tampering with, disabling, or destroying any smoke detector installed in an aircraft lavatory; smoking in lavatories; and, when applicable, smoking in passenger compartments.
 .. The use of safety belts, including instructions on how to fasten and unfasten the safety belts. Each passenger shall be briefed on when, where, and under what conditions the safety belt must be fastened about that passenger. This briefing shall include a statement that the Federal Aviation Regulations require passenger compliance with lighted passenger information signs and crewmember instructions concerning the use of safety belts.
 .. The placement of seat backs in an upright position before takeoff and landing;
@@ -461,70 +407,65 @@ No pilot in command may allow any person to manipulate the flight controls of an
 . The oral briefing required by paragraph (a) of this section shall be given by the pilot in command or a crewmember.
 . Notwithstanding the provisions of paragraph (c) of this section, for aircraft certificated to carry 19 passengers or less, the oral briefing required by paragraph (a) of this section shall be given by the pilot in command, a crewmember, or other qualified person designated by the certificate holder and approved by the Administrator.
 . The oral briefing required by paragraph (a) of this section must be supplemented by printed cards which must be carried in the aircraft in locations convenient for the use of each passenger. The cards must—
+[arabic]
 .. Be appropriate for the aircraft on which they are to be used;
 .. Contain a diagram of, and method of operating, the emergency exits;
 .. Contain other instructions necessary for the use of emergency equipment on board the aircraft; and
 .. No later than June 12, 2005, for scheduled Commuter passenger-carrying flights, include the sentence, “Final assembly of this aircraft was completed in [INSERT NAME OF COUNTRY].”
 . The briefing required by paragraph (a) may be delivered by means of an approved recording playback device that is audible to each passenger under normal noise levels.
 
-## § 135.119
-
-### Prohibition against carriage of weapons.
+## § 135.119 - Prohibition against carriage of weapons.
 
 No person may, while on board an aircraft being operated by a certificate holder, carry on or about that person a deadly or dangerous weapon, either concealed or unconcealed. This section does not apply to—
 
+[loweralpha]
 . Officials or employees of a municipality or a State, or of the United States, who are authorized to carry arms; or
 . Crewmembers and other persons authorized by the certificate holder to carry arms.
 
-## § 135.120
-
-### Prohibition on interference with crewmembers.
+## § 135.120 - Prohibition on interference with crewmembers.
 
 No person may assault, threaten, intimidate, or interfere with a crewmember in the performance of the crewmember's duties aboard an aircraft being operated under this part.
 
-## § 135.121
+## § 135.121 - Alcoholic beverages.
 
-### Alcoholic beverages.
-
+[loweralpha]
 . No person may drink any alcoholic beverage aboard an aircraft unless the certificate holder operating the aircraft has served that beverage.
               
 . No certificate holder may serve any alcoholic beverage to any person aboard its aircraft if that person appears to be intoxicated.
 . No certificate holder may allow any person to board any of its aircraft if that person appears to be intoxicated.
 
-## § 135.122
+## § 135.122 - Stowage of food, beverage, and passenger service equipment during aircraft movement on the surface, takeoff, and landing.
 
-### Stowage of food, beverage, and passenger service equipment during aircraft movement on the surface, takeoff, and landing.
-
+[loweralpha]
 . No certificate holder may move an aircraft on the surface, take off, or land when any food, beverage, or tableware furnished by the certificate holder is located at any passenger seat.
 . No certificate holder may move an aircraft on the surface, take off, or land unless each food and beverage tray and seat back tray table is secured in its stowed position.
 . No certificate holder may permit an aircraft to move on the surface, take off, or land unless each passenger serving cart is secured in its stowed position.
 . Each passenger shall comply with instructions given by a crewmember with regard to compliance with this section.
 
-## § 135.123
+## § 135.123 - Emergency and emergency evacuation duties.
 
-### Emergency and emergency evacuation duties.
-
+[loweralpha]
 . Each certificate holder shall assign to each required crewmember for each type of aircraft as appropriate, the necessary functions to be performed in an emergency or in a situation requiring emergency evacuation. The certificate holder shall ensure that those functions can be practicably accomplished, and will meet any reasonably anticipated emergency including incapacitation of individual crewmembers or their inability to reach the passenger cabin because of shifting cargo in combination cargo-passenger aircraft.
 . The certificate holder shall describe in the manual required under § 135.21 the functions of each category of required crewmembers assigned under paragraph (a) of this section.
 
-## § 135.125
-
-### Aircraft security.
+## § 135.125 - Aircraft security.
 
 Certificate holders conducting operators conducting operations under this part must comply with the applicable security requirements in 49 CFR chapter XII.
 
-## § 135.127
+## § 135.127 - Passenger information requirements and smoking prohibitions.
 
-### Passenger information requirements and smoking prohibitions.
-
+[loweralpha]
 . No person may conduct a scheduled flight on which smoking is prohibited by part 252 of this title unless the “No Smoking” passenger information signs are lighted during the entire flight, or one or more “No Smoking” placards meeting the requirements of § 25.1541 of this chapter are posted during the entire flight. If both the lighted signs and the placards are used, the signs must remain lighted during the entire flight segment.
 . No person may smoke while a “No Smoking” sign is lighted or while “No Smoking” placards are posted, except as follows:
+[arabic]
 .. *On-demand operations.* The pilot in command of an aircraft engaged in an on-demand operation may authorize smoking on the flight deck (if it is physically separated from any passenger compartment), except in any of the following situations:
+[lowerroman]
 ... During aircraft movement on the surface or during takeoff or landing;
 ... During scheduled passenger-carrying public charter operations conducted under part 380 of this title;
 ... During on-demand operations conducted interstate that meet paragraph (2) of the definition “On-demand operation” in § 110.2 of this chapter, unless permitted under paragraph (b)(2) of this section; or
 ... During any operation where smoking is prohibited by part 252 of this title or by international agreement.
 .. *Certain intrastate commuter operations and certain intrastate on-demand operations.* Except during aircraft movement on the surface or during takeoff or landing, a pilot in command of an aircraft engaged in a commuter operation or an on-demand operation that meets paragraph (2) of the definition of “On-demand operation” in § 110.2 of this chapter may authorize smoking on the flight deck (if it is physically separated from the passenger compartment, if any) if—
+[lowerroman]
 ... Smoking on the flight deck is not otherwise prohibited by part 252 of this title;
 ... The flight is conducted entirely within the same State of the United States (a flight from one place in Hawaii to another place in Hawaii through the airspace over a place outside Hawaii is not entirely within the same State); and
 ... The aircraft is either not turbojet-powered or the aircraft is not capable of carrying at least 30 passengers.
@@ -535,124 +476,159 @@ Certificate holders conducting operators conducting operations under this part m
 . The passenger information requirements prescribed in § 91.517 (b) and (d) of this chapter are in addition to the requirements prescribed in this section.
 . Each passenger shall comply with instructions given him or her by crewmembers regarding compliance with paragraphs (b), (c), and (e) of this section.
 
-## § 135.128
+## § 135.128 - Use of safety belts and child restraint systems.
 
-### Use of safety belts and child restraint systems.
-
+[loweralpha]
 . Except as provided in this paragraph, each person on board an aircraft operated under this part shall occupy an approved seat or berth with a separate safety belt properly secured about him or her during movement on the surface, takeoff, and landing. For seaplane and float equipped rotorcraft operations during movement on the surface, the person pushing off the seaplane or rotorcraft from the dock and the person mooring the seaplane or rotorcraft at the dock are excepted from the preceding seating and safety belt requirements. A safety belt provided for the occupant of a seat may not be used by more than one person who has reached his or her second birthday. Notwithstanding the preceding requirements, a child may:
-.. (*1*) That the seat was approved by a foreign government;
-.. (*2*) That the seat was manufactured under the standards of the United Nations;
-.. (*3*) That the seat or child restraint device furnished by the certificate holder was approved by the FAA through Type Certificate or Supplemental Type Certificate; or
-.. (*4*) That the seat or child restraint device furnished by the certificate holder, or one of the persons described in paragraph (a)(2)(i) of this section, was approved by the FAA in accordance with § 21.8(d) of this chapter or Technical Standard Order C-100b, or a later version. The child restraint device manufactured by AmSafe, Inc. (CARES, Part No. 4082) and approved by the FAA in accordance with § 21.305(d) (2010 ed.) of this chapter may continue to bear a label or markings showing FAA approval in accordance with § 21.305(d) (2010 ed.) of this chapter.
+[arabic]
+.. Be held by an adult who is occupying an approved seat or berth, provided the child has not reached his or her second birthday and the child does not occupy or use any restraining device; or
+.. Notwithstanding any other requirement of this chapter, occupy an approved child restraint system furnished by the certificate holder or one of the persons described in paragraph (a)(2)(i) of this section, provided:
+[lowerroman]
+... The child is accompanied by a parent, guardian, or attendant designated by the child's parent or guardian to attend to the safety of the child during the flight;
+... Except as provided in paragraph (a)(2)(ii)(D) of this section, the approved child restraint system bears one or more labels as follows:
+[upperalpha]
+.... Seats manufactured to U.S. standards between January 1, 1981, and February 25, 1985, must bear the label: “This child restraint system conforms to all applicable Federal motor vehicle safety standards”;
+.... Seats manufactured to U.S. standards on or after February 26, 1985, must bear two labels:
+[arabic]
+..... (*1*) “This child restraint system conforms to all applicable Federal motor vehicle safety standards”; and
+..... (*2*) “THIS RESTRAINT IS CERTIFIED FOR USE IN MOTOR VEHICLES AND AIRCRAFT” in red lettering;
+              
+.... Seats that do not qualify under paragraphs (a)(2)(ii)(A) and (a)(2)(ii)(B) of this section must bear a label or markings showing:
+[arabic]
+..... (*1*) That the seat was approved by a foreign government;
+..... (*2*) That the seat was manufactured under the standards of the United Nations;
+..... (*3*) That the seat or child restraint device furnished by the certificate holder was approved by the FAA through Type Certificate or Supplemental Type Certificate; or
+..... (*4*) That the seat or child restraint device furnished by the certificate holder, or one of the persons described in paragraph (a)(2)(i) of this section, was approved by the FAA in accordance with § 21.8(d) of this chapter or Technical Standard Order C-100b, or a later version. The child restraint device manufactured by AmSafe, Inc. (CARES, Part No. 4082) and approved by the FAA in accordance with § 21.305(d) (2010 ed.) of this chapter may continue to bear a label or markings showing FAA approval in accordance with § 21.305(d) (2010 ed.) of this chapter.
+.... Except as provided in § 135.128(a)(2)(ii)(C)(*3*) and § 135.128(a)(2)(ii)(C)(*4*), booster-type child restraint systems (as defined in Federal Motor Vehicle Safety Standard No. 213 (49 CFR 571.213)), vest- and harness-type child restraint systems, and lap held child restraints are not approved for use in aircraft; and
+... The certificate holder complies with the following requirements:
+[upperalpha]
+.... The restraint system must be properly secured to an approved forward-facing seat or berth;
+.... The child must be properly secured in the restraint system and must not exceed the specified weight limit for the restraint system; and
+.... The restraint system must bear the appropriate label(s).
 . Except as provided in paragraph (b)(3) of this section, the following prohibitions apply to certificate holders:
+[arabic]
 .. Except as provided in § 135.128 (a)(2)(ii)(C)(*3*) and § 135.128 (a)(2)(ii)(C)(*4*), no certificate holder may permit a child, in an aircraft, to occupy a booster-type child restraint system, a vest-type child restraint system, a harness-type child restraint system, or a lap held child restraint system during take off, landing, and movement on the surface.
 .. Except as required in paragraph (b)(1) of this section, no certificate holder may prohibit a child, if requested by the child's parent, guardian, or designated attendant, from occupying a child restraint system furnished by the child's parent, guardian, or designated attendant provided:
+[lowerroman]
 ... The child holds a ticket for an approved seat or berth or such seat or berth is otherwise made available by the certificate holder for the child's use;
 ... The requirements of paragraph (a)(2)(i) of this section are met;
 ... The requirements of paragraph (a)(2)(iii) of this section are met; and
 ... The child restraint system has one or more of the labels described in paragraphs (a)(2)(ii)(A) through (a)(2)(ii)(C) of this section.
 .. This section does not prohibit the certificate holder from providing child restraint systems authorized by this or, consistent with safe operating practices, determining the most appropriate passenger seat location for the child restraint system.
 
-(A) Seats manufactured to U.S. standards between January 1, 1981, and February 25, 1985, must bear the label: “This child restraint system conforms to all applicable Federal motor vehicle safety standards”;
+## § 135.129 - Exit seating.
 
-(B) Seats manufactured to U.S. standards on or after February 26, 1985, must bear two labels:
-
-(C) Seats that do not qualify under paragraphs (a)(2)(ii)(A) and (a)(2)(ii)(B) of this section must bear a label or markings showing:
-
-(D) Except as provided in § 135.128(a)(2)(ii)(C)(*3*) and § 135.128(a)(2)(ii)(C)(*4*), booster-type child restraint systems (as defined in Federal Motor Vehicle Safety Standard No. 213 (49 CFR 571.213)), vest- and harness-type child restraint systems, and lap held child restraints are not approved for use in aircraft; and
-
-(iii) The certificate holder complies with the following requirements:
-
-(A) The restraint system must be properly secured to an approved forward-facing seat or berth;
-
-(B) The child must be properly secured in the restraint system and must not exceed the specified weight limit for the restraint system; and
-
-(C) The restraint system must bear the appropriate label(s).
-
-## § 135.129
-
-### Exit seating.
-
+[loweralpha]
 . *Applicability.* This section applies to all certificate holders operating under this part, except for on-demand operations with aircraft having 19 or fewer passenger seats and commuter operations with aircraft having 9 or fewer passenger seats.
-. No certificate holder may seat a person in a seat affected by this section if the certificate holder determines that it is likely that the person would be unable to perform one or more of the applicable functions listed in paragraph (d) of this section because—
-.. The person lacks sufficient mobility, strength, or dexterity in both arms and hands, and both legs:
-... To reach upward, sideways, and downward to the location of emergency exit and exit-slide operating mechanisms;
-... To grasp and push, pull, turn, or otherwise manipulate those mechanisms;
-... To push, shove, pull, or otherwise open emergency exits;
-... To lift out, hold, deposit on nearby seats, or maneuver over the seatbacks to the next row objects the size and weight of over-wing window exit doors;
-... To remove obstructions of size and weight similar over-wing exit doors;
-... To reach the emergency exit expeditiously;
-... To maintain balance while removing obstructions;
-... To exit expeditiously;
-... To stabilize an escape slide after deployment; or
-... To assist others in getting off an escape slide;
-.. The person is less than 15 years of age or lacks the capacity to perform one or more of the applicable functions listed in paragraph (d) of this section without the assistance of an adult companion, parent, or other relative;
-.. The person lacks the ability to read and understand instructions required by this section and related to emergency evacuation provided by the certificate holder in printed or graphic form or the ability to understand oral crew commands.
-.. The person lacks sufficient visual capacity to perform one or more of the applicable functions in paragraph (d) of this section without the assistance of visual aids beyond contact lenses or eyeglasses;
-.. The person lacks sufficient aural capacity to hear and understand instructions shouted by flight attendants, without assistance beyond a hearing aid;
-.. The person lacks the ability adequately to impart information orally to other passengers; or,
-.. The person has:
-... A condition or responsibilities, such as caring for small children, that might prevent the person from performing one or more of the applicable functions listed in paragraph (d) of this section; or
-... A condition that might cause the person harm if he or she performs one or more of the applicable functions listed in paragraph (d) of this section.
-. Each passenger shall comply with instructions given by a crewmember or other authorized employee of the certificate holder implementing exit seating restrictions established in accordance with this section.
-. Each certificate holder shall include on passenger information cards, presented in the language in which briefings and oral commands are given by the crew, at each exit seat affected by this section, information that, in the event of an emergency in which a crewmember is not available to assist, a passenger occupying an exit seat may use if called upon to perform the following functions:
+
+(2) *Duty to make determination of suitability.* Each certificate holder shall determine, to the extent necessary to perform the applicable functions of paragraph (d) of this section, the suitability of each person it permits to occupy an exit seat. For the purpose of this section—
+
+[lowerroman]
+. *Exit seat* means—
+[upperalpha]
+.. Each seat having direct access to an exit; and
+.. Each seat in a row of seats through which passengers would have to pass to gain access to an exit, from the first seat inboard of the exit to the first aisle inboard of the exit.
+. A passenger seat having *direct access* means a seat from which a passenger can proceed directly to the exit without entering an aisle or passing around an obstruction.
+
+(3) *Persons designated to make determination.* Each certificate holder shall make the passenger exit seating determinations required by this paragraph in a non-discriminatory manner consistent with the requirements of this section, by persons designated in the certificate holder's required operations manual.
+
+(4) *Submission of designation for approval.* Each certificate holder shall designate the exit seats for each passenger seating configuration in its fleet in accordance with the definitions in this paragraph and submit those designations for approval as part of the procedures required to be submitted for approval under paragraphs (n) and (p) of this section.
+
+(b) No certificate holder may seat a person in a seat affected by this section if the certificate holder determines that it is likely that the person would be unable to perform one or more of the applicable functions listed in paragraph (d) of this section because—
+
+[arabic]
+. The person lacks sufficient mobility, strength, or dexterity in both arms and hands, and both legs:
+[lowerroman]
+.. To reach upward, sideways, and downward to the location of emergency exit and exit-slide operating mechanisms;
+.. To grasp and push, pull, turn, or otherwise manipulate those mechanisms;
+.. To push, shove, pull, or otherwise open emergency exits;
+.. To lift out, hold, deposit on nearby seats, or maneuver over the seatbacks to the next row objects the size and weight of over-wing window exit doors;
+.. To remove obstructions of size and weight similar over-wing exit doors;
+.. To reach the emergency exit expeditiously;
+.. To maintain balance while removing obstructions;
+.. To exit expeditiously;
+.. To stabilize an escape slide after deployment; or
+.. To assist others in getting off an escape slide;
+. The person is less than 15 years of age or lacks the capacity to perform one or more of the applicable functions listed in paragraph (d) of this section without the assistance of an adult companion, parent, or other relative;
+. The person lacks the ability to read and understand instructions required by this section and related to emergency evacuation provided by the certificate holder in printed or graphic form or the ability to understand oral crew commands.
+. The person lacks sufficient visual capacity to perform one or more of the applicable functions in paragraph (d) of this section without the assistance of visual aids beyond contact lenses or eyeglasses;
+. The person lacks sufficient aural capacity to hear and understand instructions shouted by flight attendants, without assistance beyond a hearing aid;
+. The person lacks the ability adequately to impart information orally to other passengers; or,
+. The person has:
+[lowerroman]
+.. A condition or responsibilities, such as caring for small children, that might prevent the person from performing one or more of the applicable functions listed in paragraph (d) of this section; or
+.. A condition that might cause the person harm if he or she performs one or more of the applicable functions listed in paragraph (d) of this section.
+
+(c) Each passenger shall comply with instructions given by a crewmember or other authorized employee of the certificate holder implementing exit seating restrictions established in accordance with this section.
+
+(d) Each certificate holder shall include on passenger information cards, presented in the language in which briefings and oral commands are given by the crew, at each exit seat affected by this section, information that, in the event of an emergency in which a crewmember is not available to assist, a passenger occupying an exit seat may use if called upon to perform the following functions:
               
-.. Locate the emergency exit;
-.. Recognize the emergency exit opening mechanism;
-.. Comprehend the instructions for operating the emergency exit;
-.. Operate the emergency exit;
-.. Assess whether opening the emergency exit will increase the hazards to which passengers may be exposed;
-.. Follow oral directions and hand signals given by a crewmember;
-.. Stow or secure the emergency exit door so that it will not impede use of the exit;
-.. Assess the condition of an escape slide, activate the slide, and stabilize the slide after deployment to assist others in getting off the slide;
-.. Pass expeditiously through the emergency exit; and
-.. Assess, select, and follow a safe path away from the emergency exit.
-. Each certificate holder shall include on passenger information cards, at each exit seat—
-.. In the primary language in which emergency commands are given by the crew, the selection criteria set forth in paragraph (b) of this section, and a request that a passenger identify himself or herself to allow reseating if he or she—
-... Cannot meet the selection criteria set forth in paragraph (b) of this section;
-... Has a nondiscernible condition that will prevent him or her from performing the applicable functions listed in paragraph (d) of this section;
-... May suffer bodily harm as the result of performing one or more of those functions; or
-... Does not wish to perform those functions; and,
-.. In each language used by the certificate holder for passenger information cards, a request that a passenger identify himself or herself to allow reseating if he or she lacks the ability to read, speak, or understand the language or the graphic form in which instructions required by this section and related to emergency evacuation are provided by the certificate holder, or the ability to understand the specified language in which crew commands will be given in an emergency;
-.. May suffer bodily harm as the result of performing one or more of those functions; or,
-.. Does not wish to perform those functions.
+
+[arabic]
+. Locate the emergency exit;
+. Recognize the emergency exit opening mechanism;
+. Comprehend the instructions for operating the emergency exit;
+. Operate the emergency exit;
+. Assess whether opening the emergency exit will increase the hazards to which passengers may be exposed;
+. Follow oral directions and hand signals given by a crewmember;
+. Stow or secure the emergency exit door so that it will not impede use of the exit;
+. Assess the condition of an escape slide, activate the slide, and stabilize the slide after deployment to assist others in getting off the slide;
+. Pass expeditiously through the emergency exit; and
+. Assess, select, and follow a safe path away from the emergency exit.
+
+(e) Each certificate holder shall include on passenger information cards, at each exit seat—
+
+[arabic]
+. In the primary language in which emergency commands are given by the crew, the selection criteria set forth in paragraph (b) of this section, and a request that a passenger identify himself or herself to allow reseating if he or she—
+[lowerroman]
+.. Cannot meet the selection criteria set forth in paragraph (b) of this section;
+.. Has a nondiscernible condition that will prevent him or her from performing the applicable functions listed in paragraph (d) of this section;
+.. May suffer bodily harm as the result of performing one or more of those functions; or
+.. Does not wish to perform those functions; and,
+. In each language used by the certificate holder for passenger information cards, a request that a passenger identify himself or herself to allow reseating if he or she lacks the ability to read, speak, or understand the language or the graphic form in which instructions required by this section and related to emergency evacuation are provided by the certificate holder, or the ability to understand the specified language in which crew commands will be given in an emergency;
+. May suffer bodily harm as the result of performing one or more of those functions; or,
+. Does not wish to perform those functions.
               
-. Each certificate holder shall make available for inspection by the public at all passenger loading gates and ticket counters at each airport where it conducts passenger operations, written procedures established for making determinations in regard to exit row seating.
-. No certificate holder may allow taxi or pushback unless at least one required crewmember has verified that no exit seat is occupied by a person the crewmember determines is likely to be unable to perform the applicable functions listed in paragraph (d) of this section.
-. Each certificate holder shall include in its passenger briefings a reference to the passenger information cards, required by paragraphs (d) and (e), the selection criteria set forth in paragraph (b), and the functions to be performed, set forth in paragraph (d) of this section.
+
+(f) Each certificate holder shall make available for inspection by the public at all passenger loading gates and ticket counters at each airport where it conducts passenger operations, written procedures established for making determinations in regard to exit row seating.
+
+(g) No certificate holder may allow taxi or pushback unless at least one required crewmember has verified that no exit seat is occupied by a person the crewmember determines is likely to be unable to perform the applicable functions listed in paragraph (d) of this section.
+
+(h) Each certificate holder shall include in its passenger briefings a reference to the passenger information cards, required by paragraphs (d) and (e), the selection criteria set forth in paragraph (b), and the functions to be performed, set forth in paragraph (d) of this section.
+
+[lowerroman]
 . Each certificate holder shall include in its passenger briefings a request that a passenger identify himself or herself to allow reseating if he or she—
+[arabic]
 .. Cannot meet the selection criteria set forth in paragraph (b) of this section;
 .. Has a nondiscernible condition that will prevent him or her from performing the applicable functions listed in paragraph (d) of this section;
 .. May suffer bodily harm as the result of performing one or more of those functions; or,
 .. Does not wish to perform those functions.
               
-. [Reserved]
-. In the event a certificate holder determines in accordance with this section that it is likely that a passenger assigned to an exit seat would be unable to perform the functions listed in paragraph (d) of this section or a passenger requests a non-exit seat, the certificate holder shall expeditiously relocate the passenger to a non-exit seat.
-. In the event of full booking in the non-exit seats and if necessary to accommodate a passenger being relocated from an exit seat, the certificate holder shall move a passenger who is willing and able to assume the evacuation functions that may be required, to an exit seat.
-. A certificate holder may deny transportation to any passenger under this section only because—
-.. The passenger refuses to comply with instructions given by a crewmember or other authorized employee of the certificate holder implementing exit seating restrictions established in accordance with this section, or
-.. The only seat that will physically accommodate the person's handicap is an exit seat.
-. In order to comply with this section certificate holders shall—
-.. Establish procedures that address:
-... The criteria listed in paragraph (b) of this section;
-... The functions listed in paragraph (d) of this section;
-... The requirements for airport information, passenger information cards, crewmember verification of appropriate seating in exit seats, passenger briefings, seat assignments, and denial of transportation as set forth in this section;
-... How to resolve disputes arising from implementation of this section, including identification of the certificate holder employee on the airport to whom complaints should be addressed for resolution; and,
-.. Submit their procedures for preliminary review and approval to the principal operations inspectors assigned to them at the certificate-holding district office.
-. Certificate holders shall assign seats prior to boarding consistent with the criteria listed in paragraph (b) and the functions listed in paragraph (d) of this section, to the maximum extent feasible.
-. The procedures required by paragraph (n) of this section will not become effective until final approval is granted by the Director, Flight Standards Service, Washington, DC. Approval will be based solely upon the safety aspects of the certificate holder's procedures.
 
-(2) *Duty to make determination of suitability.* Each certificate holder shall determine, to the extent necessary to perform the applicable functions of paragraph (d) of this section, the suitability of each person it permits to occupy an exit seat. For the purpose of this section—
+(j) [Reserved]
 
-(i) *Exit seat* means—
+(k) In the event a certificate holder determines in accordance with this section that it is likely that a passenger assigned to an exit seat would be unable to perform the functions listed in paragraph (d) of this section or a passenger requests a non-exit seat, the certificate holder shall expeditiously relocate the passenger to a non-exit seat.
 
-(A) Each seat having direct access to an exit; and
+(l) In the event of full booking in the non-exit seats and if necessary to accommodate a passenger being relocated from an exit seat, the certificate holder shall move a passenger who is willing and able to assume the evacuation functions that may be required, to an exit seat.
 
-(B) Each seat in a row of seats through which passengers would have to pass to gain access to an exit, from the first seat inboard of the exit to the first aisle inboard of the exit.
+(m) A certificate holder may deny transportation to any passenger under this section only because—
 
-(ii) A passenger seat having *direct access* means a seat from which a passenger can proceed directly to the exit without entering an aisle or passing around an obstruction.
+[arabic]
+. The passenger refuses to comply with instructions given by a crewmember or other authorized employee of the certificate holder implementing exit seating restrictions established in accordance with this section, or
+. The only seat that will physically accommodate the person's handicap is an exit seat.
 
-(3) *Persons designated to make determination.* Each certificate holder shall make the passenger exit seating determinations required by this paragraph in a non-discriminatory manner consistent with the requirements of this section, by persons designated in the certificate holder's required operations manual.
+(n) In order to comply with this section certificate holders shall—
 
-(4) *Submission of designation for approval.* Each certificate holder shall designate the exit seats for each passenger seating configuration in its fleet in accordance with the definitions in this paragraph and submit those designations for approval as part of the procedures required to be submitted for approval under paragraphs (n) and (p) of this section.
+[arabic]
+. Establish procedures that address:
+[lowerroman]
+.. The criteria listed in paragraph (b) of this section;
+.. The functions listed in paragraph (d) of this section;
+.. The requirements for airport information, passenger information cards, crewmember verification of appropriate seating in exit seats, passenger briefings, seat assignments, and denial of transportation as set forth in this section;
+.. How to resolve disputes arising from implementation of this section, including identification of the certificate holder employee on the airport to whom complaints should be addressed for resolution; and,
+. Submit their procedures for preliminary review and approval to the principal operations inspectors assigned to them at the certificate-holding district office.
+
+(o) Certificate holders shall assign seats prior to boarding consistent with the criteria listed in paragraph (b) and the functions listed in paragraph (d) of this section, to the maximum extent feasible.
+
+(p) The procedures required by paragraph (n) of this section will not become effective until final approval is granted by the Director, Flight Standards Service, Washington, DC. Approval will be based solely upon the safety aspects of the certificate holder's procedures.
 

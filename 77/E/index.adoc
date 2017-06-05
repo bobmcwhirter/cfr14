@@ -1,26 +1,23 @@
 # Petitions for Discretionary Review
 :toc:
 
-## § 77.37
+## § 77.37 - General.
 
-### General.
-
+[loweralpha]
 . If you are the sponsor, provided a substantive aeronautical comment on a proposal in an aeronautical study, or have a substantive aeronautical comment on the proposal but were not given an opportunity to state it, you may petition the FAA for a discretionary review of a determination, revision, or extension of a determination issued by the FAA.
 . You may not file a petition for discretionary review for a Determination of No Hazard that is issued for a temporary structure, marking and lighting recommendation, or when a proposed structure or alteration does not exceed obstruction standards contained in subpart C of this part.
 
-## § 77.39
+## § 77.39 - Contents of a petition.
 
-### Contents of a petition.
-
+[loweralpha]
 . You must file a petition for discretionary review in writing and it must be received by the FAA within 30 days after the issuance of a determination under § 77.31, or a revision or extension of the determination under § 77.35.
 . The petition must contain a full statement of the aeronautical basis on which the petition is made, and must include new information or facts not previously considered or presented during the aeronautical study, including valid aeronautical reasons why the determination, revisions, or extension made by the FAA should be reviewed.
 . In the event that the last day of the 30-day filing period falls on a weekend or a day the Federal government is closed, the last day of the filing period is the next day that the government is open.
 . The FAA will inform the petitioner or sponsor (if other than the petitioner) and the FCC (whenever an FCC-related proposal is involved) of the filing of the petition and that the determination is not final pending disposition of the petition.
 
-## § 77.41
+## § 77.41 - Discretionary review results.
 
-### Discretionary review results.
-
+[loweralpha]
 . If discretionary review is granted, the FAA will inform the petitioner and the sponsor (if other than the petitioner) of the issues to be studied and reviewed. The review may include a request for comments and a review of all records from the initial aeronautical study.
 . If discretionary review is denied, the FAA will notify the petitioner and the sponsor (if other than the petitioner), and the FCC, whenever a FCC-related proposal is involved, of the basis for the denial along with a statement that the determination is final.
 . After concluding the discretionary review process, the FAA will revise, affirm, or reverse the determination.

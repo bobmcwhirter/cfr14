@@ -1,22 +1,17 @@
 # Washington, DC Metropolitan Area Special Flight Rules Area
 :toc:
 
-## § 93.331
-
-### Purpose and applicability of this subpart.
+## § 93.331 - Purpose and applicability of this subpart.
 
 This subpart prescribes special air traffic rules for aircraft operating in the Washington, DC Metropolitan Area. Because identification and control of aircraft is required for reasons of national security, the areas described in this subpart constitute national defense airspace. The purpose of establishing this area is to facilitate the tracking of, and communication with, aircraft to deter persons who would use an aircraft as a weapon, or as a means of delivering weapons, to conduct an attack on persons, property, or buildings in the area. This subpart applies to pilots conducting any type of flight operations in the airspace designated as the Washington, DC Metropolitan Area Special Flight Rules Area (DC SFRA) (as defined in § 93.335), which includes the airspace designated as the Washington, DC Metropolitan Area Flight Restricted Zone (DC FRZ) (as defined in § 93.335).
 
-## § 93.333
+## § 93.333 - Failure to comply with this subpart.
 
-### Failure to comply with this subpart.
-
+[loweralpha]
 . *Any violation.* The FAA may take civil enforcement action against a pilot for violations, whether inadvertent or intentional, including imposition of civil penalties and suspension or revocation of airmen's certificates.
 . *Knowing or willful violations.* The DC FRZ and DC SFRA were established for reasons of national security under the provisions of 49 U.S.C. 40103(b)(3). Areas established by the FAA under that authority constitute “national defense airspace” as that term is used in 49 U.S.C. 46307. In addition to being subject to the provisions of paragraph (a) of this section, persons who knowingly or willfully violate national defense airspace established pursuant to 49 U.S.C. 40103(b)(3) may be subject to criminal prosecution.
 
-## § 93.335
-
-### Definitions.
+## § 93.335 - Definitions.
 
 For purposes of this subpart—
 
@@ -30,17 +25,15 @@ For purposes of this subpart—
 
 *Washington, DC Metropolitan Area Special Flight Rules Area (DC SFRA)* is an area of airspace over the surface of the earth where the ready identification, location, and control of aircraft is required in the interests of national security. Specifically, the DC SFRA is that airspace, from the surface to, but not including, FL 180, within a 30-mile radius of Lat. 38°51′34″ N., Long. 077°02′11″ W., or the DCA VOR/DME. The DC SFRA includes the DC FRZ.
 
-## § 93.337
-
-### Requirements for operating in the DC SFRA.
+## § 93.337 - Requirements for operating in the DC SFRA.
 
 A pilot conducting any type of flight operation in the DC SFRA must comply with the restrictions listed in this subpart and all special instructions issued by the FAA in the interest of national security. Those special instructions may be issued in any manner the FAA considers appropriate, including a NOTAM. Additionally, a pilot must comply with all of the applicable requirements of this chapter.
 
-## § 93.339
+## § 93.339 - Requirements for operating in the DC SFRA, including the DC FRZ.
 
-### Requirements for operating in the DC SFRA, including the DC FRZ.
-
+[loweralpha]
 . Except as provided in paragraphs (b) and (c) of this section and in § 93.345, or unless authorized by Air Traffic Control, no pilot may operate an aircraft, including an ultralight vehicle or any civil aircraft or public aircraft, in the DC SFRA, including the DC FRZ, unless—
+[arabic]
 .. The aircraft is equipped with an operable two-way radio capable of communicating with Air Traffic Control on appropriate radio frequencies;
 .. Before operating an aircraft in the DC SFRA, including the DC FRZ, the pilot establishes two-way radio communications with the appropriate Air Traffic Control facility and maintains such communications while operating the aircraft in the DC SFRA, including the DC FRZ;
 .. The aircraft is equipped with an operating automatic altitude reporting transponder;
@@ -50,25 +43,27 @@ A pilot conducting any type of flight operation in the DC SFRA must comply with 
 .. Before operating the aircraft into, out of, or through Class D airspace area that is within the DC SFRA, the pilot complies with § 91.129 of this chapter.
 . Paragraph (a)(5) of this section does not apply to operators of Department of Defense aircraft, law enforcement operations, or lifeguard or air ambulance operations under an FAA/TSA airspace authorization, if the flight crew is in contact with Air Traffic Control and is transmitting an Air Traffic Control-assigned discrete transponder code.
 . When operating an aircraft in the VFR traffic pattern at an airport within the DC SFRA (but not within the DC FRZ) that does not have an airport traffic control tower, a pilot must—
+[arabic]
 .. File a DC SFRA flight plan for traffic pattern work;
 .. Communicate traffic pattern position via the published Common Traffic Advisory Frequency (CTAF);
 .. Monitor VHF frequency 121.5 or UHF frequency 243.0, if the aircraft is suitably equipped;
 .. Obtain and transmit the Air Traffic Control-assigned discrete transponder code; and
 .. When exiting the VFR traffic pattern, comply with paragraphs (a)(1) through (a)(7) of this section.
 . When operating an aircraft in the VFR traffic pattern at an airport within the DC SFRA (but not within the DC FRZ) that has an operating airport traffic control tower, a pilot must—
+[arabic]
 .. Before departure or before entering the traffic pattern, request to remain in the traffic pattern;
 .. Remain in two-way radio communications with the tower. If the aircraft is suitably equipped, the pilot must also monitor VHF frequency 121.5 or UHF frequency 243.0;
 .. Continuously operate the aircraft transponder on code 1234 unless Air Traffic Control assigns a different code; and
 .. Before exiting the traffic pattern, comply with paragraphs (a)(1) through (a)(7) of this section.
 . Pilots must transmit the assigned transponder code. No pilot may use transponder code 1200 while in the DC SFRA.
 
-## § 93.341
+## § 93.341 - Aircraft operations in the DC FRZ.
 
-### Aircraft operations in the DC FRZ.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no pilot may conduct any flight operation under part 91, 101, 103, 105, 125, 133, 135, or 137 of this chapter in the DC FRZ, unless the specific flight is operating under an FAA/TSA authorization.
 . Department of Defense (DOD) operations, law enforcement operations, and lifeguard or air ambulance operations under an FAA/TSA airspace authorization are excepted from the prohibition in paragraph (a) of this section if the pilot is in contact with Air Traffic Control and operates the aircraft transponder on an Air Traffic Control-assigned beacon code.
 . The following aircraft operations are permitted in the DC FRZ:
+[arabic]
 .. Aircraft operations under the DCA Access Standard Security Program (DASSP) (49 CFR part 1562) with a Transportation Security Administration (TSA) flight authorization.
 .. Law enforcement and other U.S. Federal aircraft operations with prior FAA approval.
 .. Foreign-operated military and state aircraft operations with a State Department-authorized diplomatic clearance, with State Department notification to the FAA and TSA.
@@ -76,31 +71,34 @@ A pilot conducting any type of flight operation in the DC SFRA must comply with 
 .. Aircraft operations maintaining radio contact with Air Traffic Control and continuously transmitting an Air Traffic Control-assigned discrete transponder code. The pilot must monitor VHF frequency 121.5 or UHF frequency 243.0.
 . Before departing from an airport within the DC FRZ, or before entering the DC FRZ, all aircraft, except DOD, law enforcement, and lifeguard or air ambulance aircraft operating under an FAA/TSA airspace authorization must file and activate an IFR or a DC FRZ or a DC SFRA flight plan and transmit a discrete transponder code assigned by an Air Traffic Control facility. Aircraft must transmit the discrete transponder code at all times while in the DC FRZ or DC SFRA.
 
-## § 93.343
+## § 93.343 - Requirements for aircraft operations to or from College Park Airport, Potomac Airfield, or Washington Executive/Hyde Field Airport.
 
-### Requirements for aircraft operations to or from College Park Airport, Potomac Airfield, or Washington Executive/Hyde Field Airport.
-
+[loweralpha]
 . A pilot may not operate an aircraft to or from College Park Airport, MD, Potomac Airfield, MD, or Washington Executive/Hyde Field Airport, MD unless—
+[arabic]
 .. The aircraft and its crew and passengers comply with security rules issued by the TSA in 49 CFR part 1562, subpart A;
 .. Before departing, the pilot files an IFR or DC FRZ or DC SFRA flight plan with the Washington Hub Flight Service Station (FSS) for each departure and arrival from/to College Park, Potomac Airfield, and Washington Executive/Hyde Field airports, whether or not the aircraft makes an intermediate stop;
 .. When filing a flight plan with the Washington Hub FSS, the pilot identifies himself or herself by providing the assigned pilot identification code. The Washington Hub FSS will accept the flight plan only after verifying the code; and
 .. The pilot complies with the applicable IFR or VFR egress procedures in paragraph (b), (c) or (d) of this section.
 . If using IFR procedures, a pilot must—
+[arabic]
 .. Obtain an Air Traffic Control clearance from the Potomac TRACON; and
 .. Comply with Air Traffic Control departure instructions from Washington Executive/Hyde Field, Potomac Airport, or College Park Airport. The pilot must then proceed on the Air Traffic Control-assigned course and remain clear of the DC FRZ.
 . If using VFR egress procedures, a pilot must—
+[arabic]
 .. Depart as instructed by Air Traffic Control and expect a heading directly out of the DC FRZ until the pilot establishes two-way radio communication with Potomac Approach; and
 .. Operate as assigned by Air Traffic Control until clear of the DC FRZ, the DC SFRA, and the Class B or Class D airspace area.
 . If using VFR ingress procedures, the aircraft must remain outside the DC SFRA until the pilot establishes communications with Air Traffic Control and receives authorization for the aircraft to enter the DC SFRA.
 . VFR arrivals:
+[arabic]
 .. If landing at College Park Airport a pilot may receive routing via the vicinity of Freeway Airport; or
 .. If landing at Washington Executive/Hyde Field or Potomac Airport, the pilot may receive routing via the vicinity of Maryland Airport or the Nottingham VORTAC.
 
-## § 93.345
+## § 93.345 - VFR outbound procedures for fringe airports.
 
-### VFR outbound procedures for fringe airports.
-
+[loweralpha]
 . A pilot may depart from a fringe airport as defined in § 93.335 without filing a flight plan or communicating with Air Traffic Control, unless requested, provided:
+[arabic]
 .. The aircraft's transponder transmits code 1205;
 .. The pilot exits the DC SFRA by the most direct route before proceeding on course; and
 .. The pilot monitors VHF frequency 121.5 or UHF frequency 243.0.

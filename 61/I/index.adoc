@@ -1,20 +1,19 @@
 # Ground Instructors
 :toc:
 
-## § 61.211
-
-### Applicability.
+## § 61.211 - Applicability.
 
 This subpart prescribes the requirements for the issuance of ground instructor certificates and ratings, the conditions under which those certificates and ratings are necessary, and the limitations upon those certificates and ratings.
 
-## § 61.213
+## § 61.213 - Eligibility requirements.
 
-### Eligibility requirements.
-
+[loweralpha]
 . To be eligible for a ground instructor certificate or rating a person must:
+[arabic]
 .. Be at least 18 years of age;
 .. Be able to read, write, speak, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's ground instructor certificate as are necessary;
 .. Except as provided in paragraph (b) of this section, pass a knowledge test on the fundamentals of instructing to include—
+[lowerroman]
 ... The learning process;
 ... Elements of effective teaching;
 ... Student evaluation and testing;
@@ -22,38 +21,41 @@ This subpart prescribes the requirements for the issuance of ground instructor c
 ... Lesson planning; and
 ... Classroom training techniques.
 .. Pass a knowledge test on the aeronautical knowledge areas in—
+[lowerroman]
 ... For a basic ground instructor rating §§ 61.97, 61.105, and 61.309;
 ... For an advanced ground instructor rating §§ 61.97, 61.105, 61.125, 61.155, and 61.309; and
 ... For an instrument ground instructor rating, § 61.65.
 . The knowledge test specified in paragraph (a)(3) of this section is not required if the applicant:
+[arabic]
 .. Holds a ground instructor certificate or flight instructor certificate issued under this part;
 .. Holds a teacher's certificate issued by a State, county, city, or municipality that authorizes the person to teach at an educational level of the 7th grade or higher; or
 .. Is employed as a teacher at an accredited college or university.
 
-## § 61.215
+## § 61.215 - Ground instructor privileges.
 
-### Ground instructor privileges.
-
+[loweralpha]
 . A person who holds a basic ground instructor rating is authorized to provide—
+[arabic]
 .. Ground training in the aeronautical knowledge areas required for the issuance of a sport pilot certificate, recreational pilot certificate, private pilot certificate, or associated ratings under this part;
 .. Ground training required for a sport pilot, recreational pilot, and private pilot flight review; and
 .. A recommendation for a knowledge test required for the issuance of a sport pilot certificate, recreational pilot certificate, or private pilot certificate under this part.
 . A person who holds an advanced ground instructor rating is authorized to provide:
+[arabic]
 .. Ground training on the aeronautical knowledge areas required for the issuance of any certificate or rating under this part except for the aeronautical knowledge areas required for an instrument rating.
 .. The ground training required for any flight review except for the training required for an instrument rating.
 .. A recommendation for a knowledge test required for the issuance of any certificate or rating under this part except for an instrument rating.
 . A person who holds an instrument ground instructor rating is authorized to provide:
+[arabic]
 .. Ground training in the aeronautical knowledge areas required for the issuance of an instrument rating under this part;
 .. Ground training required for an instrument proficiency check; and
 .. A recommendation for a knowledge test required for the issuance of an instrument rating under this part.
 . A person who holds a ground instructor certificate is authorized, within the limitations of the ratings on the ground instructor certificate, to endorse the logbook or other training record of a person to whom the holder has provided the training or recommendation specified in paragraphs (a) through (c) of this section.
 
-## § 61.217
-
-### Recent experience requirements.
+## § 61.217 - Recent experience requirements.
 
 The holder of a ground instructor certificate may not perform the duties of a ground instructor unless the person can show that one of the following occurred during the preceding 12 calendar months:
 
+[loweralpha]
 . Employment or activity as a ground instructor giving pilot, flight instructor, or ground instructor training;
 . Employment or activity as a flight instructor giving pilot, flight instructor, or ground instructor ground or flight training;
 . Completion of an approved flight instructor refresher course and receipt of a graduation certificate for that course; or

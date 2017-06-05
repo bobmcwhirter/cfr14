@@ -1,10 +1,9 @@
 # Other Approved Courses
 :toc:
 
-## § 142.81
+## § 142.81 - Conduct of other approved courses.
 
-### Conduct of other approved courses.
-
+[loweralpha]
 . An applicant for, or holder of, a training center certificate may apply for approval to conduct a course for which a curriculum is not prescribed by this part.
 . The course for which application is made under paragraph (a) of this section may be for flight crewmembers other than pilots, airmen other than flight crewmembers, material handlers, ground servicing personnel, and security personnel, and others approved by the Administrator.
 . An applicant for course approval under this subpart must comply with the applicable requirements of subpart A through subpart F of this part.

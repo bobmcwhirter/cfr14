@@ -1,61 +1,62 @@
 # Maintenance
 :toc:
 
-## § 125.241
-
-### Applicability.
+## § 125.241 - Applicability.
 
 This subpart prescribes rules, in addition to those prescribed in other parts of this chapter, for the maintenance of airplanes, airframes, aircraft engines, propellers, appliances, each item of survival and emergency equipment, and their component parts operated under this part.
 
-## § 125.243
+## § 125.243 - Certificate holder's responsibilities.
 
-### Certificate holder's responsibilities.
-
+[loweralpha]
 . With regard to airplanes, including airframes, aircraft engines, propellers, appliances, and survival and emergency equipment, operated by a certificate holder, that certificate holder is primarily responsible for—
+[arabic]
 .. Airworthiness;
 .. The performance of maintenance, preventive maintenance, and alteration in accordance with applicable regulations and the certificate holder's manual;
 .. The scheduling and performance of inspections required by this part; and
 .. Ensuring that maintenance personnel make entries in the airplane maintenance log and maintenance records which meet the requirements of part 43 of this chapter and the certificate holder's manual, and which indicate that the airplane has been approved for return to service after maintenance, preventive maintenance, or alteration has been performed.
 
-## § 125.245
-
-### Organization required to perform maintenance, preventive maintenance, and alteration.
+## § 125.245 - Organization required to perform maintenance, preventive maintenance, and alteration.
 
 The certificate holder must ensure that each person with whom it arranges for the performance of maintenance, preventive maintenance, alteration, or required inspection items identified in the certificate holder's manual in accordance with § 125.249(a)(3)(ii) must have an organization adequate to perform that work.
 
-## § 125.247
+## § 125.247 - Inspection programs and maintenance.
 
-### Inspection programs and maintenance.
-
+[loweralpha]
 . No person may operate an airplane subject to this part unless
+[arabic]
 .. The replacement times for life-limited parts specified in the aircraft type certificate data sheets, or other documents approved by the Administrator, are complied with;
 .. Defects disclosed between inspections, or as a result of inspection, have been corrected in accordance with part 43 of this chapter; and
 .. The airplane, including airframe, aircraft engines, propellers, appliances, and survival and emergency equipment, and their component parts, is inspected in accordance with an inspection program approved by the Administrator.
 . The inspection program specified in paragraph (a)(3) of this section must include at least the following:
+[arabic]
 .. Instructions, procedures, and standards for the conduct of inspections for the particular make and model of airplane, including necessary tests and checks. The instructions and procedures must set forth in detail the parts and areas of the airframe, aircraft engines, propellers, appliances, and survival and emergency equipment required to be inspected.
 .. A schedule for the performance of inspections that must be performed under the program, expressed in terms of the time in service, calendar time, number of system operations, or any combination of these.
               
 . No person may be used to perform the inspections required by this part unless that person is authorized to perform maintenance under part 43 of this chapter.
 . No person may operate an airplane subject to this part unless—
+[arabic]
 .. The installed engines have been maintained in accordance with the overhaul periods recommended by the manufacturer or a program approved by the Administrator; and
 .. The engine overhaul periods are specified in the inspection programs required by § 125.247(a)(3).
 . Inspection programs which may be approved for use under this part include, but are not limited to—
+[arabic]
 .. A continuous inspection program which is a part of a current continuous airworthiness program approved for use by a certificate holder under part 121 or part 135 of this chapter;
 .. Inspection programs currently recommended by the manufacturer of the airplane, aircraft engines, propellers, appliances, or survival and emergency equipment; or
 .. An inspection program developed by a certificate holder under this part.
 
-## § 125.248
+## § 125.248 - Reserved
 
-### Reserved
 
-## § 125.249
+Reserved
 
-### Maintenance manual requirements.
+## § 125.249 - Maintenance manual requirements.
 
+[loweralpha]
 . Each certificate holder's manual required by § 125.71 of this part shall contain, in addition to the items required by § 125.73 of this part, at least the following:
+[arabic]
 .. A description of the certificate holders maintenance organization, when the certificate holder has such an organization.
 .. A list of those persons with whom the certificate holder has arranged for performance of inspections under this part. The list shall include the persons' names and addresses.
 .. The inspection programs required by § 125.247 of this part to be followed in the performance of inspections under this part including—
+[lowerroman]
 ... The method of performing routine and nonroutine inspections (other than required inspections);
 ... The designation of the items that must be inspected (required inspections), including at least those which if improperly accomplished could result in a failure, malfunction, or defect endangering the safe operation of the airplane;
 ... The method of performing required inspections;
@@ -64,14 +65,14 @@ The certificate holder must ensure that each person with whom it arranges for th
 ... Instructions to prevent any person who performs any item of work from performing any required inspection of that work; and
 ... Procedures to ensure that work interruptions do not adversely affect required inspections and to ensure required inspections are properly completed before the airplane is released to service.
 . In addition, each certificate holder's manual shall contain a suitable system which may include a coded system that provides for the retention of the following:
+[arabic]
 .. A description (or reference to data acceptable to the Administrator) of the work performed.
 .. The name of the person performing the work and the person's certificate type and number.
 .. The name of the person approving the work and the person's certificate type and number.
 
-## § 125.251
+## § 125.251 - Required inspection personnel.
 
-### Required inspection personnel.
-
+[loweralpha]
 . No person may use any person to perform required inspections unless the person performing the inspection is appropriately certificated, properly trained, qualified, and authorized to do so.
 . No person may perform a required inspection if that person performed the item of work required to be inspected.
 

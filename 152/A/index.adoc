@@ -1,15 +1,11 @@
 # General
 :toc:
 
-## § 152.1
-
-### Applicability.
+## § 152.1 - Applicability.
 
 This part applies to airport planning and development under the Airport and Airway Development Act of 1970, as amended (49 U.S.C. 1701 *et seq.*).
 
-## § 152.3
-
-### Definitions.
+## § 152.3 - Definitions.
 
 The following are definitions of terms used throughout this part:
 
@@ -17,31 +13,29 @@ The following are definitions of terms used throughout this part:
 
 *Air carrier airport* means—
 
-(1) An existing public airport regularly served, or a new public airport that the Administrator determines will be regularly served, by an air carrier, other than a charter air carrier, certificated by the Civil Aeronautics Board under section 401 of the Federal Aviation Act of 1958; and
-
-(2) A commuter service airport.
+[arabic]
+. An existing public airport regularly served, or a new public airport that the Administrator determines will be regularly served, by an air carrier, other than a charter air carrier, certificated by the Civil Aeronautics Board under section 401 of the Federal Aviation Act of 1958; and
+. A commuter service airport.
 
 *Airport* means—
 
-(1) Any area of land or water that is used, or intended for use, for the landing and takeoff of aircraft;
-
-(2) Any appurtenant areas that are used, or intended for use, for airport buildings, other airport facilities, or rights-of-way; and
-
-(3) All airport buildings and facilities located on the areas specified in this definition.
+[arabic]
+. Any area of land or water that is used, or intended for use, for the landing and takeoff of aircraft;
+. Any appurtenant areas that are used, or intended for use, for airport buildings, other airport facilities, or rights-of-way; and
+. All airport buildings and facilities located on the areas specified in this definition.
 
 *Airport development* means—
 
-(1) Any work involved in constructing, improving, or repairing a public airport or portion thereof, including the removal, lowering, relocation, and marking and lighting or airport hazards, and including navigation aids used by aircraft landing at, or taking off from, a public airport, and including safety equipment required by rule or regulation for certification of the airport under section 612 of the Federal Aviation Act of 1958, and security equipment required of the sponsor by the FAA by rule or regulation for the safety and security of persons or property on the airport, and including snow removal equipment, and including the purchase of noise suppressing equipment, the construction of physical barriers, and landscaping for the purpose of diminishing the effect of aircraft noise on any area adjacent to a public airport.
-
-(2) Any acquisition of land or of any interest therein, or of any easement through or other interest in airspace, including land for future airport development, which is necessary to permit any such work or to remove or mitigate or prevent or limit the establishment of, airport hazards; and
-
-(3) Any acquisition of land or of any interest therein necessary to insure that such land is used only for purposes which are compatible with the noise levels of the operation of a public airport.
+[arabic]
+. Any work involved in constructing, improving, or repairing a public airport or portion thereof, including the removal, lowering, relocation, and marking and lighting or airport hazards, and including navigation aids used by aircraft landing at, or taking off from, a public airport, and including safety equipment required by rule or regulation for certification of the airport under section 612 of the Federal Aviation Act of 1958, and security equipment required of the sponsor by the FAA by rule or regulation for the safety and security of persons or property on the airport, and including snow removal equipment, and including the purchase of noise suppressing equipment, the construction of physical barriers, and landscaping for the purpose of diminishing the effect of aircraft noise on any area adjacent to a public airport.
+. Any acquisition of land or of any interest therein, or of any easement through or other interest in airspace, including land for future airport development, which is necessary to permit any such work or to remove or mitigate or prevent or limit the establishment of, airport hazards; and
+. Any acquisition of land or of any interest therein necessary to insure that such land is used only for purposes which are compatible with the noise levels of the operation of a public airport.
 
 *Airport hazard* means any structure or object of natural growth located on or in the vicinity of a public airport, or any use of land near a public airport, that—
 
-(1) Obstructs the airspace required for the flight of aircraft landing or taking off at the airport; or
-
-(2) Is otherwise hazardous to aircraft landing or taking off at the airport.
+[arabic]
+. Obstructs the airspace required for the flight of aircraft landing or taking off at the airport; or
+. Is otherwise hazardous to aircraft landing or taking off at the airport.
 
 *Airport layout plan* means a plan for the layout of an airport, showing existing and proposed airport facilities.
 
@@ -53,18 +47,17 @@ The following are definitions of terms used throughout this part:
 
 *Commuter service airport* means an air carrier airport—
 
-(1) That is not served by an air carrier certificated under section 401 of the Federal Aviation Act of 1958;
-
-(2) That is regularly served by one or more air carriers operating under an exemption granted by the Civil Aeronautics Board from section 401(a) of the Federal Aviation Act of 1958; and
-
-(3) At which not less than 2,500 passengers were enplaned during the preceding calendar year by air carriers operating under an exemption from section 401(a).
+[arabic]
+. That is not served by an air carrier certificated under section 401 of the Federal Aviation Act of 1958;
+. That is regularly served by one or more air carriers operating under an exemption granted by the Civil Aeronautics Board from section 401(a) of the Federal Aviation Act of 1958; and
+. At which not less than 2,500 passengers were enplaned during the preceding calendar year by air carriers operating under an exemption from section 401(a).
 
 *Force account* means—
 
-(1) The sponsor's or planning agency's own labor force; or
+[arabic]
+. The sponsor's or planning agency's own labor force; or
               
-
-(2) The labor force of another public agency acting as an agent of the sponsor or planning agency.
+. The labor force of another public agency acting as an agent of the sponsor or planning agency.
 
 *General aviation airport* means a public airport other than an air carrier airport.
 
@@ -78,9 +71,9 @@ The following are definitions of terms used throughout this part:
 
 *Passengers enplaned* means—
 
-(1) United States domestic, territorial, and international revenue passenger enplanements in scheduled and nonscheduled service of air carriers; and
-
-(2) Revenue passenger enplanements by foreign air carriers in intrastate and interstate commerce.
+[arabic]
+. United States domestic, territorial, and international revenue passenger enplanements in scheduled and nonscheduled service of air carriers; and
+. Revenue passenger enplanements by foreign air carriers in intrastate and interstate commerce.
 
 *Planning agency* means a planning agency designated by the Administrator that is authorized by the laws of a State, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam, or by the laws of a political subdivision of any of those entities, to engage in areawide planning for the areas in which assistance under this part is to be used.
 
@@ -90,29 +83,25 @@ The following are definitions of terms used throughout this part:
 
 *Project formulation costs* means, with respect to projects for airport development, any necessary costs of formulating a project including—
 
-(1) The costs of field surveys and the preparation of plans and specifications;
-
-(2) The acquisition of land or interests in land, or easement through or other interests in airspace; and
-
-(3) Any necessary administrative or other incidental costs incurred by the sponsor specifically in connection with the accomplishment of a project for airport development, that would not have been incurred otherwise.
+[arabic]
+. The costs of field surveys and the preparation of plans and specifications;
+. The acquisition of land or interests in land, or easement through or other interests in airspace; and
+. Any necessary administrative or other incidental costs incurred by the sponsor specifically in connection with the accomplishment of a project for airport development, that would not have been incurred otherwise.
 
 *Public agency* means—
 
-(1) A state, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, the Government of the Northern Marianas, Guam, or any agency of those entities;
-
-(2) A municipality or other political subdivision;
-
-(3) A tax-supported organization; or
-
-(4) An Indian tribe or pueblo.
+[arabic]
+. A state, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, the Government of the Northern Marianas, Guam, or any agency of those entities;
+. A municipality or other political subdivision;
+. A tax-supported organization; or
+. An Indian tribe or pueblo.
 
 *Public airport* means any airport that—
 
-(1) Is used, or intended to be used, for public purposes;
-
-(2) Is under the control of a public agency; and
-
-(3) Has a property interest satisfactory to the Administrator in the landing area.
+[arabic]
+. Is used, or intended to be used, for public purposes;
+. Is under the control of a public agency; and
+. Has a property interest satisfactory to the Administrator in the landing area.
 
 *Reliever airport* means a general aviation airport designated by the Administrator as having the primary function of relieving congestion at an air carrier airport by diverting from that airport general aviation traffic.
 
@@ -120,19 +109,15 @@ The following are definitions of terms used throughout this part:
 
 *Satisfactory property interest* means—
 
-(1) Title free and clear of any reversionary interest, lien, easement, lease, or other encumbrance that, in the opinion of the Administrator would—
-
-(i) Create an undue risk that it might deprive the sponsor of possession or control;
-
-(ii) Interfere with the use of the airport for public airport purposes; or
-
-(iii) Make it impossible for the sponsor to carry out the agreements and convenants in its grant application;
-
-(2) Unless a shorter term is authorized by the Administrator, a lease of not less than 20 years granted to the sponsor by another public agency, or the United States, that has title as described in paragraph (1) of this definition, on terms that the Administrator considers satisfactory;
-
-(3) In the case of an off-airport area, title or an agreement, easement, leasehold or other right or property interest that, in the Administrator's opinion, provides reasonable assurance that the sponsor will not be deprived of its right to use the land for the intended purpose during the period necessary to meet the requirements of the grant agreement; or
-
-(4) In the case of a runway clear zone, an easement or a covenant running with the land, giving the airport operator or owner enough control to rid the clear zone of all airport hazards and prevent the creation of future airport hazards.
+[arabic]
+. Title free and clear of any reversionary interest, lien, easement, lease, or other encumbrance that, in the opinion of the Administrator would—
+[lowerroman]
+.. Create an undue risk that it might deprive the sponsor of possession or control;
+.. Interfere with the use of the airport for public airport purposes; or
+.. Make it impossible for the sponsor to carry out the agreements and convenants in its grant application;
+. Unless a shorter term is authorized by the Administrator, a lease of not less than 20 years granted to the sponsor by another public agency, or the United States, that has title as described in paragraph (1) of this definition, on terms that the Administrator considers satisfactory;
+. In the case of an off-airport area, title or an agreement, easement, leasehold or other right or property interest that, in the Administrator's opinion, provides reasonable assurance that the sponsor will not be deprived of its right to use the land for the intended purpose during the period necessary to meet the requirements of the grant agreement; or
+. In the case of a runway clear zone, an easement or a covenant running with the land, giving the airport operator or owner enough control to rid the clear zone of all airport hazards and prevent the creation of future airport hazards.
 
 *Sponsor* means any public agency that, whether individually or jointly with one or more other public agencies, submits to the Administrator, in accordance with this part, an application for financial assistance.
 
@@ -144,13 +129,13 @@ The following are definitions of terms used throughout this part:
 
 *Unified Planning Work Program* means a single document prepared by a local areawide planning agency that identifies all transportation and related planning activities that will be undertaken within the metropolitan area during a one-year or two-year period.
 
-## § 152.5
+## § 152.5 - Exemptions.
 
-### Exemptions.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, any interested person may petition the Regional Director concerned for a temporary or permanent exemption from any requirement of this part.
 . The Regional Director concerned does not issue an exemption from any rule of this part if the grant of exemption would be inconsistent with a specific provision of, or the purpose of, the AADA, or any other applicable Federal law.
 . Each petition filed under this section must—
+[arabic]
 .. Unless otherwise authorized by the Regional Director concerned, be submitted not less than 60 days before the proposed effective date of the exemption;
 .. Be submitted in duplicate to the FAA Regional Office or Airports District Office having jurisdiction over the area in which the airport is located;
 .. Contain the text or substance of the rule from which the exemption is sought;
@@ -158,37 +143,39 @@ The following are definitions of terms used throughout this part:
 .. Contain any information, views, or arguments in support of the exemption.
 . The Regional Director concerned either grants or denies the exemption and notifies the petitioner of the decision. The FAA publishes a summary of the grant or denial of petition for exemption in the *Federal Register.*
               
-.. The docket number of the petition;
-.. The name of the petitioner;
-.. A citation of each rule from which relief is requested;
-.. A brief description of the general nature of the relief requested; and
-.. The disposition of the petition.
-. Official FAA records, including grants and denials of exemptions, relating to petitions for exemption are maintained in current docket form in the Office of the Regional Counsel for the region concerned.
-. Any interested person may—
-.. Examine any docketed material at the Office of the Regional Counsel, at any time after the docket is established, except material that is ordered withheld from the public under section 1104 of the Federal Aviation Act of 1958 (49 U.S.C. 1504); and
-.. Obtain a photostatic or similar copy of docketed material upon paying the same fee as that prescribed in 49 CFR part 7.
 
 The summary includes—
 
-## § 152.7
+[arabic]
+. The docket number of the petition;
+. The name of the petitioner;
+. A citation of each rule from which relief is requested;
+. A brief description of the general nature of the relief requested; and
+. The disposition of the petition.
 
-### Certifications.
+(e) Official FAA records, including grants and denials of exemptions, relating to petitions for exemption are maintained in current docket form in the Office of the Regional Counsel for the region concerned.
 
+(f) Any interested person may—
+
+[arabic]
+. Examine any docketed material at the Office of the Regional Counsel, at any time after the docket is established, except material that is ordered withheld from the public under section 1104 of the Federal Aviation Act of 1958 (49 U.S.C. 1504); and
+. Obtain a photostatic or similar copy of docketed material upon paying the same fee as that prescribed in 49 CFR part 7.
+
+## § 152.7 - Certifications.
+
+[loweralpha]
 . Subject to such terms and conditions as the Administrator may prescribe, a sponsor or a planning agency may submit, with respect to any provision of this part implementing a statutory or administrative requirement imposed on the sponsor or planning agency under the AADA, a certification that the sponsor or planning agency has complied or will comply with the provision, instead of making the showing required.
 . The Administrator exercises discretion in determining whether to accept a certification.
 . Acceptance by the Administrator of a certification from a sponsor or planning agency may be rescinded by the Administrator at any time if, in the Administrator's opinion, it is necessary to do so.
 . If the Administrator determines that it is necessary, the sponsor or planning agency, on request, shall show compliance with any requirement for which a certification was accepted.
 
-## § 152.9
-
-### Forms.
+## § 152.9 - Forms.
 
 Any form needed to comply with this part may be obtained at any FAA Regional Office or Airports District Office.
 
-## § 152.11
+## § 152.11 - Incorporation by reference.
 
-### Incorporation by reference.
-
+[loweralpha]
 . *Mandatory standards.* The advisory circulars listed in appendix B to this part are incorporated into this part by reference. The Director, Office of Airport Standards, determines the scope and content of the technical standards to be included in each advisory circular in appendix B, and may add to, or delete from, appendix B any advisory circular or part thereof. Except as provided in paragraph (c) of this section, these guidelines are mandatory standards.
 . *Modification of standards.* When necessary to meet local conditions, any technical standard set forth in appendix B may be modified for individual projects, if it is determined that the modifications will provide an acceptable level of safety, economy, durability, and workmanship. The determination and modification may be made by the Director, Office of Airport Standards, or the appropriate Regional Director, in instances where the authority has not been specifically reserved by the Director, Office of Airport Standards.
 . *State standards.* Standards established by a state for airport development at general aviation airports in the state may be the standards applicable to those airports when they have been approved by the Director, Office of Airport Standards, or the appropriate Regional Director, in instances where approval authority has not been specifically reserved by the Director, Office of Airport Standards.

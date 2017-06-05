@@ -1,46 +1,41 @@
 # Accounting and Reporting Requirements
 :toc:
 
-## § 152.301
-
-### Applicability.
+## § 152.301 - Applicability.
 
 This subpart contains accounting and reporting requirements applicable to—
 
+[loweralpha]
 . Each sponsor of a project for airport development;
 . Each sponsor of a project for airport master planning; and
 . Each planning agency conducting a project for airport system planning.
 
-## § 152.303
-
-### Financial management system.
+## § 152.303 - Financial management system.
 
 Each sponsor or planning agency shall establish and maintain a financial management system that meets the standards of Attachment G of Office of Management and Budget Circular A-102 (42 FR 45828).
 
-## § 152.305
+## § 152.305 - Accounting records.
 
-### Accounting records.
-
+[loweralpha]
 . *Airport development.* Each sponsor of a project for airport development shall establish and maintain, for each individual project, an accounting record satisfactory to the Administrator which segregates cost information into the cost classifications set forth in Standard Form 271 (42 FR 45841).
 . *Airport planning.* Each sponsor of a project for airport master planning and each planning agency conducting a project for airport system planning shall establish and maintain, for each planning project, an adequate accounting record that segregates and groups direct and indirect cost information in the following classifications:
+[arabic]
 .. Third party contract costs.
 .. Force account costs.
 .. Administrative costs.
 
-## § 152.307
-
-### Retention of records.
+## § 152.307 - Retention of records.
 
 Each sponsor or planning agency shall retain, for a period of 3 years after the date of submission of the final expenditure report—
 
+[loweralpha]
 . Documentary evidence, such as invoices, cost estimates, and payrolls, supporting each item of project costs; and
               
 . Evidence of all payments for items of project costs, including vouchers, cancelled checks or warrants, and receipts for cash payments.
 
-## § 152.309
+## § 152.309 - Availability of sponsor's records.
 
-### Availability of sponsor's records.
-
+[loweralpha]
 . The sponsor or planning agency shall allow any authorized representative of the Administrator, the Secretary of Transportation, or the Comptroller General of the United States access to any of its books, documents, papers, and records that are pertinent to grants received under this part for the purposes of accounting and audit.
 . The sponsor or planning agency shall allow appropriate FAA or DOT representatives to make progress audits at any time during the project, upon reasonable notice to the sponsor or planning agency.
 . It audit findings have not been resolved, the applicable records shall be retained by the sponsor or planning agency until those findings have been resolved.
@@ -48,75 +43,70 @@ Each sponsor or planning agency shall retain, for a period of 3 years after the 
 . Microfilm copies of original records may be substituted for original records with the approval of the FAA.
 . If the FAA determines that certain records have long-term retention value, the FAA may require transfer of custody of those records to the FAA.
 
-## § 152.311
-
-### Availability of contractor's records.
+## § 152.311 - Availability of contractor's records.
 
 The sponsor or planning agency shall include in each contract of the cost reimbursable type a clause that allows any authorized representative of the Administrator, the Secretary of Transportation, or the Comptroller General of the United States access to the contractor's records pertinent to the contract for the purposes of accounting and audit.
 
-## § 152.313
+## § 152.313 - Property management standards.
 
-### Property management standards.
-
+[loweralpha]
 . The sponsor shall establish and maintain property management standards in accordance with Attachment N of Office of Management and Budget Circular A-102 (42 FR 45828) for the utilization and disposition of property furnished by the Federal Government, or acquired in whole or in part by the sponsor with Federal funds.
 . A sponsor may use its own property management standards and procedures as long as the standards required by paragraph (a) of this section are included.
 
-## § 152.315
+## § 152.315 - Reporting on accrual basis.
 
-### Reporting on accrual basis.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section each sponsor or planning agency shall submit all financial reports on an accrual basis.
 . If records are not maintained on an accrual basis by a sponsor or planning agency, reports may be based on an analysis of records or best estimates.
 
-## § 152.317
-
-### Report of Federal cash transactions.
+## § 152.317 - Report of Federal cash transactions.
 
 When funds are advanced to a sponsor or planning agency by Treasury check, the sponsor or planning agency shall submit the report form prescribed by the Administrator within 15 working days following the end of the quarter in which check was received.
 
-## § 152.319
+## § 152.319 - Monitoring and reporting of program performance.
 
-### Monitoring and reporting of program performance.
-
+[loweralpha]
 . The sponsor or planning agency shall monitor performance under the project to ensure that—
+[arabic]
 .. Time schedules are being met;
 .. Work units projected by time periods are being accomplished; and,
 .. Other performance goals are being achieved.
 . Reviews shall be made for—
+[arabic]
 .. Each item of development or work element included in the project; and
 .. All other work to be performed as a condition of the grant agreement.
 . *Airport development.* Unless otherwise requested by the Administrator, the sponsor of a project for airport development shall submit a performance report, on an annual basis, that must include—
+[arabic]
 .. A comparison of actual accomplishments to the goals established for the period, made, if applicable, on a quantitative basis related to cost data for computation of unit costs;
               
 .. The reasons for slippage in each case where an established goal was not met; and
 .. Other pertinent information including, when appropriate, an analysis and explanation of each cost overrun and high unit cost.
 . *Airport planning.* The sponsor of a project for airport master planning or a planning agency conducting a project for airport system planning shall submit a performance report, on a quarterly basis, that must include:
+[arabic]
 .. A comparison of actual accomplishments to the goals established for the period, made, if applicable, on a quantitative basis related to costs for computation of work element costs;
 .. Reasons for slippage in each case where an established goal was not met; and
 .. Other pertinent information including, when appropriate, an analysis and explanation of each cost overrun and high work element cost.
 
-## § 152.321
+## § 152.321 - Notice of delay or acceleration.
 
-### Notice of delay or acceleration.
-
+[loweralpha]
 . The sponsor or planning agency shall promptly notify the FAA of each condition or event that may delay or accelerate accomplishment of the project.
 . In the event that delay is anticipated, the notice required by paragraph (a) of this section must include—
+[arabic]
 .. A statement of actions taken or contemplated; and
 .. Any Federal assistance needed.
 
-## § 152.323
+## § 152.323 - Budget revision: Airport development.
 
-### Budget revision: Airport development.
-
+[loweralpha]
 . If any performance review conducted by the sponsor discloses a need for change in the budget estimates, the sponsor shall submit a request for budget revision on a form prescribed by the Administrator.
 . A request for prior approval for budget revision shall be made promptly by the sponsor whenever—
+[arabic]
 .. The revision results from changes in the scope or objective of the project; or
 .. The revision increases the budgeted amounts of Federal funds needed to complete the project.
 . The sponsor shall promptly notify the FAA whenever the amount of the grant is expected to exceed the needs of the sponsor by more than $5,000, or 5 percent of the grant amount, whichever is greater.
 
-## § 152.325
-
-### Financial status report: Airport planning.
+## § 152.325 - Financial status report: Airport planning.
 
 Each sponsor of a project for airport master planning and each planning agency conducting a project for airport system planning shall submit a financial status report on a form prescribed by the Administrator at the completion of the project.
 

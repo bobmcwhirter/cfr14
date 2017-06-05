@@ -1,30 +1,27 @@
 # General
 :toc:
 
-## § 139.1
+## § 139.1 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This part prescribes rules governing the certification and operation of airports in any State of the United States, the District of Columbia, or any territory or possession of the United States serving any—
+[arabic]
 .. Scheduled passenger-carrying operations of an air carrier operating aircraft configured for more than 9 passenger seats, as determined by the regulations under which the operation is conducted or the aircraft type certificate issued by a competent civil aviation authority; and
 .. Unscheduled passenger-carrying operations of an air carrier operating aircraft configured for at least 31 passenger seats, as determined by the regulations under which the operation is conducted or the aircraft type certificate issued by a competent civil aviation authority.
 . This part applies to those portions of a joint-use or shared-use airport that are within the authority of a person serving passenger-carrying operations defined in paragraphs (a)(1) and (a)(2) of this section.
 . This part does not apply to—
+[arabic]
 .. Airports serving scheduled air carrier operations only by reason of being designated as an alternate airport;
 .. Airports operated by the United States;
 .. Airports located in the State of Alaska that only serve scheduled operations of small air carrier aircraft and do not serve scheduled or unscheduled operations of large air carrier aircraft;
 .. Airports located in the State of Alaska during periods of time when not serving operations of large air carrier aircraft; or
 .. Heliports.
 
-## § 139.3
-
-### Delegation of authority.
+## § 139.3 - Delegation of authority.
 
 The authority of the Administrator to issue, deny, and revoke Airport Operating Certificates is delegated to the Associate Administrator for Airports, Director of Airport Safety and Standards, and Regional Airports Division Managers.
 
-## § 139.5
-
-### Definitions.
+## § 139.5 - Definitions.
 
 The following are definitions of terms used in this part:
 
@@ -74,9 +71,7 @@ The following are definitions of terms used in this part:
 *Wildlife hazard* means a potential for a damaging aircraft collision with wildlife on or near an airport. As used in this part, “wildlife” includes feral animals and domestic animals out of the control of their owners.
               
 
-## § 139.7
-
-### Methods and procedures for compliance.
+## § 139.7 - Methods and procedures for compliance.
 
 Certificate holders must comply with requirements prescribed by subparts C and D of this part in a manner authorized by the Administrator. FAA Advisory Circulars contain methods and procedures for compliance with this part that are acceptable to the Administrator.
 

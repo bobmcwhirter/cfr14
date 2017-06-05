@@ -1,37 +1,35 @@
 # Aircrew Curriculum and Syllabus Requirements
 :toc:
 
-## § 142.35
-
-### Applicability.
+## § 142.35 - Applicability.
 
 This subpart prescribes the curriculum and syllabus requirements for the issuance of a training center certificate and training specifications for training, testing, and checking conducted to meet the requirements of part 61 of this chapter.
 
-## § 142.37
+## § 142.37 - Approval of flight aircrew training program.
 
-### Approval of flight aircrew training program.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, each applicant for, or holder of, a training center certificate must apply to the Administrator for training program approval.
 . A curriculum approved under SFAR 58 of part 121 of this chapter is approved under this part without modifications.
 . Application for training program approval shall be made in a form and in a manner acceptable to the Administrator.
 . Each application for training program approval must indicate—
+[arabic]
 .. Which courses are part of the core curriculum and which courses are part of the specialty curriculum;
 .. Which requirements of part 61 of this chapter would be satisfied by the curriculum or curriculums; and
 .. Which requirements of part 61 of this chapter would not be satisfied by the curriculum or curriculums.
 . If, after a certificate holder begins operations under an approved training program, the Administrator finds that the certificate holder is not meeting the provisions of its approved training program, the Administrator may require the certificate holder to make revisions to that training program.
 . If the Administrator requires a certificate holder to make revisions to an approved training program and the certificate holder does not make those required revisions, within 30 calendar days, the Administrator may suspend, revoke, or terminate the training center certificate under the provisions of § 142.11(e).
 
-## § 142.39
-
-### Training program curriculum requirements.
+## § 142.39 - Training program curriculum requirements.
 
 Each training program curriculum submitted to the Administrator for approval must meet the applicable requirements of this part and must contain—
 
+[loweralpha]
 . A syllabus for each proposed curriculum;
 . Minimum aircraft and flight training equipment requirements for each proposed curriculum;
 . Minimum instructor and evaluator qualifications for each proposed curriculum;
 . A curriculum for initial training and continuing training of each instructor or evaluator employed to instruct in a proposed curriculum; and
 . For each curriculum that provides for the issuance of a certificate or rating in fewer than the minimum hours prescribed by part 61 of this chapter—
+[arabic]
 .. A means of demonstrating the ability to accomplish such training in the reduced number of hours; and
 .. A means of tracking student performance.
 

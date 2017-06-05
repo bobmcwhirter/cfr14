@@ -1,26 +1,24 @@
 # Project Programming Standards
 :toc:
 
-## § 151.71
+## § 151.71 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This subpart prescribes programming and design and construction standards for projects under the Federal-Aid Airport Program to assure the most efficient use of Program funds and to assure that the most important elements of a national system of airports are provided.
 . Except for the standards made mandatory by § 151.72(a), the standards prescribed in this subpart that apply to any particular project are those in effect on the date the sponsor accepts the Administrator's offer under § 151.29(c). The standards of § 151.72(a) applicable to a project are those in effect on the date written on the notification of tentative allocation of funds (§ 151.21(b)). Standards that become effective after that date may be applied to the project by agreement between the sponsor and the Administrator.
 
-## § 151.72
+## § 151.72 - Incorporation by reference of technical guidelines in Advisory Circulars.
 
-### Incorporation by reference of technical guidelines in Advisory Circulars.
-
+[loweralpha]
 . *Provisions incorporated; mandatory standards.* The technical guidelines in the Advisory Circulars, or parts of Circulars, listed in appendix I of this part, are incorporated into this subpart by reference. Guidelines so incorporated are mandatory standards and apply in addition to the other standards in this subpart. No provision so incorporated and made mandatory supersedes any provision of this part 151 (other than of App. I) or of any other part of the Federal Aviation Regulations. Each Circular is incorporated with all amendments outstanding at any time unless the entry in appendix I of this part states otherwise.
 . *Amendments of Appendix I.* The Director, Airports Service, may add to, or delete from, appendix I of this part any Advisory Circular or part thereof.
 . *Availability of Advisory Circulars.* The Advisory Circulars listed in appendix I of this part may be inspected and copied at any FAA Regional Office, Area Office, or Airports District Office. Copies of the Circulars that are available free of charge may be obtained from any of the offices or from the Federal Aviation Administration, Printing Branch, HQ-438, Washington, D.C. 20553. Copies of the Circulars that are for sale may be bought from the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402 for the price listed.
 
-## § 151.73
+## § 151.73 - Land acquisition.
 
-### Land acquisition.
-
+[loweralpha]
 . The acquisition of land or any interest therein, or of any easement or other interest in airspace, is eligible for inclusion in a project if it was made after May 13, 1946, and is necessary—
+[arabic]
 .. To allow the initial development of the airport;
 .. For improvement indicated in the current National Airport Plan;
               
@@ -32,17 +30,15 @@
 .. To allow relocation of navigational aids.
 . Appendix A of this part sets forth typical eligible and ineligible items of land acquisition as covered by this section.
 
-## § 151.75
+## § 151.75 - Preparation of site.
 
-### Preparation of site.
-
+[loweralpha]
 . Grading, drainage, and associated items of site preparation are eligible for inclusion in a project, but only with respect to one landing strip at any airport, unless the airport qualifies for more than one runway, based on traffic volume or wind conditions (as outlined in § 151.77) and the overall site preparation required for development in accordance with the airport layout plan. The complete clearance of runway clear zone areas is desirable, but, as a minimum, all obstructions as determined by § 77.23 as applied to § 77.27 (b) and (c) of this chapter must be removed. Grading in runway clear zones is eligible only to remove terrain that is an obstruction. The clear zone is not a graded overrun area. Specific site preparation for an airport terminal building is eligible on the same basis as the building itself. The site preparation cost is prorated based on eligible and ineligible building space. Appendix B of this part sets forth typical eligible and ineligible items of site preparation as covered by this section.
 . For the purposes of this section, eligible drainage work off the airport site includes drainage outfalls, drainage disposal, and interception ditches. If there is damage to adjacent property, its correction is an eligible item for inclusion in the project.
 
-## § 151.77
+## § 151.77 - Runway paving: General rules.
 
-### Runway paving: General rules.
-
+[loweralpha]
 . On any airport, paving of the designated instrument landing runway (or dominant runway if there is no designated instrument runway) is eligible for inclusion in a project, within the limits of the current National Airport Plan. Program participation in constructing, reconstructing or resurfacing is limited to a single runway at each airport, unless more than one runway is eligible under a standard in § 151.79 or § 151.80.
 . The kinds of runway paving that are eligible for inclusion in a project include pavement construction and reconstruction, and include runway grooving to improve skid resistance, and resurfacing to increase the load bearing capacity of the runway or to provide a leveling course to correct major irregularities in the pavement. Runway resealing or refilling joints as an ordinary maintenance matter are not eligible items, except for bituminous resurfacing consisting of at least 100 pounds of plant-mixed material for each square yard, and except for the application of a bituminous surface treatment (two applications of material and cover aggregate as prescribed in FAA Specification P-609) on a pavement the current surface of which consists of that kind of a bituminous surface treatment.
 . On new pavement construction, the applying of a bituminous seal coat on plant hot-mix bituminous surfaces only, is an eligible item only if initial engineering analysis and design indicate the need for a seal coat. However, any delay in applying it that is caused other than by construction difficulties, makes the application a maintenance item that is not eligible.
@@ -50,87 +46,85 @@
 . In any case in which the need for a seal coat is necessary for a new runway extension or partial reconstruction of a runway, the entire runway may be sealed.
 . Appendix C to this part sets forth typical eligible and ineligible items of runway paving.
 
-## § 151.79
+## § 151.79 - Runway paving: Second runway; wind conditions.
 
-### Runway paving: Second runway; wind conditions.
-
+[loweralpha]
 . *All airports.* Paving a second runway on the basis of wind conditions is eligible for inclusion in a project only if the sponsor shows that—
+[arabic]
 .. The airport meets the applicable standards of paragraph (b), (c), or (d) of this section;
 .. The operational experience, and the economic factors of air traffic at the location, justify an additional runway for the airport; and
 .. The second runway is oriented with the existing paved runway to achieve the maximum wind coverage, with due consideration to the airport noise factor, topography, soil conditions, and other pertinent factors affecting the economy and efficiency of the runway development.
 . *Airports serving large and small aircraft.* The airport serves both large and small aircraft and the existing paved runway is subject to a crosswind component of more than 15 miles per hour (13 knots) more than 5 percent of the time.
 . *Airports serving small aircraft only.* The airport serves small aircraft exclusively, and—
+[arabic]
 .. The airport has 10,000, or more, aircraft operations each year; and
 .. The existing paved runway is subject to a crosswind component of more than 12 miles per hour (10.5 knots) more than 5 percent of the time.
 . *Airports serving aircraft of less than 8,000 pounds only.* The airport serves small aircraft of less than 8,000 pounds maximum certificated takeoff weight exclusively and—
+[arabic]
 .. The airport has 5,000, or more, aircraft operations each year; and
 .. The existing paved runway is subject to a crosswind component of more than 12 miles per hour (10.5 knots) more than 5 percent of the time.
 
-## § 151.80
-
-### Runway paving: Additional runway; other conditions.
+## § 151.80 - Runway paving: Additional runway; other conditions.
 
 Paving an additional runway on an airport that does not qualify for a second runway under § 151.79 is eligible if the Administrator, upon consideration on a case-to-case basis, is satisfied that—
 
+[loweralpha]
 . The volume of traffic justifies an additional paved runway and the layout and orientation of the additional runway will expedite traffic; or
 . A combination of traffic volume and aircraft noise problems justifies an additional paved runway for that airport.
 
-## § 151.81
+## § 151.81 - Taxiway paving.
 
-### Taxiway paving.
-
+[loweralpha]
 . The construction, alteration, and repair of taxiways needed to expedite the flow of ground traffic between runways and aircraft parking areas available for general public use are eligible items under the program. Taxiways to serve an area or facility that is primarily for the exclusive or near exclusive use of a tenant or operator that does not furnish aircraft servicing to the public are not eligible. In addition, the policies on resealing or refilling joints, as set forth in § 151.77, apply also to taxiway paving.
 . Appendix D of this part sets forth typical eligible and ineligible items of taxiway paving.
 
-## § 151.83
+## § 151.83 - Aprons.
 
-### Aprons.
-
+[loweralpha]
 . The construction, alteration, and repair of aprons are eligible program items upon being shown that they are needed as public use facilities. An apron to serve an area that is primarily for the exclusive or near exclusive use of a tenant or operator who does not furnish aircraft servicing to the public is not eligible. In addition, the policies on resealing or refilling joints, as set forth in § 151.77 apply also to apron paving.
 . In determining public use for the purposes of this section, the current use being made of a hangar governs, unless there is definite information regarding its future use. In the case of an apron area being built for future hangars, it should be shown that early hangar development is assured and that the hangars will be public facilities.
 . Appendix E of this part sets forth typical eligible and ineligible items of apron paving.
 
-## § 151.85
-
-### Special treatment areas.
+## § 151.85 - Special treatment areas.
 
 The following special treatment for areas adjacent to pavement is eligible for inclusion in a project in cases where, due to the operation of turbojet powered aircraft, it may be necessary to treat those areas adjacent to runway ends, holding aprons, and taxiways to prevent erosion from the blast effects of the turbojet:
 
+[loweralpha]
 . Runway ends—a stabilized area the width of the runway and extending 100 to 150 feet from the end of the runway.
 . Holding aprons—a stabilized area up to 50 feet from the edge of the pavement.
 . Taxiway intersections—a stabilized area 25 feet on each side of the taxiway and extending 300 feet from the intersection.
 . Taxiway (continuous movement of aircraft)—dense turf 25 feet on each side of the taxiway, or in a geographic area where dense turf cannot be established, stabilization.
 
-## § 151.86
+## § 151.86 - Lighting and electrical work: General.
 
-### Lighting and electrical work: General.
-
+[loweralpha]
 . The installing of lighting facilities and related electrical work, as provided in § 151.87, is eligible for inclusion in a project only if the Administrator determines, for the particular airport involved, that they are needed to ensure—
+[arabic]
 .. Its safe and efficient use by aircraft under § 151.13; or
 .. Its continued operation and adequate maintenance, and it has a large enough volume (actual or potential) of night operations.
 . Before the Administrator makes a grant offer to the sponsor of a project that includes installing lighting facilities and related electrical work under paragraph (a) of this section, the sponsor must—
+[arabic]
 .. Provide in the project for removing, relocating, or adequately marking and lighting, each obstruction in the approach and turning zones, as provided in § 151.91(a);
 .. Acknowledge its awareness of the cost of operating and maintaining airport lighting; and
 .. Agree to operate the airport lighting installed—
+[lowerroman]
 ... Throughout each night of the year; or
 ... According to a satisfactory plan of operation, submitted under paragraph (c) of this section.
 . The sponsor of a project that includes installing airport lighting and related electrical work, under paragraph (a) of this section, may—
+[arabic]
 .. Submit to the Administrator a proposed plan of operation of the airport lighting installed for periods less than throughout each night of the year;
 .. Specify, in the proposed plan, the times when the airport lighting installed will be operated; and
 .. Satisfy the Administrator that the proposed plan provides for safety in air commerce, and justifies the investment of Program funds.
 . Paragraph (b)(3) of this section also applies to each sponsor of a project that includes installing airport lighting and related electrical work if that sponsor has not entered into a grant agreement for the project before September 5, 1968.
 . If it agrees to comply with paragraph (b)(3) of this section, the sponsor of a project that includes installing airport lighting facilities and related electrical work that has entered into a grant agreement for that project before September 5, 1968, may—
+[arabic]
 .. Surrender its air navigation certificate authorizing operation of a “true light” issued before that date; or
 .. Terminate its application for authority to operate a “true light” made before that date.
 
-## § 151.87
+## § 151.87 - Lighting and electrical work: Standards.
 
-### Lighting and electrical work: Standards.
-
+[loweralpha]
 . [Reserved]
-.. Will correct a visual deficiency on one of the lighted runways of the airport; or
-.. Will permit operations at an airport at lower minimums.
-              
 
 (c) The number of runways that are eligible for lighting is the same as the number eligible for paving under § 151.77, § 151.79, or § 151.80.
 
@@ -144,18 +138,24 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 (h) Any airport that is eligible to participate in the costs of runway lighting is eligible for the installing of an airport beacon, lighted wind indicator, obstruction lights, lighting control equipment, and other components of basic airport lighting, including separate transformer vaults and connection to the nearest available power source.
 
-(i) The interconnection of two or more power sources on an airport property, the providing of second sources of power, and the installing of standby engine generators of reasonable capacity, are eligible under the program.
+[lowerroman]
+. The interconnection of two or more power sources on an airport property, the providing of second sources of power, and the installing of standby engine generators of reasonable capacity, are eligible under the program.
 
 (j) Economy approach lighting aids are eligible for inclusion in a project at an airport that will not qualify within the next three years for approach lighting aids installed by FAA under the Facilities and Equipment Program if the economy approach lighting aids—
 
+[arabic]
+. Will correct a visual deficiency on one of the lighted runways of the airport; or
+. Will permit operations at an airport at lower minimums.
+              
+
 (k) Appendix F of this part sets forth typical eligible and ineligible items of airport lighting covered by § 151.86 and this section.
 
-## § 151.89
+## § 151.89 - Roads.
 
-### Roads.
-
+[loweralpha]
 . Federal-aid Airport Program funds may not be used to resolve highway problems. Only those airport entrance roads that are definitely needed and are intended only as a way in and out of the airport are eligible.
 . The construction, alteration, and repair of airport roads and streets that are entirely within the airport boundaries are eligible under the program, if needed for operating and maintaining the airport. In the case of an entrance road, a strip right-of-way joining the main body of the airport to the nearest public road may be considered a part of the normal boundary of the airport if—
+[arabic]
 .. Adequate title is obtained;
               
 .. It was acquired to provide an airport entrance road and was not, before the existence of the airport, a public thoroughfare;
@@ -165,20 +165,19 @@ The following special treatment for areas adjacent to pavement is eligible for i
 . Offsite road or street relocation needed to allow airport development or to remove an obstruction, and is not for entrance road purposes, is eligible.
 . Appendix G sets forth typical eligible and ineligible items of road construction covered by this section.
 
-## § 151.91
+## § 151.91 - Removal of obstructions.
 
-### Removal of obstructions.
-
+[loweralpha]
 . The removal or relocation, or both, of obstructions, as defined in Technical Standard Order N18 is eligible under the Program in cases where definite arrangements are made to prevent the obstruction from being recreated. In a case where removal is not feasible, the cost of marking or lighting it is eligible. The removal and relocation of structures necessary for essential airport development is eligible. The removal of structures that are not obstructions under § 77.23 of this chapter as applied to § 77.27 of this chapter are eligible when they are located within a runway clear zone.
 . The removal and relocation of an airport hangar that is an airport hazard (as described in § 151.39(b)) is eligible, if the reerected hangar will be substantially identical to the disassembled one.
 . Whenever a hangar must be relocated (either for clearance of the site for other airport development or to remove a hazard) and the existing structure is to be relocated with or without disassembly, the cost of the relocation is an eligible item of project costs, including costs incidental to the relocation such as necessary footings and floors. However, if the existing structure is to be demolished and a new hangar is to be built, only the cost of demolishing the existing hangar is an eligible item.
 
-## § 151.93
+## § 151.93 - Buildings; utilities; sidewalks; parking areas; and landscaping.
 
-### Buildings; utilities; sidewalks; parking areas; and landscaping.
-
+[loweralpha]
 . Only buildings or parts of buildings intended to house facilities or activities directly related to the safety of persons at the airport, including fire and rescue equipment buildings, are eligible items under the Federal-aid Airport Program. To the extent they are necessary to house snow removal and abrasive spreading equipment, and to provide minimum protection for abrasive materials, field maintenance equipment buildings are eligible items in any airport development project for an airport in a location having a mean daily minimum temperature of zero degrees Fahrenheit, or less, for at least 20 days each year for the 5 years preceding the year when Federal aid is requested under § 151.21(a), based on the statistics of the U.S. Department of Commerce Weather Bureau if available, or other evidence satisfactory to the Administrator.
 . Airport utility construction, installation, and connection are eligible under the Federal-aid Airport Program as follows:
+[arabic]
 .. An airport utility serving only eligible areas and facilities is eligible; and
 .. An airport utility serving both eligible and ineligible airport areas and facilities is eligible only to the extent of the additional cost of providing the capacity needed for eligible areas and facilities over and above the capacity necessary for the ineligible areas and facilities.
 . No part of the constructing, altering, or repairing (including grading, drainage, and other site preparation work) of a facility or area that is to be used as a public parking facility for passenger automobiles is eligible for inclusion in a project.
@@ -186,24 +185,27 @@ The following special treatment for areas adjacent to pavement is eligible for i
 . Landscaping is not eligible for inclusion in a project. However, the establishment of turf on graded areas and special treatment to prevent slope erosion is eligible to the extent of the eligibility of the facilities or areas served, preserved, or protected by the turf or treatment. In the case of turfing or treatment for an area or facility that is partly eligible and partly ineligible, the eligibility of the turfing or treatment is established on a pro rata basis.
 . The construction of sidewalks is not eligible for inclusion in a project.
 
-## § 151.95
+## § 151.95 - Fences; distance markers; navigational and landing aids; and offsite work.
 
-### Fences; distance markers; navigational and landing aids; and offsite work.
-
+[loweralpha]
 . Boundary or perimeter fences for security purposes are eligible for inclusion in a project.
 . A blast fence is eligible for inclusion in a project whenever—
+[arabic]
 .. It is necessary for safety at a runway end or a holding area near the end of a runway and its installation would be more economical than the acquiring of additional property interests; or
 .. Its installation for safety at a turbojet-passenger gate will result in less separation being needed for gate positions, thereby reducing the need for apron expansion, and it is more economical to build the fence than to expand the apron.
 . The eligibility of runway distance markers for inclusion in a project is decided on a case-by-case basis.
 . The relocation of navigational aids is eligible for inclusion in a proj- ect whenever necessitated by development on the airport under a Program project and the sponsor is responsible under FAA Order OA 6030.1 (Agency Order 53).
 . The installation of any of the following landing aids is eligible for inclusion in a project:
+[arabic]
 .. Segmented circle.
 .. Wind and landing direction indicators.
 .. Boundary markers.
 . The initial marking of runway and taxiway systems is eligible for inclusion in a project. The remarking of existing runways or taxiways is eligible if—
+[arabic]
 .. Present marking is obsolete under current FAA standards; or
 .. Present marking is obliterated by construction, alteration or repair work included in a FAAP project or by the required routing of construction equipment used therein.
 . The following offsite work performed outside of the boundaries of an airport or airport site is eligible for inclusion in a project:
+[arabic]
 .. Removal of obstruction as provided in § 151.91.
 .. Outfall drainage ditches, and the correction of any damage resulting from their construction.
 .. Relocating of roads and utilities that are airport hazards as defined in § 151.39(b).
@@ -211,11 +213,11 @@ The following special treatment for areas adjacent to pavement is eligible for i
 .. Constructing and installing utilities.
 .. Lighting of obstructions.
 
-## § 151.97
+## § 151.97 - Maintenance and repair.
 
-### Maintenance and repair.
-
+[loweralpha]
 . Maintenance work is not airport development as defined in the Federal Airport Act and is not eligible for inclusion in the Program. Therefore, it is necessary in many cases that a determination be made whether particular proposed development is maintenance or repair. For the purpose of these determinations, maintenance includes any regular or recurring work necessary to preserve existing airport facilities in good condition, any work involved in cleaning or caring for existing airport facilities, and any incidental or minor repair work on existing airport facilities, such as—
+[arabic]
 .. Mowing and fertilizing of turfed areas;
 .. Trimming and replacing of land- scaping material;
 .. Cleaning of drainage systems including ditches, pipes, catch basins, and replacing and restoring eroded areas, except when caused by act of God or improper design;
@@ -225,9 +227,7 @@ The following special treatment for areas adjacent to pavement is eligible for i
 .. Refilling joints and resealing surface of pavements.
 . Repair includes any work not included in paragraph (a) of this section that is necessary to restore existing airport facilities to good condition or preserve them in good condition.
 
-## § 151.99
-
-### Modifications of programming standards.
+## § 151.99 - Modifications of programming standards.
 
 The Director, Airports, Service, or the Regional Director concerned may, on individual projects, when necessary for adaptation to meet local conditions, modify any standard set forth in or incorporated into this subpart, if he determines that the modification will provide an acceptable level of safety, economy, durability, or workmanship.
 

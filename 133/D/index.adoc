@@ -1,17 +1,18 @@
 # Airworthiness Requirements
 :toc:
 
-## § 133.41
+## § 133.41 - Flight characteristics requirements.
 
-### Flight characteristics requirements.
-
+[loweralpha]
 . The applicant must demonstrate to the Administrator, by performing the operational flight checks prescribed in paragraphs (b), (c), and (d) of this section, as applicable, that the rotorcraft-load combination has satisfactory flight characteristics, unless these operational flight checks have been demonstrated previously and the rotorcraft-load combination flight characteristics were satisfactory. For the purposes of this demonstration, the external-load weight (including the external-load attaching means) is the maximum weight for which authorization is requested.
 . Class A rotorcraft-load combinations: The operational flight check must consist of at least the following maneuvers:
+[arabic]
 .. Take off and landing.
 .. Demonstration of adequate directional control while hovering.
 .. Acceleration from a hover.
 .. Horizontal flight at airspeeds up to the maximum airspeed for which authorization is requested.
 . *Class B and D rotorcraft-load combinations:* The operational flight check must consist of at least the following maneuvers:
+[arabic]
 .. Pickup of the external load.
 .. Demonstration of adequate directional control while hovering.
 .. Acceleration from a hover.
@@ -20,65 +21,64 @@
 .. Maneuvering of the external load into release position and its release, under probable flight operation conditions, by means of each of the quick-release controls installed on the rotorcraft.
 . Class C rotorcraft-load combinations: For Class C rotorcraft-load combinations used in wire-stringing, cable-laying, or similar operations, the operational flight check must consist of the maneuvers, as applicable, prescribed in paragraph (c) of this section.
 
-## § 133.43
+## § 133.43 - Structures and design.
 
-### Structures and design.
-
+[loweralpha]
 . *External-load attaching means.* Each external-load attaching means must have been approved under—
+[arabic]
 .. Part 8 of the Civil Air Regulations on or before January 17, 1964;
 .. Part 133, before February 1, 1977;
 .. Part 27 or 29 of this chapter, as applicable, irrespective of the date of approval; or
 .. Section 21.25 of this chapter.
 . *Quick release devices.* Each quick release device must have been approved under—
+[arabic]
 .. Part 27 or 29 of this chapter, as applicable;
 .. Part 133, before February 1, 1977; or
 .. Section 21.25 of this chapter, except the device must comply with §§ 27.865(b) and 29.865(b), as applicable, of this chapter.
 . *Weight and center of gravity*—
+[arabic]
 .. *Weight.* The total weight of the rotorcraft-load combination must not exceed the total weight approved for the rotorcraft during its type certification.
 .. *Center of gravity.* The location of the center of gravity must, for all loading conditions, be within the range established for the rotorcraft during its type certification. For Class C rotorcraft-load combinations, the magnitude and direction of the loading force must be established at those values for which the effective location of the center of gravity remains within its established range.
 
-## § 133.45
-
-### Operating limitations.
+## § 133.45 - Operating limitations.
 
 In addition to the operating limitations set forth in the approved Rotorcraft Flight Manual, and to any other limitations the Administrator may prescribe, the operator shall establish at least the following limitations and set them forth in the Rotorcraft-Load Combination Flight Manual for rotorcraft-load combination operations:
 
+[loweralpha]
 . The rotorcraft-load combination may be operated only within the weight and center of gravity limitations established in accordance with § 133.43(c).
 . The rotorcraft-load combination may not be operated with an external load weight exceeding that used in showing compliance with §§ 133.41 and 133.43.
 . The rotorcraft-load combination may not be operated at airspeeds greater than those established in accordance with § 133.41 (b), (c), and (d).
 . No person may conduct an external-load operation under this part with a rotorcraft type certificated in the restricted category under § 21.25 of this chapter over a densely populated area, in a congested airway, or near a busy airport where passenger transport operations are conducted.
 . The rotorcraft-load combination of Class D may be conducted only in accordance with the following:
+[arabic]
 .. The rotorcraft to be used must have been type certificated under transport Category A for the operating weight and provide hover capability with one engine inoperative at that operating weight and altitude.
 .. The rotorcraft must be equipped to allow direct radio intercommunication among required crewmembers.
 .. The personnel lifting device must be FAA approved.
 .. The lifting device must have an emergency release requiring two distinct actions.
 
-## § 133.47
-
-### Rotorcraft-load combination flight manual.
+## § 133.47 - Rotorcraft-load combination flight manual.
 
 The applicant must prepare a Rotorcraft-Load Combination Flight Manual and submit it for approval by the Administrator. The manual must be prepared in accordance with the rotorcraft flight manual provisions of subpart G of part 27 or 29 of this chapter, whichever is applicable. The limiting height-speed envelope data need not be listed as operating limitations. The manual must set forth—
               
 
+[loweralpha]
 . Operating limitations, procedures (normal and emergency), performance, and other information established under this subpart;
 . The class of rotorcraft-load combinations for which the airworthiness of the rotorcraft has been demonstrated in accordance with §§ 133.41 and 133.43; and
 . In the information section of the Rotorcraft-Load Combination Flight Manual—
+[arabic]
 .. Information on any peculiarities discovered when operating particular rotorcraft-load combinations;
 .. Precautionary advice regarding static electricity discharges for Class B, Class C, and Class D rotorcraft-load combinations; and
 .. Any other information essential for safe operation with external loads.
 
-## § 133.49
-
-### Markings and placards.
+## § 133.49 - Markings and placards.
 
 The following markings and placards must be displayed conspicuously and must be such that they cannot be easily erased, disfigured, or obscured:
 
+[loweralpha]
 . A placard (displayed in the cockpit or cabin) stating the class of rotorcraft-load combination for which the rotorcraft has been approved and the occupancy limitation prescribed in § 133.35(a).
 . A placard, marking, or instruction (displayed next to the external-load attaching means) stating the maximum external load prescribed as an operating limitation in § 133.45(b).
 
-## § 133.51
-
-### Airworthiness certification.
+## § 133.51 - Airworthiness certification.
 
 A Rotorcraft External-Load Operator Certificate is a current and valid airworthiness certificate for each rotorcraft type certificated under part 27 or 29 of this chapter (or their predecessor parts) and listed by registration number on a list attached to the certificate, when the rotorcraft is being used in operations conducted under this part.
 

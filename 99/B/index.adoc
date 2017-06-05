@@ -1,35 +1,27 @@
 # Designated Air Defense Identification Zones
 :toc:
 
-## § 99.41
-
-### General.
+## § 99.41 - General.
 
 The airspace above the areas described in this subpart is established as an ADIZ. The lines between points described in this subpart are great circles except that the lines joining adjacent points on the same parallel of latitude are rhumb lines.
 
-## § 99.43
-
-### Contiguous U.S. ADIZ.
+## § 99.43 - Contiguous U.S. ADIZ.
 
 The area bounded by a line from 43°15′ N, 65°55′W; 44°21′ N; 67°16′W; 43°10′ N; 69°40′W; 41°05′ N; 69°40′W; 40°32′ N; 72°15′W; 39°55′ N; 73°00′W; 39°38′ N; 73°00′W; 39°36′ N; 73°40′W; 37°00′ N; 75°30′W; 36°10′ N; 75°10′W; 35°10′ N; 75°10′W; 32°00′ N; 80°30′W; 30°30′ N; 81°00′W; 26°40′ N; 79°40′W; 25°00′ N; 80°05′W; 24°25′ N; 81°15′W; 24°20′ N; 81°45′W; 24°30′ N; 82°06′W; 24°41′ N; 82°06′W; 24°43′ N; 82°00′W; 25°00′ N; 81°30′W; 25°10′ N; 81°23′W; 25°35′ N; 81°30′W; 26°15′ N 82°20′W; 27°50′ N; 83°05′W; 28°55′ N; 83°30′W; 29°42′ N; 84°00′W; 29°20′ N; 85°00′W; 30°00′ N; 87°10′W; 30°00′ N; 88°30′W; 28°45′ N; 88°55′W; 28°45′ N; 90°00′W; 29°25′ N; 94°00′W; 28°20′ N; 96°00′W; 27°30′ N; 97°00′W; 26°00′ N; 97°00′W; 25°58′ N; 97°07′W; westward along the U.S./Mexico border to 32°32′03″ N, 117°07′25″ W; 32°30′ N; 117°25′W; 32°35′ N; 118°30′W; 33°05′ N; 119°45′W; 33°55′ N; 120°40′W; 34°50′ N; 121°10′W; 38°50′ N; 124°00′W; 40°00′ N; 124°35′W; 40°25′ N; 124°40′W; 42°50′ N; 124°50′W; 46°15′ N; 124°30′W; 48°30′ N; 125°00′W; 48°20′ N; 128°00′W; 48°20′ N; 132°00′W; 37°42′ N; 130°40′W; 29°00′ N; 124°00′W; 30°45′ N; 120°50′W; 32°00′ N; 118°24′W; 32°30′ N; 117°20′W; 32°32′03″ N; 117°07′25″ W; eastward along the U.S./Mexico border to 25°58′ N, 97°07′W; 26°00′ N; 97°00′W; 26°00′ N; 95°00′W; 26°30′ N; 95°00′W; then via 26°30′ N; parallel to 26°30′ N; 84°00′W; 24°00′ N; 83°00′W; then Via 24°00′ N; parallel to 24°00′ N; 79°25′W; 25°40′ N; 79°25′W; 27°30′ N; 78°50′W; 30°45′ N; 74°00′W; 39°30′ N; 63°45′W; 43°00′ N; 65°48′W; to point of beginning.
 
-## § 99.45
-
-### Alaska ADIZ.
+## § 99.45 - Alaska ADIZ.
 
 The area is bounded by a line from 54°00′ N; 136°00′W; 56°57′ N; 144°00′W; 57°00′ N; 145°00′W; 53°00′ N; 158°00′W; 50°00′ N; 169°00′W; 50°00′ N; 180°00′; 50°00′ N; 170°00′E; 53°00′ N; 170°00′E; 60°00′00″ N; 180°00′; 65°00′ N; 169°00′W; then along 169°00′W; to 75°00′ N; 169°00′W; then along the 75°00′ N; parallel to 75°00′ N, 141°00′W; 69°50′ N; 141°00′W 71°18′ N; 156°44′W; 68°40′ N; 167°10′W; 67°00′ N; 165°00′W; 65°40′ N; 168°15′W; 63°45′ N; 165°30′W; 61°20′ N; 166°40′W; 59°00′ N; 163°00′W; then south along 163°00′W to 54°00′ N, 163°00′W; 56°30′ N; 154°00′W; 59°20′ N; 146°00′W; 59°30′ N; 140°00′W; 57°00′ N; 136°00′W; 54°35′ N, 133°00′W; to point of beginning.
 
-## § 99.47
+## § 99.47 - Guam ADIZ.
 
-### Guam ADIZ.
-
+[loweralpha]
 . *Inner boundary.* From a point 13°52′07″ N, 143°59′16″ E, counterclockwise along the 50-nautical-mile radius arc of the NIMITZ VORTAC (located at 13°27′11″ N, 144°43′51″ E); to a point 13°02′08″ N, 145°28′17″ E; then to a point 14°49′07″ N, 146°13′58″ E; counterclockwise along the 35-nautical-mile radius arc of the SAIPAN NDB (located at 15°06′46″ N, 145°42′42″ E); to a point 15°24′21″ N, 145°11′21″ E; then to the point of origin.
 . *Outer boundary.* The area bounded by a circle with a radius of 250 NM centered at latitude 13°32′41″ N, longitude 144°50′30″ E.
 
-## § 99.49
+## § 99.49 - Hawaii ADIZ.
 
-### Hawaii ADIZ.
-
+[loweralpha]
 . *Outer boundary.* The area included in the irregular octagonal figure formed by a line connecting 26°30′ N, 156°00′ W; 26°30′ N, 161°00′ W; 24°00′ N, 164°00′ W; 20°00′ N, 164°00′ W; 17°00′ N, 160°00′ W; 17°00′ N, 156°00′ W; 20°00′ N, 153°00′ W; 22°00′ N, 153°00′ W; to point of beginning.
 . *Inner boundary.* The inner boundary to follow a line connecting 22°30′ N, 157°00′ W; 22°30′ N, 160°00′ W; 22°00′ N, 161°00′ W; 21°00′ N, 161°00′ W; 20°00′ N, 160°00′ W; 20°00′ N, 156°30′ W; 21°00′ N, 155°30′ W; to point of beginning.
 

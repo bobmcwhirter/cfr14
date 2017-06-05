@@ -1,45 +1,41 @@
 # Restricted Areas
 :toc:
 
-## § 73.11
-
-### Applicability.
+## § 73.11 - Applicability.
 
 This subpart designates restricted areas and prescribes limitations on the operation of aircraft within them.
 
-## § 73.13
-
-### Restrictions.
+## § 73.13 - Restrictions.
 
 No person may operate an aircraft within a restricted area between the designated altitudes and during the time of designation, unless he has the advance permission of
 
+[loweralpha]
 . The using agency described in § 73.15; or
 . The controlling agency described in § 73.17.
 
-## § 73.15
+## § 73.15 - Using agency.
 
-### Using agency.
-
+[loweralpha]
 . For the purposes of this subpart, the following are using agencies;
+[arabic]
 .. The agency, organization, or military command whose activity within a restricted area necessitated the area being so designated.
 . Upon the request of the FAA, the using agency shall execute a letter establishing procedures for joint use of a restricted area by the using agency and the controlling agency, under which the using agency would notify the controlling agency whenever the controlling agency may grant permission for transit through the restricted area in accordance with the terms of the letter.
 . The using agency shall—
+[arabic]
 .. Schedule activities within the restricted area;
 .. Authorize transit through, or flight within, the restricted area as feasible; and
 .. Contain within the restricted area all activities conducted therein in accordance with the purpose for which it was designated.
 
-## § 73.17
-
-### Controlling agency.
+## § 73.17 - Controlling agency.
 
 For the purposes of this part, the controlling agency is the FAA facility that may authorize transit through or flight within a restricted area in accordance with a joint-use letter issued under § 73.15.
 
-## § 73.19
+## § 73.19 - Reports by using agency.
 
-### Reports by using agency.
-
+[loweralpha]
 . Each using agency shall prepare a report on the use of each restricted area assigned thereto during any part of the preceding 12-month period ended September 30, and transmit it by the following January 31 of each year to the Manager, Air Traffic Division in the regional office of the Federal Aviation Administration having jurisdiction over the area in which the restricted area is located, with a copy to the Program Director for Air Traffic Airspace Management, Federal Aviation Administration, Washington, DC 20591.
 . In the report under this section the using agency shall:
+[arabic]
 .. State the name and number of the restricted area as published in this part, and the period covered by the report.
 .. State the activities (including average daily number of operations if appropriate) conducted in the area, and any other pertinent information concerning current and future electronic monitoring devices.
 .. State the number of hours daily, the days of the week, and the number of weeks during the year that the area was used.

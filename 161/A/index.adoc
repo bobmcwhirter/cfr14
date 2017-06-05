@@ -1,29 +1,25 @@
 # General Provisions
 :toc:
 
-## § 161.1
-
-### Purpose.
+## § 161.1 - Purpose.
 
 This part implements the Airport Noise and Capacity Act of 1990 (49 U.S.C. App. 2153, 2154, 2155, and 2156). It prescribes:
               
 
+[loweralpha]
 . Notice requirements and procedures for airport operators implementing Stage 3 aircraft noise and access restrictions pursuant to agreements between airport operators and aircraft operators;
 . Analysis and notice requirements for airport operators proposing Stage 2 aircraft noise and access restrictions;
 . Notice, review, and approval requirements for airport operators proposing Stage 3 aircraft noise and access restrictions; and
 . Procedures for Federal Aviation Administration reevaluation of agreements containing restrictions on Stage 3 aircraft operations and of aircraft noise and access restrictions affecting Stage 3 aircraft operations imposed by airport operators.
 
-## § 161.3
+## § 161.3 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This part applies to airports imposing restrictions on Stage 2 aircraft operations proposed after October 1, 1990, and to airports imposing restrictions on Stage 3 aircraft operations that became effective after October 1, 1990.
 . This part also applies to airports enacting amendments to airport noise and access restrictions in effect on October 1, 1990, but amended after that date, where the amendment reduces or limits aircraft operations or affects aircraft safety.
 . The notice, review, and approval requirements set forth in this part apply to all airports imposing noise or access restrictions as defined in § 161.5 of this part.
 
-## § 161.5
-
-### Definitions.
+## § 161.5 - Definitions.
 
 For the purposes of this part, the following definitions apply:
 
@@ -47,12 +43,12 @@ For the purposes of this part, the following definitions apply:
 
 *Stage 3 aircraft* means an aircraft that has been shown to comply with the Stage 3 requirements under 14 CFR part 36.
 
-## § 161.7
+## § 161.7 - Limitations.
 
-### Limitations.
-
+[loweralpha]
 . Aircraft operational procedures that must be submitted for adoption by the FAA, such as preferential runway use, noise abatement approach and departure procedures and profiles, and flight tracks, are not subject to this part. Other noise abatement procedures, such as taxiing and engine runups, are not subject to this part unless the procedures imposed limit the total number of Stage 2 or Stage 3 aircraft operations, or limit the hours of Stage 2 or Stage 3 aircraft operations, at the airport.
 . The notice, review, and approval requirements set forth in this part do not apply to airports with restrictions as specified in 49 U.S.C. App. 2153(a)(2)(C):
+[arabic]
 .. A local action to enforce a negotiated or executed airport aircraft noise or access agreement between the airport operator and the aircraft operator in effect on November 5, 1990.
 .. A local action to enforce a negotiated or executed airport aircraft noise or access restriction the airport operator and the aircraft operators agreed to before November 5, 1990.
 .. An intergovernmental agreement including airport aircraft noise or access restriction in effect on November 5, 1990.
@@ -62,22 +58,20 @@ For the purposes of this part, the following definitions apply:
 .. A local action that represents the adoption of the final portion of a program of a staged airport aircraft noise or access restriction, where the initial portion of such program was adopted during calendar year 1988 and was in effect on November 5, 1990.
 . The notice, review, and approval requirements of subpart D of this part with regard to Stage 3 aircraft restrictions do not apply if the FAA has, prior to November 5, 1990, formed a working group (outside of the process established by 14 CFR part 150) with a local airport operator to examine the noise impact of air traffic control procedure changes. In any case in which an agreement relating to noise reductions at such airport is then entered into between the airport proprietor and an air carrier or air carrier constituting a majority of the air carrier users of such airport, the requirements of subparts B and D of this part with respect to restrictions on Stage 3 aircraft operations do apply to local actions to enforce such agreements.
 . Except to the extent required by the application of the provisions of the Act, nothing in this part eliminates, invalidates, or supersedes the following:
+[arabic]
 .. Existing law with respect to airport noise or access restrictions by local authorities;
 .. Any proposed airport noise or access regulation at a general aviation airport where the airport proprietor has formally initiated a regulatory or legislative process on or before October 1, 1990; and
 .. The authority of the Secretary of Transportation to seek and obtain such legal remedies as the Secretary considers appropriate, including injunctive relief.
 
-## § 161.9
-
-### Designation of noise description methods.
+## § 161.9 - Designation of noise description methods.
 
 For purposes of this part, the following requirements apply:
 
+[loweralpha]
 . The sound level at an airport and surrounding areas, and the exposure of individuals to noise resulting from operations at an airport, must be established in accordance with the specifications and methods prescribed under appendix A of 14 CFR part 150; and
 . Use of computer models to create noise contours must be in accordance with the criteria prescribed under appendix A of 14 CFR part 150.
 
-## § 161.11
-
-### Identification of land uses in airport noise study area.
+## § 161.11 - Identification of land uses in airport noise study area.
 
 For the purposes of this part, uses of land that are normally compatible or noncompatible with various noise-exposure levels to individuals around airports must be identified in accordance with the criteria prescribed under appendix A of 14 CFR part 150. Determination of land use must be based on professional planning, zoning, and building and site design information and expertise.
 

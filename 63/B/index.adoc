@@ -1,40 +1,41 @@
 # Flight Engineers
 :toc:
 
-## § 63.31
-
-### Eligibility requirements; general.
+## § 63.31 - Eligibility requirements; general.
 
 To be eligible for a flight engineer certificate, a person must—
               
 
+[loweralpha]
 . Be at least 21 years of age;
 . Be able to read, speak, and understand the English language, or have an appropriate limitation placed on his flight engineer certificate;
 . Hold at least a second-class medical certificate issued under part 67 of this chapter within the 12 months before the date he applies, or other evidence of medical qualification accepted for the issue of a flight engineer certificate under § 63.42; and
 . Comply with the requirements of this subpart that apply to the rating he seeks.
 
-## § 63.33
+## § 63.33 - Aircraft ratings.
 
-### Aircraft ratings.
-
+[loweralpha]
 . The aircraft class ratings to be placed on flight engineer certificates are—
+[arabic]
 .. Reciprocating engine powered;
 .. Turbopropeller powered; and
 .. Turbojet powered.
 . To be eligible for an additional aircraft class rating after his flight engineer certificate with a class rating is issued to him, an applicant must pass the written test that is appropriate to the class of airplane for which an additional rating is sought, and—
+[arabic]
 .. Pass the flight test for that class of aircraft; or
 .. Satisfactorily complete an approved flight engineer training program that is appropriate to the additional class rating sought.
 
-## § 63.35
+## § 63.35 - Knowledge requirements.
 
-### Knowledge requirements.
-
+[loweralpha]
 . An applicant for a flight engineer certificate must pass a written test on the following:
+[arabic]
 .. The regulations of this chapter that apply to the duties of a flight engineer.
 .. The theory of flight and aerodynamics.
 .. Basic meteorology with respect to engine operations.
 .. Center of gravity computations.
 . An applicant for the original or additional issue of a flight engineer class rating must pass a written test for that airplane class on the following:
+[arabic]
 .. Preflight.
 .. Airplane equipment.
 .. Airplane systems.
@@ -45,21 +46,24 @@ To be eligible for a flight engineer certificate, a person must—
 .. Mathematical computation of engine operations and fuel consumption.
 . Before taking the written tests prescribed in paragraphs (a) and (b) of this section, an applicant for a flight engineer certificate must present satisfactory evidence of having completed one of the experience requirements of § 63.37. However, he may take the written tests before acquiring the flight training required by § 63.37.
 . An applicant for a flight engineer certificate or rating must have passed the written tests required by paragraphs (a) and (b) of this section since the beginning of the 24th calendar month before the month in which the flight is taken. However, this limitation does not apply to an applicant for a flight engineer certificate or rating if—
+[arabic]
 .. The applicant—
+[lowerroman]
 ... Within the period ending 24 calendar months after the month in which the applicant passed the written test, is employed as a flight crewmember or mechanic by a U.S. air carrier or commercial operator operating either under part 121 or as a commuter air carrier under part 135 (as defined in part 298 of this title) and is employed by such a certificate holder at the time of the flight test;
 ... If employed as a flight crewmember, has completed initial training, and, if appropriate, transition or upgrade training; and
 ... Meets the recurrent training requirements of the applicable part or, for mechanics, meets the recency of experience requirements of part 65; or
 .. Within the period ending 24 calendar months after the month in which the applicant passed the written test, the applicant participated in a flight engineer or maintenance training program of a U.S. scheduled military air transportation service and is currently participating in that program.
 . An air carrier or commercial operator with an approved training program under part 121 of this chapter may, when authorized by the Administrator, provide as part of that program a written test that it may administer to satisfy the test required for an additional rating under paragraph (b) of this section.
 
-## § 63.37
+## § 63.37 - Aeronautical experience requirements.
 
-### Aeronautical experience requirements.
-
+[loweralpha]
 . Except as otherwise specified therein, the flight time used to satisfy the aeronautical experience requirements of paragraph (b) of this section must have been obtained on an airplane—
+[arabic]
 .. On which a flight engineer is required by this chapter; or
 .. That has at least three engines that are rated at least 800 horsepower each or the equivalent in turbine-powered engines.
 . An applicant for a flight engineer certificate with a class rating must present, for the class rating sought, satisfactory evidence of one of the following:
+[arabic]
 .. At least 3 years of diversified practical experience in aircraft and aircraft engine maintenance (of which at least 1 year was in maintaining multiengine aircraft with engines rated at least 800 horsepower each, or the equivalent in turbine engine powered aircraft), and at least 5 hours of flight training in the duties of a flight engineer.
 .. Graduation from at least a 2-year specialized aeronautical training course in maintaining aircraft and aircraft engines (of which at least 6 calendar months were in maintaining multiengine aircraft with engines rated at least 800 horsepower each or the equivalent in turbine engine powered aircraft), and at least 5 hours of flight training in the duties of a flight engineer.
 .. A degree in aeronautical, electrical, or mechanical engineering from a recognized college, university, or engineering school; at least 6 calendar months of practical experience in maintaining multiengine aircraft with engines rated at least 800 horsepower each, or the equivalent in turbine engine powered aircraft; and at least 5 hours of flight training in the duties of a flight engineer.
@@ -68,38 +72,34 @@ To be eligible for a flight engineer certificate, a person must—
 .. At least 100 hours of flight time as a flight engineer.
 .. Within the 90-day period before he applies, successful completion of an approved flight engineer ground and flight course of instruction as provided in appendix C of this part.
 
-## § 63.39
+## § 63.39 - Skill requirements.
 
-### Skill requirements.
-
+[loweralpha]
 . An applicant for a flight engineer certificate with a class rating must pass a practical test on the duties of a flight engineer in the class of airplane for which a rating is sought. The test may only be given on an airplane specified in § 63.37(a).
 . The applicant must—
+[arabic]
 .. Show that he can satisfactorily perform preflight inspection, servicing, starting, pretakeoff, and postlanding procedures;
 .. In flight, show that he can satisfactorily perform the normal duties and procedures relating to the airplane, airplane engines, propellers (if appropriate), systems, and appliances; and
 .. In flight, in an airplane simulator, or in an approved flight engineer training device, show that he can satisfactorily perform emergency duties and procedures and recognize and take appropriate action for malfunctions of the airplane, engines, propellers (if appropriate), systems and appliances.
 
-## § 63.41
-
-### Retesting after failure.
+## § 63.41 - Retesting after failure.
 
 An applicant for a flight engineer certificate who fails a written test or practical test for that certificate may apply for retesting—
 
+[loweralpha]
 . After 30 days after the date he failed that test; or
 . After he has received additional practice or instruction (flight, synthetic trainer, or ground training, or any combination thereof) that is necessary, in the opinion of the Administrator or the applicant's instructor (if the Administrator has authorized him to determine the additional instruction necessary) to prepare the applicant for retesting.
 
-## § 63.42
+## § 63.42 - Flight engineer certificate issued on basis of a foreign flight engineer license.
 
-### Flight engineer certificate issued on basis of a foreign flight engineer license.
-
+[loweralpha]
 . *Certificates issued.* The holder of a current foreign flight engineer license issued by a contracting State to the Convention on International Civil Aviation, who meets the requirements of this section, may have a flight engineer certificate issued to him for the operation of civil aircraft of U.S. registry. Each flight engineer certificate issued under this section specifies the number and State of issuance of the foreign flight engineer license on which it is based. If the holder of the certificate cannot read, speak, or understand the English language, the Administrator may place any limitation on the certificate that he considers necessary for safety.
 . *Medical standards and certification.* An applicant must submit evidence that he currently meets the medical standards for the foreign flight engineer license on which the application for a certificate under this section is based. A current medical certificate issued under part 67 of this chapter will be excepted as evidence that the applicant meets those standards. However, a medical certificate issued under part 67 of this chapter is not evidence that the applicant meets those standards outside the United States unless the State that issued the applicant's foreign flight engineer license also accepts that medical certificate as evidence of the applicant's physical fitness for his foreign flight engineer license.
 . *Ratings issued.* Aircraft class ratings listed on the applicant's foreign flight engineer license, in addition to any issued to him after testing under the provisions of this part, are placed on the applicant's flight engineer certificate. An applicant without an aircraft class rating on his foreign flight engineer license may be issued a class rating if he shows that he currently meets the requirements for exercising the privileges of his foreign flight engineer license on that class of aircraft.
 . *Privileges and limitations.* The holder of a flight engineer certificate issued under this section may act as a flight engineer of a civil aircraft of U.S. registry subject to the limitations of this part and any additional limitations placed on his certificate by the Administrator. He is subject to these limitations while he is acting as a flight engineer of the aircraft within or outside the United States. However, he may not act as flight engineer or in any other capacity as a required flight crewmember, of a civil aircraft of U.S. registry that is carrying persons or property for compensation or hire.
 . *Renewal of certificate and ratings.* The holder of a certificate issued under this section may have that certificate and the ratings placed thereon renewed if, at the time of application for renewal, the foreign flight engineer license on which that certificate is based is in effect. Application for the renewal of the certificate and ratings thereon must be made before the expiration of the certificate.
 
-## § 63.43
-
-### Flight engineer courses.
+## § 63.43 - Flight engineer courses.
 
 An applicant for approval of a flight engineer course must submit a letter to the Administrator requesting approval, and must also submit three copies of each course outline, a description of the facilities and equipment, and a list of the instructors and their qualifications. An air carrier or commercial operator with an approved flight engineer training course under part 121 of this chapter may apply for approval of a training course under this part by letter without submitting the additional information required by this paragraph. Minimum requirements for obtaining approval of a flight engineer course are set forth in appendix C of this part.
 

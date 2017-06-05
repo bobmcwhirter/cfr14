@@ -1,15 +1,11 @@
 # Ronald Reagan Washington National Airport Traffic Rules
 :toc:
 
-## § 93.251
-
-### Applicability.
+## § 93.251 - Applicability.
 
 This subpart prescribes rules applicable to the operation of aircraft to or from Ronald Reagan Washington National Airport.
 
-## § 93.253
-
-### Nonstop operations.
+## § 93.253 - Nonstop operations.
 
 No person may operate an aircraft nonstop in air transportation between Ronald Reagan Washington National Airport and another airport that is more than 1,250 miles away from Ronald Reagan Washington National Airport.
 

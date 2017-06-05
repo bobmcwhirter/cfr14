@@ -1,22 +1,21 @@
 # Flight Time Limitations: Flag Operations
 :toc:
 
-## § 121.480
-
-### Applicability.
+## § 121.480 - Applicability.
 
 This subpart prescribes flight time limitations and rest requirements for flag all-cargo operations, except that:
 
+[loweralpha]
 . Certificate holders conducting operations with airplanes having a passenger seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, may comply with the applicable requirements of §§ 135.261 through 135.273 of this chapter.
 . A certificate holder may apply the flightcrew member flight time and duty limitations and requirements of part 117 of this chapter. A certificate holder may choose to apply part 117 to its—
+[arabic]
 .. All-cargo operations conducted under contract to a U.S. government agency.
 .. All-cargo operations not conducted under contract to a U.S. Government agency,
 .. A certificate holder may elect to treat operations in paragraphs (b)(1) and (b) (2) of this section differently but, once having decided to conduct those operations under part 117, may not segregate those operations between this subpart and part 117.
 
-## § 121.481
+## § 121.481 - Flight time limitations: One or two pilot crews.
 
-### Flight time limitations: One or two pilot crews.
-
+[loweralpha]
 . A certificate holder conducting flag operations may schedule a pilot to fly in an airplane that has a crew of one or two pilots for eight hours or less during any 24 consecutive hours without a rest period during these eight hours.
 . If a certificate holder conducting flag operations schedules a pilot to fly more than eight hours during any 24 consecutive hours, it shall give him an intervening rest period, at or before the end of eight scheduled hours of flight duty. This rest period must be at least twice the number of hours flown since the preceding rest period, but not less than eight hours. The certificate holder shall relieve that pilot of all duty with it during that rest period.
 . Each pilot who has flown more than eight hours during 24 consecutive hours must be given at least 18 hours of rest before being assigned to any duty with the certificate holder.
@@ -24,62 +23,56 @@ This subpart prescribes flight time limitations and rest requirements for flag a
 . No pilot may fly as a member of a crew more than 100 hours during any one calendar month.
 . No pilot may fly as a member of a crew more than 1,000 hours during any 12-calendar-month period.
 
-## § 121.483
+## § 121.483 - Flight time limitations: Two pilots and one additional flight crewmember.
 
-### Flight time limitations: Two pilots and one additional flight crewmember.
-
+[loweralpha]
 . No certificate holder conducting flag operations may schedule a pilot to fly, in an airplane that has a crew of two pilots and at least one additional flight crewmember, for a total of more than 12 hours during any 24 consecutive hours.
 . If a pilot has flown 20 or more hours during any 48 consecutive hours or 24 or more hours during any 72 consecutive hours, he must be given at least 18 hours of rest before being assigned to any duty with the air carrier. In any case, he must be given at least 24 consecutive hours of rest during any seven consecutive days.
 . No pilot may fly as a flight crewmember more than—
+[arabic]
 .. 120 hours during any 30 consecutive days;
 .. 300 hours during any 90 consecutive days; or
 .. 1,000 hours during any 12-calendar-month period.
 
-## § 121.485
+## § 121.485 - Flight time limitations: Three or more pilots and an additional flight crewmember.
 
-### Flight time limitations: Three or more pilots and an additional flight crewmember.
-
+[loweralpha]
 . Each certificate holder conducting flag operations shall schedule its flight hours to provide adequate rest periods on the ground for each pilot who is away from his base and who is a pilot on an airplane that has a crew of three or more pilots and an additional flight crewmember. It shall also provide adequate sleeping quarters on the airplane whenever a pilot is scheduled to fly more than 12 hours during any 24 consecutive hours.
 . The certificate holder conducting flag operations shall give each pilot, upon return to his base from any flight or series of flights, a rest period that is at least twice the total number of hours he flew since the last rest period at his base. During the rest period required by this paragraph, the air carrier may not require him to perform any duty for it. If the required rest period is more than seven days, that part of the rest period in excess of seven days may be given at any time before the pilot is again scheduled for flight duty on any route.
 . No pilot may fly as a flight crewmember more than—
+[arabic]
 .. 350 hours during any 90 consecutive days; or
 .. 1,000 hours during any 12-calendar-month period.
 
-## § 121.487
+## § 121.487 - Flight time limitations: Pilots not regularly assigned.
 
-### Flight time limitations: Pilots not regularly assigned.
-
+[loweralpha]
 . Except as provided in paragraphs (b) through (e) of this section, a pilot who is not regularly assigned as a flight crewmember for an entire calendar month under § 121.483 or 121.485 may not fly more than 100 hours in any 30 consecutive days.
 . The monthly flight time limitations for a pilot who is scheduled for duty aloft for more than 20 hours in two-pilot crews in any calendar month, or whose assignment in such a crew is interrupted more than once in that calendar month by assignment to a crew consisting of two or more pilots and an additional flight crewmember, are those set forth in § 121.481.
 . Except for a pilot covered by paragraph (b) of this section, the monthly and quarterly flight time limitations for a pilot who is scheduled for duty aloft for more than 20 hours in two-pilot and additional flight crewmember crews in any calendar month, or whose assignment in such a crew is interrupted more than once in that calendar month by assignment to a crew consisting of three pilots and additional flight crewmember, are those set forth in § 121.483.
 . The quarterly flight time limitations for a pilot to whom paragraphs (b) and (c) of this section do not apply and who is scheduled for duty aloft for a total of not more than 20 hours within any calendar month in two-pilot crews (with or without additional flight crewmembers) are those set forth in § 121.485.
 . The monthly and quarterly flight time limitations for a pilot assigned to each of two-pilot, two-pilot and additional flight crewmember, and three-pilot and additional flight crewmember crews in a given calendar month, and who is not subject to paragraph (b), (c), or (d) of this section, are those set forth in § 121.483.
 
-## § 121.489
-
-### Flight time limitations: Other commercial flying.
+## § 121.489 - Flight time limitations: Other commercial flying.
 
 No pilot that is employed as a pilot by a certificate holder conducting flag operations may do any other commercial flying if that commercial flying plus his flying in air transportation will exceed any flight time limitation in this part.
 
-## § 121.491
-
-### Flight time limitations: Deadhead transportation.
+## § 121.491 - Flight time limitations: Deadhead transportation.
 
 Time spent in deadhead transportation to or from duty assignment is not considered to be a part of a rest period.
 
-## § 121.493
+## § 121.493 - Flight time limitations: Flight engineers and flight navigators.
 
-### Flight time limitations: Flight engineers and flight navigators.
-
+[loweralpha]
 . In any operation in which one flight engineer or flight navigator is required, the flight time limitations in § 121.483 apply to that flight engineer or flight navigator.
 . In any operation in which more than one flight engineer or flight navigator is required, the flight time limitations in § 121.485 apply to those flight engineers or flight navigators.
 
-## § 121.495
+## § 121.495 - Fatigue risk management system.
 
-### Fatigue risk management system.
-
+[loweralpha]
 . No certificate holder may exceed any provision of this subpart unless approved by the FAA under a Fatigue Risk Management System.
 . The Fatigue Risk Management System must include:
+[arabic]
 .. A fatigue risk management policy.
 .. An education and awareness training program.
 .. A fatigue reporting system.

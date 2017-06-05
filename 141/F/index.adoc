@@ -1,11 +1,11 @@
 # Records
 :toc:
 
-## § 141.101
+## § 141.101 - Training records.
 
-### Training records.
-
+[loweralpha]
 . Each holder of a pilot school certificate or provisional pilot school certificate must establish and maintain a current and accurate record of the participation of each student enrolled in an approved course of training conducted by the school that includes the following information:
+[arabic]
 .. The date the student was enrolled in the approved course;
 .. A chronological log of the student's course attendance, subjects, and flight operations covered in the student's training, and the names and grades of any tests taken by the student; and
 .. The date the student graduated, terminated training, or transferred to another school. In the case of graduation from a course based on internet media, the school must maintain the identifying graduation certificate code required by § 141.95(b)(8).
@@ -13,6 +13,7 @@
               
 . Whenever a student graduates, terminates training, or transfers to another school, the student's record must be certified to that effect by the chief instructor.
 . The holder of a pilot school certificate or a provisional pilot school certificate must retain each student record required by this section for at least 1 year from the date that the student:
+[arabic]
 .. Graduates from the course to which the record pertains;
 .. Terminates enrollment in the course to which the record pertains; or
 .. Transfers to another school.

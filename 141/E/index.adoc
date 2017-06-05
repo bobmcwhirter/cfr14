@@ -1,73 +1,72 @@
 # Operating Rules
 :toc:
 
-## § 141.71
-
-### Applicability.
+## § 141.71 - Applicability.
 
 This subpart prescribes the operating rules applicable to a pilot school or provisional pilot school certificated under the provisions of this part.
 
-## § 141.73
+## § 141.73 - Privileges.
 
-### Privileges.
-
+[loweralpha]
 . The holder of a pilot school certificate or a provisional pilot school certificate may advertise and conduct approved pilot training courses in accordance with the certificate and any ratings that it holds.
 . A pilot school that holds examining authority for an approved training course may recommend a graduate of that course for the issuance of an appropriate pilot, flight instructor, or ground instructor certificate and rating, without taking an FAA knowledge test or practical test, provided the training course has been approved and meets the minimum ground and flight training time requirements of this part.
 
-## § 141.75
-
-### Aircraft requirements.
+## § 141.75 - Aircraft requirements.
 
 The following items must be carried on each aircraft used for flight training and solo flights:
 
+[loweralpha]
 . A pretakeoff and prelanding checklist; and
 . The operator's handbook for the aircraft, if one is furnished by the manufacturer, or copies of the handbook if furnished to each student using the aircraft.
 
-## § 141.77
+## § 141.77 - Limitations.
 
-### Limitations.
-
+[loweralpha]
 . The holder of a pilot school certificate or a provisional pilot school certificate may not issue a graduation certificate to a student, or recommend a student for a pilot certificate or rating, unless the student has:
+[arabic]
 .. Completed the training specified in the pilot school's course of training; and
 .. Passed the required final tests.
 . Except as provided in paragraph (c) of this section, the holder of a pilot school certificate or a provisional pilot school certificate may not graduate a student from a course of training unless the student has completed all of the curriculum requirements of that course;
 . A student may be given credit towards the curriculum requirements of a course for previous training under the following conditions:
+[arabic]
 .. If the student completed a proficiency test and knowledge test that was conducted by the receiving pilot school and the previous training was based on a part 141- or a part 142-approved flight training course, the credit is limited to not more than 50 percent of the flight training requirements of the curriculum.
 .. If the student completed a knowledge test that was conducted by the receiving pilot school and the previous training was based on a part 141- or a part 142-approved aeronautical knowledge training course, the credit is limited to not more than 50 percent of the aeronautical knowledge training requirements of the curriculum.
 .. If the student completed a proficiency test and knowledge test that was conducted by the receiving pilot school and the training was received from other than a part 141- or a part 142-approved flight training course, the credit is limited to not more than 25 percent of the flight training requirements of the curriculum.
 .. If the student completed a knowledge test that was conducted by the receiving pilot school and the previous training was received from other than a part 141- or a part 142-approved aeronautical knowledge training course, the credit is limited to not more than 25 percent of the aeronautical knowledge training requirements of the curriculum.
 .. Completion of previous training must be certified in the student's training record by the training provider or a management official within the training provider's organization, and must contain—
+[lowerroman]
 ... The kind and amount of training provided; and
 ... The result of each stage check and end-of-course test, if appropriate.
 
-## § 141.79
+## § 141.79 - Flight training.
 
-### Flight training.
-
+[loweralpha]
 . No person other than a certificated flight instructor or commercial pilot with a lighter-than-air rating who has the ratings and the minimum qualifications specified in the approved training course outline may give a student flight training under an approved course of training.
 . No student pilot may be authorized to start a solo practice flight from an airport until the flight has been approved by a certificated flight instructor or commercial pilot with a lighter-than-air rating who is present at that airport.
 . Each chief instructor and assistant chief instructor assigned to a training course must complete, at least once every 12 calendar months, an approved syllabus of training consisting of ground or flight training, or both, or an approved flight instructor refresher course.
 . Each certificated flight instructor or commercial pilot with a lighter-than-air rating who is assigned to a flight training course must satisfactorily complete the following tasks, which must be administered by the school's chief instructor, assistant chief instructor, or check instructor:
+[arabic]
 .. Prior to receiving authorization to train students in a flight training course, must—
+[lowerroman]
 ... Accomplish a review of and receive a briefing on the objectives and standards of that training course; and
 ... Accomplish an initial proficiency check in each make and model of aircraft used in that training course in which that person provides training; and
 .. Every 12 calendar months after the month in which the person last complied with the requirements of paragraph (d)(1)(ii) of this section, accomplish a recurrent proficiency check in one of the aircraft in which the person trains students.
 
-## § 141.81
+## § 141.81 - Ground training.
 
-### Ground training.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, each instructor who is assigned to a ground training course must hold a flight or ground instructor certificate, or a commercial pilot certificate with a lighter-than-air rating, with the appropriate rating for that course of training.
 . A person who does not meet the requirements of paragraph (a) of this section may be assigned ground training duties in a ground training course, if:
+[arabic]
 .. The chief instructor who is assigned to that ground training course finds the person qualified to give that training; and
 .. The training is given while under the supervision of the chief instructor or the assistant chief instructor who is present at the facility when the training is given.
 . An instructor may not be used in a ground training course until that instructor has been briefed on the objectives and standards of that course by the chief instructor, assistant chief instructor, or check instructor.
 
-## § 141.83
+## § 141.83 - Quality of training.
 
-### Quality of training.
-
+[loweralpha]
 . Each pilot school or provisional pilot school must meet the following requirements:
+[arabic]
 .. Comply with its approved training course; and
 .. Provide training of such quality that meets the requirements of § 141.5(d) of this part.
 . The failure of a pilot school or provisional pilot school to maintain the quality of training specified in paragraph (a) of this section may be the basis for suspending or revoking that school's certificate.
@@ -75,11 +74,11 @@ The following items must be carried on each aircraft used for flight training an
 . When a stage check or end-of-course test is administered by the FAA under the provisions of paragraph (c) of this section, and the student has not completed the training course, then that test will be based on the standards prescribed in the school's approved training course.
 . When a practical test or knowledge test is administered by the FAA under the provisions of paragraph (c) of this section, to a student who has completed the school's training course, that test will be based upon the areas of operation approved by the Administrator.
 
-## § 141.85
+## § 141.85 - Chief instructor responsibilities.
 
-### Chief instructor responsibilities.
-
+[loweralpha]
 . A chief instructor designated for a pilot school or provisional pilot school is responsible for:
+[arabic]
 .. Certifying each student's training record, graduation certificate, stage check and end-of-course test reports, and recommendation for course completion, unless the duties are delegated by the chief instructor to an assistant chief instructor or recommending instructor;
 .. Ensuring that each certificated flight instructor, certificated ground instructor, or commercial pilot with a lighter-than-air rating passes an initial proficiency check prior to that instructor being assigned instructing duties in the school's approved training course, and thereafter that the instructor passes a recurrent proficiency check every 12 calendar months after the month in which the initial test was accomplished;
 .. Ensuring that each student accomplishes the required stage checks and end-of-course tests in accordance with the school's approved training course; and
@@ -87,56 +86,57 @@ The following items must be carried on each aircraft used for flight training an
 . The chief instructor or an assistant chief instructor must be available at the pilot school or, if away from the pilot school, be available by telephone, radio, or other electronic means during the time that training is given for an approved training course.
 . The chief instructor may delegate authority for conducting stage checks, end-of-course tests, and flight instructor proficiency checks to the assistant chief instructor or a check instructor.
 
-## § 141.87
-
-### Change of chief instructor.
+## § 141.87 - Change of chief instructor.
 
 Whenever a pilot school or provisional pilot school makes a change of designation of its chief instructor, that school:
 
+[loweralpha]
 . Must immediately provide the FAA Flight Standards District Office that has jurisdiction over the area in which the school is located with written notification of the change;
 . May conduct training without a chief instructor for that training course for a period not to exceed 60 days while awaiting the designation and approval of another chief instructor;
 . May, for a period not to exceed 60 days, have the stage checks and end-of-course tests administered by:
+[arabic]
 .. The training course's assistant chief instructor, if one has been designated;
 .. The training course's check instructor, if one has been designated;
 .. An FAA inspector; or
 .. An examiner.
 . Must, after 60 days without a chief instructor, cease operations and surrender its certificate to the Administrator; and
 . May have its certificate reinstated, upon:
+[arabic]
 .. Designating and approving another chief instructor;
 .. Showing it meets the requirements of § 141.27(a)(2) of this part; and
 .. Applying for reinstatement on a form and in a manner prescribed by the Administrator.
 
-## § 141.89
-
-### Maintenance of personnel, facilities, and equipment.
+## § 141.89 - Maintenance of personnel, facilities, and equipment.
 
 The holder of a pilot school certificate or provisional pilot school certificate may not provide training to a student who is enrolled in an approved course of training unless:
 
+[loweralpha]
 . Each airport, aircraft, and facility necessary for that training meets the standards specified in the holder's approved training course outline and the appropriate requirements of this part; and
 . Except as provided in § 141.87 of this part, each chief instructor, assistant chief instructor, check instructor, or instructor meets the qualifications specified in the holder's approved course of training and the appropriate requirements of this part.
 
-## § 141.91
-
-### Satellite bases.
+## § 141.91 - Satellite bases.
 
 The holder of a pilot school certificate or provisional pilot school certificate may conduct ground training or flight training in an approved course of training at a base other than its main operations base if:
 
+[loweralpha]
 . An assistant chief instructor is designated for each satellite base, and that assistant chief instructor is available at that base or, if away from the premises, by telephone, radio, or other electronic means during the time that training is provided for an approved training course;
 . The airport, facilities, and personnel used at the satellite base meet the appropriate requirements of subpart B of this part and its approved training course outline;
 . The instructors are under the direct supervision of the chief instructor or assistant chief instructor for the appropriate training course, who is readily available for consultation in accordance with § 141.85(b) of this part; and
 . The FAA Flight Standards District Office having jurisdiction over the area in which the school is located is notified in writing if training is conducted at a base other than the school's main operations base for more than 7 consecutive days.
 
-## § 141.93
+## § 141.93 - Enrollment.
 
-### Enrollment.
-
+[loweralpha]
 . The holder of a pilot school certificate or a provisional pilot school certificate must, at the time a student is enrolled in an approved training course, furnish that student with a copy of the following:
               
+[arabic]
 .. A certificate of enrollment containing—
+[lowerroman]
 ... The name of the course in which the student is enrolled; and
 ... The date of that enrollment.
 .. A copy of the student's training syllabus.
 .. Except for a training course offered through an internet based medium, a copy of the safety procedures and practices developed by the school that describe the use of the school's facilities and the operation of its aircraft. Those procedures and practices shall include training on at least the following information—
+[lowerroman]
 ... The weather minimums required by the school for dual and solo flights;
 ... The procedures for starting and taxiing aircraft on the ramp;
 ... Fire precautions and procedures;
@@ -149,12 +149,12 @@ The holder of a pilot school certificate or provisional pilot school certificate
 ... A description of and instructions regarding the use of assigned practice areas.
 . The holder of a pilot school certificate or provisional pilot school certificate must maintain a monthly listing of persons enrolled in each training course offered by the school.
 
-## § 141.95
+## § 141.95 - Graduation certificate.
 
-### Graduation certificate.
-
+[loweralpha]
 . The holder of a pilot school certificate or provisional pilot school certificate must issue a graduation certificate to each student who completes its approved course of training.
 . The graduation certificate must be issued to the student upon completion of the course of training and contain at least the following information:
+[arabic]
 .. The name of the school and the certificate number of the school;
 .. The name of the graduate to whom it was issued;
 .. The course of training for which it was issued;

@@ -1,96 +1,91 @@
 # General
 :toc:
 
-## § 65.1
-
-### Applicability.
+## § 65.1 - Applicability.
 
 This part prescribes the requirements for issuing the following certificates and associated ratings and the general operating rules for the holders of those certificates and ratings:
 
+[loweralpha]
 . Air-traffic control-tower operators.
 . Aircraft dispatchers.
 . Mechanics.
 . Repairmen.
 . Parachute riggers.
 
-## § 65.3
-
-### Certification of foreign airmen other than flight crewmembers.
+## § 65.3 - Certification of foreign airmen other than flight crewmembers.
 
 A person who is neither a U.S. citizen nor a resident alien is issued a certificate under subpart D of this part, outside the United States, only when the Administrator finds that the certificate is needed for the operation or continued airworthiness of a U.S.-registered civil aircraft.
 
-## § 65.11
+## § 65.11 - Application and issue.
 
-### Application and issue.
-
+[loweralpha]
 . Application for a certificate and appropriate class rating, or for an additional rating, under this part must be made on a form and in a manner prescribed by the Administrator. Each person who applies for airmen certification services to be administered outside the United States or for any certificate or rating issued under this part must show evidence that the fee prescribed in appendix A of part 187 of this chapter has been paid.
 . Except for FAA Credential holders with tower ratings, an applicant who meets the requirements of this part is entitled to an appropriate certificate and rating.
 . Unless authorized by the Administrator, a person whose air traffic control tower operator, mechanic, or parachute rigger certificate is suspended may not apply for any rating to be added to that certificate during the period of suspension.
 . Unless the order of revocation provides otherwise—
+[arabic]
 .. A person whose air traffic control tower operator, aircraft dispatcher, or parachute rigger certificate is revoked may not apply for the same kind of certificate for 1 year after the date of revocation; and
 .. A person whose mechanic or repairman certificate is revoked may not apply for either of those kinds of certificates for 1 year after the date of revocation.
 
-## § 65.12
+## § 65.12 - Offenses involving alcohol or drugs.
 
-### Offenses involving alcohol or drugs.
-
+[loweralpha]
 . A conviction for the violation of any Federal or state statute relating to the growing, processing, manufacture, sale, disposition, possession, transportation, or importation of narcotic drugs, marihuana, or depressant or stimulant drugs or substances is grounds for—
+[arabic]
 .. Denial of an application for any certificate or rating issued under this part for a period of up to 1 year after the date of final conviction; or
 .. Suspension or revocation of any certificate or rating issued under this part.
 . The commission of an act prohibited by § 91.19(a) of this chapter is grounds for—
+[arabic]
 .. Denial of an application for a certificate or rating issued under this part for a period of up to 1 year after the date of that act; or
 .. Suspension or revocation of any certificate or rating issued under this part.
 
-## § 65.13
-
-### Temporary certificate.
+## § 65.13 - Temporary certificate.
 
 A certificate and ratings effective for a period of not more than 120 days may be issued to a qualified applicant, pending review of his application and supplementary documents and the issue of the certificate and ratings for which he applied.
 
-## § 65.14
+## § 65.14 - Security disqualification.
 
-### Security disqualification.
-
+[loweralpha]
 . *Eligibility standard.* No person is eligible to hold a certificate, rating, or authorization issued under this part when the Transportation Security Administration (TSA) has notified the FAA in writing that the person poses a security threat.
-. *Effect of the issuance by the TSA of an Initial Notification of Threat Assessment.* (1) The FAA will hold in abeyance pending the outcome of the TSA's final threat assessment review an application for any certificate, rating, or authorization under this part by any person who has been issued an Initial Notification of Threat Assessment by the TSA.
-. *Effect of the issuance by the TSA of a Final Notification of Threat Assessment.* (1) The FAA will deny an application for any certificate, rating, or authorization under this part to any person who has been issued a Final Notification of Threat Assessment.
+. *Effect of the issuance by the TSA of an Initial Notification of Threat Assessment.*
+[arabic]
+.. The FAA will hold in abeyance pending the outcome of the TSA's final threat assessment review an application for any certificate, rating, or authorization under this part by any person who has been issued an Initial Notification of Threat Assessment by the TSA.
+.. The FAA will suspend any certificate, rating, or authorization issued under this part after the TSA issues to the holder an Initial Notification of Threat Assessment.
+. *Effect of the issuance by the TSA of a Final Notification of Threat Assessment.*
+[arabic]
+.. The FAA will deny an application for any certificate, rating, or authorization under this part to any person who has been issued a Final Notification of Threat Assessment.
+.. The FAA will revoke any certificate, rating, or authorization issued under this part after the TSA has issued to the holder a Final Notification of Threat Assessment.
 
-(2) The FAA will suspend any certificate, rating, or authorization issued under this part after the TSA issues to the holder an Initial Notification of Threat Assessment.
+## § 65.15 - Duration of certificates.
 
-(2) The FAA will revoke any certificate, rating, or authorization issued under this part after the TSA has issued to the holder a Final Notification of Threat Assessment.
-
-## § 65.15
-
-### Duration of certificates.
-
+[loweralpha]
 . Except for repairman certificates, a certificate or rating issued under this part is effective until it is surrendered, suspended, or revoked.
 . Unless it is sooner surrendered, suspended, or revoked, a repairman certificate is effective until the holder is relieved from the duties for which the holder was employed and certificated.
 . The holder of a certificate issued under this part that is suspended, revoked, or no longer effective shall return it to the Administrator.
 . Except for temporary certificates issued under § 65.13, the holder of a paper certificate issued under this part may not exercise the privileges of that certificate after March 31, 2013.
 
-## § 65.16
+## § 65.16 - Change of name: Replacement of lost or destroyed certificate.
 
-### Change of name: Replacement of lost or destroyed certificate.
-
+[loweralpha]
 . An application for a change of name on a certificate issued under this part must be accompanied by the applicant's current certificate and the marriage license, court order, or other document verifying the change. The documents are returned to the applicant after inspection.
 . An application for a replacement of a lost or destroyed certificate is made by letter to the Department of Transportation, Federal Aviation Administration, Airman Certification Branch, Post Office Box 25082, Oklahoma City, OK 73125. The letter must—
+[arabic]
 .. Contain the name in which the certificate was issued, the permanent mailing address (including zip code), social security number (if any), and date and place of birth of the certificate holder, and any available information regarding the grade, number, and date of issue of the certificate, and the ratings on it; and
 .. Be accompanied by a check or money order for $2, payable to the Federal Aviation Administration.
 . An application for a replacement of a lost or destroyed medical certificate is made by letter to the Department of Transportation, Federal Aviation Administration, Aerospace Medical Certification Division, Post Office Box 26200, Oklahoma City, OK 73125, accompanied by a check or money order for $2.00.
 . A person whose certificate issued under this part or medical certificate, or both, has been lost may obtain a telegram from the FAA confirming that it was issued. The telegram may be carried as a certificate for a period not to exceed 60 days pending his receiving a duplicate certificate under paragraph (b) or (c) of this section, unless he has been notified that the certificate has been suspended or revoked. The request for such a telegram may be made by prepaid telegram, stating the date upon which a duplicate certificate was requested, or including the request for a duplicate and a money order for the necessary amount. The request for a telegraphic certificate should be sent to the office prescribed in paragraph (b) or (c) of this section, as appropriate. However, a request for both at the same time should be sent to the office prescribed in paragraph (b) of this section.
 
-## § 65.17
+## § 65.17 - Tests: General procedure.
 
-### Tests: General procedure.
-
+[loweralpha]
 . Tests prescribed by or under this part are given at times and places, and by persons, designated by the Administrator.
 . The minimum passing grade for each test is 70 percent.
 
-## § 65.18
+## § 65.18 - Written tests: Cheating or other unauthorized conduct.
 
-### Written tests: Cheating or other unauthorized conduct.
-
+[loweralpha]
 . Except as authorized by the Administrator, no person may—
+[arabic]
 .. Copy, or intentionally remove, a written test under this part;
 .. Give to another, or receive from another, any part or copy of that test;
 .. Give help on that test to, or receive help on that test from, any person during the period that test is being given;
@@ -99,33 +94,31 @@ A certificate and ratings effective for a period of not more than 120 days may b
 .. Intentionally cause, assist, or participate in any act prohibited by this paragraph.
 . No person who commits an act prohibited by paragraph (a) of this section is eligible for any airman or ground instructor certificate or rating under this chapter for a period of 1 year after the date of that act. In addition, the commission of that act is a basis for suspending or revoking any airman or ground instructor certificate or rating held by that person.
 
-## § 65.19
-
-### Retesting after failure.
+## § 65.19 - Retesting after failure.
 
 An applicant for a written, oral, or practical test for a certificate and rating, or for an additional rating under this part, may apply for retesting—
 
+[loweralpha]
 . After 30 days after the date the applicant failed the test; or
 . Before the 30 days have expired if the applicant presents a signed statement from an airman holding the certificate and rating sought by the applicant, certifying that the airman has given the applicant additional instruction in each of the subjects failed and that the airman considers the applicant ready for retesting.
 
-## § 65.20
+## § 65.20 - Applications, certificates, logbooks, reports, and records: Falsification, reproduction, or alteration.
 
-### Applications, certificates, logbooks, reports, and records: Falsification, reproduction, or alteration.
-
+[loweralpha]
 . No person may make or cause to be made—
+[arabic]
 .. Any fraudulent or intentionally false statement on any application for a certificate or rating under this part;
 .. Any fraudulent or intentionally false entry in any logbook, record, or report that is required to be kept, made, or used, to show compliance with any requirement for any certificate or rating under this part;
 .. Any reproduction, for fraudulent purpose, of any certificate or rating under this part; or
 .. Any alteration of any certificate or rating under this part.
 . The commission by any person of an act prohibited under paragraph (a) of this section is a basis for suspending or revoking any airman or ground instructor certificate or rating held by that person.
 
-## § 65.21
-
-### Change of address.
+## § 65.21 - Change of address.
 
 Within 30 days after any change in his permanent mailing address, the holder of a certificate issued under this part shall notify the Department of Transportation, Federal Aviation Administration, Airman Certification Branch, Post Office Box 25082, Oklahoma City, OK 73125, in writing, of his new address.
 
-## § 65.23
+## § 65.23 - Reserved
 
-### Reserved
+
+Reserved
 

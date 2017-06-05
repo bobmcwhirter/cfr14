@@ -1,28 +1,24 @@
 # Certification Requirements
 :toc:
 
-## § 147.11
-
-### Ratings.
+## § 147.11 - Ratings.
 
 The following ratings are issued under this part:
 
+[loweralpha]
 . Airframe.
 . Powerplant.
 . Airframe and powerplant.
 
-## § 147.13
-
-### Facilities, equipment, and material requirements.
+## § 147.13 - Facilities, equipment, and material requirements.
 
 An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must have at least the facilities, equipment, and materials specified in §§ 147.15 to 147.19 that are appropriate to the rating he seeks.
 
-## § 147.15
-
-### Space requirements.
+## § 147.15 - Space requirements.
 
 An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must have such of the following properly heated, lighted, and ventilated facilities as are appropriate to the rating he seeks and as the Administrator determines are appropriate for the maximum number of students expected to be taught at any time:
 
+[loweralpha]
 . An enclosed classroom suitable for teaching theory classes.
 . Suitable facilities, either central or located in training areas, arranged to assure proper separation from the working space, for parts, tools, materials, and similar articles.
 . Suitable area for application of finishing materials, including paint spraying.
@@ -30,49 +26,47 @@ An applicant for an aviation maintenance technician school certificate and ratin
 . Suitable areas equipped with washtank and degreasing equipment with air pressure or other adequate cleaning equipment.
 . Suitable facilities for running engines.
 . Suitable area with adequate equipment, including benches, tables, and test equipment, to disassemble, service, and inspect.
+[arabic]
 .. Ignition, electrical equipment, and appliances;
 .. Carburetors and fuel systems; and
 .. Hydraulic and vacuum systems for aircraft, aircraft engines, and their appliances.
 . Suitable space with adequate equipment, including tables, benches, stands, and jacks, for disassembling, inspecting, and rigging aircraft.
 . Suitable space with adequate equipment for disassembling, inspecting, assembling, troubleshooting, and timing engines.
 
-## § 147.17
+## § 147.17 - Instructional equipment requirements.
 
-### Instructional equipment requirements.
-
+[loweralpha]
 . An applicant for a mechanic school certificate and rating, or for an additional rating, must have such of the following instructional equipment as is appropriate to the rating he seeks:
+[arabic]
 .. Various kinds of airframe structures, airframe systems and components, powerplants, and powerplant systems and components (including propellers), of a quantity and type suitable to complete the practical projects required by its approved curriculums.
 .. At least one aircraft of a type currently certificated by FAA for private or commercial operation, with powerplant, propeller, instruments, navigation and communications equipment, landing lights, and other equipment and accessories on which a maintenance technician might be required to work and with which the technician should be familiar.
 . The equipment required by paragraph (a) of this section need not be in an airworthy condition. However, if it was damaged, it must have been repaired enough for complete assembly.
 . Airframes, powerplants, propellers, appliances, and components thereof, on which instruction is to be given, and from which practical working experience is to be gained, must be so diversified as to show the different methods of construction, assembly, inspection, and operation when installed in an aircraft for use. There must be enough units so that not more than eight students will work on any one unit at a time.
 . If the aircraft used for instructional purposes does not have retractable landing gear and wing flaps, the school must provide training aids, or operational mock-ups of them.
 
-## § 147.19
-
-### Materials, special tools, and shop equipment requirements.
+## § 147.19 - Materials, special tools, and shop equipment requirements.
 
 An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must have an adequate supply of material, special tools, and such of the shop equipment as are appropriate to the approved curriculum of the school and are used in constructing and maintaining aircraft, to assure that each student will be properly instructed. The special tools and shop equipment must be in satisfactory working condition for the purpose for which they are to be used.
 
-## § 147.21
+## § 147.21 - General curriculum requirements.
 
-### General curriculum requirements.
-
+[loweralpha]
 . An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must have an approved curriculum that is designed to qualify his students to perform the duties of a mechanic for a particular rating or ratings.
 . The curriculum must offer at least the following number of hours of instruction for the rating shown, and the instruction unit hour shall not be less than 50 minutes in length—
+[arabic]
 .. Airframe—1,150 hours (400 general plus 750 airframe).
 .. Powerplant—1,150 hours (400 general plus 750 powerplant).
               
 .. Combined airframe and powerplant—1,900 hours (400 general plus 750 airframe and 750 powerplant).
 . The curriculum must cover the subjects and items prescribed in appendixes B, C, or D, as applicable. Each item must be taught to at least the indicated level of proficiency, as defined in appendix A.
 . The curriculum must show—
+[arabic]
 .. The required practical projects to be completed;
 .. For each subject, the proportions of theory and other instruction to be given; and
 .. A list of the minimum required school tests to be given.
 . Notwithstanding the provisions of paragraphs (a) through (d) of this section and § 147.11, the holder of a certificate issued under subpart B of this part may apply for and receive approval of special courses in the performance of special inspection and preventive maintenance programs for a primary category aircraft type certificated under § 21.24(b) of this chapter. The school may also issue certificates of competency to persons successfully completing such courses provided that all other requirements of this part are met and the certificate of competency specifies the aircraft make and model to which the certificate applies.
 
-## § 147.23
-
-### Instructor requirements.
+## § 147.23 - Instructor requirements.
 
 An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must provide the number of instructors holding appropriate mechanic certificates and ratings that the Administrator determines necessary to provide adequate instruction and supervision of the students, including at least one such instructor for each 25 students in each shop class. However, the applicant may provide specialized instructors, who are not certificated mechanics, to teach mathematics, physics, basic electricity, basic hydraulics, drawing, and similar subjects. The applicant is required to maintain a list of the names and qualifications of specialized instructors, and upon request, provide a copy of the list to the FAA.
 

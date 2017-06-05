@@ -1,22 +1,21 @@
 # Flight Navigators
 :toc:
 
-## § 63.51
-
-### Eligibility requirements; general.
+## § 63.51 - Eligibility requirements; general.
 
 To be eligible for a flight navigator certificate, a person must—
 
+[loweralpha]
 . Be at least 21 years of age;
 . Be able to read, write, speak, and understand the English language;
 . Hold at least a second-class medical certificate issued under part 67 of this chapter within the 12 months before the date he applies; and
 . Comply with §§ 63.53, 63.55, and 63.57.
 
-## § 63.53
+## § 63.53 - Knowledge requirements.
 
-### Knowledge requirements.
-
+[loweralpha]
 . An applicant for a flight navigator certificate must pass a written test on—
+[arabic]
 .. The regulations of this chapter that apply to the duties of a flight navigator;
 .. The fundamentals of flight navigation, including flight planning and cruise control;
 .. Practical meteorology, including analysis of weather maps, weather reports, and weather forecasts; and weather sequence abbreviations, symbols, and nomenclature;
@@ -29,20 +28,20 @@ To be eligible for a flight navigator certificate, a person must—
 .. Interpretation of navigation aid identification signals.
 . A report of the test is mailed to the applicant. A passing grade is evidence, for a period of 24 months after the test, that the applicant has complied with this section.
 
-## § 63.55
+## § 63.55 - Experience requirements.
 
-### Experience requirements.
-
+[loweralpha]
 . An applicant for a flight navigator certificate must be a graduate of a flight navigator course approved by the Administrator or present satisfactory documentary evidence of—
+[arabic]
 .. Satisfactory determination of his position in flight at least 25 times by night by celestial observations and at least 25 times by day by celestial observations in conjunction with other aids; and
 .. At least 200 hours of satisfactory flight navigation including celestial and radio navigation and dead reckoning.
 . Flight time used exclusively for practicing long-range navigation methods, with emphasis on celestial navigation and dead reckoning, is considered to be satisfactory navigation experience for the purposes of paragraph (a) of this section. It must be substantiated by a logbook, by records of an armed force or a certificated air carrier, or by a letter signed by a certificated flight navigator and attached to the application.
 
-## § 63.57
+## § 63.57 - Skill requirements.
 
-### Skill requirements.
-
+[loweralpha]
 . An applicant for a flight navigator certificate must pass a practical test in navigating aircraft by—
+[arabic]
 .. Dead reckoning;
 .. Celestial means; and
 .. Radio aids to navigation.
@@ -50,19 +49,17 @@ To be eligible for a flight navigator certificate, a person must—
               
 . The test requirements for this section are set forth in appendix A of this part.
 
-## § 63.59
+## § 63.59 - Retesting after failure.
 
-### Retesting after failure.
-
+[loweralpha]
 . An applicant for a flight navigator certificate who fails a written or practical test for that certificate may apply for retesting—
+[arabic]
 .. After 30 days after the date he failed that test; or
 .. Before the 30 days have expired if the applicant presents a signed statement from a certificated flight navigator, certificated ground instructor, or any other qualified person approved by the Administrator, certifying that that person has given the applicant additional instruction in each of the subjects failed and that person considers the applicant ready for retesting.
 . A statement from a certificated flight navigator, or from an operations official of an approved navigator course, is acceptable, for the purposes of paragraph (a)(2) of this section, for the written test and for the flight test. A statement from a person approved by the Administrator is acceptable for the written tests. A statement from a supervising or check navigator with the United States Armed Forces is acceptable for the written test and for the practical test.
 . If the applicant failed the flight test, the additional instruction must have been administered in flight.
 
-## § 63.61
-
-### Flight navigator courses.
+## § 63.61 - Flight navigator courses.
 
 An applicant for approval of a flight navigator course must submit a letter to the Administrator requesting approval, and must also submit three copies of the course outline, a description of his facilities and equipment, and a list of the instructors and their qualifications. Requirements for the course are set forth in appendix B to this part.
 

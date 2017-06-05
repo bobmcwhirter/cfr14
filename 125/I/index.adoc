@@ -1,43 +1,42 @@
 # Flight Crewmember Requirements
 :toc:
 
-## § 125.281
-
-### Pilot-in-command qualifications.
+## § 125.281 - Pilot-in-command qualifications.
 
 No certificate holder may use any person, nor may any person serve, as pilot in command of an airplane unless that person—
 
+[loweralpha]
 . Holds at least a commercial pilot certificate, an appropriate category, class, and type rating, and an instrument rating; and
 . Has had at least 1,200 hours of flight time as a pilot, including 500 hours of cross-country flight time, 100 hours of night flight time, including at least 10 night takeoffs and landings, and 75 hours of actual or simulated instrument flight time, at least 50 hours of which were actual flight.
 
-## § 125.283
-
-### Second-in-command qualifications.
+## § 125.283 - Second-in-command qualifications.
 
 No certificate holder may use any person, nor may any person serve, as second in command of an airplane unless that person—
 
+[loweralpha]
 . Holds at least a commercial pilot certificate with appropriate category and class ratings, and an instrument rating; and
 . For flight under IFR, meets the recent instrument experience requirements prescribed for a pilot in command in part 61 of this chapter.
 
-## § 125.285
+## § 125.285 - Pilot qualifications: Recent experience.
 
-### Pilot qualifications: Recent experience.
-
+[loweralpha]
 . No certificate holder may use any person, nor may any person serve, as a required pilot flight crewmember unless within the preceding 90 calendar days that person has made at least three takeoffs and landings in the type airplane in which that person is to serve. The takeoffs and landings required by this paragraph may be performed in a flight simulator if the flight simulator is qualified and approved by the Administrator for such purpose. However, any person who fails to qualify for a 90-consecutive-day period following the date of that person's last qualification under this paragraph must reestablish recency of experience as provided in paragraph (b) of this section.
 . A required pilot flight crewmember who has not met the requirements of paragraph (a) of this section may reestablish recency of experience by making at least three takeoffs and landings under the supervision of an authorized check airman, in accordance with the following:
+[arabic]
 .. At least one takeoff must be made with a simulated failure of the most critical powerplant.
 .. At least one landing must be made from an ILS approach to the lowest ILS minimums authorized for the certificate holder.
 .. At least one landing must be made to a complete stop.
 . A required pilot flight crewmember who performs the maneuvers required by paragraph (b) of this section in a qualified and approved flight simulator, as prescribed in paragraph (a) of this section, must—
+[arabic]
 .. Have previously logged 100 hours of flight time in the same type airplane in which the pilot is to serve; and
 .. Be observed on the first two landings made in operations under this part by an authorized check airman who acts as pilot in command and occupies a pilot seat. The landings must be made in weather minimums that are not less than those contained in the certificate holder's operations specifications for Category I operations and must be made within 45 days following completion of simulator testing.
 . An authorized check airman who observes the takeoffs and landings prescribed in paragraphs (b) and (c)(3) of this section shall certify that the person being observed is proficient and qualified to perform flight duty in operations under this part, and may require any additional maneuvers that are determined necessary to make this certifying statement.
 
-## § 125.287
+## § 125.287 - Initial and recurrent pilot testing requirements.
 
-### Initial and recurrent pilot testing requirements.
-
+[loweralpha]
 . No certificate holder may use any person, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that person has passed a written or oral test, given by the Administrator or an authorized check airman on that person's knowledge in the following areas—
+[arabic]
 .. The appropriate provisions of parts 61, 91, and 125 of this chapter and the operations specifications and the manual of the certificate holder;
 .. For each type of airplane to be flown by the pilot, the airplane powerplant, major components and systems, major appliances, performance and operating limitations, standard and emergency operating procedures, and the contents of the approved Airplane Flight Manual or approved equivalent, as applicable;
 .. For each type of airplane to be flown by the pilot, the method of determining compliance with weight and balance limitations for takeoff, landing, and en route operations;
@@ -47,6 +46,7 @@ No certificate holder may use any person, nor may any person serve, as second in
 .. Procedures for avoiding operations in thunderstorms and hail, and for operating in turbulent air or in icing conditions;
 .. New equipment, procedures, or techniques, as appropriate;
 .. Knowledge and procedures for operating during ground icing conditions, (i.e., any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane), if the certificate holder expects to authorize takeoffs in ground icing conditions, including:
+[lowerroman]
 ... The use of holdover times when using deicing/anti-icing fluids.
 ... Airplane deicing/anti-icing procedures, including inspection and check procedures and responsibilities.
 ... Communications.
@@ -60,12 +60,11 @@ No certificate holder may use any person, nor may any person serve, as second in
 . The Administrator or authorized check airman certifies the competency of each pilot who passes the knowledge or flight check in the certificate holder's pilot records.
 . Portions of a required competency check may be given in an airplane simulator or other appropriate training device, if approved by the Administrator.
 
-## § 125.289
-
-### Initial and recurrent flight attendant crewmember testing requirements.
+## § 125.289 - Initial and recurrent flight attendant crewmember testing requirements.
 
 No certificate holder may use any person, nor may any person serve, as a flight attendant crewmember, unless, since the beginning of the 12th calendar month before that service, the certificate holder has determined by appropriate initial and recurrent testing that the person is knowledgeable and competent in the following areas as appropriate to assigned duties and responsibilities:
 
+[loweralpha]
 . Authority of the pilot in command;
 . Passenger handling, including procedures to be followed in handling deranged persons or other persons whose conduct might jeopardize safety;
 . Crewmember assignments, functions, and responsibilities during ditching and evacuation of persons who may need the assistance of another person to move expeditiously to an exit in an emergency;
@@ -74,15 +73,16 @@ No certificate holder may use any person, nor may any person serve, as a flight 
 . Proper use of cabin equipment and controls;
 . Location and operation of passenger oxygen equipment;
 . Location and operation of all normal and emergency exits, including evacuation chutes and escape ropes; and
-. Seating of persons who may need assistance of another person to move rapidly to an exit in an emergency as prescribed by the certificate holder's operations manual.
+[lowerroman]
+.. Seating of persons who may need assistance of another person to move rapidly to an exit in an emergency as prescribed by the certificate holder's operations manual.
 
-## § 125.291
+## § 125.291 - Pilot in command: Instrument proficiency check requirements.
 
-### Pilot in command: Instrument proficiency check requirements.
-
+[loweralpha]
 . No certificate holder may use any person, nor may any person serve, as a pilot in command of an airplane under IFR unless, since the beginning of the sixth calendar month before that service, that person has passed an instrument proficiency check and the Administrator or an authorized check airman has so certified in a letter of competency.
 . No pilot may use any type of precision instrument approach procedure under IFR unless, since the beginning of the sixth calendar month before that use, the pilot has satisfactorily demonstrated that type of approach procedure and has been issued a letter of competency under paragraph (g) of this section. No pilot may use any type of nonprecision approach procedure under IFR unless, since the beginning of the sixth calendar month before that use, the pilot has satisfactorily demonstrated either that type of approach procedure or any other two different types of nonprecision approach procedures and has been issued a letter of competency under paragraph (g) of this section. The instrument approach procedure or procedures must include at least one straight-in approach, one circling approach, and one missed approach. Each type of approach procedure demonstrated must be conducted to published minimums for that procedure.
 . The instrument proficiency check required by paragraph (a) of this section consists of an oral or written equipment test and a flight check under simulated or actual IFR conditions. The equipment test includes questions on emergency procedures, engine operation, fuel and lubrication systems, power settings, stall speeds, best engine-out speed, propeller and supercharge operations, and hydraulic, mechanical, and electrical systems, as appropriate. The flight check includes navigation by instruments, recovery from simulated emergencies, and standard instrument approaches involving navigational facilities which that pilot is to be authorized to use.
+[arabic]
 .. For a pilot in command of an airplane, the instrument proficiency check must include the procedures and maneuvers for a commercial pilot certificate with an instrument rating and, if required, for the appropriate type rating.
 .. The instrument proficiency check must be given by an authorized check airman or by the Administrator.
 . If the pilot in command is assigned to pilot only one type of airplane, that pilot must take the instrument proficiency check required by paragraph (a) of this section in that type of airplane.
@@ -90,32 +90,28 @@ No certificate holder may use any person, nor may any person serve, as a flight 
 . Portions of a required flight check may be given in an airplane simulator or other appropriate training device, if approved by the Administrator.
 . The Administrator or authorized check airman issues a letter of competency to each pilot who passes the instrument proficiency check. The letter of competency contains a list of the types of instrument approach procedures and facilities authorized.
 
-## § 125.293
+## § 125.293 - Crewmember: Tests and checks, grace provisions, accepted standards.
 
-### Crewmember: Tests and checks, grace provisions, accepted standards.
-
+[loweralpha]
 . If a crewmember who is required to take a test or a flight check under this part completes the test or flight check in the calendar month before or after the calendar month in which it is required, that crewmember is considered to have completed the test or check in the calendar month in which it is required.
 . If a pilot being checked under this subpart fails any of the required maneuvers, the person giving the check may give additional training to the pilot during the course of the check. In addition to repeating the maneuvers failed, the person giving the check may require the pilot being checked to repeat any other maneuvers that are necessary to determine the pilot's proficiency. If the pilot being checked is unable to demonstrate satisfactory performance to the person conducting the check, the certificate holder may not use the pilot, nor may the pilot serve, in the capacity for which the pilot is being checked in operations under this part until the pilot has satisfactorily completed the check.
 
-## § 125.295
-
-### Check airman authorization: Application and issue.
+## § 125.295 - Check airman authorization: Application and issue.
 
 Each certificate holder desiring FAA approval of a check airman shall submit a request in writing to the FAA Flight Standards district office charged with the overall inspection of the certificate holder. The Administrator may issue a letter of authority to each check airman if that airman passes the appropriate oral and flight test. The letter of authority lists the tests and checks in this part that the check airman is qualified to give, and the category, class and type airplane, where appropriate, for which the check airman is qualified.
 
-## § 125.296
-
-### Training, testing, and checking conducted by training centers: Special rules.
+## § 125.296 - Training, testing, and checking conducted by training centers: Special rules.
 
 A crewmember who has successfully completed training, testing, or checking in accordance with an approved training program that meets the requirements of this part and that is conducted in accordance with an approved course conducted by a training center certificated under part 142 of this chapter, is considered to meet applicable requirements of this part.
 
-## § 125.297
+## § 125.297 - Approval of flight simulators and flight training devices.
 
-### Approval of flight simulators and flight training devices.
-
+[loweralpha]
 . Flight simulators and flight training devices approved by the Administrator may be used in training, testing, and checking required by this subpart.
 . Each flight simulator and flight training device that is used in training, testing, and checking required under this subpart must be used in accordance with an approved training course conducted by a training center certificated under part 142 of this chapter, or meet the following requirements:
+[arabic]
 .. It must be specifically approved for—
+[lowerroman]
 ... The certificate holder;
 ... The type airplane and, if applicable, the particular variation within type for which the check is being conducted; and
 ... The particular maneuver, procedure, or crewmember function involved.

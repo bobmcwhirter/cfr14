@@ -1,17 +1,15 @@
 # LORAN-C
 :toc:
 
-## § 170.21
-
-### Scope.
+## § 170.21 - Scope.
 
 This subpart sets forth establishment and discontinuance criteria for LORAN-C.
 
-## § 170.23
+## § 170.23 - LORAN-C establishment criteria.
 
-### LORAN-C establishment criteria.
-
+[loweralpha]
 . The criteria in paragraphs (a)(1) through (a)(6) of this section, along with general facility and navigational aid establishment requirements, must be met before a runway can be eligible for LORAN-C approach.
+[arabic]
 .. A runway must have landing surfaces judged adequate by the FAA to accommodate aircraft expected to use the approach and meet all FAA-required airport design criteria for nonprecision runways.
 .. A runway must be found acceptable for instrument flight rules operations as a result of an airport airspace analysis conducted in accordance with the current FAA regulations and provisions.
 .. The LORAN-C signal must be of sufficient quality and accuracy to pass an FAA flight inspection.
@@ -22,9 +20,7 @@ This subpart sets forth establishment and discontinuance criteria for LORAN-C.
               
 . The criteria do not cover all situations that may arise and are not used as a sole determinant in denying or granting the establishment of non-precision LORAN-C approach for which there is a demonstrated operational or air traffic control requirement.
 
-## § 170.25
-
-### LORAN-C discontinuance criteria.
+## § 170.25 - LORAN-C discontinuance criteria.
 
 A LORAN-C nonprecision approach may be subject to discontinuance when the present value of the continued maintenance costs (PVCM) of the LORAN-C approach exceed the present value of its remaining life-cycle benefits (PVB):
               

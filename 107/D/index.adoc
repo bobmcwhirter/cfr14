@@ -1,23 +1,22 @@
 # Waivers
 :toc:
 
-## § 107.200
+## § 107.200 - Waiver policy and requirements.
 
-### Waiver policy and requirements.
-
+[loweralpha]
 . The Administrator may issue a certificate of waiver authorizing a deviation from any regulation specified in § 107.205 if the Administrator finds that a proposed small UAS operation can safely be conducted under the terms of that certificate of waiver.
 . A request for a certificate of waiver must contain a complete description of the proposed operation and justification that establishes that the operation can safely be conducted under the terms of a certificate of waiver.
 . The Administrator may prescribe additional limitations that the Administrator considers necessary.
 . A person who receives a certificate of waiver issued under this section:
+[arabic]
 .. May deviate from the regulations of this part to the extent specified in the certificate of waiver; and
 .. Must comply with any conditions or limitations that are specified in the certificate of waiver.
 
-## § 107.205
-
-### List of regulations subject to waiver.
+## § 107.205 - List of regulations subject to waiver.
 
 A certificate of waiver issued pursuant to § 107.200 may authorize a deviation from the following regulations of this part:
 
+[loweralpha]
 . Section 107.25—Operation from a moving vehicle or aircraft. However, no waiver of this provision will be issued to allow the carriage of property of another by aircraft for compensation or hire.
 . Section 107.29—Daylight operation.
 . Section 107.31—Visual line of sight aircraft operation. However, no waiver of this provision will be issued to allow the carriage of property of another by aircraft for compensation or hire.
@@ -26,5 +25,6 @@ A certificate of waiver issued pursuant to § 107.200 may authorize a deviatio
 . Section 107.37(a)—Yielding the right of way.
 . Section 107.39—Operation over people.
 . Section 107.41—Operation in certain airspace.
-. Section 107.51—Operating limitations for small unmanned aircraft.
+[lowerroman]
+.. Section 107.51—Operating limitations for small unmanned aircraft.
 

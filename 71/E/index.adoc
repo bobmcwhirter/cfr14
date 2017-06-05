@@ -1,13 +1,13 @@
 # Class E Airspace
 :toc:
 
-## § 71.71
-
-### Class E airspace.
+## § 71.71 - Class E airspace.
 
 Class E Airspace consists of:
 
+[loweralpha]
 . The airspace of the United States, including that airspace overlying the waters within 12 nautical miles of the coast of the 48 contiguous states and Alaska, extending upward from 14,500 feet MSL up to, but not including 18,000 feet MSL, and the airspace above FL600, excluding—
+[arabic]
 .. The Alaska peninsula west of longitude 160°00′00″ W.; and
 .. The airspace below 1,500 feet above the surface of the earth.
 . The airspace areas designated for an airport in subpart E of FAA Order 7400.11A (incorporated by reference, see § 71.1) within which all aircraft operators are subject to the operating rules specified in part 91 of this chapter.

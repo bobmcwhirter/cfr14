@@ -1,17 +1,15 @@
 # VOR Facilities
 :toc:
 
-## § 171.1
-
-### Scope.
+## § 171.1 - Scope.
 
 This subpart sets forth minimum requirements for the approval and operation on non-Federal VOR facilities that are to be involved in the approval of instrument flight rules and air traffic control procedures related to those facilities.
 
-## § 171.3
+## § 171.3 - Requests for IFR procedure.
 
-### Requests for IFR procedure.
-
+[loweralpha]
 . Each person who requests an IFR procedure based on a VOR facility that he owns must submit the following information with that request:
+[arabic]
 .. A description of the facility and evidence that the equipment meets the performance requirements of § 171.7 and is installed in accordance with § 171.9.
 .. A proposed procedure for operating the facility.
 .. A proposed maintenance organization and maintenance manual that meets the requirements of § 171.11.
@@ -20,11 +18,11 @@ This subpart sets forth minimum requirements for the approval and operation on n
               
 . After the FAA inspects and evaluates the facility, it advises the owner of the results and of any required changes in the facility or the maintenance manual or maintenance organization. The owner must then correct the deficiencies, if any, and operate the facility for an in-service evaluation by the FAA.
 
-## § 171.5
+## § 171.5 - Minimum requirements for approval.
 
-### Minimum requirements for approval.
-
+[loweralpha]
 . The following are the minimum requirements that must be met before the FAA will approve an IFR procedure for a non-Federal VOR:
+[arabic]
 .. The facility's performance, as determined by air and ground inspection, must meet the requirements of § 171.7.
 .. The installation of the equipment must meet the requirements of § 171.9.
 .. The owner must agree to operate and maintain the facility in accord- ance with § 171.11.
@@ -33,35 +31,34 @@ This subpart sets forth minimum requirements for the approval and operation on n
 .. The owner must bear all costs of meeting the requirements of this section and of any flight or ground inspections made before the facility is commissioned, except that the Federal Aviation Administration may bear certain of these costs subject to budgetary limitations and policy established by the Administrator.
 . If the applicant for approval meets the requirements of paragraph (a) of this section, the FAA commissions the facility as a prerequisite to its approval for use in an IFR procedure. The approval is withdrawn at any time the facility does not continue to meet those requirements.
 
-## § 171.7
+## § 171.7 - Performance requirements.
 
-### Performance requirements.
-
+[loweralpha]
 . The VOR must perform in accordance with the “International Standards and Recommended Practices, Aeronautical Telecommunications,” Part I, paragraph 3.3 (Annex 10 to the Convention on International Civil Aviation), except that part of paragraph 3.3.2.1 specifying a radio frequency tolerance of 0.005 percent, and that part of paragraph 3.3.7 requiring removal of only the bearing information. In place thereof, the frequency tolerance of the radio frequency carrier must not exceed plus or minus 0.002 percent, and all radiation must be removed during the specified deviations from established conditions and during periods of monitor failure.
 . Ground inspection consists of an examination of the design features of the equipment to determine that there will not be conditions that will allow unsafe operations because of component failure or deterioration.
 . The monitor is checked periodi- cally, during the in-service test evaluation period, for calibration and stability The tests are made with a standard “Reference and variable phase signal generator” and associated test equipment, including an oscilloscope and portable field detector. In general, the ground check is conducted in accord- ance with section 8.4 of FAA Handbook AF P 6790.9 “Maintenance Instruction for VHF Omniranges”, adapted for the facility concerned.
 . Flight tests to determine the facility's adequacy for operational requirements and compliance with applicable “Standards and Recommended Practices” are conducted in accordance with the “U.S. Standard Flight Inspection Manual”, particularly section 201.
 . After January 1, 1975, the owner of the VOR shall modify the facility to perform in accordance with paragraph 3.3.5.7 of Annex 10 to the Convention on International Civil Aviation within 180 days after receipt of notice from the Administrator that 50 kHz channel spacing is to be implemented in the area and that a requirement exists for suppression of 9960 Hz subcarrier harmonics.
 
-## § 171.9
+## § 171.9 - Installation requirements.
 
-### Installation requirements.
-
+[loweralpha]
 . The facility must be installed according to accepted good engineering practices, applicable electric and safety codes, and the installation must meet at least the Federal Communication Commission's licensing requirements.
 . The facility must have a reliable source of suitable primary power, either from a power distribution system or locally generated, with a supplemental standby system, if needed.
 . Dual transmitting equipment with automatic changeover is preferred and may be required to support certain IFR procedures.
 . There must be a means for determining, from the ground, the performance of the equipment, including the antenna, initially and periodically.
 . A facility intended for use as an instrument approach aid for an airport must have or be supplemented by (depending on circumstances) the following ground-air or landline communications services:
+[arabic]
 .. At facilities outside of and not immediately adjacent to controlled airspace, there must be ground-air communications from the airport served by the facility. Separate communications channels are acceptable.
 .. At facilities within or immediately adjacent to controlled airspace, there must be the ground-air communications required by paragraph (e)(1) of this section and reliable communications (at least a landline telephone) from the airport to the nearest FAA air traffic control or communication facility.
               
 
-## § 171.11
+## § 171.11 - Maintenance and operations requirements.
 
-### Maintenance and operations requirements.
-
+[loweralpha]
 . The owner of the facility must establish an adequate maintenance system and provide qualified maintenance personnel to maintain the facility at the level attained at the time it was commissioned. Each person who maintains a facility must meet at least the Federal Communications Commission's licensing requirements and show that he has the special knowledge and skills needed to maintain the facility including proficiency in maintenance procedures and the use of specialized test equipment.
 . The owner must prepare, and obtain FAA approval of, an operations and maintenance manual that sets forth mandatory procedures for operations, preventive maintenance, and emergency maintenance, including instructions on each of the following:
+[arabic]
 .. Physical security of the facility.
 .. Maintenance and operations by authorized persons only.
 .. FCC licensing requirements for operating and maintenance personnel.
@@ -81,6 +78,7 @@ This subpart sets forth minimum requirements for the approval and operation on n
 .. Commissioning of the facility.
 .. An acceptable procedure for amending or revising the manual.
 .. The following information concerning the facility:
+[lowerroman]
 ... Location by latitude and longitude to the nearest second, and its position with respect to airport layouts.
 ... The type, make, and model of the basic radio equipment that will provide the service.
 ... The station power emission and frequency.
@@ -94,12 +92,11 @@ This subpart sets forth minimum requirements for the approval and operation on n
 . The owner shall provide all approved test instruments needed for maintenance of the facility.
 . The owner shall close the facility upon receiving two successive pilot reports of its malfunctioning.
 
-## § 171.13
-
-### Reports.
+## § 171.13 - Reports.
 
 The owner of each facility to which this subpart applies shall make the following reports on forms furnished by the FAA, at the times indicated, to the FAA Regional office for the area in which the facility is located:
 
+[loweralpha]
 . *Record of meter readings and adjustments* (*Form FAA-198*). To be filled out by the owner with the equipment adjustments and meter readings as of the time of commissioning, with one copy to be kept in the permanent records of the facility and two copies to the appropriate Regional office of the FAA. The owner shall revise the form after any major repair, modernization, or returning, to reflect an accurate record of facility operation and adjustment.
 . *Facility maintenance log* (*FAA Form 6003-1*). This form is a permanent record of all equipment malfunctioning met in maintaining the facility, including information on the kind of work and adjustments made, equipment failures, causes (if determined), and corrective action taken. The owner shall keep the original of each report at the facility and send a copy to the appropriate Regional office of the FAA at the end of the month in which it is prepared.
 . *Radio equipment operation record* (*Form FAA-418*). To contain a complete record of meter readings, recorded on each scheduled visit to the facility. The owner shall keep the original of each month's record at the facility and send a copy of it to the appropriate Regional office of the FAA.

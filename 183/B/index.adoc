@@ -1,32 +1,32 @@
 # Certification of Representatives
 :toc:
 
-## § 183.11
+## § 183.11 - Selection.
 
-### Selection.
-
+[loweralpha]
 . The Federal Air Surgeon, or his or her authorized representatives within the FAA, may select Aviation Medical Examiners from qualified physicians who apply. In addition, the Federal Air Surgeon may designate qualified forensic pathologists to assist in the medical investigation of aircraft accidents.
 . Any local Flight Standards Inspector may select a pilot examiner, technical personnel examiner, or a designated aircraft maintenance inspector whenever he determines there is a need for one.
 . The Manager, Aircraft Certification Office, or the Manager's designee, may select Designated Engineering Representatives from qualified persons who apply by a letter accompanied by a “Statement of Qualifications of Designated Engineering Representative.”
-. The Associate Administrator for Air Traffic, may select Air Traffic Control Tower Operator Examiners.
-. The Director, Aircraft Certification Service, or the Director's designee, may select Designated Airworthiness Representatives from qualified persons who apply by a letter accompanied by a “Statement of Qualifications of Designated Airworthiness Representative.”
 
 (2) The Manager, Aircraft Certification Directorate, or the Manager's designee, may select Designated Manufacturing Inspection Representatives from qualified persons who apply by a letter accompanied by a “Statement of Qualifications of Designated Manufacturing Inspection Representative.”
 
-## § 183.13
+(d) The Associate Administrator for Air Traffic, may select Air Traffic Control Tower Operator Examiners.
 
-### Certification.
+(e) The Director, Aircraft Certification Service, or the Director's designee, may select Designated Airworthiness Representatives from qualified persons who apply by a letter accompanied by a “Statement of Qualifications of Designated Airworthiness Representative.”
 
+## § 183.13 - Certification.
+
+[loweralpha]
 . A “Certificate of Designation” and an appropriate Identification Card is issued to each Aviation Medical Examiner and to each forensic pathologist designated under § 183.11(a).
 . A “Certificate of Authority” specifying the kinds of designation for which the person concerned is qualified and stating an expiration date is issued to each Flight Standards Designated Representative, along with a “Certificate of Designation” for display purposes, designating the holder as a Flight Standards Representative and specifying the kind of designation for which he is qualified.
 . A “Certificate of Authority,” stating the specific functions which the person concerned is authorized to perform and stating an expiration date, is issued to each Designated Airworthiness Representative, along with a “Certificate of Designation” for display purposes.
 
-## § 183.15
+## § 183.15 - Duration of certificates.
 
-### Duration of certificates.
-
+[loweralpha]
 . Unless sooner terminated under paragraph (b) of this section, a designation as an Aviation Medical Examiner or as a Flight Standards or Aircraft Certification Service Designated Representative as described in §§ 183.21, 183.23, 183.25, 183.27, 183.29, 183.31, or 183.33 is effective until the expiration date shown on the document granting the authorization.
 . A designation made under this subpart terminates:
+[arabic]
 .. Upon the written request of the representative;
 .. Upon the written request of the employer in any case in which the recommendation of the employer is required for the designation;
 .. Upon the representative being separated from the employment of the employer who recommended him or her for certification;
@@ -34,9 +34,7 @@
 .. Upon the assistance of the representative being no longer needed by the Administrator; or
 .. For any reason the Administrator considers appropriate.
 
-## § 183.17
-
-### Reports.
+## § 183.17 - Reports.
 
 Each representative designated under this part shall make such reports as are prescribed by the Administrator.
 

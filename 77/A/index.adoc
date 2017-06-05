@@ -1,20 +1,17 @@
 # General
 :toc:
 
-## § 77.1
-
-### Purpose.
+## § 77.1 - Purpose.
 
 This part establishes:
 
+[loweralpha]
 . The requirements to provide notice to the FAA of certain proposed construction, or the alteration of existing structures;
 . The standards used to determine obstructions to air navigation, and navigational and communication facilities;
 . The process for aeronautical studies of obstructions to air navigation or navigational facilities to determine the effect on the safe and efficient use of navigable airspace, air navigation facilities or equipment; and
 . The process to petition the FAA for discretionary review of determinations, revisions, and extensions of determinations.
 
-## § 77.3
-
-### Definitions.
+## § 77.3 - Definitions.
 
 For the purpose of this part:
 
@@ -22,19 +19,14 @@ For the purpose of this part:
 
 *Planned or proposed airport* is an airport that is the subject of at least one of the following documents received by the FAA:
 
-(1) Airport proposals submitted under 14 CFR part 157.
-
-(2) Airport Improvement Program requests for aid.
-
-(3) Notices of existing airports where prior notice of the airport construction or alteration was not provided as required by 14 CFR part 157.
-
-(4) Airport layout plans.
-
-(5) DOD proposals for airports used only by the U.S. Armed Forces.
-
-(6) DOD proposals on joint-use (civil-military) airports.
-
-(7) Completed airport site selection feasibility study.
+[arabic]
+. Airport proposals submitted under 14 CFR part 157.
+. Airport Improvement Program requests for aid.
+. Notices of existing airports where prior notice of the airport construction or alteration was not provided as required by 14 CFR part 157.
+. Airport layout plans.
+. DOD proposals for airports used only by the U.S. Armed Forces.
+. DOD proposals on joint-use (civil-military) airports.
+. Completed airport site selection feasibility study.
 
 *Precision instrument runway* means a runway having an existing instrument approach procedure utilizing an Instrument Landing System (ILS), or a Precision Approach Radar (PAR). It also means a runway for which a precision approach system is planned and is so indicated by an FAA-approved airport layout plan; a military service approved military airport layout plan; any other FAA planning document, or military service military airport planning document.
 

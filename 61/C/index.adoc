@@ -1,49 +1,49 @@
 # Student Pilots
 :toc:
 
-## § 61.81
-
-### Applicability.
+## § 61.81 - Applicability.
 
 This subpart prescribes the requirements for the issuance of student pilot certificates, the conditions under which those certificates are necessary, and the general operating rules and limitations for the holders of those certificates.
 
-## § 61.83
-
-### Eligibility requirements for student pilots.
+## § 61.83 - Eligibility requirements for student pilots.
 
 To be eligible for a student pilot certificate, an applicant must:
 
+[loweralpha]
 . Be at least 16 years of age for other than the operation of a glider or balloon.
 . Be at least 14 years of age for the operation of a glider or balloon.
 . Be able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's pilot certificate as are necessary for the safe operation of the aircraft.
 
-## § 61.85
-
-### Application.
+## § 61.85 - Application.
 
 An applicant for a student pilot certificate:
 
+[loweralpha]
 . Must make that application in a form acceptable to the Administrator; and
 . Must submit the application to a Flight Standards District Office, a designated pilot examiner, an airman certification representative associated with a pilot school, a flight instructor, or other person authorized by the Administrator.
 
-## § 61.87
+## § 61.87 - Solo requirements for student pilots.
 
-### Solo requirements for student pilots.
-
+[loweralpha]
 . *General.* A student pilot may not operate an aircraft in solo flight unless that student has met the requirements of this section. The term “solo flight” as used in this subpart means that flight time during which a student pilot is the sole occupant of the aircraft or that flight time during which the student performs the duties of a pilot in command of a gas balloon or an airship requiring more than one pilot flight crewmember.
 . *Aeronautical knowledge.* A student pilot must demonstrate satisfactory aeronautical knowledge on a knowledge test that meets the requirements of this paragraph:
+[arabic]
 .. The test must address the student pilot's knowledge of—
+[lowerroman]
 ... Applicable sections of parts 61 and 91 of this chapter;
 ... Airspace rules and procedures for the airport where the solo flight will be performed; and
 ... Flight characteristics and operational limitations for the make and model of aircraft to be flown.
 .. The student's authorized instructor must—
+[lowerroman]
 ... Administer the test; and
 ... At the conclusion of the test, review all incorrect answers with the student before authorizing that student to conduct a solo flight.
 . *Pre-solo flight training.* Prior to conducting a solo flight, a student pilot must have:
+[arabic]
 .. Received and logged flight training for the maneuvers and procedures of this section that are appropriate to the make and model of aircraft to be flown; and
 .. Demonstrated satisfactory proficiency and safety, as judged by an authorized instructor, on the maneuvers and procedures required by this section in the make and model of aircraft or similar make and model of aircraft to be flown.
               
 . *Maneuvers and procedures for pre-solo flight training in a single-engine airplane.* A student pilot who is receiving training for a single-engine airplane rating or privileges must receive and log flight training for the following maneuvers and procedures:
+[arabic]
 .. Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
 .. Taxiing or surface operations, including runups;
 .. Takeoffs and landings, including normal and crosswind;
@@ -60,6 +60,7 @@ An applicant for a student pilot certificate:
 .. Slips to a landing; and
 .. Go-arounds.
 . *Maneuvers and procedures for pre-solo flight training in a multiengine airplane.* A student pilot who is receiving training for a multiengine airplane rating must receive and log flight training for the following maneuvers and procedures:
+[arabic]
 .. Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
 .. Taxiing or surface operations, including runups;
 .. Takeoffs and landings, including normal and crosswind;
@@ -75,6 +76,7 @@ An applicant for a student pilot certificate:
 .. Approaches to a landing area with simulated engine malfunctions; and
 .. Go-arounds.
 . *Maneuvers and procedures for pre-solo flight training in a helicopter.* A student pilot who is receiving training for a helicopter rating must receive and log flight training for the following maneuvers and procedures:
+[arabic]
 .. Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
 .. Taxiing or surface operations, including runups;
 .. Takeoffs and landings, including normal and crosswind;
@@ -94,6 +96,7 @@ An applicant for a student pilot certificate:
 .. Simulated one-engine-inoperative approaches and landings for multiengine helicopters.
               
 . *Maneuvers and procedures for pre-solo flight training in a gyroplane.* A student pilot who is receiving training for a gyroplane rating or privileges must receive and log flight training for the following maneuvers and procedures:
+[arabic]
 .. Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
 .. Taxiing or surface operations, including runups;
 .. Takeoffs and landings, including normal and crosswind;
@@ -110,30 +113,139 @@ An applicant for a student pilot certificate:
 .. Go-arounds; and
 .. Simulated emergency procedures, including simulated power-off landings and simulated power failure during departures.
 . *Maneuvers and procedures for pre-solo flight training in a powered-lift.* A student pilot who is receiving training for a powered-lift rating must receive and log flight training in the following maneuvers and procedures:
-.. Given that student pilot training in the make and model of aircraft or a similar make and model of aircraft in which the solo flight is to be flown;
-.. Determined the student pilot is proficient in the maneuvers and procedures prescribed in this section;
-.. Determined the student pilot is proficient in the make and model of aircraft to be flown; and
-.. Endorsed the student pilot's logbook for the specific make and model aircraft to be flown, and that endorsement remains current for solo flight privileges, provided an authorized instructor updates the student's logbook every 90 days thereafter.
+[arabic]
+.. Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
+.. Taxiing or surface operations, including runups;
+.. Takeoffs and landings, including normal and crosswind;
+.. Straight and level flight, and turns in both directions;
+.. Climbs and climbing turns;
+.. Airport traffic patterns, including entry and departure procedures;
+.. Collision avoidance, windshear avoidance, and wake turbulence avoidance;
+.. Descents with and without turns;
+.. Flight at various airspeeds from cruise to slow flight;
+.. Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;
+.. Emergency procedures and equipment malfunctions;
+.. Ground reference maneuvers;
+.. Approaches to a landing with simulated engine malfunctions;
+.. Go-arounds;
+.. Approaches to the landing area;
+.. Hovering and hovering turns; and
+.. For multiengine powered-lifts, simulated one-engine-inoperative approaches and landings.
+[lowerroman]
+... *Maneuvers and procedures for pre-solo flight training in a glider.* A student pilot who is receiving training for a glider rating or privileges must receive and log flight training for the following maneuvers and procedures:
+[arabic]
+.... Proper flight preparation procedures, including preflight planning, preparation, aircraft systems, and, if appropriate, powerplant operations;
+.... Taxiing or surface operations, including runups, if applicable;
+.... Launches, including normal and crosswind;
+.... Straight and level flight, and turns in both directions, if applicable;
+.... Airport traffic patterns, including entry procedures;
+.... Collision avoidance, windshear avoidance, and wake turbulence avoidance;
+.... Descents with and without turns using high and low drag configurations;
+.... Flight at various airspeeds;
+.... Emergency procedures and equipment malfunctions;
+.... Ground reference maneuvers, if applicable;
+.... Inspection of towline rigging and review of signals and release procedures, if applicable;
+.... Aerotow, ground tow, or self-launch procedures;
+.... Procedures for disassembly and assembly of the glider;
+.... Stall entry, stall, and stall recovery;
+.... Straight glides, turns, and spirals;
+              
+.... Landings, including normal and crosswind;
+.... Slips to a landing;
+.... Procedures and techniques for thermalling; and
+.... Emergency operations, including towline break procedures.
 
 (j) *Maneuvers and procedures for pre-solo flight training in an airship.* A student pilot who is receiving training for an airship rating or privileges must receive and log flight training for the following maneuvers and procedures:
 
+[arabic]
+. Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
+. Taxiing or surface operations, including runups;
+. Takeoffs and landings, including normal and crosswind;
+. Straight and level flight, and turns in both directions;
+. Climbs and climbing turns;
+. Airport traffic patterns, including entry and departure procedures;
+. Collision avoidance, windshear avoidance, and wake turbulence avoidance;
+. Descents with and without turns;
+. Flight at various airspeeds from cruise to slow flight;
+. Emergency procedures and equipment malfunctions;
+. Ground reference maneuvers;
+. Rigging, ballasting, and controlling pressure in the ballonets, and superheating; and
+. Landings with positive and with negative static trim.
+
 (k) *Maneuvers and procedures for pre-solo flight training in a balloon.* A student pilot who is receiving training in a balloon must receive and log flight training for the following maneuvers and procedures:
+
+[arabic]
+. Layout and assembly procedures;
+. Proper flight preparation procedures, including preflight planning and preparation, and aircraft systems;
+. Ascents and descents;
+. Landing and recovery procedures;
+. Emergency procedures and equipment malfunctions;
+. Operation of hot air or gas source, ballast, valves, vents, and rip panels, as appropriate;
+. Use of deflation valves or rip panels for simulating an emergency;
+. The effects of wind on climb and approach angles; and
+. Obstruction detection and avoidance techniques.
 
 (l) *Maneuvers and procedures for pre-solo flight training in a powered parachute.* A student pilot who is receiving training for a powered parachute rating or privileges must receive and log flight training for the following maneuvers and procedures:
 
+[arabic]
+. Proper flight preparation procedures, including preflight planning and preparation, preflight assembly and rigging, aircraft systems, and powerplant operations.
+. Taxiing or surface operations, including run-ups.
+. Takeoffs and landings, including normal and crosswind.
+. Straight and level flight, and turns in both directions.
+. Climbs, and climbing turns in both directions.
+. Airport traffic patterns, including entry and departure procedures.
+. Collision avoidance, windshear avoidance, and wake turbulence avoidance.
+. Descents, and descending turns in both directions.
+. Emergency procedures and equipment malfunctions.
+. Ground reference maneuvers.
+. Straight glides, and gliding turns in both directions.
+. Go-arounds.
+. Approaches to landing areas with a simulated engine malfunction.
+. Procedures for canopy packing and aircraft disassembly.
+
 (m) *Maneuvers and procedures for pre-solo flight training in a weight-shift-control aircraft.* A student pilot who is receiving training for a weight-shift-control aircraft rating or privileges must receive and log flight training for the following maneuvers and procedures:
+
+[arabic]
+. Proper flight preparation procedures, including preflight planning and preparation, preflight assembly and rigging, aircraft systems, and powerplant operations.
+. Taxiing or surface operations, including run-ups.
+. Takeoffs and landings, including normal and crosswind.
+. Straight and level flight, and turns in both directions.
+              
+. Climbs, and climbing turns in both directions.
+. Airport traffic patterns, including entry and departure procedures.
+. Collision avoidance, windshear avoidance, and wake turbulence avoidance.
+. Descents, and descending turns in both directions.
+. Flight at various airspeeds from maximum cruise to slow flight.
+. Emergency procedures and equipment malfunctions.
+. Ground reference maneuvers.
+. Stall entry, stall, and stall recovery.
+. Straight glides, and gliding turns in both directions.
+. Go-arounds.
+. Approaches to landing areas with a simulated engine malfunction.
+. Procedures for disassembly.
 
 (n) *Limitations on student pilots operating an aircraft in solo flight.* A student pilot may not operate an aircraft in solo flight unless that student pilot has received an endorsement in the student's logbook for the specific make and model aircraft to be flown by an authorized instructor who gave the training within the 90 days preceding the date of the flight.
 
 (o) *Limitations on student pilots operating an aircraft in solo flight at night.* A student pilot may not operate an aircraft in solo flight at night unless that student pilot has received:
 
+[arabic]
+. Flight training at night on night flying procedures that includes takeoffs, approaches, landings, and go-arounds at night at the airport where the solo flight will be conducted;
+. Navigation training at night in the vicinity of the airport where the solo flight will be conducted; and
+. An endorsement in the student's logbook for the specific make and model aircraft to be flown for night solo flight by an authorized instructor who gave the training within the 90-day period preceding the date of the flight.
+
 (p) *Limitations on flight instructors authorizing solo flight.* No instructor may authorize a student pilot to perform a solo flight unless that instructor has—
 
-## § 61.89
+[arabic]
+. Given that student pilot training in the make and model of aircraft or a similar make and model of aircraft in which the solo flight is to be flown;
+. Determined the student pilot is proficient in the maneuvers and procedures prescribed in this section;
+. Determined the student pilot is proficient in the make and model of aircraft to be flown; and
+. Endorsed the student pilot's logbook for the specific make and model aircraft to be flown, and that endorsement remains current for solo flight privileges, provided an authorized instructor updates the student's logbook every 90 days thereafter.
 
-### General limitations.
+## § 61.89 - General limitations.
 
+[loweralpha]
 . A student pilot may not act as pilot in command of an aircraft:
+[arabic]
 .. That is carrying a passenger;
 .. That is carrying property for compensation or hire;
 .. For compensation or hire;
@@ -144,48 +256,68 @@ An applicant for a student pilot certificate:
 .. In a manner contrary to any limitations placed in the pilot's logbook by an authorized instructor.
 . A student pilot may not act as a required pilot flight crewmember on any aircraft for which more than one pilot is required by the type certificate of the aircraft or regulations under which the flight is conducted, except when receiving flight training from an authorized instructor on board an airship, and no person other than a required flight crewmember is carried on the aircraft.
 . A student pilot seeking a sport pilot certificate must comply with the provisions of paragraphs (a) and (b) of this section and may not act as pilot in command—
+[arabic]
 .. Of an aircraft other than a light-sport aircraft;
 .. At night;
 .. At an altitude of more than 10,000 feet MSL or 2,000 feet AGL, whichever is higher;
 .. In Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or on an airport having an operational control tower without having received the ground and flight training specified in § 61.94 and an endorsement from an authorized instructor;
 .. Of a light-sport aircraft without having received the applicable ground training, flight training, and instructor endorsements specified in § 61.327 (a) and (b).
 
-## § 61.91
+## § 61.91 - Reserved
 
-### Reserved
 
-## § 61.93
+Reserved
 
-### Solo cross-country flight requirements.
+## § 61.93 - Solo cross-country flight requirements.
 
-. *General.* (1) Except as provided in paragraph (b) of this section, a student pilot must meet the requirements of this section before—
+[loweralpha]
+. *General.*
+[arabic]
+.. Except as provided in paragraph (b) of this section, a student pilot must meet the requirements of this section before—
+[lowerroman]
+... Conducting a solo cross-country flight, or any flight greater than 25 nautical miles from the airport from where the flight originated.
+... Making a solo flight and landing at any location other than the airport of origination.
+.. Except as provided in paragraph (b) of this section, a student pilot who seeks solo cross-country flight privileges must:
+[lowerroman]
+... Have received flight training from an instructor authorized to provide flight training on the maneuvers and procedures of this section that are appropriate to the make and model of aircraft for which solo cross-country privileges are sought;
+... Have demonstrated cross-country proficiency on the appropriate maneuvers and procedures of this section to an authorized instructor;
+... Have satisfactorily accomplished the pre-solo flight maneuvers and procedures required by § 61.87 of this part in the make and model of aircraft or similar make and model of aircraft for which solo cross-country privileges are sought; and
+... Comply with any limitations included in the authorized instructor's endorsement that are required by paragraph (c) of this section.
+.. A student pilot who seeks solo cross-country flight privileges must have received ground and flight training from an authorized instructor on the cross-country maneuvers and procedures listed in this section that are appropriate to the aircraft to be flown.
 . *Authorization to perform certain solo flights and cross-country flights.* A student pilot must obtain an endorsement from an authorized instructor to make solo flights from the airport where the student pilot normally receives training to another location. A student pilot who receives this endorsement must comply with the requirements of this paragraph.
+[arabic]
 .. Solo flights may be made to another airport that is within 25 nautical miles from the airport where the student pilot normally receives training, provided—
+[lowerroman]
 ... An authorized instructor has given the student pilot flight training at the other airport, and that training includes flight in both directions over the route, entering and exiting the traffic pattern, and takeoffs and landings at the other airport;
 ... The authorized instructor who gave the training endorses the student pilot's logbook authorizing the flight;
 ... The student pilot has a solo flight endorsement in accordance with § 61.87 of this part;
 ... The authorized instructor has determined that the student pilot is proficient to make the flight; and
 ... The purpose of the flight is to practice takeoffs and landings at that other airport.
 .. Repeated specific solo cross-country flights may be made to another airport that is within 50 nautical miles of the airport from which the flight originated, provided—
+[lowerroman]
 ... The authorized instructor has given the student flight training in both directions over the route, including entering and exiting the traffic patterns, takeoffs, and landings at the airports to be used;
               
 ... The authorized instructor who gave the training has endorsed the student's logbook certifying that the student is proficient to make such flights;
 ... The student has a solo flight endorsement in accordance with § 61.87 of this part; and
 ... The student has a solo cross country flight endorsement in accordance with paragraph (c) of this section; however, for repeated solo cross country flights to another airport within 50 nautical miles from which the flight originated, separate endorsements are not required to be made for each flight.
 . *Endorsements for solo cross-country flights.* Except as specified in paragraph (b)(2) of this section, a student pilot must have the endorsements prescribed in this paragraph for each cross-country flight:
+[arabic]
 .. A student pilot must have a solo cross-country endorsement from the authorized instructor who conducted the training that is placed in that person's logbook for the specific category of aircraft to be flown.
 .. A student pilot must have a solo cross-country endorsement from an authorized instructor that is placed in that person's logbook for the specific make and model of aircraft to be flown.
 .. For each cross-country flight, the authorized instructor who reviews the cross-country planning must make an endorsement in the person's logbook after reviewing that person's cross-country planning, as specified in paragraph (d) of this section. The endorsement must—
+[lowerroman]
 ... Specify the make and model of aircraft to be flown;
 ... State that the student's preflight planning and preparation is correct and that the student is prepared to make the flight safely under the known conditions; and
 ... State that any limitations required by the student's authorized instructor are met.
 . *Limitations on authorized instructors to permit solo cross-country flights.* An authorized instructor may not permit a student pilot to conduct a solo cross-country flight unless that instructor has:
+[arabic]
 .. Determined that the student's cross-country planning is correct for the flight;
 .. Reviewed the current and forecast weather conditions and has determined that the flight can be completed under VFR;
 .. Determined that the student is proficient to conduct the flight safely;
 .. Determined that the student has the appropriate solo cross-country endorsement for the make and model of aircraft to be flown; and
 .. Determined that the student's solo flight endorsement is current for the make and model aircraft to be flown.
 . *Maneuvers and procedures for cross-country flight training in a single-engine airplane.* A student pilot who is receiving training for cross-country flight in a single-engine airplane must receive and log flight training in the following maneuvers and procedures:
+[arabic]
 .. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
 .. Use of aircraft performance charts pertaining to cross-country flight;
 .. Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
@@ -199,6 +331,7 @@ An applicant for a student pilot certificate:
 .. Climbs at best angle and best rate; and
 .. Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives. For student pilots seeking a sport pilot certificate, the provisions of this paragraph only apply when receiving training for cross-country flight in an airplane that has a V*H* greater than 87 knots CAS.
 . *Maneuvers and procedures for cross-country flight training in a multiengine airplane.* A student pilot who is receiving training for cross-country flight in a multiengine airplane must receive and log flight training in the following maneuvers and procedures:
+[arabic]
 .. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
 .. Use of aircraft performance charts pertaining to cross-country flight;
 .. Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
@@ -212,6 +345,7 @@ An applicant for a student pilot certificate:
 .. Climbs at best angle and best rate; and
 .. Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives.
 . *Maneuvers and procedures for cross-country flight training in a helicopter.* A student pilot who is receiving training for cross-country flight in a helicopter must receive and log flight training for the following maneuvers and procedures:
+[arabic]
 .. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
 .. Use of aircraft performance charts pertaining to cross-country flight;
 .. Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
@@ -223,48 +357,99 @@ An applicant for a student pilot certificate:
 .. Use of radios for VFR navigation and two-way communications; and
 .. Takeoff, approach, and landing procedures.
 . *Maneuvers and procedures for cross-country flight training in a gyroplane.* A student pilot who is receiving training for cross-country flight in a gyroplane must receive and log flight training in the following maneuvers and procedures:
-.. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass, as appropriate.
-.. Use of aircraft performance charts pertaining to cross-country flight.
-.. Procurement and analysis of aeronautical weather reports and forecasts, including recognizing critical weather situations and estimating visibility while in flight.
-.. Emergency procedures.
-.. Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach.
-.. Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance.
-.. Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown.
-.. Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications.
-.. If equipped for flight using navigation radios, the use of radios for VFR navigation.
-.. Recognition of weather and upper air conditions favorable for the cross-country flight.
-.. Takeoff, approach and landing procedures, including crosswind approaches and landings.
-
-(i) Conducting a solo cross-country flight, or any flight greater than 25 nautical miles from the airport from where the flight originated.
-
-(ii) Making a solo flight and landing at any location other than the airport of origination.
-
-(2) Except as provided in paragraph (b) of this section, a student pilot who seeks solo cross-country flight privileges must:
-
-(i) Have received flight training from an instructor authorized to provide flight training on the maneuvers and procedures of this section that are appropriate to the make and model of aircraft for which solo cross-country privileges are sought;
-
-(ii) Have demonstrated cross-country proficiency on the appropriate maneuvers and procedures of this section to an authorized instructor;
-
-(iii) Have satisfactorily accomplished the pre-solo flight maneuvers and procedures required by § 61.87 of this part in the make and model of aircraft or similar make and model of aircraft for which solo cross-country privileges are sought; and
-
-(iv) Comply with any limitations included in the authorized instructor's endorsement that are required by paragraph (c) of this section.
-
-(3) A student pilot who seeks solo cross-country flight privileges must have received ground and flight training from an authorized instructor on the cross-country maneuvers and procedures listed in this section that are appropriate to the aircraft to be flown.
+[arabic]
+.. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
+.. Use of aircraft performance charts pertaining to cross-country flight;
+              
+.. Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
+.. Emergency procedures;
+.. Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach;
+.. Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance;
+.. Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown;
+.. Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications;
+.. Use of radios for VFR navigation and two-way communication, except that a student pilot seeking a sport pilot certificate must only receive and log flight training on the use of radios installed in the aircraft to be flown; and
+.. Takeoff, approach, and landing procedures, including short-field and soft-field takeoffs, approaches, and landings.
+[lowerroman]
+... *Maneuvers and procedures for cross-country flight training in a powered-lift.* A student pilot who is receiving training for cross-country flight training in a powered-lift must receive and log flight training in the following maneuvers and procedures:
+[arabic]
+.... Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
+.... Use of aircraft performance charts pertaining to cross-country flight;
+.... Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
+.... Emergency procedures;
+.... Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach;
+.... Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance;
+.... Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown;
+.... Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications;
+.... Use of radios for VFR navigation and two-way communications;
+.... Takeoff, approach, and landing procedures that include high-altitude, steep, and shallow takeoffs, approaches, and landings; and
+.... Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives.
 
 (j) *Maneuvers and procedures for cross-country flight training in a glider.* A student pilot who is receiving training for cross-country flight in a glider must receive and log flight training in the following maneuvers and procedures:
 
+[arabic]
+. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
+. Use of aircraft performance charts pertaining to cross-country flight;
+. Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
+. Emergency procedures;
+. Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach;
+. Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance;
+. Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown;
+. Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications;
+. Landings accomplished without the use of the altimeter from at least 2,000 feet above the surface; and
+. Recognition of weather and upper air conditions favorable for cross-country soaring, ascending and descending flight, and altitude control.
+
 (k) *Maneuvers and procedures for cross-country flight training in an airship.* A student pilot who is receiving training for cross-country flight in an airship must receive and log flight training for the following maneuvers and procedures:
 
+[arabic]
+. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
+. Use of aircraft performance charts pertaining to cross-country flight;
+. Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight;
+. Emergency procedures;
+. Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach;
+. Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance;
+. Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown;
+. Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications;
+. Use of radios for VFR navigation and two-way communication, except that a student pilot seeking a sport pilot certificate must only receive and log flight training on the use of radios installed in the aircraft to be flown;
+. Control of air pressure with regard to ascending and descending flight and altitude control;
+. Control of the airship solely by reference to flight instruments, except for a student pilot seeking a sport pilot certificate; and
+. Recognition of weather and upper air conditions conducive for the direction of cross-country flight.
+
 (l) *Maneuvers and procedures for cross-country flight training in a powered parachute.* A student pilot who is receiving training for cross-country flight in a powered parachute must receive and log flight training in the following maneuvers and procedures:
+
+[arabic]
+. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass, as appropriate.
+. Use of aircraft performance charts pertaining to cross-country flight.
+. Procurement and analysis of aeronautical weather reports and forecasts, including recognizing critical weather situations and estimating visibility while in flight.
+. Emergency procedures.
+. Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach.
+. Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance.
+. Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown.
+. Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications.
+. If equipped for flight with navigation radios, the use of radios for VFR navigation.
+. Recognition of weather and upper air conditions favorable for the cross-country flight.
+. Takeoff, approach and landing procedures.
 
 (m) *Maneuvers and procedures for cross-country flight training in a weight-shift-control aircraft.* A student pilot who is receiving training for cross-country flight in a weight-shift-control aircraft must receive and log flight training for the following maneuvers and procedures:
               
 
-## § 61.94
+[arabic]
+. Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass, as appropriate.
+. Use of aircraft performance charts pertaining to cross-country flight.
+. Procurement and analysis of aeronautical weather reports and forecasts, including recognizing critical weather situations and estimating visibility while in flight.
+. Emergency procedures.
+. Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach.
+. Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance.
+. Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown.
+. Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications.
+. If equipped for flight using navigation radios, the use of radios for VFR navigation.
+. Recognition of weather and upper air conditions favorable for the cross-country flight.
+. Takeoff, approach and landing procedures, including crosswind approaches and landings.
 
-### Student pilot seeking a sport pilot certificate or a recreational pilot certificate: Operations at airports within, and in airspace located within, Class B, C, and D airspace, or at airports with an operational control tower in other airspace.
+## § 61.94 - Student pilot seeking a sport pilot certificate or a recreational pilot certificate: Operations at airports within, and in airspace located within, Class B, C, and D airspace, or at airports with an operational control tower in other airspace.
 
+[loweralpha]
 . A student pilot seeking a sport pilot certificate or a recreational pilot certificate who wants to obtain privileges to operate in Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower, must receive and log ground and flight training from an authorized instructor in the following aeronautical knowledge areas and areas of operation:
+[arabic]
 .. The use of radios, communications, navigation systems and facilities, and radar services.
 .. Operations at airports with an operating control tower, to include three takeoffs and landings to a full stop, with each landing involving a flight in the traffic pattern, at an airport with an operating control tower.
 .. Applicable flight rules of part 91 of this chapter for operations in Class B, C, and D airspace and air traffic control clearances.
@@ -272,15 +457,16 @@ An applicant for a student pilot certificate:
 .. Ground and flight training for the specific airport located in Class B, C, or D airspace for which the solo flight is authorized, if applicable, within the 90-day period preceding the date of the flight at that airport. The flight and ground training must be received at the specific airport for which solo flight is authorized.
 . The authorized instructor who provides the training specified in paragraph (a) of this section must provide a logbook endorsement that certifies the student has received that training and is proficient to conduct solo flight in that specific airspace or at that specific airport and in those aeronautical knowledge areas and areas of operation specified in this section.
 
-## § 61.95
+## § 61.95 - Operations in Class B airspace and at airports located within Class B airspace.
 
-### Operations in Class B airspace and at airports located within Class B airspace.
-
+[loweralpha]
 . A student pilot may not operate an aircraft on a solo flight in Class B airspace unless:
+[arabic]
 .. The student pilot has received both ground and flight training from an authorized instructor on that Class B airspace area, and the flight training was received in the specific Class B airspace area for which solo flight is authorized;
 .. The logbook of that student pilot has been endorsed by the authorized instructor who gave the student pilot flight training, and the endorsement is dated within the 90-day period preceding the date of the flight in that Class B airspace area; and
 .. The logbook endorsement specifies that the student pilot has received the required ground and flight training, and has been found proficient to conduct solo flight in that specific Class B airspace area.
 . A student pilot may not operate an aircraft on a solo flight to, from, or at an airport located within Class B airspace pursuant to § 91.131(b) of this chapter unless:
+[arabic]
 .. The student pilot has received both ground and flight training from an instructor authorized to provide training to operate at that airport, and the flight and ground training has been received at the specific airport for which the solo flight is authorized;
 .. The logbook of that student pilot has been endorsed by an authorized instructor who gave the student pilot flight training, and the endorsement is dated within the 90-day period preceding the date of the flight at that airport; and
 .. The logbook endorsement specifies that the student pilot has received the required ground and flight training, and has been found proficient to conduct solo flight operations at that specific airport.

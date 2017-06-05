@@ -1,21 +1,15 @@
 # Prohibited Areas
 :toc:
 
-## § 73.81
-
-### Applicability.
+## § 73.81 - Applicability.
 
 This subpart designates prohibited areas and prescribes limitations on the operation of aircraft therein.
 
-## § 73.83
-
-### Restrictions.
+## § 73.83 - Restrictions.
 
 No person may operate an aircraft within a prohibited area unless authorization has been granted by the using agency.
 
-## § 73.85
-
-### Using agency.
+## § 73.85 - Using agency.
 
 For the purpose of this subpart, the using agency is the agency, organization or military command that established the requirements for the prohibited area.
 

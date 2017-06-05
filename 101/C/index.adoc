@@ -1,20 +1,19 @@
 # Amateur Rockets
 :toc:
 
-## § 101.21
+## § 101.21 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This subpart applies to operating unmanned rockets. However, a person operating an unmanned rocket within a restricted area must comply with § 101.25(b)(7)(ii) and with any additional limitations imposed by the using or controlling agency.
 . A person operating an unmanned rocket other than an amateur rocket as defined in § 1.1 of this chapter must comply with 14 CFR Chapter III.
 
-## § 101.22
-
-### Definitions.
+## § 101.22 - Definitions.
 
 The following definitions apply to this subpart:
 
+[loweralpha]
 . *Class 1—Model Rocket* means an amateur rocket that:
+[arabic]
 .. Uses no more than 125 grams (4.4 ounces) of propellant;
 .. Uses a slow-burning propellant;
 .. Is made of paper, wood, or breakable plastic;
@@ -24,23 +23,22 @@ The following definitions apply to this subpart:
 . *Class 2—High-Power Rocket* means an amateur rocket other than a model rocket that is propelled by a motor or motors having a combined total impulse of 40,960 Newton-seconds (9,208 pound-seconds) or less.
 . *Class 3—Advanced High-Power Rocket* means an amateur rocket other than a model rocket or high-power rocket.
 
-## § 101.23
+## § 101.23 - General operating limitations.
 
-### General operating limitations.
-
+[loweralpha]
 . You must operate an amateur rocket in such a manner that it:
+[arabic]
 .. Is launched on a suborbital trajectory;
 .. When launched, must not cross into the territory of a foreign country unless an agreement is in place between the United States and the country of concern;
 .. Is unmanned; and
 .. Does not create a hazard to persons, property, or other aircraft.
 . The FAA may specify additional operating limitations necessary to ensure that air traffic is not adversely affected, and public safety is not jeopardized.
 
-## § 101.25
-
-### Operating limitations for Class 2-High Power Rockets and Class 3-Advanced High Power Rockets.
+## § 101.25 - Operating limitations for Class 2-High Power Rockets and Class 3-Advanced High Power Rockets.
 
 When operating *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Rockets, you must comply with the General Operating Limitations of § 101.23. In addition, you must not operate *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Rockets—
 
+[loweralpha]
 . At any altitude where clouds or obscuring phenomena of more than five-tenths coverage prevails;
 . At any altitude where the horizontal visibility is less than five miles;
 . Into any cloud;
@@ -48,17 +46,18 @@ When operating *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Roc
 . Within 9.26 kilometers (5 nautical miles) of any airport boundary without prior authorization from the FAA;
 . In controlled airspace without prior authorization from the FAA;
 . Unless you observe the greater of the following separation distances from any person or property that is not associated with the operations:
+[arabic]
 .. Not less than one-quarter the maximum expected altitude;
 .. 457 meters (1,500 ft.);
 . Unless a person at least eighteen years old is present, is charged with ensuring the safety of the operation, and has final approval authority for initiating high-power rocket flight; and
-. Unless reasonable precautions are provided to report and control a fire caused by rocket activities.
+[lowerroman]
+.. Unless reasonable precautions are provided to report and control a fire caused by rocket activities.
 
-## § 101.27
-
-### ATC notification for all launches.
+## § 101.27 - ATC notification for all launches.
 
 No person may operate an unmanned rocket other than a Class 1—Model Rocket unless that person gives the following information to the FAA ATC facility nearest to the place of intended operation no less than 24 hours before and no more than three days before beginning the operation:
 
+[loweralpha]
 . The name and address of the operator; except when there are multiple participants at a single event, the name and address of the person so designated as the event launch coordinator, whose duties include coordination of the required launch data estimates and coordinating the launch event;
 . Date and time the activity will begin;
 . Radius of the affected area on the ground in nautical miles;
@@ -67,11 +66,11 @@ No person may operate an unmanned rocket other than a Class 1—Model Rocket unl
 . Duration of the activity;
 . Any other pertinent information requested by the ATC facility.
 
-## § 101.29
+## § 101.29 - Information requirements.
 
-### Information requirements.
-
+[loweralpha]
 . *Class 2—High-Power Rockets.* When a Class 2—High-Power Rocket requires a certificate of waiver or authorization, the person planning the operation must provide the information below on each type of rocket to the FAA at least 45 days before the proposed operation. The FAA may request additional information if necessary to ensure the proposed operations can be safely conducted. The information shall include for each type of Class 2 rocket expected to be flown:
+[arabic]
 .. Estimated number of rockets,
 .. Type of propulsion (liquid or solid), fuel(s) and oxidizer(s),
 .. Description of the launcher(s) planned to be used, including any airborne platform(s),
@@ -80,6 +79,7 @@ No person may operate an unmanned rocket other than a Class 1—Model Rocket unl
 .. Launch site latitude, longitude, and elevation, and
 .. Any additional safety procedures that will be followed.
 . *Class 3—Advanced High-Power Rockets.* When a Class 3—Advanced High-Power Rocket requires a certificate of waiver or authorization the person planning the operation must provide the information below for each type of rocket to the FAA at least 45 days before the proposed operation. The FAA may request additional information if necessary to ensure the proposed operations can be safely conducted. The information shall include for each type of Class 3 rocket expected to be flown:
+[arabic]
 .. The information requirements of paragraph (a) of this section,
 .. Maximum possible range,
 .. The dynamic stability characteristics for the entire flight profile,

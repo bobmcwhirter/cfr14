@@ -1,16 +1,13 @@
 # Class A Airspace
 :toc:
 
-## § 71.31
-
-### Class A airspace.
+## § 71.31 - Class A airspace.
 
 The airspace descriptions contained in § 71.33 and the routes contained in subpart A of FAA Order 7400.11A (incorporated by reference, see § 71.1) are designated as Class A airspace within which all pilots and aircraft are subject to the rating requirements, operating rules, and equipment requirements of part 91 of this chapter.
 
-## § 71.33
+## § 71.33 - Class A airspace areas.
 
-### Class A airspace areas.
-
+[loweralpha]
 . That airspace of the United States, including that airspace overlying the waters within 12 nautical miles of the coast of the 48 contiguous States, from 18,000 feet MSL to and including FL600 excluding the states of Alaska and Hawaii.
 . That airspace of the State of Alaska, including that airspace overlying the waters within 12 nautical miles of the coast, from 18,000 feet MSL to and including FL600 but not including the airspace less than 1,500 feet above the surface of the earth and the Alaska Peninsula west of longitude 160°00′00″ West.
 . The airspace areas listed as offshore airspace areas in subpart A of FAA Order 7400.11A (incorporated by reference, see § 71.1) that are designated in international airspace within areas of domestic radio navigational signal or ATC radar coverage, and within which domestic ATC procedures are applied.

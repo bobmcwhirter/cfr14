@@ -1,11 +1,11 @@
 # Crewmember Qualifications
 :toc:
 
-## § 121.431
+## § 121.431 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This subpart:
+[arabic]
 .. Prescribes crewmember qualifications for all certificate holders except where otherwise specified. The qualification requirements of this subpart also apply to each certificate holder that conducts commuter operations under part 135 of this chapter with airplanes for which two pilots are required by the aircraft type certification rules of this chapter. The Administrator may authorize any other certificate holder that conducts operations under part 135 of this chapter to comply with the training and qualification requirements of this subpart instead of subparts E, G, and H of part 135 of this chapter, except that these certificate holders may choose to comply with the operating experience requirements of § 135.244 of this chapter, instead of the requirements of § 121.434. Notwithstanding the requirements of this subpart, a pilot serving under part 135 of this chapter as second in command may meet the requirements of § 135.245 instead of the requirements of § 121.436; and
 .. Permits training center personnel authorized under part 142 of this chapter who meet the requirements of §§ 121.411 through 121.414 to provide training, testing, and checking under contract or other arrangement to those persons subject to the requirements of this subpart.
 . For the purpose of this subpart, the airplane groups and terms and definitions prescribed in § 121.400 and the following definitions apply:
@@ -16,97 +16,105 @@
 
 *Operating cycle* is a complete flight segment consisting of a takeoff, climb, enroute portion, descent, and a landing.
 
-## § 121.432
+## § 121.432 - General.
 
-### General.
-
+[loweralpha]
 . Except in the case of operating experience under § 121.434, a pilot who serves as second in command of an operation that requires three or more pilots must be fully qualified to act as pilot in command of that operation.
 . No certificate holder may conduct a check or any training in operations under this part, except for the following checks and training required by this part or the certificate holder:
+[arabic]
 .. Line checks for pilots.
 .. Flight engineer checks (except for emergency procedures), if the person being checked is qualified and current in accordance with § 121.453(a).
 .. Flight attendant training and competence checks.
               
 
-## § 121.433
+## § 121.433 - Training required.
 
-### Training required.
-
+[loweralpha]
 . *Initial training.* No certificate holder may use any person nor may any person serve as a required crewmember on an airplane unless that person has satisfactorily completed, in a training program approved under subpart N of this part, initial ground and flight training for that type airplane and for the particular crewmember position, except as follows:
+[arabic]
 .. Crewmembers who have qualified and served as a crewmember on another type airplane of the same group may serve in the same crewmember capacity upon completion of transition training as provided in § 121.415.
 .. Crewmembers who have qualified and served as second in command or flight engineer on a particular type airplane may serve as pilot in command or second in command, respectively, upon completion of upgrade training for that airplane as provided in § 121.415.
 . *Differences training.* No certificate holder may use any person nor may any person serve as a required crewmember on an airplane of a type for which differences training is included in the certificate holder's approved training program unless that person has satisfactorily completed, with respect to both the crewmember position and the particular variation of the airplane in which the person serves, either initial or transition ground and flight training, or differences training, as provided in § 121.415.
-. *Recurrent training.* (1) No certificate holder may use any person nor may any person serve as a required crewmember on an airplane unless, within the preceding 12 calendar months—
+. *Recurrent training.*
+[arabic]
+.. No certificate holder may use any person nor may any person serve as a required crewmember on an airplane unless, within the preceding 12 calendar months—
+[lowerroman]
+... For flight crewmembers, the person has satisfactorily completed recurrent ground and flight training for that airplane and crewmember position and a flight check as applicable;
+... For flight attendants and dispatchers, the person has satisfactorily completed recurrent ground training and a competence check; and
+... In addition, for pilots in command the person has satisfactorily completed, within the preceding 6 calendar months, recurrent flight training in addition to the recurrent flight training required in paragraph (c)(1)(i) of this section, in an airplane in which the person serves as pilot in command in operations under this part.
+.. For pilots, a proficiency check as provided in § 121.441 of this part may be substituted for the recurrent flight training required by this paragraph and the approved simulator course of training under § 121.409(b) of this part may be substituted for alternate periods of recurrent flight training required in that airplane, except as provided in paragraphs (d) and (e) of this section.
 . For each airplane in which a pilot serves as pilot in command, the person must satisfactorily complete either recurrent flight training or a proficiency check within the preceding 12 calendar months. The requirement in this paragraph expires on March 12, 2019. After that date, the requirement in § 121.441(a)(1)(ii) of this part applies.
 . Notwithstanding paragraphs (c)(2) and (d) of this section, a proficiency check as provided in § 121.441 of this part may not be substituted for the extended envelope training required by § 121.423 or training in those maneuvers and procedures set forth in a certificate holder's approved low-altitude windshear flight training program when that program is included in a recurrent flight training course as required by § 121.409(d) of this part.
 
-(i) For flight crewmembers, the person has satisfactorily completed recurrent ground and flight training for that airplane and crewmember position and a flight check as applicable;
+## § 121.434 - Operating experience, operating cycles, and consolidation of knowledge and skills.
 
-(ii) For flight attendants and dispatchers, the person has satisfactorily completed recurrent ground training and a competence check; and
-
-(iii) In addition, for pilots in command the person has satisfactorily completed, within the preceding 6 calendar months, recurrent flight training in addition to the recurrent flight training required in paragraph (c)(1)(i) of this section, in an airplane in which the person serves as pilot in command in operations under this part.
-
-(2) For pilots, a proficiency check as provided in § 121.441 of this part may be substituted for the recurrent flight training required by this paragraph and the approved simulator course of training under § 121.409(b) of this part may be substituted for alternate periods of recurrent flight training required in that airplane, except as provided in paragraphs (d) and (e) of this section.
-
-## § 121.434
-
-### Operating experience, operating cycles, and consolidation of knowledge and skills.
-
+[loweralpha]
 . No certificate holder may use a person nor may any person serve as a required crewmember of an airplane unless the person has satisfactorily completed, on that type airplane and in that crewmember position, the operating experience, operating cycles, and the line operating flight time for consolidation of knowledge and skills, required by this section, except as follows:
+[arabic]
 .. Crewmembers other than pilots in command may serve as provided herein for the purpose of meeting the requirements of this section.
 .. Pilots who are meeting the pilot in command requirements may serve as second in command.
 .. Separate operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills are not required for variations within the same type airplane.
 .. Deviation based upon designation of related aircraft in accordance with § 121.418(b).
+[lowerroman]
 ... The Administrator may authorize a deviation from the operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills required by this section based upon a designation of related aircraft in accordance with § 121.418(b) of this part and a determination that the certificate holder can demonstrate an equivalent level of safety.
 ... A request for deviation from the operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills required by this section based upon a designation of related aircraft must be submitted to the Administrator. The request must include the following:
+[upperalpha]
+.... Identification of aircraft operated by the certificate holder designated as related aircraft.
+.... Hours of operating experience and number of operating cycles necessary based on review of the related aircraft, the operation, and the duty position.
+.... Consolidation hours necessary based on review of the related aircraft, the operation, and the duty position.
 ... The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (a)(4).
 . In acquiring the operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills, crewmembers must comply with the following:
+[arabic]
 .. In the case of a flight crewmember, the person must hold the appropriate certificates and ratings for the crewmember position and the airplane, except that a pilot who is meeting the pilot in command requirements must hold the appropriate certificates and ratings for a pilot in command in the airplane.
 .. The operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills must be acquired after satisfactory completion of the appropriate ground and flight training for the particular airplane type and crewmember position.
 .. The experience must be acquired in flight during operations under this part. However, in the case of an aircraft not previously used by the certificate holder in operations under this part, operating experience acquired in the aircraft during proving flights or ferry flights may be used to meet this requirement.
 . Pilot crewmembers must acquire operating experience and operating cycles as follows:
+[arabic]
 .. A pilot in command must—
+[lowerroman]
 ... Perform the duties of a pilot in command under the supervision of a check pilot; and
 ... In addition, if a qualifying pilot in command is completing initial or upgrade training specified in § 121.424, be observed in the performance of prescribed duties by an FAA inspector during at least one flight leg which includes a takeoff and landing. During the time that a qualifying pilot in command is acquiring the operating experience in paragraphs (c)(l) (i) and (ii) of this section, a check pilot who is also serving as the pilot in command must occupy a pilot station. However, in the case of a transitioning pilot in command the check pilot serving as pilot in command may occupy the observer's seat, if the transitioning pilot has made at least two takeoffs and landings in the type airplane used, and has satisfactorily demonstrated to the check pilot that he is qualified to perform the duties of a pilot in command of that type of airplane.
 .. A second in command pilot must perform the duties of a second in command under the supervision of an appropriately qualified check pilot.
 .. The hours of operating experience and operating cycles for all pilots are as follows:
+[lowerroman]
 ... For initial training, 15 hours in Group I reciprocating powered airplanes, 20 hours in Group I turbopropeller powered airplanes, and 25 hours in Group II airplanes. Operating experience in both airplane groups must include at least 4 operating cycles (at least 2 as the pilot flying the airplane).
 ... For transition training, except as provided in paragraph (c)(3)(iii) of this section, 10 hours in Group I reciprocating powered airplanes, 12 hours in Group I turbopropeller powered airplanes, 25 hours for pilots in command in Group II airplanes, and 15 hours for second in command pilots in Group II airplanes. Operating experience in both airplane groups must include at least 4 operating cycles (at least 2 as the pilot flying the airplane).
 ... In the case of transition training where the certificate holder's approved training program includes a course of training in an airplane simulator under § 121.409(c), each pilot in command must comply with the requirements prescribed in paragraph (c)(3)(i) of this section for initial training.
 . A flight engineer must perform the duties of a flight engineer under the supervision of a check airman or a qualified flight engineer for at least the following number of hours:
+[arabic]
 .. Group I reciprocating powered airplanes, 8 hours.
 .. Group I turbopropeller powered airplanes, 10 hours.
 .. Group II airplanes, 12 hours.
 . A flight attendant must, for at least 5 hours, perform the assigned duties of a flight attendant under the supervision of a flight attendant supervisor qualified under this part who personally observes the performance of these duties. However, operating experience is not required for a flight attendant who has previously acquired such experience on any large passenger carrying airplane of the same group, if the certificate holder shows that the flight attendant has received sufficient ground training for the airplane in which the flight attendant is to serve. Flight attendants receiving operating experience may not be assigned as a required crewmember. Flight attendants who have satisfactorily completed training time acquired in an approved training program conducted in a full-scale (except for length) cabin training device of the type airplane in which they are to serve may substitute this time for 50 percent of the hours required by this paragraph.
 . Flight crewmembers may substitute one additional takeoff and landing for each hour of flight to meet the operating experience requirements of this section, up to a maximum reduction of 50% of flight hours, except those in Group II initial training, and second in command pilots in Group II transition training.
 . Except as provided in paragraph (h) of this section, pilot in command and second in command crewmembers must each acquire at least 100 hours of line operating flight time for consolidation of knowledge and skills (including operating experience required under paragraph (c) of this section) within 120 days after the satisfactory completion of:
+[arabic]
 .. Any part of the flight maneuvers and procedures portion of either an airline transport pilot certificate with type rating practical test or an additional type rating practical test, or
 .. A § 121.441 proficiency check.
 . The following exceptions apply to the consolidation requirement of paragraph (g) of this section:
               
+[arabic]
 .. Pilots who have qualified and served as pilot in command or second in command on a particular type airplane in operations under this part before August 25, 1995 are not required to complete line operating flight time for consolidation of knowledge and skills.
 .. Pilots who have completed the line operating flight time requirement for consolidation of knowledge and skills while serving as second in command on a particular type airplane in operations under this part after August 25, 1995 are not required to repeat the line operating flight time before serving as pilot in command on the same type airplane.
 .. If, before completing the required 100 hours of line operating flight time, a pilot serves as a pilot in another airplane type operated by the certificate holder, the pilot may not serve as a pilot in the airplane for which the pilot has newly qualified unless the pilot satifactorily completes refresher training as provided in the certificate holder's approved training program and that training is conducted by an appropriately qualified instructor or check pilot.
 .. If the required 100 hours of line operating flight time are not completed within 120 days, the certificate holder may extend the 120-day period to no more than 150 days if—
+[lowerroman]
 ... The pilot continues to meet all other applicable requirements of subpart O of this part; and
 ... On or before the 120th day the pilot satisfactorily completes refresher training conducted by an appropriately qualified instructor or check pilot as provided in the certificate holder's approved training program, or a check pilot determines that the pilot has retained an adequate level of proficiency after observing that pilot in a supervised line operating flight.
 .. The Administrator, upon application by the certificate holder, may authorize deviations from the requirements of paragraph (g) of this section, by an appropriate amendment to the operations specifications, to the extent warranted by any of the following circumstances:
+[lowerroman]
 ... Notwithstanding the reductions in programmed hours permitted under §§ 121.405 and 121.409 of subpart N of this part, the hours of operating experience for crewmembers are not subject to reduction other than as provided in accordance with a deviation authorized under paragraph (a) of this section or as provided in paragraphs (e) and (f) of this section.
 
-(A) Identification of aircraft operated by the certificate holder designated as related aircraft.
+## § 121.435 - Reserved
 
-(B) Hours of operating experience and number of operating cycles necessary based on review of the related aircraft, the operation, and the duty position.
 
-(C) Consolidation hours necessary based on review of the related aircraft, the operation, and the duty position.
+Reserved
 
-## § 121.435
+## § 121.436 - Pilot Qualification: Certificates and experience requirements.
 
-### Reserved
-
-## § 121.436
-
-### Pilot Qualification: Certificates and experience requirements.
-
+[loweralpha]
 . No certificate holder may use nor may any pilot act as pilot in command of an aircraft (or as second in command of an aircraft in a flag or supplemental operation that requires three or more pilots) unless the pilot:
+[arabic]
 .. Holds an airline transport pilot certificate not subject to the limitations in § 61.167 of this chapter;
 .. Holds an appropriate aircraft type rating for the aircraft being flown; and
 .. If serving as pilot in command in part 121 operations, has 1,000 hours as second in command in operations under this part, pilot in command in operations under § 91.1053(a)(2)(i) of this chapter, pilot in command in operations under § 135.243(a)(1) of this chapter, or any combination thereof. For those pilots who are employed as pilot in command in part 121 operations on July 31, 2013, compliance with the requirements of this paragraph (a)(3) is not required.
@@ -114,13 +122,14 @@
 . For the purpose of satisfying the flight hour requirement in paragraph (a)(3) of this section, a pilot may credit 500 hours of military flight time obtained as pilot in command of a multiengine turbine-powered, fixed-wing airplane in an operation requiring more than one pilot.
 . Compliance with the requirements of this section is required by August 1, 2013. However, for those pilots who are employed as second in command in part 121 operations on July 31, 2013, compliance with the type rating requirement in paragraph (b) of this section is not required until January 1, 2016.
 
-## § 121.438
+## § 121.438 - Pilot operating limitations and pairing requirements.
 
-### Pilot operating limitations and pairing requirements.
-
+[loweralpha]
 . If the second in command has fewer than 100 hours of flight time as second in command in operations under this part in the type airplane being flown, and the pilot in command is not an appropriately qualified check pilot, the pilot in command must make all takeoffs and landings in the following situations:
+[arabic]
 .. At special airports designated by the Administrator or at special airports designated by the certificate holder; and
 .. In any of the following conditions:
+[lowerroman]
 ... The prevailing visibility value in the latest weather report for the airport is at or below 3/4 mile.
 ... The runway visual range for the runway to be used is at or below 4,000 feet.
 ... The runway to be used has water, snow, slush or similar conditions that may adversely affect airplane performance.
@@ -129,90 +138,100 @@
 ... Windshear is reported in the vicinity of the airport.
 ... Any other condition in which the PIC determines it to be prudent to exercise the PIC's prerogative.
 . No person may conduct operations under this part unless, for that type airplane, either the pilot in command or the second in command has at least 75 hours of line operating flight time, either as pilot in command or second in command. The Administrator may, upon application by the certificate holder, authorize deviations from the requirements of this paragraph (b) by an appropriate amendment to the operations specifications in any of the following circumstances:
+[arabic]
 .. A newly certificated certificate holder does not employ any pilots who meet the minimum requirements of this paragraph.
 .. An existing certificate holder adds to its fleet a type airplane not before proven for use in its operations.
 .. An existing certificate holder establishes a new domicile to which it assigns pilots who will be required to become qualified on the airplanes operated from that domicile.
 
-## § 121.439
+## § 121.439 - Pilot qualification: Recent experience.
 
-### Pilot qualification: Recent experience.
-
+[loweralpha]
 . No certificate holder may use any person nor may any person serve as a required pilot flight crewmember, unless within the preceding 90 days, that person has made at least three takeoffs and landings in the type airplane in which that person is to serve. The takeoffs and landings required by this paragraph may be performed in a visual simulator approved under § 121.407 to include takeoff and landing maneuvers. In addition, any person who fails to make the three required takeoffs and landings within any consecutive 90-day period must reestablish recency of experience as provided in paragraph (b) of this section.
 . In addition to meeting all applicable training and checking requirements of this part, a required pilot flight crewmember who has not met the requirements of paragraph (a) of this section must reestablish recency of experience as follows:
               
+[arabic]
 .. Under the supervision of a check airman, make at least three takeoffs and landings in the type airplane in which that person is to serve or in an advanced simulator or visual simulator. When a visual simulator is used, the requirements of paragraph (c) of this section must be met.
 .. The takeoffs and landings required in paragraph (b)(1) of this section must include—
+[lowerroman]
 ... At least one takeoff with a simulated failure of the most critical powerplant;
 ... At least one landing from an ILS approach to the lowest ILS minimum authorized for the certificate holder; and
 ... At least one landing to a full stop.
 . A required pilot flight crewmember who performs the manuvers prescribed in paragraph (b) of this section in a visual simulator must—
+[arabic]
 .. Have previously logged 100 hours of flight time in the same type airplane in which he is to serve;
 .. Be observed on the first two landings made in operations under this part by an approved check airman who acts as pilot in command and occupies a pilot seat. The landings must be made in weather minimums that are not less than those contained in the certificate holder's operations specifications for Category I Operations, and must be made within 45 days following completion of simulator training.
 . When using a simulator to accomplish any of the requirements of paragraph (a) or (b) of this section, each required flight crewmember position must be occupied by an appropriately qualified person and the simulator must be operated as if in a normal in-flight environment without use of the repositioning features of the simulator.
 . A check airman who observes the takeoffs and landings prescribed in paragraphs (b)(1) and (c) of this section shall certify that the person being observed is proficient and qualified to perform flight duty in operations under this part and may require any additional maneuvers that are determined necessary to make this certifying statement.
 . Deviation authority based upon designation of related aircraft in accordance with § 121.418(b).
+[arabic]
 .. The Administrator may authorize a deviation from the requirements of paragraph (a) of this section based upon a designation of related aircraft in accordance with § 121.418(b) of this part and a determination that the certificate holder can demonstrate an equivalent level of safety.
 .. A request for deviation from paragraph (a) of this section must be submitted to the Administrator. The request must include the following:
+[lowerroman]
 ... Identification of aircraft operated by the certificate holder designated as related aircraft.
 ... The number of takeoffs, landings, maneuvers, and procedures necessary to maintain or reestablish recency based on review of the related aircraft, the operation, and the duty position.
 .. The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (f).
 
-## § 121.440
+## § 121.440 - Line checks.
 
-### Line checks.
-
+[loweralpha]
 . No certificate holder may use any person nor may any person serve as pilot in command of an airplane unless, within the preceding 12 calendar months, that person has passed a line check in which he satisfactorily performs the duties and responsibilities of a pilot in command in one of the types of airplanes he is to fly.
 . A pilot in command line check for domestic and flag operations must—
+[arabic]
 .. Be given by a pilot check airman who is currently qualified on both the route and the airplane; and
 .. Consist of at least one flight over a typical part of the certificate holder's route, or over a foreign or Federal airway, or over a direct route.
 . A pilot in command line check for supplemental operations must—
+[arabic]
 .. Be given by a pilot check airman who is currently qualified on the airplane; and
               
 .. Consist of at least one flight over a part of a Federal airway, foreign airway, or advisory route over which the pilot may be assigned.
 
-## § 121.441
+## § 121.441 - Proficiency checks.
 
-### Proficiency checks.
-
+[loweralpha]
 . No certificate holder may use any person nor may any person serve as a required pilot flight crewmember unless that person has satisfactorily completed either a proficiency check, or an approved simulator course of training under § 121.409, as follows:
+[arabic]
 .. For a pilot in command—
+[lowerroman]
 ... Before March 12, 2019,
+[upperalpha]
+.... A proficiency check within the preceding 12 calendar months and,
+.... In addition, within the preceding 6 calendar months, either a proficiency check or the approved simulator course of training.
 ... Beginning on March 12, 2019,
+[upperalpha]
+.... A proficiency check within the preceding 12 calendar months in the aircraft type in which the person is to serve and,
+.... In addition, within the preceding 6 calendar months, either a proficiency check or the approved simulator course of training.
 .. For all other pilots—
+[lowerroman]
 ... Within the preceding 24 calendar months either a proficiency check or the line-oriented simulator training course under § 121.409; and
 ... Within the preceding 12 calendar months, either a proficiency check or any simulator training course under § 121.409.
 . Except as provided in paragraphs (c) and (d) of this section, a proficiency check must meet the following requirements:
+[arabic]
 .. It must include at least the procedures and maneuvers set forth in appendix F to this part unless otherwise specifically provided in that appendix.
 .. It must be given by the Administrator or a pilot check airman.
 . An approved airplane simulator or other appropriate training device may be used in the conduct of a proficiency check as provided in appendix F to this part.
 . A person giving a proficiency check may, in his discretion, waive any of the maneuvers or procedures for which a specific waiver authority is set forth in appendix F to this part if—
+[arabic]
 .. The Administrator has not specifically required the particular maneuver or procedure to be performed;
 .. The pilot being checked is, at the time of the check, employed by a certificate holder as a pilot; and
 .. The pilot being checked is currently qualified for operations under this part in the particular type airplane and flight crewmember position or has, within the preceding six calendar months, satisfactorily completed an approved training program for the particular type airplane.
 . If the pilot being checked fails any of the required maneuvers, the person giving the proficiency check may give additional training to the pilot during the course of the proficiency check. In addition to repeating the maneuvers failed, the person giving the proficiency check may require the pilot being checked to repeat any other maneuvers he finds are necessary to determine the pilot's proficiency. If the pilot being checked is unable to demonstrate satisfactory performance to the person conducting the check, the certificate holder may not use him nor may he serve in operations under this part until he has satisfactorily completed a proficiency check.
               
 . Deviation authority based upon designation of related aircraft in accordance with § 121.418(b) of this part.
+[arabic]
 .. The Administrator may authorize a deviation from the proficiency check requirements of paragraphs (a) and (b)(1) of this section based upon a designation of related aircraft in accordance with § 121.418(b) of this part and a determination that the certificate holder can demonstrate an equivalent level of safety.
 .. A request for deviation from paragraphs (a) and (b)(1) of this section must be submitted to the Administrator. The request must include the following:
+[lowerroman]
 ... Identification of aircraft operated by the certificate holder designated as related aircraft.
 ... For recurrent proficiency checks, the frequency of the related aircraft proficiency check and the maneuvers and procedures to be included in the related aircraft proficiency check based on review of the related aircraft, the operation, and the duty position.
 ... For qualification proficiency checks, the maneuvers and procedures to be included in the related aircraft proficiency check based on review of the related aircraft, the operation, and the duty position.
 .. The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (f).
 
-(A) A proficiency check within the preceding 12 calendar months and,
+## § 121.443 - Pilot in command qualification: Route and airports.
 
-(B) In addition, within the preceding 6 calendar months, either a proficiency check or the approved simulator course of training.
-
-(A) A proficiency check within the preceding 12 calendar months in the aircraft type in which the person is to serve and,
-
-(B) In addition, within the preceding 6 calendar months, either a proficiency check or the approved simulator course of training.
-
-## § 121.443
-
-### Pilot in command qualification: Route and airports.
-
+[loweralpha]
 . Each certificate holder shall provide a system acceptable to the Administrator for disseminating the information required by paragraph (b) of this section to the pilot in command and appropriate flight operation personnel. The system must also provide an acceptable means for showing compliance with § 121.445.
 . No certificate holder may use any person, nor may any person serve, as pilot in command unless the certificate holder has provided that person current information concerning the following subjects pertinent to the areas over which that person is to serve, and to each airport and terminal area into which that person is to operate, and ensures that that person has adequate knowledge of, and the ability to use, the information:
+[arabic]
 .. Weather characteristics appropriate to the season.
 .. Navigation facilities.
 .. Communication procedures, including airport visual aids.
@@ -222,32 +241,34 @@
 .. Congested areas and physical layout of each airport in the terminal area in which the pilot will operate.
 .. Notices to Airmen.
 
-## § 121.445
+## § 121.445 - Pilot in command airport qualification: Special areas and airports.
 
-### Pilot in command airport qualification: Special areas and airports.
-
+[loweralpha]
 . The Administrator may determine that certain airports (due to items such as surrounding terrain, obstructions, or complex approach or departure procedures) are special airports requiring special airport qualifications and that certain areas or routes, or both, require a special type of navigation qualification.
 . Except as provided in paragraph (c) of this section, no certificate holder may use any person, nor may any person serve, as pilot in command to or from an airport determined to require special airport qualifications unless, within the preceding 12 calendar months:
+[arabic]
 .. The pilot in command or second in command has made an entry to that airport (including a takeoff and landing) while serving as a pilot flight crewmember; or
 .. The pilot in command has qualified by using pictorial means acceptable to the Administrator for that airport.
 . Paragraph (b) of this section does not apply when an entry to that airport (including a takeoff or a landing) is being made if the ceiling at that airport is at least 1,000 feet above the lowest MEA or MOCA, or initial approach altitude prescribed for the instrument approach procedure for that airport, and the visibility at that airport is at least 3 miles.
 . No certificate holder may use any person, nor may any person serve, as pilot in command between terminals over a route or area that requires a special type of navigation qualification unless, within the preceding 12 calendar months, that person has demonstrated qualification on the applicable navigation system in a manner acceptable to the Administrator, by one of the following methods:
+[arabic]
 .. By flying over a route or area as pilot in command using the applicable special type of navigation system.
 .. By flying over a route or area as pilot in command under the supervision of a check airman using the special type of navigation system.
 .. By completing the training program requirements of appendix G of this part.
 
-## § 121.447
+## § 121.447 - Reserved
 
-### Reserved
 
-## § 121.453
+Reserved
 
-### Flight engineer qualifications.
+## § 121.453 - Flight engineer qualifications.
 
+[loweralpha]
 . No certificate holder may use any person nor may any person serve as a flight engineer on an airplane unless, within the preceding 6 calendar months, he has had at least 50 hours of flight time as a flight engineer on that type airplane or the certificate holder or the Administrator has checked him on that type airplane and determined that he is familiar and competent with all essential current information and operating procedures.
 . A flight check given in accordance with § 121.425(a)(2) satisfies the requirements of paragraph (a) of this section.
 
-## §§ 121.455-121.459
+## §§ 121.455-121.459 - Reserved
 
-### Reserved
+
+Reserved
 

@@ -1,10 +1,9 @@
 # Organization Designation Authorization
 :toc:
 
-## § 183.41
+## § 183.41 - Applicability and definitions.
 
-### Applicability and definitions.
-
+[loweralpha]
 . This subpart contains the procedures required to obtain an Organization Designation Authorization, which allows an organization to perform specified functions on behalf of the Administrator related to engineering, manufacturing, operations, airworthiness, or maintenance.
 . *Definitions.* For the purposes of this subpart:
 
@@ -14,63 +13,59 @@
 
 *ODA Unit* means an identifiable group of two or more individuals within the ODA Holder's organization that performs the authorized functions.
 
-## § 183.43
-
-### Application.
+## § 183.43 - Application.
 
 An application for an ODA may be submitted after November 14, 2006. An application for an ODA must be submitted in a form and manner prescribed by the Administrator and must include the following:
 
+[loweralpha]
 . A description of the functions for which authorization is requested.
 . A description of how the applicant satisfies the requirements of § 183.47 of this part;
 . A description of the applicant's organizational structure, including a description of the proposed ODA Unit as it relates to the applicant's organizational structure; and
               
 . A proposed procedures manual as described in § 183.53 of this part.
 
-## § 183.45
+## § 183.45 - Issuance of Organization Designation Authorizations.
 
-### Issuance of Organization Designation Authorizations.
-
+[loweralpha]
 . The Administrator may issue an ODA Letter of Designation if:
+[arabic]
 .. The applicant meets the applicable requirements of this subpart; and
 .. A need exists for a delegation of the function.
 . An ODA Holder must apply to and obtain approval from the Administrator for any proposed changes to the functions or limitations described in the ODA Holder's authorization.
 
-## § 183.47
-
-### Qualifications.
+## § 183.47 - Qualifications.
 
 To qualify for consideration as an ODA, the applicant must—
 
+[loweralpha]
 . Have sufficient facilities, resources, and personnel, to perform the functions for which authorization is requested;
 . Have sufficient experience with FAA requirements, processes, and procedures to perform the functions for which authorization is requested; and
 . Have sufficient, relevant experience to perform the functions for which authorization is requested.
 
-## § 183.49
+## § 183.49 - Authorized functions.
 
-### Authorized functions.
-
+[loweralpha]
 . Consistent with an ODA Holder's qualifications, the Administrator may delegate any function determined appropriate under 49 U.S.C. 44702(d).
 . Under the general supervision of the Administrator, an ODA Unit may perform only those functions, and is subject to the limitations, listed in the ODA Holder's procedures manual.
 
-## § 183.51
-
-### ODA Unit personnel.
+## § 183.51 - ODA Unit personnel.
 
 Each ODA Holder must have within its ODA Unit—
 
+[loweralpha]
 . At least one qualified ODA administrator; and either
 . A staff consisting of the engineering, flight test, inspection, or maintenance personnel needed to perform the functions authorized. Staff members must have the experience and expertise to find compliance, determine conformity, determine airworthiness, issue certificates or issue approvals; or
 . A staff consisting of operations personnel who have the experience and expertise to find compliance with the regulations governing the issuance of pilot, crew member, or operating certificates, authorizations, or endorsements as needed to perform the functions authorized.
 
-## § 183.53
-
-### Procedures manual.
+## § 183.53 - Procedures manual.
 
 No ODA Letter of Designation may be issued before the Administrator approves an applicant's procedures manual. The approved manual must:
 
+[loweralpha]
 . Be available to each member of the ODA Unit;
 . Include a description of those changes to the manual or procedures that may be made by the ODA Holder. All other changes to the manual or procedures must be approved by the Administrator before they are implemented.
 . Contain the following:
+[arabic]
 .. The authorized functions and limitations, including the products, certificates, and ratings;
 .. The procedures for performing the authorized functions;
 .. Description of the ODA Holder's and the ODA Unit's organizational structure and responsibilities;
@@ -88,39 +83,36 @@ No ODA Letter of Designation may be issued before the Administrator approves an 
 .. The procedures for revising the manual, pursuant to the limitations of paragraph (b) of this section; and
 .. Any other information required by the Administrator necessary to supervise the ODA Holder in the performance of its authorized functions.
 
-## § 183.55
+## § 183.55 - Limitations.
 
-### Limitations.
-
+[loweralpha]
 . If any change occurs that may affect an ODA Unit's qualifications or ability to perform a function (such as a change in the location of facilities, resources, personnel or the organizational structure), no Unit member may perform that function until the Administrator is notified of the change, and the change is approved and appropriately documented as required by the procedures manual.
 . No ODA Unit member may issue a certificate, authorization, or other approval until any findings reserved for the Administrator have been made.
 . An ODA Holder is subject to any other limitations as specified by the Administrator.
 
-## § 183.57
-
-### Responsibilities of an ODA Holder.
+## § 183.57 - Responsibilities of an ODA Holder.
 
 The ODA Holder must—
 
+[loweralpha]
 . Comply with the procedures contained in its approved procedures manual;
 . Give ODA Unit members sufficient authority to perform the authorized functions;
 . Ensure that no conflicting non-ODA Unit duties or other interference affects the performance of authorized functions by ODA Unit members.
 . Cooperate with the Administrator in his performance of oversight of the ODA Holder and the ODA Unit.
 . Notify the Administrator of any change that could affect the ODA Holder's ability to continue to meet the requirements of this part within 48 hours of the change occurring.
 
-## § 183.59
-
-### Inspection.
+## § 183.59 - Inspection.
 
 The Administrator, at any time and for any reason, may inspect an ODA Holder's or applicant's facilities, products, components, parts, appliances, procedures, operations, and records associated with the authorized or requested functions.
 
-## § 183.61
+## § 183.61 - Records and reports.
 
-### Records and reports.
-
+[loweralpha]
 . Each ODA Holder must ensure that the following records are maintained for the duration of the authorization:
+[arabic]
 .. [Reserved]
 .. For any approval or certificate issued by an ODA Unit member (except those airworthiness certificates and approvals not issued in support of type design approval projects):
+[lowerroman]
 ... The application and data required to be submitted under this chapter to obtain the certificate or approval; and
 ... The data and records documenting the ODA Unit member's approval or determination of compliance.
 .. A list of the products, components, parts, or appliances for which ODA Unit members have issued a certificate or approval.
@@ -130,48 +122,50 @@ The Administrator, at any time and for any reason, may inspect an ODA Holder's o
 .. Any other records specified in the ODA Holder's procedures manual.
 .. The procedures manual required under § 183.53 of this part, including all changes.
 . Each ODA Holder must ensure that the following are maintained for five years:
+[arabic]
 .. A record of each periodic audit and any corrective actions resulting from them; and
 .. A record of any reported service difficulties associated with approvals or certificates issued by an ODA Unit member.
 . For airworthiness certificates and approvals not issued in support of a type design approval project, each ODA Holder must ensure the following are maintained for two years;
+[arabic]
 .. The application and data required to be submitted under this chapter to obtain the certificate or approval; and
 .. The data and records documenting the ODA Unit member's approval or determination of compliance.
               
 . For all records required by this section to be maintained, each ODA Holder must:
+[arabic]
 .. Ensure that the records and data are available to the Administrator for inspection at any time;
 .. Submit all records and data to the Administrator upon surrender or termination of the authorization.
 . Each ODA Holder must compile and submit any report required by the Administrator to exercise his supervision of the ODA Holder.
 
-## § 183.63
-
-### Continuing requirements: Products, parts or appliances.
+## § 183.63 - Continuing requirements: Products, parts or appliances.
 
 For any approval or certificate for a product, part or appliance issued under the authority of this subpart, an ODA Holder must:
 
+[loweralpha]
 . Monitor reported service problems related to certificates or approvals it holds;
 . Notify the Administrator of:
+[arabic]
 .. A condition in a product, part or appliance that could result in a finding of unsafe condition by the Administrator; or
 .. A product, part or appliance not meeting the applicable airworthiness requirements for which the ODA Holder has obtained or issued a certificate or approval.
 . Investigate any suspected unsafe condition or finding of noncompliance with the airworthiness requirements for any product, part or appliance, as required by the Administrator, and report to the Administrator the results of the investigation and any action taken or proposed.
 . Submit to the Administrator the information necessary to implement corrective action needed for safe operation of the product, part or appliance.
 
-## § 183.65
-
-### Continuing requirements: Operational approvals.
+## § 183.65 - Continuing requirements: Operational approvals.
 
 For any operational authorization, airman certificate, air carrier certificate, air operator certificate, or air agency certificate issued under the authority of this subpart, an ODA Holder must:
 
+[loweralpha]
 . Notify the Administrator of any error that the ODA Holder finds it made in issuing an authorization or certificate;
 . Notify the Administrator of any authorization or certificate that the ODA Holder finds it issued to an applicant not meeting the applicable requirements;
 . When required by the Administrator, investigate any problem concerning the issuance of an authorization or certificate; and
 . When notified by the Administrator, suspend issuance of similar authorizations or certificates until the ODA Holder implements all corrective action required by the Administrator.
 
-## § 183.67
+## § 183.67 - Transferability and duration.
 
-### Transferability and duration.
-
+[loweralpha]
 . An ODA is effective until the date shown on the Letter of Designation, unless sooner terminated by the Administrator.
 . No ODA may be transferred at any time.
 . The Administrator may terminate or temporarily suspend an ODA for any reason, including that the ODA Holder:
+[arabic]
 .. Has requested in writing that the authorization be suspended or terminated;
 .. Has not properly performed its duties;
 .. Is no longer needed; or

@@ -1,11 +1,11 @@
 # General
 :toc:
 
-## § 135.1
+## § 135.1 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This part prescribes rules governing—
+[arabic]
 .. The commuter or on-demand operations of each person who holds or is required to hold an Air Carrier Certificate or Operating Certificate under part 119 of this chapter.
 .. Each person employed or used by a certificate holder conducting operations under this part including the maintenance, preventative maintenance and alteration of an aircraft.
 .. The transportation of mail by aircraft conducted under a postal service contract awarded under 39 U.S.C. 5402c.
@@ -17,15 +17,17 @@
 .. Helicopter air ambulance operations as defined in § 135.601(b)(1).
 . [Reserved]
 . An operator who does not hold a part 119 certificate and who operates under the provisions of § 91.147 of this chapter is permitted to use a person who is otherwise authorized to perform aircraft maintenance or preventive maintenance duties and who is not subject to anti-drug and alcohol misuse prevent programs to perform—
+[arabic]
 .. Aircraft maintenance or preventive maintenance on the operator's aircraft if the operator would otherwise be required to transport the aircraft more than 50 nautical miles further than the repair point closest to operator's principal place of operation to obtain these services; or
 .. Emergency repairs on the operator's aircraft if the aircraft cannot be safely operated to a location where an employee subject to FAA-approved programs can perform the repairs.
 
-## § 135.2
+## § 135.2 - Compliance schedule for operators that transition to part 121 of this chapter; certain new entrant operators.
 
-### Compliance schedule for operators that transition to part 121 of this chapter; certain new entrant operators.
-
+[loweralpha]
 . *Applicability.* This section applies to the following:
+[arabic]
 .. Each certificate holder that was issued an air carrier or operating certificate and operations specifications under the requirements of part 135 of this chapter or under SFAR No. 38-2 of 14 CFR part 121 before January 19, 1996, and that conducts scheduled passenger-carrying operations with:
+[lowerroman]
 ... Nontransport category turbopropeller powered airplanes type certificated after December 31, 1964, that have a passenger seat configuration of 10-19 seats;
 ... Transport category turbopropeller powered airplanes that have a passenger seat configuration of 20-30 seats; or
               
@@ -34,140 +36,125 @@
 . *Obtaining operations specifications.* A certificate holder described in paragraph (a)(1) of this section may not, after March 20, 1997, operate an airplane described in paragraphs (a)(1)(i), (a)(1)(ii), or (a)(1)(iii) of this section in scheduled passenger-carrying operations, unless it obtains operations specifications to conduct its scheduled operations under part 121 of this chapter on or before March 20, 1997.
 . *Regular or accelerated compliance.* Except as provided in paragraphs (d), and (e) of this section, each certificate holder described in paragraph (a)(1) of this section shall comply with each applicable requirement of part 121 of this chapter on and after March 20, 1997 or on and after the date on which the certificate holder is issued operations specifications under this part, whichever occurs first. Except as provided in paragraphs (d) and (e) of this section, each person described in paragraph (a)(2) of this section shall comply with each applicable requirement of part 121 of this chapter on and after the date on which that person is issued a certificate and operations specifications under part 121 of this chapter.
 . *Delayed compliance dates.* Unless paragraph (e) of this section specifies an earlier compliance date, no certificate holder that is covered by paragraph (a) of this section may operate an airplane in 14 CFR part 121 operations on or after a date listed in this paragraph unless that airplane meets the applicable requirement of this paragraph:
+[arabic]
 .. *Nontransport category turbopropeller powered airplanes type certificated after December 31, 1964, that have a passenger seat configuration of 10-19 seats.* No certificate holder may operate under this part an airplane that is described in paragraph (a)(1)(i) of this section on or after a date listed in paragraph (d)(1) of this section unless that airplane meets the applicable requirement listed in paragraph (d)(1) of this section:
+[lowerroman]
 ... December 20, 1997:
+[upperalpha]
+.... Section 121.289, Landing gear aural warning.
+.... Section 121.308, Lavatory fire protection.
+.... Section 121.310(e), Emergency exit handle illumination.
+.... Section 121.337(b)(8), Protective breathing equipment.
+.... Section 121.340, Emergency flotation means.
 ... December 20, 1999: Section 121.342, Pitot heat indication system.
 ... December 20, 2010:
+[upperalpha]
+.... For airplanes described in § 121.157(f), the Airplane Performance Operating Limitations in §§ 121.189 through 121.197.
+.... Section 121.161(b), Ditching approval.
+.... Section 121.305(j), Third attitude indicator.
+.... Section 121.312(c), Passenger seat cushion flammability.
 ... March 12, 1999: Section 121.310(b)(1), Interior emergency exit locating sign.
 .. *Transport category turbopropeller powered airplanes that have a passenger seat configuration of 20-30 seats.* No certificate holder may operate under this part an airplane that is described in paragraph (a)(1)(ii) of this section on or after a date listed in paragraph (d)(2) of this section unless that airplane meets the applicable requirement listed in paragraph (d)(2) of this section:
+[lowerroman]
 ... December 20, 1997:
+[upperalpha]
+.... Section 121.308, Lavatory fire protection.
+.... Section 121.337(b) (8) and (9), Protective breathing equipment.
+.... Section 121.340, Emergency flotation means.
 ... December 20, 2010: Section 121.305(j), Third attitude indicator.
 . *Newly manufactured airplanes.* No certificate holder that is described in paragraph (a) of this section may operate under part 121 of this chapter an airplane manufactured on or after a date listed in this paragraph (e) unless that airplane meets the applicable requirement listed in this paragraph (e).
               
+[arabic]
 .. For nontransport category turbopropeller powered airplanes type certificated after December 31, 1964, that have a passenger seat configuration of 10-19 seats:
+[lowerroman]
 ... Manufactured on or after March 20, 1997:
+[upperalpha]
+.... Section 121.305(j), Third attitude indicator.
+.... Section 121.311(f), Safety belts and shoulder harnesses.
 ... Manufactured on or after December 20, 1997: Section 121.317(a), Fasten seat belt light.
 ... Manufactured on or after December 20, 1999: Section 121.293, Takeoff warning system.
 ... Manufactured on or after March 12, 1999: Section 121.310(b)(1), Interior emergency exit locating sign.
 .. For transport category turbopropeller powered airplanes that have a passenger seat configuration of 20-30 seats manufactured on or after March 20, 1997: Section 121.305(j), Third attitude indicator.
 . *New type certification requirements.* No person may operate an airplane for which the application for a type certificate was filed after March 29, 1995, in 14 CFR part 121 operations unless that airplane is type certificated under part 25 of this chapter.
 . *Transition plan.* Before March 19, 1996 each certificate holder described in paragraph (a)(1) of this section must submit to the FAA a transition plan (containing a calendar of events) for moving from conducting its scheduled operations under the commuter requirements of part 135 of this chapter to the requirements for domestic or flag operations under part 121 of this chapter. Each transition plan must contain details on the following:
+[arabic]
 .. Plans for obtaining new operations specifications authorizing domestic or flag operations;
 .. Plans for being in compliance with the applicable requirements of part 121 of this chapter on or before March 20, 1997; and
 .. Plans for complying with the compliance date schedules contained in paragraphs (d) and (e) of this section.
 
-(A) Section 121.289, Landing gear aural warning.
+## § 135.3 - Rules applicable to operations subject to this part.
 
-(B) Section 121.308, Lavatory fire protection.
-
-(C) Section 121.310(e), Emergency exit handle illumination.
-
-(D) Section 121.337(b)(8), Protective breathing equipment.
-
-(E) Section 121.340, Emergency flotation means.
-
-(A) For airplanes described in § 121.157(f), the Airplane Performance Operating Limitations in §§ 121.189 through 121.197.
-
-(B) Section 121.161(b), Ditching approval.
-
-(C) Section 121.305(j), Third attitude indicator.
-
-(D) Section 121.312(c), Passenger seat cushion flammability.
-
-(A) Section 121.308, Lavatory fire protection.
-
-(B) Section 121.337(b) (8) and (9), Protective breathing equipment.
-
-(C) Section 121.340, Emergency flotation means.
-
-(A) Section 121.305(j), Third attitude indicator.
-
-(B) Section 121.311(f), Safety belts and shoulder harnesses.
-
-## § 135.3
-
-### Rules applicable to operations subject to this part.
-
+[loweralpha]
 . Each person operating an aircraft in operations under this part shall—
+[arabic]
 .. While operating inside the United States, comply with the applicable rules of this chapter; and
 .. While operating outside the United States, comply with Annex 2, Rules of the Air, to the Convention on International Civil Aviation or the regulations of any foreign country, whichever applies, and with any rules of parts 61 and 91 of this chapter and this part that are more restrictive than that Annex or those regulations and that can be complied with without violating that Annex or those regulations. Annex 2 is incorporated by reference in § 91.703(b) of this chapter.
 . Each certificate holder that conducts commuter operations under this part with airplanes in which two pilots are required by the type certification rules of this chapter shall comply with subparts N and O of part 121 of this chapter instead of the requirements of subparts E, G, and H of this part. Notwithstanding the requirements of this paragraph, a pilot serving under this part as second in command in a commuter operation with airplanes in which two pilots are required by the type certification rules of this chapter may meet the requirements of § 135.245 instead of the requirements of § 121.436.
 . If authorized by the Administrator upon application, each certificate holder that conducts operations under this part to which paragraph (b) of this section does not apply, may comply with the applicable sections of subparts N and O of part 121 instead of the requirements of subparts E, G, and H of this part, except that those authorized certificate holders may choose to comply with the operating experience requirements of § 135.244, instead of the requirements of § 121.434 of this chapter. Notwithstanding the requirements of this paragraph, a pilot serving under this part as second in command may meet the requirements of § 135.245 instead of the requirements of § 121.436.
 
-## § 135.4
+## § 135.4 - Applicability of rules for eligible on-demand operations.
 
-### Applicability of rules for eligible on-demand operations.
-
+[loweralpha]
 . An “eligible on-demand operation” is an on-demand operation conducted under this part that meets the following requirements:
+[arabic]
 .. *Two-pilot crew.* The flightcrew must consist of at least two qualified pilots employed or contracted by the certificate holder.
 .. *Flight crew experience.* The crewmembers must have met the applicable requirements of part 61 of this chapter and have the following experience and ratings:
+[lowerroman]
 ... Total flight time for all pilots:
+[upperalpha]
+.... Pilot in command—A minimum of 1,500 hours.
+.... Second in command—A minimum of 500 hours.
 ... For multi-engine turbine-powered fixed-wing and powered-lift aircraft, the following FAA certification and ratings requirements:
+[upperalpha]
+.... Pilot in command—Airline transport pilot and applicable type ratings.
+.... Second in command—Commercial pilot and instrument ratings.
 ... For all other aircraft, the following FAA certification and rating requirements:
+[upperalpha]
+.... Pilot in command—Commercial pilot and instrument ratings.
+.... Second in command—Commercial pilot and instrument ratings.
 .. *Pilot operating limitations.* If the second in command of a fixed-wing aircraft has fewer than 100 hours of flight time as second in command flying in the aircraft make and model and, if a type rating is required, in the type aircraft being flown, and the pilot in command is not an appropriately qualified check pilot, the pilot in command shall make all takeoffs and landings in any of the following situations:
+[lowerroman]
 ... Landings at the destination airport when a Destination Airport Analysis is required by § 135.385(f); and
 ... In any of the following conditions:
+[upperalpha]
+.... The prevailing visibility for the airport is at or below 3/4 mile.
+.... The runway visual range for the runway to be used is at or below 4,000 feet.
+.... The runway to be used has water, snow, slush, ice, or similar contamination that may adversely affect aircraft performance.
+.... The braking action on the runway to be used is reported to be less than “good.”
+.... The crosswind component for the runway to be used is in excess of 15 knots.
+.... Windshear is reported in the vicinity of the airport.
+.... Any other condition in which the pilot in command determines it to be prudent to exercise the pilot in command's authority.
 .. *Crew pairing.* Either the pilot in command or the second in command must have at least 75 hours of flight time in that aircraft make or model and, if a type rating is required, for that type aircraft, either as pilot in command or second in command.
 . The Administrator may authorize deviations from paragraphs (a)(2)(i) or (a)(4) of this section if the Flight Standards District Office that issued the certificate holder's operations specifications finds that the crewmember has comparable experience, and can effectively perform the functions associated with the position in accordance with the requirements of this chapter. The Administrator may, at any time, terminate any grant of deviation authority issued under this paragraph. Grants of deviation under this paragraph may be granted after consideration of the size and scope of the operation, the qualifications of the intended personnel and the following circumstances:
+[arabic]
 .. A newly authorized certificate holder does not employ any pilots who meet the minimum requirements of paragraphs (a)(2)(i) or (a)(4) of this section.
 .. An existing certificate holder adds to its fleet a new category and class aircraft not used before in its operation.
 .. An existing certificate holder establishes a new base to which it assigns pilots who will be required to become qualified on the aircraft operated from that base.
 . An eligible on-demand operation may comply with alternative requirements specified in §§ 135.225(b), 135.385(f), and 135.387(b) instead of the requirements that apply to other on-demand operations.
 
-(A) Pilot in command—A minimum of 1,500 hours.
-
-(B) Second in command—A minimum of 500 hours.
-
-(A) Pilot in command—Airline transport pilot and applicable type ratings.
-
-(B) Second in command—Commercial pilot and instrument ratings.
-
-(A) Pilot in command—Commercial pilot and instrument ratings.
-
-(B) Second in command—Commercial pilot and instrument ratings.
-
-(A) The prevailing visibility for the airport is at or below 3/4 mile.
-
-(B) The runway visual range for the runway to be used is at or below 4,000 feet.
-
-(C) The runway to be used has water, snow, slush, ice, or similar contamination that may adversely affect aircraft performance.
-
-(D) The braking action on the runway to be used is reported to be less than “good.”
-
-(E) The crosswind component for the runway to be used is in excess of 15 knots.
-
-(F) Windshear is reported in the vicinity of the airport.
-
-(G) Any other condition in which the pilot in command determines it to be prudent to exercise the pilot in command's authority.
-
-## § 135.7
-
-### Applicability of rules to unauthorized operators.
+## § 135.7 - Applicability of rules to unauthorized operators.
 
 The rules in this part which apply to a person certificated under part 119 of this chapter also apply to a person who engages in any operation governed by this part without an appropriate certificate and operations specifications required by part 119 of this chapter.
 
-## § 135.12
-
-### Previously trained crewmembers.
+## § 135.12 - Previously trained crewmembers.
 
 A certificate holder may use a crewmember who received the certificate holder's training in accordance with subparts E, G, and H of this part before March 19, 1997 without complying with initial training and qualification requirements of subparts N and O of part 121 of this chapter. The crewmember must comply with the applicable recurrent training requirements of part 121 of this chapter.
 
-## § 135.19
+## § 135.19 - Emergency operations.
 
-### Emergency operations.
-
+[loweralpha]
 . In an emergency involving the safety of persons or property, the certificate holder may deviate from the rules of this part relating to aircraft and equipment and weather minimums to the extent required to meet that emergency.
 . In an emergency involving the safety of persons or property, the pilot in command may deviate from the rules of this part to the extent required to meet that emergency.
 . Each person who, under the authority of this section, deviates from a rule of this part shall, within 10 days, excluding Saturdays, Sundays, and Federal holidays, after the deviation, send to the FAA Flight Standards District Office charged with the overall inspection of the certificate holder a complete report of the aircraft operation involved, including a description of the deviation and reasons for it.
 
-## § 135.21
+## § 135.21 - Manual requirements.
 
-### Manual requirements.
-
+[loweralpha]
 . Each certificate holder, other than one who uses only one pilot in the certificate holder's operations, shall prepare and keep current a manual setting forth the certificate holder's procedures and policies acceptable to the Administrator. This manual must be used by the certificate holder's flight, ground, and maintenance personnel in conducting its operations. However, the Administrator may authorize a deviation from this paragraph if the Administrator finds that, because of the limited size of the operation, all or part of the manual is not necessary for guidance of flight, ground, or maintenance personnel.
 . Each certificate holder shall maintain at least one copy of the manual at its principal base of operations.
 . The manual must not be contrary to any applicable Federal regulations, foreign regulation applicable to the certificate holder's operations in foreign countries, or the certificate holder's operating certificate or operations specifications.
 . A copy of the manual, or appropriate portions of the manual (and changes and additions) shall be made available to maintenance and ground operations personnel by the certificate holder and furnished to—
+[arabic]
 .. Its flight crewmembers; and
 .. Representatives of the Administrator assigned to the certificate holder.
 . Each employee of the certificate holder to whom a manual or appropriate portions of it are furnished under paragraph (d)(1) of this section shall keep it up to date with the changes and additions furnished to them.
@@ -175,12 +162,11 @@ A certificate holder may use a crewmember who received the certificate holder's 
 . For the purpose of complying with paragraph (d) of this section, a certificate holder may furnish the persons listed therein with all or part of its manual in printed form or other form, acceptable to the Administrator, that is retrievable in the English language. If the certificate holder furnishes all or part of the manual in other than printed form, it must ensure there is a compatible reading device available to those persons that provides a legible image of the information and instructions, or a system that is able to retrieve the information and instructions in the English language.
 . If a certificate holder conducts aircraft inspections or maintenance at specified stations where it keeps the approved inspection program manual, it is not required to carry the manual aboard the aircraft en route to those stations.
 
-## § 135.23
-
-### Manual contents.
+## § 135.23 - Manual contents.
 
 Each manual shall have the date of the last revision on each revised page. The manual must include—
 
+[loweralpha]
 . The name of each management person required under § 119.69(a) of this chapter who is authorized to act for the certificate holder, the person's assigned area of responsibility, the person's duties, responsibilities, and authority, and the name and title of each person authorized to exercise operational control under § 135.77;
 . Procedures for ensuring compliance with aircraft weight and balance limitations and, for multiengine aircraft, for determining compliance with § 135.185;
 . Copies of the certificate holder's operations specifications or appropriate extracted information, including area of operations authorized, category and class of aircraft authorized, crew complements, and types of operations authorized;
@@ -189,83 +175,85 @@ Each manual shall have the date of the last revision on each revised page. The m
 . Procedures for reporting and recording mechanical irregularities that come to the attention of the pilot in command before, during, and after completion of a flight;
 . Procedures to be followed by the pilot in command for determining that mechanical irregularities or defects reported for previous flights have been corrected or that correction has been deferred;
 . Procedures to be followed by the pilot in command to obtain maintenance, preventive maintenance, and servicing of the aircraft at a place where previous arrangements have not been made by the operator, when the pilot is authorized to so act for the operator;
-. Procedures under § 135.179 for the release for, or continuation of, flight if any item of equipment required for the particular type of operation becomes inoperative or unserviceable en route;
-. Procedures for refueling aircraft, eliminating fuel contamination, protecting from fire (including electrostatic protection), and supervising and protecting passengers during refueling;
-. Procedures to be followed by the pilot in command in the briefing under § 135.117;
-. Flight locating procedures, when applicable;
-. Procedures for ensuring compliance with emergency procedures, including a list of the functions assigned each category of required crewmembers in connection with an emergency and emergency evacuation duties under § 135.123;
-. En route qualification procedures for pilots, when applicable;
-. The approved aircraft inspection program, when applicable;
-. Procedures and information, as described in paragraph (p)(2) of this section, to assist each crewmember and person performing or directly supervising the following job functions involving items for transport on an aircraft:
-. Procedures for the evacuation of persons who may need the assistance of another person to move expeditiously to an exit if an emergency occurs; and
-. If required by § 135.385, an approved Destination Airport Analysis establishing runway safety margins at destination airports, taking into account the following factors as supported by published aircraft performance data supplied by the aircraft manufacturer for the appropriate runway conditions—
-.. Pilot qualifications and experience;
-.. Aircraft performance data to include normal, abnormal and emergency procedures as supplied by the aircraft manufacturer;
-.. Airport facilities and topography;
-.. Runway conditions (including contamination);
-.. Airport or area weather reporting;
-.. Appropriate additional runway safety margins, if required;
-.. Airplane inoperative equipment;
-.. Environmental conditions; and
-.. Other criteria affecting aircraft performance.
-. Other procedures and policy instructions regarding the certificate holder's operations issued by the certificate holder.
+[lowerroman]
+.. Procedures under § 135.179 for the release for, or continuation of, flight if any item of equipment required for the particular type of operation becomes inoperative or unserviceable en route;
 
-(i) Acceptance;
+(j) Procedures for refueling aircraft, eliminating fuel contamination, protecting from fire (including electrostatic protection), and supervising and protecting passengers during refueling;
 
-(ii) Rejection;
+(k) Procedures to be followed by the pilot in command in the briefing under § 135.117;
 
-(iii) Handling;
+(l) Flight locating procedures, when applicable;
 
-(iv) Storage incidental to transport;
+(m) Procedures for ensuring compliance with emergency procedures, including a list of the functions assigned each category of required crewmembers in connection with an emergency and emergency evacuation duties under § 135.123;
 
-(v) Packaging of company material; or
+(n) En route qualification procedures for pilots, when applicable;
 
-(vi) Loading.
+(o) The approved aircraft inspection program, when applicable;
+
+(p)(1) Procedures and information, as described in paragraph (p)(2) of this section, to assist each crewmember and person performing or directly supervising the following job functions involving items for transport on an aircraft:
+
+[lowerroman]
+. Acceptance;
+. Rejection;
+. Handling;
+. Storage incidental to transport;
+. Packaging of company material; or
+. Loading.
               
 
 (2) Ensure that the procedures and information described in this paragraph are sufficient to assist a person in identifying packages that are marked or labeled as containing hazardous materials or that show signs of containing undeclared hazardous materials. The procedures and information must include:
 
-(i) Procedures for rejecting packages that do not conform to the Hazardous Materials Regulations in 49 CFR parts 171 through 180 or that appear to contain undeclared hazardous materials;
+[lowerroman]
+. Procedures for rejecting packages that do not conform to the Hazardous Materials Regulations in 49 CFR parts 171 through 180 or that appear to contain undeclared hazardous materials;
+. Procedures for complying with the hazardous materials incident reporting requirements of 49 CFR 171.15 and 171.16 and discrepancy reporting requirements of 49 CFR 175.31.
+. The certificate holder's hazmat policies and whether the certificate holder is authorized to carry, or is prohibited from carrying, hazardous materials; and
+. If the certificate holder's operations specifications permit the transport of hazardous materials, procedures and information to ensure the following:
+[upperalpha]
+.. That packages containing hazardous materials are properly offered and accepted in compliance with 49 CFR parts 171 through 180;
+.. That packages containing hazardous materials are properly handled, stored, packaged, loaded and carried on board an aircraft in compliance with 49 CFR parts 171 through 180;
+.. That the requirements for Notice to the Pilot in Command (49 CFR 175.33) are complied with; and
+.. That aircraft replacement parts, consumable materials or other items regulated by 49 CFR parts 171 through 180 are properly handled, packaged, and transported.
 
-(ii) Procedures for complying with the hazardous materials incident reporting requirements of 49 CFR 171.15 and 171.16 and discrepancy reporting requirements of 49 CFR 175.31.
+(q) Procedures for the evacuation of persons who may need the assistance of another person to move expeditiously to an exit if an emergency occurs; and
 
-(iii) The certificate holder's hazmat policies and whether the certificate holder is authorized to carry, or is prohibited from carrying, hazardous materials; and
+(r) If required by § 135.385, an approved Destination Airport Analysis establishing runway safety margins at destination airports, taking into account the following factors as supported by published aircraft performance data supplied by the aircraft manufacturer for the appropriate runway conditions—
 
-(iv) If the certificate holder's operations specifications permit the transport of hazardous materials, procedures and information to ensure the following:
+[arabic]
+. Pilot qualifications and experience;
+. Aircraft performance data to include normal, abnormal and emergency procedures as supplied by the aircraft manufacturer;
+. Airport facilities and topography;
+. Runway conditions (including contamination);
+. Airport or area weather reporting;
+. Appropriate additional runway safety margins, if required;
+. Airplane inoperative equipment;
+. Environmental conditions; and
+. Other criteria affecting aircraft performance.
 
-(A) That packages containing hazardous materials are properly offered and accepted in compliance with 49 CFR parts 171 through 180;
+(s) Other procedures and policy instructions regarding the certificate holder's operations issued by the certificate holder.
 
-(B) That packages containing hazardous materials are properly handled, stored, packaged, loaded and carried on board an aircraft in compliance with 49 CFR parts 171 through 180;
+## § 135.25 - Aircraft requirements.
 
-(C) That the requirements for Notice to the Pilot in Command (49 CFR 175.33) are complied with; and
-
-(D) That aircraft replacement parts, consumable materials or other items regulated by 49 CFR parts 171 through 180 are properly handled, packaged, and transported.
-
-## § 135.25
-
-### Aircraft requirements.
-
+[loweralpha]
 . Except as provided in paragraph (d) of this section, no certificate holder may operate an aircraft under this part unless that aircraft—
+[arabic]
 .. Is registered as a civil aircraft of the United States and carries an appropriate and current airworthiness certificate issued under this chapter; and
 .. Is in an airworthy condition and meets the applicable airworthiness requirements of this chapter, including those relating to identification and equipment.
 . Each certificate holder must have the exclusive use of at least one aircraft that meets the requirements for at least one kind of operation authorized in the certificate holder's operations specifications. In addition, for each kind of operation for which the certificate holder does not have the exclusive use of an aircraft, the certificate holder must have available for use under a written agreement (including arrangements for performing required maintenance) at least one aircraft that meets the requirements for that kind of operation. However, this paragraph does not prohibit the operator from using or authorizing the use of the aircraft for other than operations under this part and does not require the certificate holder to have exclusive use of all aircraft that the certificate holder uses.
 . For the purposes of paragraph (b) of this section, a person has exclusive use of an aircraft if that person has the sole possession, control, and use of it for flight, as owner, or has a written agreement (including arrangements for performing required maintenance), in effect when the aircraft is operated, giving the person that possession, control, and use for at least 6 consecutive months.
 . A certificate holder may operate in common carriage, and for the carriage of mail, a civil aircraft which is leased or chartered to it without crew and is registered in a country which is a party to the Convention on International Civil Aviation if—
+[arabic]
 .. The aircraft carries an appropriate airworthiness certificate issued by the country of registration and meets the registration and identification requirements of that country;
 .. The aircraft is of a type design which is approved under a U.S. type certificate and complies with all of the requirements of this chapter (14 CFR chapter I) that would be applicable to that aircraft were it registered in the United States, including the requirements which must be met for issuance of a U.S. standard airworthiness certificate (including type design conformity, condition for safe operation, and the noise, fuel venting, and engine emission requirements of this chapter), except that a U.S. registration certificate and a U.S. standard airworthiness certificate will not be issued for the aircraft;
 .. The aircraft is operated by U.S.-certificated airmen employed by the certificate holder; and
 .. The certificate holder files a copy of the aircraft lease or charter agreement with the FAA Aircraft Registry, Department of Transportation, 6400 South MacArthur Boulevard, Oklahoma City, OK (Mailing address: P.O. Box 25504, Oklahoma City, OK 73125).
 
-## § 135.41
-
-### Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
+## § 135.41 - Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
 
 If the holder of a certificate operating under this part allows any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of § 91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
 
-## § 135.43
+## § 135.43 - Crewmember certificates: International operations.
 
-### Crewmember certificates: International operations.
-
+[loweralpha]
 . This section describes the certificates that were issued to United States citizens who were employed by air carriers at the time of issuance as flight crewmembers on United States registered aircraft engaged in international air commerce. The purpose of the certificate is to facilitate the entry and clearance of those crewmembers into ICAO contracting states. They were issued under Annex 9, as amended, to the Convention on International Civil Aviation.
 . The holder of a certificate issued under this section, or the air carrier by whom the holder is employed, shall surrender the certificate for cancellation at the nearest FAA Flight Standards District Office at the termination of the holder's employment with that air carrier.
 

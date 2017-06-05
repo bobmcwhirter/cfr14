@@ -1,17 +1,19 @@
 # Training Program
 :toc:
 
-## § 121.400
+## § 121.400 - Applicability and terms used.
 
-### Applicability and terms used.
-
+[loweralpha]
 . This subpart prescribes the requirements applicable to each certificate holder for establishing and maintaining a training program for crewmembers, aircraft dispatchers, and other operations personnel, and for the approval and use of training devices in the conduct of the program.
 . For the purpose of this subpart, airplane groups are as follows:
+[arabic]
 .. *Group I.* Propeller driven, including—
+[lowerroman]
 ... Reciprocating powered; and
 ... Turbopropeller powered.
 .. *Group II.* Turbojet powered.
 . For the purpose of this subpart, the following terms and definitions apply:
+[arabic]
 .. *Initial training.* The training required for crewmembers and dispatchers who have not qualified and served in the same capacity on another airplane of the same group.
 .. *Transition training.* The training required for crewmembers and dispatchers who have qualified and served in the same capacity on another airplane of the same group.
 .. *Upgrade training.* The training required for crewmembers who have qualified and served as second in command or flight engineer on a particular airplane type, before they serve as pilot in command or second in command, respectively, on that airplane.
@@ -24,11 +26,11 @@
 .. *Related aircraft differences training.* The flightcrew member training required for aircraft with different type certificates that have been designated as related by the Administrator.
 .. *Base aircraft.* An aircraft identified by a certificate holder for use as a reference to compare differences with another aircraft.
 
-## § 121.401
+## § 121.401 - Training program: General.
 
-### Training program: General.
-
+[loweralpha]
 . Each certificate holder shall:
+[arabic]
 .. Establish and implement a training program that satisfies the requirements of this subpart and appendices E and F of this part and that ensures that each crewmember, aircraft dispatcher, flight instructor and check airman is adequately trained to perform his or her assigned duties. Prior to implementation, the certificate holder must obtain initial and final FAA approval of the training program.
 .. Provide adequate ground and flight training facilities and properly qualified ground instructors for the training required by this subpart;
 .. Provide and keep current with respect to each airplane type and, if applicable, the particular variations within that airplane type, appropriate training material, examinations, forms, instructions, and procedures for use in conducting the training and checks required by this part; and
@@ -39,23 +41,23 @@
 . A person who progresses successfully through flight training, is recommended by his instructor or a check airman, and successfully completes the appropriate flight check for a check airman or the Administrator, need not complete the programmed hours of flight training for the particular airplane. However, whenever the Administrator finds that 20 percent of the flight checks given at a particular training base during the previous 6 months under this paragraph are unsuccessful, this paragraph may not be used by the certificate holder at that base until the Administrator finds that the effectiveness of the flight training there has improved.
               
 
-## § 121.402
+## § 121.402 - Training program: Special rules.
 
-### Training program: Special rules.
-
+[loweralpha]
 . Other than the certificate holder, only another certificate holder certificated under this part or a flight training center certificated under part 142 of this chapter is eligible under this subpart to provide flight training, testing, and checking under contract or other arrangement to those persons subject to the requirements of this subpart.
 . A certificate holder may contract with, or otherwise arrange to use the services of, a training center certificated under part 142 of this chapter to provide training, testing, and checking required by this part only if the training center—
+[arabic]
 .. Holds applicable training specifications issued under part 142 of this chapter;
 .. Has facilities, training equipment, and courseware meeting the applicable requirements of part 142 of this chapter;
 .. Has approved curriculums, curriculum segments, and portions of curriculum segments applicable for use in training courses required by this subpart; and
 .. Has sufficient instructor and check airmen qualified under the applicable requirements of §§ 121.411 or 121.413 to provide training, testing, and checking to persons subject to the requirements of this subpart.
 
-## § 121.403
+## § 121.403 - Training program: Curriculum.
 
-### Training program: Curriculum.
-
+[loweralpha]
 . Each certificate holder must prepare and keep current a written training program curriculum for each type of airplane with respect to dispatchers and each crewmember required for that type airplane. The curriculum must include ground and flight training required by this subpart.
 . Each training program curriculum must include:
+[arabic]
 .. A list of principal ground training subjects, including emergency training subjects, that are provided.
 .. A list of all the training device mockups, systems trainers, procedures trainers, or other training aids that the certificate holder will use. No later than March 12, 2019, a list of all the training equipment approved under § 121.408 as well as other training aids that the certificate holder will use.
 .. Detailed descriptions or pictorial displays of the approved normal, abnormal, and emergency maneuvers, procedures and functions that will be performed during each flight training phase or flight check, indicating those maneuvers, procedures and functions that are to be performed during the inflight portions of flight training and flight checks.
@@ -63,17 +65,15 @@
 .. The programmed hours of training that will be applied to each phase of training.
 .. A copy of each statement issued by the Administrator under § 121.405(d) for reduction of programmed hours of training.
 
-## § 121.404
-
-### Compliance dates: Crew and dispatcher resource management training.
+## § 121.404 - Compliance dates: Crew and dispatcher resource management training.
 
 After March 19, 1998, no certificate holder may use a person as a flight crewmember, and after March 19, 1999, no certificate holder may use a person as a flight attendant or aircraft dispatcher unless that person has completed approved crew resource management (CRM) or dispatcher resource management (DRM) initial training, as applicable, with that certificate holder or with another certificate holder.
 
-## § 121.405
+## § 121.405 - Training program and revision: Initial and final approval.
 
-### Training program and revision: Initial and final approval.
-
+[loweralpha]
 . To obtain initial and final approval of a training program, or a revision to an approved training program, each certificate holder must submit to the Administrator—
+[arabic]
 .. An outline of the proposed program or revision, including an outline of the proposed or revised curriculum, that provides enough information for a preliminary evaluation of the proposed training program or revised training program; and
 .. Additional relevant information as may be requested by the Administrator.
 . If the proposed training program or revision complies with this subpart the Administrator grants initial approval in writing after which the certificate holder may conduct the training in accordance with that program. The Administrator then evaluates the effectiveness of the training program and advises the certificate holder of deficiencies, if any, that must be corrected.
@@ -84,21 +84,21 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 . Each certificate holder described in § 135.3 (b) and (c) of this chapter must include the material required by § 121.403 in the manual required by § 135.21 of this chapter.
 . The Administrator may grant a deviation to certificate holders described in § 135.3 (b) and (c) of this chapter to allow reduced programmed hours of ground training required by § 121.419 if it is found that a reduction is warranted based on the certificate holder's operations and the complexity of the make, model, and series of the aircraft used.
 
-## § 121.406
+## § 121.406 - Credit for previous CRM/DRM training.
 
-### Credit for previous CRM/DRM training.
-
+[loweralpha]
 . For flightcrew members, the Administrator may credit CRM training received before March 19, 1998 toward all or part of the initial ground CRM training required by § 121.419.
 . For flight attendants, the Administrator may credit CRM training received before March 19, 1999 toward all or part of the initial ground CRM training required by § 121.421.
 . For aircraft dispatchers, the Administrator may credit CRM training received before March 19, 1999 toward all or part of the initial ground CRM training required by § 121.422.
 . In granting credit for initial ground CRM or DRM training, the Administrator considers training aids, devices, methods, and procedures used by the certificate holder in a voluntary CRM or DRM program or in an AQP program that effectively meets the quality of an approved CRM or DRM initial ground training program under section 121.419, 121.421, or 121.422 as appropriate.
 
-## § 121.407
+## § 121.407 - Training program: Approval of airplane simulators and other training devices.
 
-### Training program: Approval of airplane simulators and other training devices.
-
+[loweralpha]
 . Each airplane simulator and other training device used to satisfy a training requirement of this part in an approved training program, must meet all of the following requirements:
+[arabic]
 .. Be specifically approved by the Administrator for—
+[lowerroman]
 ... Use in the certificate holder's approved training program;
 ... The type airplane and, if applicable, the particular variation within type, for which the training or check is being conducted; and
 ... The particular maneuver, procedure, or flightcrew member function involved.
@@ -108,69 +108,83 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 .. Have a daily discrepancy log kept with each discrepancy entered in that log by the appropriate instructor or check airman at the end of each training or check flight.
 . A particular airplane simulator or other training device may be approved for use by more than one certificate holder.
 . An airplane simulator may be used instead of the airplane to satisfy the in-flight requirements of §§ 121.439 and 121.441 and appendices E and F of this part, if the simulator—
+[arabic]
 .. Is approved under this section and meets the appropriate simulator requirements of appendix H of this part; and
 .. Is used as part of an approved program that meets the training requirements of § 121.424 (a) and (c) and appendix H of this part.
 . An airplane simulator approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the certificate holder's approved low-altitude windshear flight training program set forth in § 121.409(d) of this part.
 . An airplane simulator approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the extended envelope training set forth in § 121.423 of this part. Compliance with this paragraph is required no later than March 12, 2019.
 
-## § 121.408
+## § 121.408 - Training equipment other than flight simulation training devices.
 
-### Training equipment other than flight simulation training devices.
-
+[loweralpha]
 . The Administrator must approve training equipment used in a training program approved under this part and that functionally replicates aircraft equipment for the certificate holder and the crewmember duty or procedure. Training equipment does not include FSTDs qualified under part 60 of this chapter.
 . The certificate holder must demonstrate that the training equipment described in paragraph (a) of this section, used to meet the training requirements of this subpart, meets all of the following:
+[arabic]
 .. The form, fit, function, and weight, as appropriate, of the aircraft equipment.
 .. Replicates the normal operation (and abnormal and emergency operation, if appropriate) of the aircraft equipment including the following:
+[lowerroman]
 ... The required force, actions and travel of the aircraft equipment.
 ... Variations in aircraft equipment operated by the certificate holder, if applicable.
 .. Replicates the operation of the aircraft equipment under adverse conditions, if appropriate.
               
 . Training equipment must be modified to ensure that it maintains the performance and function of the aircraft type or aircraft equipment replicated.
 . All training equipment must have a record of discrepancies. The documenting system must be readily available for review by each instructor, check airman or supervisor, prior to conducting training or checking with that equipment.
+[arabic]
 .. Each instructor, check airman or supervisor conducting training or checking, and each person conducting an inspection of the equipment who discovers a discrepancy, including any missing, malfunctioning or inoperative components, must record a description of that discrepancy and the date that the discrepancy was identified.
 .. All corrections to discrepancies must be recorded when the corrections are made. This record must include the date of the correction.
 .. A record of a discrepancy must be maintained for at least 60 days.
 . No person may use, allow the use of, or offer the use of training equipment with a missing, malfunctioning, or inoperative component to meet the crewmember training or checking requirements of this chapter for tasks that require the use of the correctly operating component.
 . Compliance with this section is required no later than March 12, 2019.
 
-## § 121.409
+## § 121.409 - Training courses using airplane simulators and other training devices.
 
-### Training courses using airplane simulators and other training devices.
-
+[loweralpha]
 . Training courses utilizing airplane simulators and other training devices may be included in the certificate holder's approved training program for use as provided in this section.
 . Except for the airline transport pilot certification training program approved to satisfy the requirements of § 61.156 of this chapter, a course of training in an airplane simulator may be included for use as provided in § 121.441 if that course—
-.. (*1*) Utilizes a complete flight crew;
-.. (*2*) Includes at least the maneuvers and procedures (abnormal and emergency) that may be expected in line operations;
-.. (*3*) Includes scenario-based or maneuver-based stall prevention training before, during or after the LOFT scenario for each pilot;
-.. (*4*) Is representative of two flight segments appropriate to the operations being conducted by the certificate holder; and
-.. (*5*) Provides an opportunity to demonstrate workload management and pilot monitoring skills.
+[arabic]
+.. Provides at least 4 hours of training at the pilot controls of an airplane simulator as well as a proper briefing before and after the training.
+.. Provides training in at least the following:
+[lowerroman]
+... The procedures and maneuvers set forth in appendix F to this part; or
+... Line-oriented flight training (LOFT) that—
+[upperalpha]
+.... Before March 12, 2019,
+[arabic]
+..... (*1*) Utilizes a complete flight crew;
+..... (*2*) Includes at least the maneuvers and procedures (abnormal and emergency) that may be expected in line operations; and
+..... (*3*) Is representative of the flight segment appropriate to the operations being conducted by the certificate holder.
+.... Beginning on March 12, 2019—
+[arabic]
+..... (*1*) Utilizes a complete flight crew;
+..... (*2*) Includes at least the maneuvers and procedures (abnormal and emergency) that may be expected in line operations;
+..... (*3*) Includes scenario-based or maneuver-based stall prevention training before, during or after the LOFT scenario for each pilot;
+..... (*4*) Is representative of two flight segments appropriate to the operations being conducted by the certificate holder; and
+..... (*5*) Provides an opportunity to demonstrate workload management and pilot monitoring skills.
+.. Is given by an instructor who meets the applicable requirements of § 121.412.
+              
 . The programmed hours of flight training set forth in this subpart do not apply if the training program for the airplane type includes—
+[arabic]
 .. A course of pilot training in an airplane simulator as provided in § 121.424(d); or
 .. A course of flight engineer training in an airplane simulator or other training device as provided in § 121.425(c).
 . Each certificate holder required to comply with § 121.358 of this part must use an approved simulator for each airplane type in each of its pilot training courses that provides training in at least the procedures and maneuvers set forth in the certificate holder's approved low-altitude windshear flight training program. The approved low-altitude windshear flight training, if applicable, must be included in each of the pilot flight training courses prescribed in §§ 121.409(b), 121.418, 121.424, and 121.427 of this part.
 
-(A) Before March 12, 2019,
+## § 121.410 - Airline transport pilot certification training program.
 
-(B) Beginning on March 12, 2019—
-
-(3) Is given by an instructor who meets the applicable requirements of § 121.412.
-              
-
-## § 121.410
-
-### Airline transport pilot certification training program.
-
+[loweralpha]
 . A certificate holder may obtain approval to establish and implement a training program to satisfy the requirements of § 61.156 of this chapter. The training program must be separate from the air carrier training program required by this part.
 . No certificate holder may use a person nor may any person serve as an instructor in a training program approved to meet the requirements of § 61.156 of this chapter unless the instructor:
+[arabic]
 .. Holds an airline transport pilot certificate with an airplane category multiengine class rating;
 .. Has at least 2 years of experience as a pilot in command in operations conducted under § 91.1053(a)(2)(i) or § 135.243(a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under this part;
 .. Except for the holder of a flight instructor certificate, receives initial training on the following topics:
+[lowerroman]
 ... The fundamental principles of the learning process;
 ... Elements of effective teaching, instruction methods, and techniques;
 ... Instructor duties, privileges, responsibilities, and limitations;
 ... Training policies and procedures; and
 ... Evaluation.
 .. If providing training in a flight simulation training device, hold an aircraft type rating for the aircraft represented by the flight simulation training device utilized in the training program and have received training within the preceding 12 months from the certificate holder on:
+[lowerroman]
 ... Proper operation of flight simulator and flight training device controls and systems;
 ... Proper operation of environmental and fault panels;
 ... Data and motion limitations of simulation;
@@ -179,15 +193,16 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 . A certificate holder may not issue a graduation certificate to a student unless that student has completed all the curriculum requirements of the course.
 . A certificate holder must conduct evaluations to ensure that training techniques, procedures, and standards are acceptable to the Administrator.
 
-## § 121.411
+## § 121.411 - Qualifications: Check airmen (airplane) and check airmen (simulator).
 
-### Qualifications: Check airmen (airplane) and check airmen (simulator).
-
+[loweralpha]
 . For the purposes of this section and § 121.413:
+[arabic]
 .. A check airman (airplane) is a person who is qualified, and permitted, to conduct flight checks or instruction in an airplane, in a flight simulator, or in a flight training device for a particular type airplane.
 .. A check airman (simulator) is a person who is qualified to conduct flight checks or instruction, but only in a flight simulator or in a flight training device for a particular type airplane.
 .. Check airmen (airplane) and check airmen (simulator) are those check airmen who perform the functions described in § 121.401(a)(4).
 . No certificate holder may use a person, nor may any person serve as a check airman (airplane) in a training program established under this subpart unless, with respect to the airplane type involved, that person—
+[arabic]
 .. Holds the airman certificates and ratings required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate training phases for the airplane, including recurrent training, that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate proficiency or flight checks that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
@@ -196,6 +211,7 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 .. Has satisfied the recency of experience requirements of § 121.439 of this part, as applicable; and
 .. Has been approved by the Administrator for the check airman duties involved.
 . No certificate holder may use a person nor may any person serve as a check airman (simulator) in a training program established under this subpart unless, with respect to the airplane type involved, that person meets the provisions of paragraph (b) of this section, or—
+[arabic]
 .. Holds the airman certificates and ratings, except medical certificate, required to serve as a pilot in command or a flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate training phases for the airplane, including recurrent training, that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate proficiency or flight checks that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
@@ -204,20 +220,22 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 . Completion of the requirements in paragraphs (b) (2), (3), and (4) or (c) (2), (3), and (4) of this section, as applicable, shall be entered in the individual's training record maintained by the certificate holder.
 . Check airmen who have reached their 65th birthday or who do not hold an appropriate medical certificate may function as check airmen, but may not serve as pilot flightcrew members in operations under this part.
 . A check airman (simulator) must accomplish the following—
+[arabic]
 .. Fly at least two flight segments as a required crewmember for the type airplane involved within the 12-month period preceding the performance of any check airman duty in a flight simulator; or
 .. Satisfactorily complete an approved line-observation program within the period prescribed by that program and that must precede the performance of any check airman duty in a flight simulator.
 . The flight segments or line-observation program required in paragraph (f) of this section are considered to be completed in the month required if completed in the calendar month before or in the calendar month after the month in which it is due.
 
-## § 121.412
+## § 121.412 - Qualifications: Flight instructors (airplane) and flight instructors (simulator).
 
-### Qualifications: Flight instructors (airplane) and flight instructors (simulator).
-
+[loweralpha]
 . For the purposes of this section and § 121.414:
+[arabic]
 .. A flight instructor (airplane) is a person who is qualified to instruct in an airplane, in a flight simulator, or in a flight training device for a particular type airplane.
 .. A flight instructor (simulator) is a person who is qualified to instruct, but only in a flight simulator, in a flight training device, or both, for a particular type airplane.
 .. Flight instructors (airplane) and flight instructors (simulator) are those instructors who perform the functions described in § 121.401(a)(4).
 . No certificate holder may use a person nor may any person serve as a flight instructor (airplane) in a training program established under this subpart unless, with respect to the airplane type involved, that person—
               
+[arabic]
 .. Holds the airman certificates and rating required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate training phases for the airplane, including recurrent training, that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate proficiency or flight checks that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
@@ -225,6 +243,7 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 .. Holds at least a Class III medical certificate unless serving as a required crewmember, in which case holds a Class I or a Class II medical certificate as appropriate; and
 .. Has satisfied the recency of experience requirements of § 121.439 of this part, as applicable.
 . No certificate holder may use a person, nor may any person serve as a flight instructor (simulator) in a training program established under this subpart, unless, with respect to the airplane type involved, that person meets the provisions of paragraph (b) of this section, or—
+[arabic]
 .. Holds the airman certificates and ratings, except medical certificate, required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate training phases for the airplane, including recurrent training, that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part;
 .. Has satisfactorily completed the appropriate proficiency or flight checks that are required to serve as a pilot in command or flight engineer, as applicable, in operations under this part; and
@@ -232,107 +251,128 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 . Completion of the requirements in paragraphs (b) (2), (3), and (4) or (c) (2), (3), and (4) of this section as applicable shall be entered in the individual's training record maintained by the certificate holder.
 . Flight instructors who have reached their 65th birthday or who do not hold an appropriate medical certificate may function as flight instructors, but may not serve as pilot flightcrew members in operations under this part.
 . A flight instructor (simulator) must accomplish the following—
+[arabic]
 .. Fly at least two flight segments as a required crewmember for the type of airplane within the 12-month period preceding the performance of any flight instructor duty in a flight simulator (and must hold a Class I or Class II medical certificate as appropriate); or
 .. Satisfactorily complete an approved line-observation program within the period prescribed by that program preceding the performance of any flight instructor duty in a flight simulator.
 . The flight segments or line-observation program required in paragraph (f) of this section is considered completed in the month required if completed in the calendar month before, or the calendar month after the month in which it is due.
 
-## § 121.413
+## § 121.413 - Initial, transition and recurrent training and checking requirements: Check airmen (airplane), check airmen (simulator).
 
-### Initial, transition and recurrent training and checking requirements: Check airmen (airplane), check airmen (simulator).
-
+[loweralpha]
 . No certificate holder may use a person nor may any person serve as a check airman unless—
+[arabic]
 .. That person has satisfactorily completed initial or transition check airman training; and
 .. Within the preceding 24 calendar months that person satisfactorily conducts a check or supervises operating experience under the observation of an FAA inspector or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an airplane, in a flight simulator, or in a flight training device.
 . The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before, or the calendar month after, the month in which it is due.
 . The initial ground training for check airmen must include the following:
+[arabic]
 .. Check airman duties, functions, and responsibilities.
 .. The applicable Code of Federal Regulations and the certificate holder's policies and procedures.
 .. The appropriate methods, procedures, and techniques for conducting the required checks.
 .. Proper evaluation of student performance including the detection of—
+[lowerroman]
 ... Improper and insufficient training; and
 ... Personal characteristics of an applicant that could adversely affect safety.
 .. The appropriate corrective action in the case of unsatisfactory checks.
 .. The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the airplane.
 .. For check airmen who conduct training or checking in a flight simulator or a flight training device, the following subjects specific to the device(s) for the airplane type:
+[lowerroman]
 ... Proper operation of the controls and systems;
 ... Proper operation of environmental and fault panels;
 ... Data and motion limitations of simulation; and
 ... The minimum airplane simulator equipment required by this part or part 60 of this chapter, for each maneuver and procedure completed in a flight simulator or a flight training device.
 . The transition ground training for check airmen must include the following:
+[arabic]
 .. The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the airplane to which the check airman is transitioning.
 .. For check airmen who conduct training or checking in a flight simulator or a flight training device, the following subjects specific to the device(s) for the airplane type to which the check airman is transitioning:
+[lowerroman]
 ... Proper operation of the controls and systems;
 ... Proper operation of environmental and fault panels;
 ... Data and motion limitations of simulation; and
 ... The minimum airplane simulator equipment required by this part or part 60 of this chapter, for each maneuver and procedure completed in a flight simulator or a flight training device.
 . The initial and transition flight training for check airmen (airplane) must include the following:
+[arabic]
 .. The safety measures for emergency situations that are likely to develop during a check.
 .. The potential results of improper, untimely, or non-execution of safety measures during a check.
 .. For pilot check airman (airplane)—
+[lowerroman]
 ... Training and practice in conducting flight checks from the left and right pilot seats in the required normal, abnormal, and emergency procedures to ensure competence to conduct the pilot flight checks required by this part; and
 ... The safety measures to be taken from either pilot seat for emergency situations that are likely to develop during a check.
 .. For flight engineer check airmen (airplane), training to ensure competence to perform assigned duties.
 . The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
 . The initial and transition flight training for check airmen who conduct training or checking in a flight simulator or a flight training device must include the following:
+[arabic]
 .. Training and practice in conducting flight checks in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight checks required by this part. This training and practice must be accomplished in a flight simulator or in a flight training device.
 .. Training in the operation of flight simulators or flight training devices, or both, to ensure competence to conduct the flight checks required by this part.
 . Recurrent ground training for check airmen who conduct training or checking in a flight simulator or a flight training device must be completed every 12 calendar months and must include the subjects required in paragraph (c)(7) of this section.
-. Compliance with paragraphs (c)(7), (d)(2), and (h) of this section is required no later than March 12, 2019.
+[lowerroman]
+.. Compliance with paragraphs (c)(7), (d)(2), and (h) of this section is required no later than March 12, 2019.
 
-## § 121.414
+## § 121.414 - Initial, transition and recurrent training and checking requirements: flight instructors (airplane), flight instructors (simulator).
 
-### Initial, transition and recurrent training and checking requirements: flight instructors (airplane), flight instructors (simulator).
-
+[loweralpha]
 . No certificate holder may use a person nor may any person serve as a flight instructor unless—
+[arabic]
 .. That person has satisfactorily completed initial or transition flight instructor training; and
 .. Within the preceding 24 calendar months, that person satisfactorily conducts instruction under the observation of an FAA inspector, an operator check airman, or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an airplane, in a flight simulator, or in a flight training device.
 . The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before, or the calendar month after, the month in which it is due.
 . The initial ground training for flight instructors must include the following:
+[arabic]
 .. Flight instructor duties, functions, and responsibilities.
 .. The applicable Code of Federal Regulations and the certificate holder's policies and procedures.
 .. The appropriate methods, procedures, and techniques for conducting flight instruction.
 .. Proper evaluation of student performance including the detection of—
+[lowerroman]
 ... Improper and insufficient training; and
 ... Personal characteristics of an applicant that could adversely affect safety.
 .. The corrective action in the case of unsatisfactory training progress.
 .. The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the airplane.
 .. Except for holders of a flight instructor certificate—
+[lowerroman]
 ... The fundamental principles of the teaching-learning process;
 ... Teaching methods and procedures; and
 ... The instructor-student relationship.
 .. For flight instructors who conduct training in a flight simulator or a flight training device, the following subjects specific to the device(s) for the airplane type:
+[lowerroman]
 ... Proper operation of the controls and systems;
 ... Proper operation of environmental and fault panels;
 ... Data and motion limitations of simulation; and
 ... The minimum airplane simulator equipment required by this part or part 60 of this chapter, for each maneuver and procedure completed in a flight simulator or a flight training device.
 . The transition ground training for flight instructors must include the following:
+[arabic]
 .. The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the airplane to which the flight instructor is transitioning.
 .. For flight instructors who conduct training in a flight simulator or a flight training device, the following subjects specific to the device(s) for the airplane type to which the flight instructor is transitioning:
+[lowerroman]
 ... Proper operation of the controls and systems;
 ... Proper operation of environmental and fault panels;
               
 ... Data and motion limitations of simulation; and
 ... The minimum airplane simulator equipment required by this part or part 60 of this chapter, for each maneuver and procedure completed in a flight simulator or a flight training device.
 . The initial and transition flight training for flight instructors (airplane) must include the following:
+[arabic]
 .. The safety measures for emergency situations that are likely to develop during instruction.
 .. The potential results of improper, untimely, or non-execution of safety measures during instruction.
 .. For pilot flight instructor (airplane)—
+[lowerroman]
 ... In-flight training and practice in conducting flight instruction from the left and right pilot seats in the required normal, abnormal, and emergency procedures to ensure competence as an instructor; and
 ... The safety measures to be taken from either pilot seat for emergency situations that are likely to develop during instruction.
 .. For flight engineer instructors (airplane), inflight training to ensure competence to perform assigned duties.
 . The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
 . The initial and transition flight training for flight instructors who conduct training in a flight simulator or a flight training device must include the following:
+[arabic]
 .. Training and practice in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight instruction required by this part. This training and practice must be accomplished in full or in part in a flight simulator or in a flight training device.
 .. Training in the operation of flight simulators or flight training devices, or both, to ensure competence to conduct the flight instruction required by this part.
 . Recurrent flight instructor ground training for flight instructors who conduct training in a flight simulator or a flight training device must be completed every 12 calendar months and must include the subjects required in paragraph (c)(8) of this section.
-. Compliance with paragraphs (c)(8), (d)(2), and (h) of this section is required no later than March 12, 2019.
+[lowerroman]
+.. Compliance with paragraphs (c)(8), (d)(2), and (h) of this section is required no later than March 12, 2019.
 
-## § 121.415
+## § 121.415 - Crewmember and dispatcher training program requirements.
 
-### Crewmember and dispatcher training program requirements.
-
+[loweralpha]
 . Each training program must provide the following ground training as appropriate to the particular assignment of the crewmember or dispatcher:
+[arabic]
 .. Basic indoctrination ground training for newly hired crewmembers or dispatchers including 40 programmed hours of instruction, unless reduced under § 121.405 or as specified in § 121.401(d), in at least the following—
+[lowerroman]
 ... Duties and responsibilities of crewmembers or dispatchers, as applicable;
 ... Appropriate provisions of the Federal Aviation Regulations;
 ... Contents of the certificate holder's operating certificate and operations specifications (not required for flight attendants); and
@@ -347,25 +387,30 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 . Upgrade training as specified in §§ 121.419 and 121.424 for a particular type airplane may be included in the training program for crewmembers who have qualified and served as second in command pilot or flight engineer on that airplane.
 . Particular subjects, maneuvers, procedures, or parts thereof specified in §§ 121.419, 121.421, 121.422, 121.424, and 121.425 for transition or upgrade training, as applicable, may be omitted, or the programmed hours of ground instruction or inflight training may be reduced, as provided in § 121.405.
 . In addition to initial, transition, upgrade, recurrent and differences training, each training program must also provide ground and flight training, instruction, and practice as necessary to insure that each crewmember and dispatcher—
+[arabic]
 .. Remains adequately trained and currently proficient with respect to each airplane, crewmember position, and type of operation in which he serves; and
 .. Qualifies in new equipment, facilities, procedures, and techniques, including modifications to airplanes.
 . Each training program must include a process to provide for the regular analysis of individual pilot performance to identify pilots with performance deficiencies during training and checking and multiple failures during checking.
-. Each training program must include methods for remedial training and tracking of pilots identified in the analysis performed in accordance with paragraph (h) of this section.
-. Compliance with paragraphs (h) and (i) of this section is required no later than March 12, 2019.
+[lowerroman]
+.. Each training program must include methods for remedial training and tracking of pilots identified in the analysis performed in accordance with paragraph (h) of this section.
 
-## § 121.417
+(j) Compliance with paragraphs (h) and (i) of this section is required no later than March 12, 2019.
 
-### Crewmember emergency training.
+## § 121.417 - Crewmember emergency training.
 
+[loweralpha]
 . Each training program must provide the emergency training set forth in this section with respect to each airplane type, model, and configuration, each required crewmember, and each kind of operation conducted, insofar as appropriate for each crewmember and the certificate holder.
 . Emergency training must provide the following:
+[arabic]
 .. Instruction in emergency assignments and procedures, including coordination among crewmembers.
 .. Individual instruction in the location, function, and operation of emergency equipment including—
+[lowerroman]
 ... Equipment used in ditching and evacuation;
 ... [Reserved]
 ... Portable fire extinguishers, with emphasis on type of extinguisher to be used on different classes of fires; and
 ... Emergency exits in the emergency mode with the evacuation slide/raft pack attached (if applicable), with training emphasis on the operation of the exits under adverse conditions.
 .. Instruction in the handling of emergency situations including—
+[lowerroman]
 ... Rapid decompression;
 ... Fire in flight or on the surface, and smoke control procedures with emphasis on electrical equipment and related circuit breakers found in cabin areas including all galleys, service centers, lifts, lavatories and movie screens;
 ... Ditching and other evacuation, including the evacuation of persons and their attendants, if any, who may need the assistance of another person to move expeditiously to an exit in the event of an emergency.
@@ -373,14 +418,38 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 ... Hijacking and other unusual situations.
 .. Review and discussion of previous aircraft accidents and incidents pertaining to actual emergency situations.
 . Each crewmember must accomplish the following emergency training during the specified training periods, using those items of installed emergency equipment for each type of airplane in which he or she is to serve (Alternate recurrent training required by § 121.433(c) of this part may be accomplished by approved pictorial presentation or demonstration):
-.. (*1*) Cockpit preparation and procedures;
-.. (*2*) Crew coordination;
-.. (*3*) Passenger briefing and cabin preparation;
-.. (*4*) Donning and inflation of life preservers;
-.. (*5*) Use of life-lines; and
-.. (*6*) Boarding of passengers and crew into raft or a slide/raft pack.
+[arabic]
+.. One-time emergency drill requirements to be accomplished during initial training. Each crewmember must perform—
+              
+[lowerroman]
+... At least one approved protective breathing equipment (PBE) drill in which the crewmember combats an actual or simulated fire using at least one type of installed hand fire extinguisher or approved fire extinguisher that is appropriate for the type of actual fire or simulated fire to be fought while using the type of installed PBE required by § 121.337 or approved PBE simulation device as defined by paragraph (d) of this section for combatting fires aboard airplanes;
+... At least one approved firefighting drill in which the crewmember combats an actual fire using at least one type of installed hand fire extinguisher or approved fire extinguisher that is appropriate for the type of fire to be fought. This firefighting drill is not required if the crewmember performs the PBE drill of paragraph (c)(1)(i) by combating an actual fire; and
+... An emergency evacuation drill with each person egressing the airplane or approved training device using at least one type of installed emergency evacuation slide. The crewmember may either observe the airplane exits being opened in the emergency mode and the associated exit slide/raft pack being deployed and inflated, or perform the tasks resulting in the accomplishment of these actions.
+.. Additional emergency drill requirements to be accomplished during initial training and once each 24 calendar months during recurrent training. Each crewmember must—
+[lowerroman]
+... Perform the following emergency drills and operate the following equipment:
+[upperalpha]
+.... Each type of emergency exit in the normal and emergency modes, including the actions and forces required in the deployment of the emergency evacuation slides;
+.... Each type of installed hand fire extinguisher;
+.... Each type of emergency oxygen system to include protective breathing equipment;
+.... Donning, use, and inflation of individual flotation means, if applicable; and
+.... Ditching, if applicable, including but not limited to, as appropriate:
+[arabic]
+..... (*1*) Cockpit preparation and procedures;
+..... (*2*) Crew coordination;
+..... (*3*) Passenger briefing and cabin preparation;
+..... (*4*) Donning and inflation of life preservers;
+..... (*5*) Use of life-lines; and
+..... (*6*) Boarding of passengers and crew into raft or a slide/raft pack.
+... Observe the following drills:
+[upperalpha]
+.... Removal from the airplane (or training device) and inflation of each type of life raft, if applicable;
+.... Transfer of each type of slide/raft pack from one door to another;
+.... Deployment, inflation, and detachment from the airplane (or training device) of each type of slide/raft pack; and
+.... Emergency evacuation including the use of a slide.
 . After September 1, 1993, no crewmember may serve in operations under this part unless that crewmember has performed the PBE drill and the firefighting drill described by paragraphs (c)(1)(i) and (c)(1)(ii) of this section, as part of a one-time training requirement of paragraphs (c)(1) or (c)(2) of this section as appropriate. Any crewmember who performs the PBE drill and the firefighting drill prescribed in paragraphs (c)(1)(i) and (c)(1)(ii) of this section after May 26, 1987, is deemed to be in compliance with this regulation upon presentation of information or documentation, in a form and manner acceptable to the Director, Flight Standards Service, showing that the appropriate drills have been accomplished.
 . Crewmembers who serve in operations above 25,000 feet must receive instruction in the following:
+[arabic]
 .. Respiration.
 .. Hypoxia.
 .. Duration of consciousness without supplemental oxygen at altitude.
@@ -388,6 +457,7 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 .. Gas bubble formation.
 .. Physical phenomena and incidents of decompression.
 . For the purposes of this section the following definitions apply:
+[arabic]
 .. *Actual fire* means an ignited combustible material, in controlled conditions, of sufficient magnitude and duration to accomplish the training objectives outlined in paragraphs (c)(1)(i) and (c)(1)(ii) of this section.
               
 .. *Approved fire extinguisher* means a training device that has been approved by the Administrator for use in meeting the training requirements of § 121.417(c).
@@ -398,57 +468,35 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 .. *Perform* means to satisfactorily accomplish a prescribed emergency drill using established procedures that stress the skill of the persons involved in the drill.
 .. *Simulated fire* means an artificial duplication of smoke or flame used to create various aircraft firefighting scenarios, such as lavatory, galley oven, and aircraft seat fires.
 
-(A) Each type of emergency exit in the normal and emergency modes, including the actions and forces required in the deployment of the emergency evacuation slides;
+## § 121.418 - Differences training and related aircraft differences training.
 
-(B) Each type of installed hand fire extinguisher;
-
-(C) Each type of emergency oxygen system to include protective breathing equipment;
-
-(D) Donning, use, and inflation of individual flotation means, if applicable; and
-
-(E) Ditching, if applicable, including but not limited to, as appropriate:
-
-(ii) Observe the following drills:
-
-(A) Removal from the airplane (or training device) and inflation of each type of life raft, if applicable;
-
-(B) Transfer of each type of slide/raft pack from one door to another;
-
-(C) Deployment, inflation, and detachment from the airplane (or training device) of each type of slide/raft pack; and
-
-(D) Emergency evacuation including the use of a slide.
-
-## § 121.418
-
-### Differences training and related aircraft differences training.
-
-. *Differences training.* (1) Differences training for crewmembers and dispatchers must consist of at least the following as applicable to their assigned duties and responsibilities:
-. *Related aircraft differences training.* (1) In order to seek approval of related aircraft differences training for flightcrew members, a certificate holder must submit a request for related aircraft designation to the Administrator, and obtain approval of that request.
+[loweralpha]
+. *Differences training.*
+[arabic]
+.. Differences training for crewmembers and dispatchers must consist of at least the following as applicable to their assigned duties and responsibilities:
+[lowerroman]
+... Instruction in each appropriate subject or part thereof required for initial ground training in the airplane unless the Administrator finds that particular subjects are not necessary.
+... Flight training in each appropriate maneuver or procedure required for initial flight training in the airplane unless the Administrator finds that particular maneuvers or procedures are not necessary.
+... The number of programmed hours of ground and flight training determined by the Administrator to be necessary for the airplane, the operation, and the crewmember or aircraft dispatcher involved.
+              
+. *Related aircraft differences training.*
+[arabic]
+.. In order to seek approval of related aircraft differences training for flightcrew members, a certificate holder must submit a request for related aircraft designation to the Administrator, and obtain approval of that request.
+.. If the Administrator determines under paragraph (b)(1) of this section that a certificate holder is operating related aircraft, the certificate holder may submit to the Administrator a request for approval of a training program that includes related aircraft differences training.
+.. A request for approval of a training program that includes related aircraft differences training must include at least the following:
+[lowerroman]
+... Each appropriate subject required for the ground training for the related aircraft.
+... Each appropriate maneuver or procedure required for the flight training and crewmember emergency training for the related aircraft.
+... The number of programmed hours of ground training, flight training and crewmember emergency training necessary based on review of the related aircraft and the duty position.
 . *Approved related aircraft differences training.* Approved related aircraft differences training for flightcrew members may be included in initial, transition, upgrade and recurrent training for the base aircraft. If the certificate holder's approved training program includes related aircraft differences training in accordance with paragraph (b) of this section, the training required by §§ 121.419, 121.424, 121.425, and 121.427, as applicable to flightcrew members, may be modified for the related aircraft.
 
-(i) Instruction in each appropriate subject or part thereof required for initial ground training in the airplane unless the Administrator finds that particular subjects are not necessary.
+## § 121.419 - Pilots and flight engineers: Initial, transition, and upgrade ground training.
 
-(ii) Flight training in each appropriate maneuver or procedure required for initial flight training in the airplane unless the Administrator finds that particular maneuvers or procedures are not necessary.
-
-(iii) The number of programmed hours of ground and flight training determined by the Administrator to be necessary for the airplane, the operation, and the crewmember or aircraft dispatcher involved.
-              
-
-(2) If the Administrator determines under paragraph (b)(1) of this section that a certificate holder is operating related aircraft, the certificate holder may submit to the Administrator a request for approval of a training program that includes related aircraft differences training.
-
-(3) A request for approval of a training program that includes related aircraft differences training must include at least the following:
-
-(i) Each appropriate subject required for the ground training for the related aircraft.
-
-(ii) Each appropriate maneuver or procedure required for the flight training and crewmember emergency training for the related aircraft.
-
-(iii) The number of programmed hours of ground training, flight training and crewmember emergency training necessary based on review of the related aircraft and the duty position.
-
-## § 121.419
-
-### Pilots and flight engineers: Initial, transition, and upgrade ground training.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, initial, transition, and upgrade ground training for pilots and flight engineers must include instruction in at least the following as applicable to their assigned duties:
+[arabic]
 .. General subjects—
+[lowerroman]
 ... The certificate holder's dispatch or flight release procedures;
 ... Principles and methods for determining weight and balance, and runway limitations for takeoff and landing;
 ... Enough meteorology to insure a practical knowledge of weather phenomena, including the principles of frontal systems, icing, fog, thunderstorms, and high altitude weather situations;
@@ -459,12 +507,17 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 ... Approved crew resource management initial training; and
 ... Other instructions as necessary to ensure pilot and flight engineer competence.
 .. For each airplane type—
+[lowerroman]
 ... A general description;
 ... Performance characteristics;
 ... Engines and propellers;
 ... Major components;
 ... Major airplane systems (e.g., flight controls, electrical, hydraulic); other systems as appropriate; principles of normal, abnormal, and emergency operations; appropriate procedures and limitations;
 ... Procedures for—
+[upperalpha]
+.... Recognizing and avoiding severe weather situations;
+.... Escaping from severe weather situations, in case of inadvertent encounters, including low-altitude windshear, and
+.... Operating in or near thunderstorms (including best penetrating altitudes), turbulent air (including clear air turbulence), icing, hail, and other potentially hazardous meteorological conditions;
 ... Operating limitations;
 ... Fuel consumption and cruise control;
 ... Flight planning;
@@ -473,7 +526,9 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 ... For pilots, upset prevention and recovery; and
 ... The approved Airplane Flight Manual.
 . Initial ground training for pilots who have completed the airline transport pilot certification training program in § 61.156 must include instruction in at least the following as applicable to their assigned duties:
+[arabic]
 .. Ground training specific to the certificate holder's—
+[lowerroman]
 ... Dispatch or flight release procedures;
 ... Method for determining weight and balance and runway limitations for takeoff and landing;
 ... Meteorology hazards applicable to the certificate holder's areas of operation;
@@ -482,55 +537,60 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 ... Approved crew resource management training.
 .. The training required by paragraph (a)(2) of this section for the airplane type.
 . Initial ground training for pilots and flight engineers must consist of at least the following programmed hours of instruction in the required subjects specified in paragraph (a) of this section and in § 121.415(a) unless reduced under § 121.405:
+[arabic]
 .. Group I airplanes—
+[lowerroman]
 ... Reciprocating powered, 64 hours; and
 ... Turbopropeller powered, 80 hours.
 .. Group II airplanes, 120 hours.
 . Initial ground training for pilots who have completed the airline transport pilot certification training program in § 61.156 must consist of at least the following programmed hours of instruction in the required subjects specified in paragraph (b) of this section and in § 121.415(a) unless reduced under § 121.405:
+[arabic]
 .. Group I airplanes—
+[lowerroman]
 ... Reciprocating powered, 54 hours; and
 ... Turbopropeller powered, 70 hours.
 .. Group II airplanes, 110 hours.
-. *Compliance and pilot programmed hours.* (1) Compliance with the requirements identified in paragraphs (a)(2)(xi) and (a)(2)(xii) of this section is required no later than March 12, 2019.
+. *Compliance and pilot programmed hours.*
+[arabic]
+.. Compliance with the requirements identified in paragraphs (a)(2)(xi) and (a)(2)(xii) of this section is required no later than March 12, 2019.
+.. Beginning March 12, 2019, initial programmed hours applicable to pilots as specified in paragraphs (c) and (d) of this section must include 2 additional hours.
 
-(A) Recognizing and avoiding severe weather situations;
+## § 121.420 - Reserved
 
-(B) Escaping from severe weather situations, in case of inadvertent encounters, including low-altitude windshear, and
 
-(C) Operating in or near thunderstorms (including best penetrating altitudes), turbulent air (including clear air turbulence), icing, hail, and other potentially hazardous meteorological conditions;
+Reserved
 
-(2) Beginning March 12, 2019, initial programmed hours applicable to pilots as specified in paragraphs (c) and (d) of this section must include 2 additional hours.
+## § 121.421 - Flight attendants: Initial and transition ground training.
 
-## § 121.420
-
-### Reserved
-
-## § 121.421
-
-### Flight attendants: Initial and transition ground training.
-
+[loweralpha]
 . Initial and transition ground training for flight attendants must include instruction in at least the following:
+[arabic]
 .. General subjects—
+[lowerroman]
 ... The authority of the pilot in command;
 ... Passenger handling, including the procedures to be followed in the case of deranged persons or other persons whose conduct might jeopardize safety; and
 ... Approved crew resource management initial training.
 .. For each airplane type—
+[lowerroman]
 ... A general description of the airplane emphasizing physical characteristics that may have a bearing on ditching, evacuation, and inflight emergency procedures and on other related duties;
 ... The use of both the public address system and the means of communicating with other flight crewmembers, including emergency means in the case of attempted hijacking or other unusual situations; and
 ... Proper use of electrical galley equipment and the controls for cabin heat and ventilation.
 . Initial and transition ground training for flight attendants must include a competence check to determine ability to perform assigned duties and responsibilities.
 . Initial ground training for flight attendants must consist of at least the following programmed hours of instruction in the subjects specified in paragraph (a) of this section and in § 121.415(a) unless reduced under § 121.405.
+[arabic]
 .. Group I airplanes—
+[lowerroman]
 ... Reciprocating powered, 8 hours; and
 ... Turbopropeller powered, 8 hours.
 .. Group II airplanes, 16 hours.
 
-## § 121.422
+## § 121.422 - Aircraft dispatchers: Initial and transition ground training.
 
-### Aircraft dispatchers: Initial and transition ground training.
-
+[loweralpha]
 . Initial and transition ground training for aircraft dispatchers must include instruction in at least the following:
+[arabic]
 .. General subjects—
+[lowerroman]
 ... Use of communications systems including the characteristics of those systems and the appropriate normal and emergency procedures;
 ... Meteorology, including various types of meteorological information and forecasts, interpretation of weather data (including forecasting of en route and terminal temperatures and other weather conditions), frontal systems, wind conditions, and use of actual and prognostic weather charts for various altitudes;
 ... The NOTAM system;
@@ -541,6 +601,7 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 ... Air traffic control and instrument approach procedures; and
 ... Approved dispatcher resource management (DRM) initial training.
 .. For each airplane—
+[lowerroman]
 ... A general description of the airplane emphasizing operating and performance characteristics, navigation equipment, instrument approach and communication equipment, emergency equipment and procedures, and other subjects having a bearing on dispatcher duties and responsibilities;
 ... Flight operation procedures including procedures specified in § 121.419(a)(2)(vi);
 ... Weight and balance computations;
@@ -550,17 +611,19 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 .. Emergency procedures must be emphasized, including the alerting of proper governmental, company, and private agencies during emergencies to give maximum help to an airplane in distress.
 . Initial and transition ground training for aircraft dispatchers must include a competence check given by an appropriate supervisor or ground instructor that demonstrates knowledge and ability with the subjects set forth in paragraph (a) of this section.
 . Initial ground training for aircraft dispatchers must consist of at least the following programmed hours of instruction in the subjects specified in paragraph (a) of this section and in § 121.415(a) unless reduced under § 121.405:
+[arabic]
 .. Group I airplanes—
+[lowerroman]
 ... Reciprocating powered, 30 hours; and
 ... Turbopropeller powered, 40 hours.
 .. Group II airplanes, 40 hours.
 
-## § 121.423
+## § 121.423 - Pilot: Extended Envelope Training.
 
-### Pilot: Extended Envelope Training.
-
+[loweralpha]
 . Each certificate holder must include in its approved training program, the extended envelope training set forth in this section with respect to each airplane type for each pilot. The extended envelope training required by this section must be performed in a Level C or higher full flight simulator, approved by the Administrator in accordance with § 121.407 of this part.
 . Extended envelope training must include the following maneuvers and procedures:
+[arabic]
 .. Manually controlled slow flight;
 .. Manually controlled loss of reliable airspeed;
 .. Manually controlled instrument departure and arrival;
@@ -569,44 +632,52 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
 . Extended envelope training must include instructor-guided hands on experience of recovery from full stall and stick pusher activation, if equipped.
 . Recurrent training: Within 24 calendar months preceding service as a pilot, each person must satisfactorily complete the extended envelope training described in paragraphs (b)(1) through (4) and (c) of this section. Within 36 calendar months preceding service as a pilot, each person must satisfactorily complete the extended envelope training described in paragraph (b)(5) of this section.
 . Deviation from use of Level C or higher full flight simulator:
+[arabic]
 .. A certificate holder may submit a request to the Administrator for approval of a deviation from the requirements of paragraph (a) of this section to conduct the extended envelope training using an alternative method to meet the learning objectives of this section.
 .. A request for deviation from paragraph (a) of this section must include the following information:
+[lowerroman]
 ... A simulator availability assessment, including hours by specific simulator and location of the simulator, and a simulator shortfall analysis that includes the training that cannot be completed in a Level C or higher full flight simulator; and
 ... Alternative methods for achieving the learning objectives of this section.
 .. A certificate holder may request an extension of a deviation issued under this section.
 .. Deviations or extensions to deviations will be issued for a period not to exceed 12 months.
 . Compliance with this section is required no later than March 12, 2019. For the recurrent training required in paragraph (d) of this section, each pilot qualified to serve as second in command or pilot in command in operations under this part on March 12, 2019 must complete the recurrent extended envelope training within 12 calendar months after March 12, 2019.
 
-## § 121.424
+## § 121.424 - Pilots: Initial, transition, and upgrade flight training.
 
-### Pilots: Initial, transition, and upgrade flight training.
-
+[loweralpha]
 . Initial, transition, and upgrade training for pilots must include the following:
+[arabic]
 .. Flight training and practice in the maneuvers and procedures set forth in the certificate holder's approved low-altitude windshear flight training program and in appendix E to this part, as applicable; and
 .. Extended envelope training set forth in § 121.423.
 . The training required by paragraph (a) of this section must be performed inflight except—
+[arabic]
 .. That windshear maneuvers and procedures must be performed in a simulator in which the maneuvers and procedures are specifically authorized to be accomplished;
 .. That the extended envelope training required by § 121.423 must be performed in a Level C or higher full flight simulator unless the Administrator has issued to the certificate holder a deviation in accordance with § 121.423(e); and
 .. To the extent that certain other maneuvers and procedures may be performed in an airplane simulator, an appropriate training device, or a static airplane as permitted in appendix E to this part.
 . Except as permitted in paragraph (d) of this section, the initial flight training required by paragraph (a)(1) of this section must include at least the following programmed hours of inflight training and practice unless reduced under § 121.405;
+[arabic]
 .. Group I airplanes—
+[lowerroman]
 ... *Reciprocating powered.* Pilot in command, 10 hours; second in command, 6 hours; and
 ... *Turbopropeller powered.* Pilot in command, 15 hours; second in command, 7 hours.
 .. *Group II airplanes.* Pilot in command, 20 hours; second in command, 10 hours.
 . If the certificate holder's approved training program includes a course of training utilizing an airplane simulator under § 121.409 (c) and (d) of this part, each pilot must successfully complete—
+[arabic]
 .. With respect to § 121.409(c) of this part—
+[lowerroman]
 ... Training and practice in the simulator in at least all of the maneuvers and procedures set forth in appendix E to this part for initial flight training that are capable of being performed in an airplane simulator without a visual system; and
 ... A flight check in the simulator or the airplane to the level of proficiency of a pilot in command or second in command, as applicable, in at least the maneuvers and procedures set forth in appendix F to this part that are capable of being performed in an airplane simulator without a visual system.
 .. With respect to § 121.409(d) of this part, training and practice in at least the maneuvers and procedures set forth in the certificate holder's approved low-altitude windshear flight training program that are capable of being performed in an airplane simulator in which the maneuvers and procedures are specifically authorized.
 . Compliance with paragraphs (a)(2) and (b)(2) of this section is required no later than March 12, 2019.
 
-## § 121.425
+## § 121.425 - Flight engineers: Initial and transition flight training.
 
-### Flight engineers: Initial and transition flight training.
-
+[loweralpha]
 . Initial and transition flight training for flight engineers must include at least the following:
+[arabic]
 .. Training and practice in procedures related to the carrying out of flight engineer duties and functions. This training and practice may be accomplished either inflight, in an airplane simulator, or in a training device.
 .. A flight check that includes—
+[lowerroman]
 ... Preflight inspection;
               
 ... Inflight performance of assigned duties accomplished from the flight engineer station during taxi, runup, takeoff, climb, cruise, descent, approach, and landing;
@@ -614,52 +685,62 @@ After March 19, 1998, no certificate holder may use a person as a flight crewmem
               
 . Except as permitted in paragraph (c) of this section, the initial flight training required by paragraph (a) of this section must include at least the same number of programmed hours of flight training and practice that are specified for a second in command pilot under § 121.424(c) unless reduced under § 121.405.
 . If the certificate holder's approved training program includes a course of training utilizing an airplane simulator or other training device under § 121.409(c), each flight engineer must successfully complete in the simulator or other training device—
+[arabic]
 .. Training and practice in at least all of the assigned duties, procedures, and functions required by paragraph (a) of this section; and
 .. A flight check to a flight engineer level of proficiency in the assigned duties, procedures, and functions.
 
-## § 121.426
+## § 121.426 - Reserved
 
-### Reserved
 
-## § 121.427
+Reserved
 
-### Recurrent training.
+## § 121.427 - Recurrent training.
 
+[loweralpha]
 . Recurrent training must ensure that each crew member or dispatcher is adequately trained and currently proficient with respect to the type airplane (including differences training, if applicable) and crewmember position involved.
 . Recurrent ground training for crewmembers and dispatchers must include at least the following:
+[arabic]
 .. A quiz or other review to determine the state of the crewmember's or dispatcher's knowledge with respect to the airplane and position involved.
 .. Instruction as necessary in the subjects required for initial ground training by §§ 121.415(a) and 121.805, as appropriate, including emergency training (not required for aircraft dispatchers).
 .. For flight attendants and dispatchers, a competence check as required by §§ 121.421(b) and 121.422(b), respectively.
 .. CRM and DRM training. For flightcrew members, CRM training or portions thereof may be accomplished during an approved simulator line operational flight training (LOFT) session. The recurrent CRM or DRM training requirements do not apply until a person has completed the applicable initial CRM or DRM training required by §§ 121.419, 121.421, or 121.422.
 . Recurrent ground training for crewmembers and dispatchers must consist of at least the following programmed hours unless reduced under § 121.405:
+[arabic]
 .. For pilots and flight engineers—
+[lowerroman]
 ... Group I, reciprocating powered airplanes, 16 hours;
 ... Group I turbopropeller powered airplanes, 20 hours; and
 ... Group II airplanes, 25 hours.
 .. For flight attendants—
+[lowerroman]
 ... Group I reciprocating powered airplanes, 4 hours;
 ... Group I turbopropeller powered airplanes, 5 hours; and
 ... Group II airplanes, 12 hours.
 .. For aircraft dispatchers—
+[lowerroman]
 ... Group I reciprocating powered airplanes, 8 hours;
 ... Group I turbopropeller powered airplanes, 10 hours; and
 ... Group II airplanes, 20 hours.
 . Recurrent flight training for flightcrew members must include at least the following:
+[arabic]
 .. For pilots—
+[lowerroman]
 ... Extended envelope training as required by § 121.423 of this part; and
 ... Flight training in an approved simulator in maneuvers and procedures set forth in the certificate holder's approved low-altitude windshear flight training program and flight training in maneuvers and procedures set forth in appendix F to this part, or in a flight training program approved by the Administrator, except as follows—
+[upperalpha]
+.... The number of programmed inflight hours is not specified; and
+.... Satisfactory completion of a proficiency check may be substituted for recurrent flight training as permitted in § 121.433(c) and (e) of this part.
 .. For flight engineers, flight training as provided by § 121.425(a) except as follows—
+[lowerroman]
 ... The specified number of inflight hours is not required; and
 ... The flight check, other than the preflight inspection, may be conducted in an airplane simulator or other training device. The preflight inspection may be conducted in an airplane, or by using an approved pictorial means that realistically portrays the location and detail or preflight inspection items and provides for the portrayal of abnormal conditions. Satisfactory completion of an approved line-oriented simulator training program may be substituted for the flight check.
 . Compliance and pilot programmed hours:
+[arabic]
 .. Compliance with the requirements identified in paragraphs (d)(1)(i) of this section is required no later than March 12, 2019.
 .. After March 12, 2019, recurrent programmed hours applicable to pilots as specified in paragraph (c)(1) of this section must include 30 additional minutes.
 
-(A) The number of programmed inflight hours is not specified; and
+## § 121.429 - Reserved
 
-(B) Satisfactory completion of a proficiency check may be substituted for recurrent flight training as permitted in § 121.433(c) and (e) of this part.
 
-## § 121.429
-
-### Reserved
+Reserved
 

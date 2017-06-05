@@ -1,17 +1,15 @@
 # Airport Traffic Control Towers
 :toc:
 
-## § 170.11
-
-### Scope.
+## § 170.11 - Scope.
 
 This subpart sets forth establishment and discontinuance criteria for Airport Traffic Control Towers.
 
-## § 170.13
+## § 170.13 - Airport Traffic Control Tower (ATCT) establishment criteria.
 
-### Airport Traffic Control Tower (ATCT) establishment criteria.
-
+[loweralpha]
 . The following criteria along with general facility establishment standards must be met before an airport can qualify for an ATCT:
+[arabic]
 .. The airport, whether publicly or privately owned, must be open to and available for use by the public as defined in the Airport and Airway Improvement Act of 1982;
 .. The airport must be recognized by and contained within the National Plan of Integrated Airport Systems;
 .. The airport owners/authorities must have entered into appropriate assurances and covenants to guarantee that the airport will continue in operation for a long enough period to permit the amortization of the ATCT investment;
@@ -21,9 +19,7 @@ This subpart sets forth establishment and discontinuance criteria for Airport Tr
               
 . The satisfaction of all the criteria listed in this section does not guarantee that the airport will receive an ATCT.
 
-## § 170.15
-
-### ATCT discontinuance criteria.
+## § 170.15 - ATCT discontinuance criteria.
 
 An ATCT will be subject to discontinuance when the continued operation and maintenance costs less termination costs (CMPV) of the ATCT exceed the present value of its remaining life-cycle benefits (BPV):
               

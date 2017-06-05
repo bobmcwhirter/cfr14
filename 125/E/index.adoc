@@ -1,74 +1,77 @@
 # Special Airworthiness Requirements
 :toc:
 
-## § 125.111
+## § 125.111 - General.
 
-### General.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no certificate holder may use an airplane powered by airplane engines rated at more than 600 horsepower each for maximum continuous operation unless that airplane meets the requirements of §§ 125.113 through 125.181.
 . If the Administrator determines that, for a particular model of airplane used in cargo service, literal compliance with any requirement under paragraph (a) of this section would be extremely difficult and that compliance would not contribute materially to the objective sought, the Administrator may require compliance with only those requirements that are necessary to accomplish the basic objectives of this part.
 . This section does not apply to any airplane certificated under—
+[arabic]
 .. Part 4b of the Civil Air Regulations in effect after October 31, 1946;
 .. Part 25 of this chapter; or
 .. Special Civil Air Regulation 422, 422A, or 422B.
 
-## § 125.113
+## § 125.113 - Cabin interiors.
 
-### Cabin interiors.
-
+[loweralpha]
 . Upon the first major overhaul of an airplane cabin or refurbishing of the cabin interior, all materials in each compartment used by the crew or passengers that do not meet the following requirements must be replaced with materials that meet these requirements:
+[arabic]
 .. For an airplane for which the application for the type certificate was filed prior to May 1, 1972, § 25.853 in effect on April 30, 1972.
 .. For an airplane for which the application for the type certificate was filed on or after May 1, 1972, the materials requirement under which the airplane was type certificated.
 . Except as provided in paragraph (a) of this section, each compartment used by the crew or passengers must meet the following requirements:
+[arabic]
 .. Materials must be at least flash resistant.
 .. The wall and ceiling linings and the covering of upholstering, floors, and furnishings must be flame resistant.
 .. Each compartment where smoking is to be allowed must be equipped with self-contained ash trays that are completely removable and other compartments must be placarded against smoking.
 .. Each receptacle for used towels, papers, and wastes must be of fire-resistant material and must have a cover or other means of containing possible fires started in the receptacles.
 . Thermal/acoustic insulation materials. For transport category airplanes type certificated after January 1, 1958:
+[arabic]
 .. For airplanes manufactured before September 2, 2005, when thermal/acoustic insulation is installed in the fuselage as replacements after September 2, 2005, the insulation must meet the flame propagation requirements of § 25.856 of this chapter, effective September 2, 2003, if it is:
+[lowerroman]
 ... of a blanket construction or
 ... Installed around air ducting.
 .. For airplanes manufactured after September 2, 2005, thermal/acoustic insulation materials installed in the fuselage must meet the flame propagation requirements of § 25.856 of this chapter, effective September 2, 2003.
 
-## § 125.115
-
-### Internal doors.
+## § 125.115 - Internal doors.
 
 In any case where internal doors are equipped with louvres or other ventilating means, there must be a means convenient to the crew for closing the flow of air through the door when necessary.
 
-## § 125.117
-
-### Ventilation.
+## § 125.117 - Ventilation.
 
 Each passenger or crew compartment must be suitably ventilated. Carbon monoxide concentration may not be more than one part in 20,000 parts of air, and fuel fumes may not be present. In any case where partitions between compartments have louvres or other means allowing air to flow between compartments, there must be a means convenient to the crew for closing the flow of air through the partitions when necessary.
 
-## § 125.119
+## § 125.119 - Fire precautions.
 
-### Fire precautions.
-
+[loweralpha]
 . Each compartment must be designed so that, when used for storing cargo or baggage, it meets the following requirements:
               
+[arabic]
 .. No compartment may include controls, wiring, lines, equipment, or accessories that would upon damage or failure, affect the safe operation of the airplane unless the item is adequately shielded, isolated, or otherwise protected so that it cannot be damaged by movement of cargo in the compartment and so that damage to or failure of the item would not create a fire hazard in the compartment.
 .. Cargo or baggage may not interfere with the functioning of the fire-protective features of the compartment.
 .. Materials used in the construction of the compartments, including tie-down equipment, must be at least flame resistant.
 .. Each compartment must include provisions for safeguarding against fires according to the classifications set forth in paragraphs (b) through (f) of this section.
 . *Class A.* Cargo and baggage compartments are classified in the “A” category if a fire therein would be readily discernible to a member of the crew while at that crewmember's station, and all parts of the compartment are easily accessible in flight. There must be a hand fire extinguisher available for each Class A compartment.
 . *Class B.* Cargo and baggage compartments are classified in the “B” category if enough access is provided while in flight to enable a member of the crew to effectively reach all of the compartment and its contents with a hand fire extinguisher and the compartment is so designed that, when the access provisions are being used, no hazardous amount of smoke, flames, or extinguishing agent enters any compartment occupied by the crew or passengers. Each Class B compartment must comply with the following:
+[arabic]
 .. It must have a separate approved smoke or fire detector system to give warning at the pilot or flight engineer station.
 .. There must be a hand-held fire extinguisher available for the compartment.
 .. It must be lined with fire-resistant material, except that additional service lining of flame-resistant material may be used.
 . *Class C.* Cargo and baggage compartments are classified in the “C” category if they do not conform with the requirements for the “A”, “B”, “D”, or “E” categories. Each Class C compartment must comply with the following:
+[arabic]
 .. It must have a separate approved smoke or fire detector system to give warning at the pilot or flight engineer station.
 .. It must have an approved built-in fire-extinguishing system controlled from the pilot or flight engineer station.
 .. It must be designed to exclude hazardous quantities of smoke, flames, or extinguishing agents from entering into any compartment occupied by the crew or passengers.
 .. It must have ventilation and draft control so that the extinguishing agent provided can control any fire that may start in the compartment.
 .. It must be lined with fire-resistant material, except that additional service lining of flame-resistant material may be used.
 . *Class D.* Cargo and baggage compartments are classified in the “D” category if they are so designed and constructed that a fire occurring therein will be completely confined without endangering the safety of the airplane or the occupants. Each Class D compartment must comply with the following:
+[arabic]
 .. It must have a means to exclude hazardous quantities of smoke, flames, or noxious gases from entering any compartment occupied by the crew or passengers.
 .. Ventilation and drafts must be controlled within each compartment so that any fire likely to occur in the compartment will not progress beyond safe limits.
 .. It must be completely lined with fire-resistant material.
 .. Consideration must be given to the effect of heat within the compartment on adjacent critical parts of the airplane.
 . *Class E.* On airplanes used for the carriage of cargo only, the cabin area may be classified as a Class “E” compartment. Each Class E compartment must comply with the following:
+[arabic]
 .. It must be completely lined with fire-resistant material.
               
 .. It must have a separate system of an approved type smoke or fire detector to give warning at the pilot or flight engineer station.
@@ -76,234 +79,191 @@ Each passenger or crew compartment must be suitably ventilated. Carbon monoxide 
 .. It must have a means to exclude hazardous quantities of smoke, flames, or noxious gases from entering the flightcrew compartment.
 .. Required crew emergency exits must be accessible under all cargo loading conditions.
 
-## § 125.121
-
-### Proof of compliance with § 125.119.
+## § 125.121 - Proof of compliance with § 125.119.
 
 Compliance with those provisions of § 125.119 that refer to compartment accessibility, the entry of hazardous quantities of smoke or extinguishing agent into compartment occupied by the crew or passengers, and the dissipation of the extinguishing agent in Class “C” compartments must be shown by tests in flight. During these tests it must be shown that no inadvertent operation of smoke or fire detectors in other compartments within the airplane would occur as a result of fire contained in any one compartment, either during the time it is being extinguished, or thereafter, unless the extinguishing system floods those compartments simultaneously.
 
-## § 125.123
-
-### Propeller deicing fluid.
+## § 125.123 - Propeller deicing fluid.
 
 If combustible fluid is used for propeller deicing, the certificate holder must comply with § 125.153.
 
-## § 125.125
+## § 125.125 - Pressure cross-feed arrangements.
 
-### Pressure cross-feed arrangements.
-
+[loweralpha]
 . Pressure cross-feed lines may not pass through parts of the airplane used for carrying persons or cargo unless there is a means to allow crewmembers to shut off the supply of fuel to these lines or the lines are enclosed in a fuel and fume-proof enclosure that is ventilated and drained to the exterior of the airplane. However, such an enclosure need not be used if those lines incorporate no fittings on or within the personnel or cargo areas and are suitably routed or protected to prevent accidental damage.
 . Lines that can be isolated from the rest of the fuel system by valves at each end must incorporate provisions for relieving excessive pressures that may result from exposure of the isolated line to high temperatures.
 
-## § 125.127
+## § 125.127 - Location of fuel tanks.
 
-### Location of fuel tanks.
-
+[loweralpha]
 . Fuel tanks must be located in accordance with § 125.153.
 . No part of the engine nacelle skin that lies immediately behind a major air outlet from the engine compartment may be used as the wall of an integral tank.
 . Fuel tanks must be isolated from personnel compartments by means of fume- and fuel-proof enclosures.
 
-## § 125.129
+## § 125.129 - Fuel system lines and fittings.
 
-### Fuel system lines and fittings.
-
+[loweralpha]
 . Fuel lines must be installed and supported so as to prevent excessive vibration and so as to be adequate to withstand loads due to fuel pressure and accelerated flight conditions.
 . Lines connected to components of the airplane between which there may be relative motion must incorporate provisions for flexibility.
 . Flexible connections in lines that may be under pressure and subject to axial loading must use flexible hose assemblies rather than hose clamp connections.
 . Flexible hoses must be of an acceptable type or proven suitable for the particular application.
 
-## § 125.131
-
-### Fuel lines and fittings in designated fire zones.
+## § 125.131 - Fuel lines and fittings in designated fire zones.
 
 Fuel lines and fittings in each designated fire zone must comply with § 125.157.
 
-## § 125.133
-
-### Fuel valves.
+## § 125.133 - Fuel valves.
 
 Each fuel valve must—
 
+[loweralpha]
 . Comply with § 125.155;
 . Have positive stops or suitable index provisions in the “on” and “off” positions; and
 . Be supported so that loads resulting from its operation or from accelerated flight conditions are not transmitted to the lines connected to the valve.
 
-## § 125.135
-
-### Oil lines and fittings in designated fire zones.
+## § 125.135 - Oil lines and fittings in designated fire zones.
 
 Oil lines and fittings in each designated fire zone must comply with § 125.157.
 
-## § 125.137
+## § 125.137 - Oil valves.
 
-### Oil valves.
-
+[loweralpha]
 . Each oil valve must—
+[arabic]
 .. Comply with § 125.155;
 .. Have positive stops or suitable index provisions in the “on” and “off” positions; and
 .. Be supported so that loads resulting from its operation or from accelerated flight conditions are not transmitted to the lines attached to the valve.
 . The closing of an oil shutoff means must not prevent feathering the propeller, unless equivalent safety provisions are incorporated.
 
-## § 125.139
-
-### Oil system drains.
+## § 125.139 - Oil system drains.
 
 Accessible drains incorporating either a manual or automatic means for positive locking in the closed position must be provided to allow safe drainage of the entire oil system.
 
-## § 125.141
+## § 125.141 - Engine breather lines.
 
-### Engine breather lines.
-
+[loweralpha]
 . Engine breather lines must be so arranged that condensed water vapor that may freeze and obstruct the line cannot accumulate at any point.
 . Engine breathers must discharge in a location that does not constitute a fire hazard in case foaming occurs and so that oil emitted from the line does not impinge upon the pilots' windshield.
 . Engine breathers may not discharge into the engine air induction system.
 
-## § 125.143
-
-### Firewalls.
+## § 125.143 - Firewalls.
 
 Each engine, auxiliary power unit, fuel-burning heater, or other item of combusting equipment that is intended for operation in flight must be isolated from the rest of the airplane by means of firewalls or shrouds, or by other equivalent means.
 
-## § 125.145
-
-### Firewall construction.
+## § 125.145 - Firewall construction.
 
 Each firewall and shroud must—
 
+[loweralpha]
 . Be so made that no hazardous quantity of air, fluids, or flame can pass from the engine compartment to other parts of the airplane;
 . Have all openings in the firewall or shroud sealed with close-fitting fireproof grommets, bushings, or firewall fittings;
 . Be made of fireproof material; and
 . Be protected against corrosion.
 
-## § 125.147
+## § 125.147 - Cowling.
 
-### Cowling.
-
+[loweralpha]
 . Cowling must be made and supported so as to resist the vibration, inertia, and air loads to which it may be normally subjected.
 . Provisions must be made to allow rapid and complete drainage of the cowling in normal ground and flight attitudes. Drains must not discharge in locations constituting a fire hazard. Parts of the cowling that are subjected to high temperatures because they are near exhaust system parts or because of exhaust gas impingement must be made of fireproof material. Unless otherwise specified in these regulations, all other parts of the cowling must be made of material that is at least fire resistant.
 
-## § 125.149
-
-### Engine accessory section diaphragm.
+## § 125.149 - Engine accessory section diaphragm.
 
 Unless equivalent protection can be shown by other means, a diaphragm that complies with § 125.145 must be provided on air-cooled engines to isolate the engine power section and all parts of the exhaust system from the engine accessory compartment.
 
-## § 125.151
+## § 125.151 - Powerplant fire protection.
 
-### Powerplant fire protection.
-
+[loweralpha]
 . Designated fire zones must be protected from fire by compliance with §§ 125.153 through 125.159.
 . Designated fire zones are—
+[arabic]
 .. Engine accessory sections;
 .. Installations where no isolation is provided between the engine and accessory compartment; and
 .. Areas that contain auxiliary power units, fuel-burning heaters, and other combustion equipment.
 
-## § 125.153
+## § 125.153 - Flammable fluids.
 
-### Flammable fluids.
-
+[loweralpha]
 . No tanks or reservoirs that are a part of a system containing flammable fluids or gases may be located in designated fire zones, except where the fluid contained, the design of the system, the materials used in the tank, the shutoff means, and the connections, lines, and controls provide equivalent safety.
 . At least one-half inch of clear airspace must be provided between any tank or reservior and a firewall or shroud isolating a designated fire zone.
 
-## § 125.155
+## § 125.155 - Shutoff means.
 
-### Shutoff means.
-
+[loweralpha]
 . Each engine must have a means for shutting off or otherwise preventing hazardous amounts of fuel, oil, deicer, and other flammable fluids from flowing into, within, or through any designated fire zone. However, means need not be provided to shut off flow in lines that are an integral part of an engine.
 . The shutoff means must allow an emergency operating sequence that is compatible with the emergency operation of other equipment, such as feathering the propeller, to facilitate rapid and effective control of fires.
 . Shutoff means must be located outside of designated fire zones, unless equivalent safety is provided, and it must be shown that no hazardous amount of flammable fluid will drain into any designated fire zone after a shutoff.
 . Adequate provisions must be made to guard against inadvertent operation of the shutoff means and to make it possible for the crew to reopen the shutoff means after it has been closed.
 
-## § 125.157
+## § 125.157 - Lines and fittings.
 
-### Lines and fittings.
-
+[loweralpha]
 . Each line, and its fittings, that is located in a designated fire zone, if it carries flammable fluids or gases under pressure, or is attached directly to the engine, or is subject to relative motion between components (except lines and fittings forming an integral part of the engine), must be flexible and fire-resistant with fire-resistant, factory-fixed, detachable, or other approved fire-resistant ends.
 . Lines and fittings that are not subject to pressure or to relative motion between components must be of fire-resistant materials.
 
-## § 125.159
-
-### Vent and drain lines.
+## § 125.159 - Vent and drain lines.
 
 All vent and drain lines, and their fittings, that are located in a designated fire zone must, if they carry flammable fluids or gases, comply with § 125.157, if the Administrator finds that the rupture or breakage of any vent or drain line may result in a fire hazard.
 
-## § 125.161
+## § 125.161 - Fire-extinguishing systems.
 
-### Fire-extinguishing systems.
-
+[loweralpha]
 . Unless the certificate holder shows that equivalent protection against destruction of the airplane in case of fire is provided by the use of fireproof materials in the nacelle and other components that would be subjected to flame, fire-extinguishing systems must be provided to serve all designated fire zones.
 . Materials in the fire-extinguishing system must not react chemically with the extinguishing agent so as to be a hazard.
 
-## § 125.163
-
-### Fire-extinguishing agents.
+## § 125.163 - Fire-extinguishing agents.
 
 Only methyl bromide, carbon dioxide, or another agent that has been shown to provide equivalent extinguishing action may be used as a fire-extinguishing agent. If methyl bromide or any other toxic extinguishing agent is used, provisions must be made to prevent harmful concentrations of fluid or fluid vapors from entering any personnel compartment either because of leakage during normal operation of the airplane or because of discharging the fire extinguisher on the ground or in flight when there is a defect in the extinguishing system. If a methyl bromide system is used, the containers must be charged with dry agent and sealed by the fire-extinguisher manufacturer or some other person using satisfactory recharging equipment. If carbon dioxide is used, it must not be possible to discharge enough gas into the personnel compartments to create a danger of suffocating the occupants.
 
-## § 125.165
-
-### Extinguishing agent container pressure relief.
+## § 125.165 - Extinguishing agent container pressure relief.
 
 Extinguishing agent containers must be provided with a pressure relief to prevent bursting of the container because of excessive internal pressures. The discharge line from the relief connection must terminate outside the airplane in a place convenient for inspection on the ground. An indicator must be provided at the discharge end of the line to provide a visual indication when the container has discharged.
 
-## § 125.167
-
-### Extinguishing agent container compartment temperature.
+## § 125.167 - Extinguishing agent container compartment temperature.
 
 Precautions must be taken to ensure that the extinguishing agent containers are installed in places where reasonable temperatures can be maintained for effective use of the extinguishing system.
 
-## § 125.169
+## § 125.169 - Fire-extinguishing system materials.
 
-### Fire-extinguishing system materials.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, each component of a fire-extinguishing system that is in a designated fire zone must be made of fireproof materials.
 . Connections that are subject to relative motion between components of the airplane must be made of flexible materials that are at least fire-resistant and be located so as to minimize the probability of failure.
 
-## § 125.171
-
-### Fire-detector systems.
+## § 125.171 - Fire-detector systems.
 
 Enough quick-acting fire detectors must be provided in each designated fire zone to assure the detection of any fire that may occur in that zone.
 
-## § 125.173
-
-### Fire detectors.
+## § 125.173 - Fire detectors.
 
 Fire detectors must be made and installed in a manner that assures their ability to resist, without failure, all vibration, inertia, and other loads to which they may be normally subjected. Fire detectors must be unaffected by exposure to fumes, oil, water, or other fluids that may be present.
 
-## § 125.175
+## § 125.175 - Protection of other airplane components against fire.
 
-### Protection of other airplane components against fire.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, all airplane surfaces aft of the nacelles in the area of one nacelle diameter on both sides of the nacelle centerline must be made of material that is at least fire resistant.
 . Paragraph (a) of this section does not apply to tail surfaces lying behind nacelles unless the dimensional configuration of the airplane is such that the tail surfaces could be affected readily by heat, flames, or sparks emanating from a designated fire zone or from the engine from a designated fire zone or from the engine compartment of any nacelle.
 
-## § 125.177
+## § 125.177 - Control of engine rotation.
 
-### Control of engine rotation.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, each airplane must have a means of individually stopping and restarting the rotation of any engine in flight.
 . In the case of turbine engine installations, a means of stopping rotation need be provided only if the Administrator finds that rotation could jeopardize the safety of the airplane.
 
-## § 125.179
+## § 125.179 - Fuel system independence.
 
-### Fuel system independence.
-
+[loweralpha]
 . Each airplane fuel system must be arranged so that the failure of any one component does not result in the irrecoverable loss of power of more than one engine.
 . A separate fuel tank need not be provided for each engine if the certificate holder shows that the fuel system incorporates features that provide equivalent safety.
 
-## § 125.181
-
-### Induction system ice prevention.
+## § 125.181 - Induction system ice prevention.
 
 A means for preventing the malfunctioning of each engine due to ice accumulation in the engine air induction system must be provided for each airplane.
 
-## § 125.183
+## § 125.183 - Carriage of cargo in passenger compartments.
 
-### Carriage of cargo in passenger compartments.
-
+[loweralpha]
 . Except as provided in paragraph (b) or (c) of this section, no certificate holder may carry cargo in the passenger compartment of an airplane.
 . Cargo may be carried aft of the foremost seated passengers if it is carried in an approved cargo bin that meets the following requirements:
+[arabic]
 .. The bin must withstand the load factors and emergency landing conditions applicable to the passenger seats of the airplane in which the bin is installed, multiplied by a factor of 1.15, using the combined weight of the bin and the maximum weight of cargo that may be carried in the bin.
 .. The maximum weight of cargo that the bin is approved to carry and any instructions necessary to ensure proper weight distribution within the bin must be conspicuously marked on the bin.
               
@@ -314,39 +274,40 @@ A means for preventing the malfunctioning of each engine due to ice accumulation
 .. Suitable safeguards must be provided within the bin to prevent the cargo from shifting under emergency landing conditions.
 .. The bin may not be installed in a position that obscures any passenger's view of the “seat belt” sign, “no smoking” sign, or any required exit sign, unless an auxiliary sign or other approved means for proper notification of the passenger is provided.
 . All cargo may be carried forward of the foremost seated passengers and carry-on baggage may be carried alongside the foremost seated passengers if the cargo (including carry-on baggage) is carried either in approved bins as specified in paragraph (b) of this section or in accordance with the following:
+[arabic]
 .. It is properly secured by a safety belt or other tie down having enough strength to eliminate the possibility of shifting under all normally anticipated flight and ground conditions.
 .. It is packaged or covered in a manner to avoid possible injury to passengers.
 .. It does not impose any load on seats or the floor structure that exceeds the load limitation for those components.
 .. Its location does not restrict access to or use of any required emergency or regular exit, or of the aisle in the passenger compartment.
 .. Its location does not obscure any passenger's view of the “seat belt” sign, “no smoking” sign, or required exit sign, unless an auxiliary sign or other approved means for proper notification of the passenger is provided.
 
-## § 125.185
-
-### Carriage of cargo in cargo compartments.
+## § 125.185 - Carriage of cargo in cargo compartments.
 
 When cargo is carried in cargo compartments that are designed to require the physical entry of a crewmember to extinguish any fire that may occur during flight, the cargo must be loaded so as to allow a crewmember to effectively reach all parts of the compartment with the contents of a hand-held fire extinguisher.
 
-## § 125.187
+## § 125.187 - Landing gear: Aural warning device.
 
-### Landing gear: Aural warning device.
-
+[loweralpha]
 . Except for airplanes that comply with the requirements of § 25.729 of this chapter on or after January 6, 1992, each airplane must have a landing gear aural warning device that functions continuously under the following conditions:
+[arabic]
 .. For airplanes with an established approach wing-flap position, whenever the wing flaps are extended beyond the maximum certificated approach climb configuration position in the Airplane Flight Manual and the landing gear is not fully extended and locked.
 .. For airplanes without an established approach climb wing-flap position, whenever the wing flaps are extended beyond the position at which landing gear extension is normally performed and the landing gear is not fully extended and locked.
 . The warning system required by paragraph (a) of this section—
+[arabic]
 .. May not have a manual shutoff;
 .. Must be in addition to the throttle-actuated device installed under the type certification airworthiness requirements; and
 .. May utilize any part of the throttle-actuated system including the aural warning device.
               
 . The flap position sensing unit may be installed at any suitable place in the airplane.
 
-## § 125.189
+## § 125.189 - Demonstration of emergency evacuation procedures.
 
-### Demonstration of emergency evacuation procedures.
-
+[loweralpha]
 . Each certificate holder must show, by actual demonstration conducted in accordance with paragraph (a) of appendix B of this part, that the emergency evacuation procedures for each type and model of airplane with a seating of more than 44 passengers, that is used in its passenger-carrying operations, allow the evacuation of the full seating capacity, including crewmembers, in 90 seconds or less, in each of the following circumstances:
+[arabic]
 .. A demonstration must be conducted by the certificate holder upon the initial introduction of a type and model of airplane into passenger-carrying operations. However, the demonstration need not be repeated for any airplane type or model that has the same number and type of exits, the same cabin configuration, and the same emergency equipment as any other airplane used by the certificate holder in successfully demonstrating emergency evacuation in compliance with this paragraph.
 .. A demonstration must be conducted—
+[lowerroman]
 ... Upon increasing by more than 5 percent the passenger seating capacity for which successful demonstration has been conducted; or
 ... Upon a major change in the passenger cabin interior configuration that will affect the emergency evacuation of passengers.
 . If a certificate holder has conducted a successful demonstration required by § 121.291(a) in the same type airplane as a part 121 or part 123 certificate holder, it need not conduct a demonstration under this paragraph in that type airplane to achieve certification under part 125.

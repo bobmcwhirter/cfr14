@@ -1,71 +1,70 @@
 # Certification Rules and Miscellaneous Requirements
 :toc:
 
-## § 125.21
+## § 125.21 - Application for operating certificate.
 
-### Application for operating certificate.
-
+[loweralpha]
 . Each applicant for the issuance of an operating certificate must submit an application in a form and manner prescribed by the Administrator to the FAA Flight Standards district office in whose area the applicant proposes to establish or has established its principal operations base. The application must be submitted at least 60 days before the date of intended operations.
 . Each application submitted under paragraph (a) of this section must contain a signed statement showing the following:
+[arabic]
 .. The name and address of each director and each officer or person employed or who will be employed in a management position described in § 125.25.
 .. A list of flight crewmembers with the type of airman certificate held, including ratings and certificate numbers.
 
-## § 125.23
-
-### Rules applicable to operations subject to this part.
+## § 125.23 - Rules applicable to operations subject to this part.
 
 Each person operating an airplane in operations under this part shall—
 
+[loweralpha]
 . While operating inside the United States, comply with the applicable rules in part 91 of this chapter; and
 . While operating outside the United States, comply with Annex 2, Rules of the Air, to the Convention on International Civil Aviation or the regulations of any foreign country, whichever applies, and with any rules of parts 61 and 91 of this chapter and this part that are more restrictive than that Annex or those regulations and that can be complied with without violating that Annex or those regulations. Annex 2 is incorporated by reference in § 91.703(b) of this chapter.
 
-## § 125.25
+## § 125.25 - Management personnel required.
 
-### Management personnel required.
-
+[loweralpha]
 . Each applicant for a certificate under this part must show that it has enough management personnel, including at least a director of operations, to assure that its operations are conducted in accordance with the requirements of this part.
 . Each applicant shall—
+[arabic]
 .. Set forth the duties, responsibilities, and authority of each of its management personnel in the general policy section of its manual;
 .. List in the manual the names and addresses of each of its management personnel;
 .. Designate a person as responsible for the scheduling of inspections required by the manual and for the updating of the approved weight and balance system on all airplanes.
 . Each certificate holder shall notify the FAA Flight Standards district office charged with the overall inspection of the certificate holder of any change made in the assignment of persons to the listed positions within 10 days, excluding Saturdays, Sundays, and Federal holidays, of such change.
 
-## § 125.26
+## § 125.26 - Employment of former FAA employees.
 
-### Employment of former FAA employees.
-
+[loweralpha]
 . Except as specified in paragraph (c) of this section, no certificate holder may knowingly employ or make a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2 years—
+[arabic]
 .. Served as, or was directly responsible for the oversight of, a Flight Standards Service aviation safety inspector; and
 .. Had direct responsibility to inspect, or oversee the inspection of, the operations of the certificate holder.
 . For the purpose of this section, an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the agency if the individual makes any written or oral communication on behalf of the certificate holder to the agency (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a Flight Standards Service aviation safety inspector.
 . The provisions of this section do not prohibit a certificate holder from knowingly employing or making a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual was employed by the certificate holder before October 21, 2011.
 
-## § 125.27
+## § 125.27 - Issue of certificate.
 
-### Issue of certificate.
-
+[loweralpha]
 . An applicant for a certificate under this subpart is entitled to a certificate if the Administrator finds that the applicant is properly and adequately equipped and able to conduct a safe operation in accordance with the requirements of this part and the operations specifications provided for in this part.
 . The Administrator may deny an application for a certificate under this subpart if the Administrator finds—
+[arabic]
 .. That an operating certificate required under this part or part 121, 123, or 135 of this chapter previously issued to the applicant was revoked; or
 .. That a person who was employed in a management position under § 125.25 of this part with (or has exercised control with respect to) any certificate holder under part 121, 123, 125, or 135 of this chapter whose operating certificate has been revoked, will be employed in any of those positions or a similar position with the applicant and that the person's employment or control contributed materially to the reasons for revoking that certificate.
 
-## § 125.29
+## § 125.29 - Duration of certificate.
 
-### Duration of certificate.
-
+[loweralpha]
 . A certificate issued under this part is effective until surrendered, suspended, or revoked.
 . The Administrator may suspend or revoke a certificate under section 609 of the Federal Aviation Act of 1958 and the applicable procedures of part 13 of this chapter for any cause that, at the time of suspension or revocation, would have been grounds for denying an application for a certificate.
 . If the Administrator suspends or revokes a certificate or it is otherwise terminated, the holder of that certificate shall return it to the Administrator.
 
-## § 125.31
+## § 125.31 - Contents of certificate and operations specifications.
 
-### Contents of certificate and operations specifications.
-
+[loweralpha]
 . Each certificate issued under this part contains the following:
+[arabic]
 .. The holder's name.
 .. A description of the operations authorized.
 .. The date it is issued.
 . The operations specifications issued under this part contain the following:
+[arabic]
 .. The kinds of operations authorized.
 .. The types and registration numbers of airplanes authorized for use.
 .. Approval of the provisions of the operator's manual relating to airplane inspections, together with necessary conditions and limitations.
@@ -73,87 +72,75 @@ Each person operating an airplane in operations under this part shall—
 .. Procedures for control of weight and balance of airplanes.
 .. Any other item that the Administrator determines is necessary to cover a particular situation.
 
-## § 125.33
-
-### Operations specifications not a part of certificate.
+## § 125.33 - Operations specifications not a part of certificate.
 
 Operations specifications are not a part of an operating certificate.
 
-## § 125.35
+## § 125.35 - Amendment of operations specifications.
 
-### Amendment of operations specifications.
-
+[loweralpha]
 . The FAA Flight Standards district office charged with the overall inspection of the certificate holder may amend any operations specifications issued under this part if—
               
+[arabic]
 .. It determines that safety in air commerce requires that amendment; or
 .. Upon application by the holder, that district office determines that safety in air commerce allows that amendment.
 . The certificate holder must file an application to amend operations specifications at least 15 days before the date proposed by the applicant for the amendment to become effective, unless a shorter filing period is approved. The application must be on a form and in a manner prescribed by the Administrator and be submitted to the FAA Flight Standards district office charged with the overall inspection of the certificate holder.
 . Within 30 days after a notice of refusal to approve a holder's application for amendment is received, the holder may petition the Director, Flight Standards Service, to reconsider the refusal to amend.
 . When the FAA Flight Standards district office charged with the overall inspection of the certificate holder amends operations specifications, that district office gives notice in writing to the holder of a proposed amendment to the operations specifications, fixing a period of not less than 7 days within which the holder may submit written information, views, and arguments concerning the proposed amendment. After consideration of all relevant matter presented, that district office notifies the holder of any amendment adopted, or a rescission of the notice. That amendment becomes effective not less than 30 days after the holder receives notice of the adoption of the amendment, unless the holder petitions the Director, Flight Standards Service, for reconsideration of the amendment. In that case, the effective date of the amendment is stayed pending a decision by the Director. If the Director finds there is an emergency requiring immediate action as to safety in air commerce that makes the provisions of this paragraph impracticable or contrary to the public interest, the Director notifies the certificate holder that the amendment is effective on the date of receipt, without previous notice.
 
-## § 125.37
+## § 125.37 - Duty period limitations.
 
-### Duty period limitations.
-
+[loweralpha]
 . Each flight crewmember and flight attendant must be relieved from all duty for at least 8 consecutive hours during any 24-hour period.
 . The Administrator may specify rest, flight time, and duty time limitations in the operations specifications that are other than those specified in paragraph (a) of this section.
 
-## § 125.39
-
-### Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
+## § 125.39 - Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
 
 If the holder of a certificate issued under this part permits any airplane owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of § 91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
 
-## § 125.41
-
-### Availability of certificate and operations specifications.
+## § 125.41 - Availability of certificate and operations specifications.
 
 Each certificate holder shall make its operating certificate and operations specifications available for inspection by the Administrator at its principal operations base.
 
-## § 125.43
+## § 125.43 - Use of operations specifications.
 
-### Use of operations specifications.
-
+[loweralpha]
 . Each certificate holder shall keep each of its employees informed of the provisions of its operations specifications that apply to the employee's duties and responsibilities.
 . Each certificate holder shall maintain a complete and separate set of its operations specifications. In addition, each certificate holder shall insert pertinent excerpts of its operations specifications, or reference thereto, in its manual in such a manner that they retain their identity as operations specifications.
 
-## § 125.45
-
-### Inspection authority.
+## § 125.45 - Inspection authority.
 
 Each certificate holder shall allow the Administrator, at any time or place, to make any inspections or tests to determine its compliance with the Federal Aviation Act of 1958, the Federal Aviation Regulations, its operating certificate and operations specifications, its letter of deviation authority, or its eligibililty to continue to hold its certificate or its letter of deviation authority.
 
-## § 125.47
-
-### Change of address.
+## § 125.47 - Change of address.
 
 Each certificate holder shall notify the FAA Flight Standards district office charged with the overall inspection of its operations, in writing, at least 30 days in advance, of any change in the address of its principal business office, its principal operations base, or its principal maintenance base.
 
-## § 125.49
+## § 125.49 - Airport requirements.
 
-### Airport requirements.
-
+[loweralpha]
 . No certificate holder may use any airport unless it is adequate for the proposed operation, considering such items as size, surface, obstructions, and lighting.
 . No pilot of an airplane carrying passengers at night may take off from, or land on, an airport unless—
+[arabic]
 .. That pilot has determined the wind direction from an illuminated wind direction indicator or local ground communications, or, in the case of takeoff, that pilot's personal observations; and
 .. The limits of the area to be used for landing or takeoff are clearly shown by boundary or runway marker lights.
 . For the purposes of paragraph (b) of this section, if the area to be used for takeoff or landing is marked by flare pots or lanterns, their use must be approved by the Administrator.
 
-## § 125.51
+## § 125.51 - En route navigation facilities.
 
-### En route navigation facilities.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no certificate holder may conduct any operation over a route (including to any destination, refueling or alternate airports) unless suitable navigation aids are available over the route to navigate the airplane along the route within the degree of accuracy required for ATC. Navigation aids required for routes outside of controlled airspace are listed in the certificate holder's operations specifications except for those aids required for routes to alternate airports.
 . Navigation aids are not required for any of the following operations—
+[arabic]
 .. Day VFR operations that the certificate holder shows can be conducted safely by pilotage because of the characteristics of the terrain;
 .. Night VFR operations on routes that the certificate holder shows have reliably lighted landmarks adequate for safe operations; and
 .. Other operations approved by the certificate holding district office.
 
-## § 125.53
+## § 125.53 - Flight locating requirements.
 
-### Flight locating requirements.
-
+[loweralpha]
 . Each certificate holder must have procedures established for locating each flight for which an FAA flight plan is not filed that—
+[arabic]
 .. Provide the certificate holder with at least the information required to be included in a VFR flight plan;
 .. Provide for timely notification of an FAA facility or search and rescue facility, if an airplane is overdue or missing; and
 .. Provide the certificate holder with the location, date, and estimated time for reestablishing radio or telephone communications, if the flight will operate in an area where communications cannot be maintained.

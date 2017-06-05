@@ -1,55 +1,52 @@
 # Airman and Crewmember Requirements
 :toc:
 
-## § 125.261
+## § 125.261 - Airman: Limitations on use of services.
 
-### Airman: Limitations on use of services.
-
+[loweralpha]
 . No certificate holder may use any person as an airman nor may any person serve as an airman unless that person—
+[arabic]
 .. Holds an appropriate current airman certificate issued by the FAA;
 .. Has any required appropriate current airman and medical certificates in that person's possession while engaged in operations under this part; and
 .. Is otherwise qualified for the operation for which that person is to be used.
 . Each airman covered by paragraph (a) of this section shall present the certificates for inspection upon the request of the Administrator.
 
-## § 125.263
+## § 125.263 - Composition of flightcrew.
 
-### Composition of flightcrew.
-
+[loweralpha]
 . No certificate holder may operate an airplane with less than the minimum flightcrew specified in the type certificate and the Airplane Flight Manual approved for that type airplane and required by this part for the kind of operation being conducted.
 . In any case in which this part requires the performance of two or more functions for which an airman certificate is necessary, that requirement is not satisfied by the performance of multiple functions at the same time by one airman.
 . On each flight requiring a flight engineer, at least one flight crewmember, other than the flight engineer, must be qualified to provide emergency performance of the flight engineer's functions for the safe completion of the flight if the flight engineer becomes ill or is otherwise incapacitated. A pilot need not hold a flight engineer's certificate to perform the flight engineer's functions in such a situation.
 
-## § 125.265
+## § 125.265 - Flight engineer requirements.
 
-### Flight engineer requirements.
-
+[loweralpha]
 . No person may operate an airplane for which a flight engineer is required by the type certification requirements without a flight crewmember holding a current flight engineer certificate.
 . No person may serve as a required flight engineer on an airplane unless, within the preceding 6 calendar months, that person has had at least 50 hours of flight time as a flight engineer on that type airplane, or the Administrator has checked that person on that type airplane and determined that person is familiar and competent with all essential current information and operating procedures.
 
-## § 125.267
+## § 125.267 - Flight navigator and long-range navigation equipment.
 
-### Flight navigator and long-range navigation equipment.
-
+[loweralpha]
 . No certificate holder may operate an airplane outside the 48 conterminous States and the District of Columbia when its position cannot be reliably fixed for a period of more than 1 hour, without—
+[arabic]
 .. A flight crewmember who holds a current flight navigator certificate; or
 .. Two independent, properly functioning, and approved long-range means of navigation which enable a reliable determination to be made of the position of the airplane by each pilot seated at that person's duty station.
 . Operations where a flight navigator or long-range navigation equipment, or both, are required are specified in the operations specifications of the operator.
 
-## § 125.269
+## § 125.269 - Flight attendants.
 
-### Flight attendants.
-
+[loweralpha]
 . Each certificate holder shall provide at least the following flight attendants on each passenger-carrying airplane used:
+[arabic]
 .. For airplanes having more than 19 but less than 51 passengers—one flight attendant.
 .. For airplanes having more than 50 but less than 101 passengers—two flight attendants.
 .. For airplanes having more than 100 passengers—two flight attendants plus one additional flight attendant for each unit (or part of a unit) of 50 passengers above 100 passengers.
 . The number of flight attendants approved under paragraphs (a) and (b) of this section are set forth in the certificate holder's operations specifications.
 . During takeoff and landing, flight attendants required by this section shall be located as near as practicable to required floor level exits and shall be uniformly distributed throughout the airplane to provide the most effective egress of passengers in event of an emergency evacuation.
 
-## § 125.271
+## § 125.271 - Emergency and emergency evacuation duties.
 
-### Emergency and emergency evacuation duties.
-
+[loweralpha]
 . Each certificate holder shall, for each type and model of airplane, assign to each category of required crewmember, as appropriate, the necessary functions to be performed in an emergency or a situation requiring emergency evacuation. The certificate holder shall show those functions are realistic, can be practically accomplished, and will meet any reasonably anticipated emergency, including the possible incapacitation of individual crewmembers or their inability to reach the passenger cabin because of shifting cargo in combination cargo-passenger airplanes.
 . The certificate holder shall describe in its manual the functions of each category of required crewmembers under paragraph (a) of this section.
 

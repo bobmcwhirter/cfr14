@@ -1,54 +1,59 @@
 # Aircraft Requirements
 :toc:
 
-## § 121.151
-
-### Applicability.
+## § 121.151 - Applicability.
 
 This subpart prescribes aircraft requirements for all certificate holders.
 
-## § 121.153
+## § 121.153 - Aircraft requirements: General.
 
-### Aircraft requirements: General.
-
+[loweralpha]
 . Except as provided in paragraph (c) of this section, no certificate holder may operate an aircraft unless that aircraft—
+[arabic]
 .. Is registered as a civil aircraft of the United States and carries an appropriate current airworthiness certificate issued under this chapter; and
 .. Is in an airworthy condition and meets the applicable airworthiness requirements of this chapter, including those relating to identification and equipment.
 . A certificate holder may use an approved weight and balance control system based on average, assumed, or estimated weight to comply with applicable airworthiness requirements and operating limitations.
 . A certificate holder may operate in common carriage, and for the carriage of mail, a civil aircraft which is leased or chartered to it without crew and is registered in a country which is a party to the Convention on International Civil Aviation if—
+[arabic]
 .. The aircraft carries an appropriate airworthiness certificate issued by the country of registration and meets the registration and identification requirements of that country;
 .. The aircraft is of a type design which is approved under a U.S. type certificate and complies with all of the requirements of this chapter (14 CFR Chapter 1) that would be applicable to that aircraft were it registered in the United States, including the requirements which must be met for issuance of a U.S. standard airworthiness certificate (including type design conformity, condition for safe operation, and the noise, fuel venting, and engine emission requirements of this chapter), except that a U.S. registration certificate and a U.S. standard airworthiness certificate will not be issued for the aircraft;
 .. The aircraft is operated by U.S.-certificated airmen employed by the certificate holder; and
 .. The certificate holder files a copy of the aircraft lease or charter agreement with the FAA Aircraft Registry, Department of Transportation, 6400 South MacArthur Boulevard, Oklahoma City, OK (Mailing address: P.O. Box 25504, Oklahoma City, OK 73125).
 
-## § 121.155
+## § 121.155 - Reserved
 
-### Reserved
 
-## § 121.157
+Reserved
 
-### Aircraft certification and equipment requirements.
+## § 121.157 - Aircraft certification and equipment requirements.
 
+[loweralpha]
 . *Airplanes certificated before July 1, 1942.* No certificate holder may operate an airplane that was type certificated before July 1, 1942, unless—
+[arabic]
 .. That airplane meets the requirements of § 121.173(c), or
 .. That airplane and all other airplanes of the same or related type operated by that certificate holder meet the performance requirements of sections 4a.737-T through 4a.750-T of the Civil Air Regulations as in effect on January 31, 1965; or §§ 25.45 through 25.75 and § 121.173(a), (b), (d), and (e) of this title.
 . *Airplanes certificated after June 30, 1942.* Except as provided in paragraphs (c), (d), (e), and (f) of this section, no certificate holder may operate an airplane that was type certificated after June 30, 1942, unless it is certificated as a transport category airplane and meets the requirements of § 121.173(a), (b), (d), and (e).
 . *C-46 type airplanes: passenger-carrying operations.* No certificate holder may operate a C-46 airplane in passenger-carrying operations unless that airplane is operated in accordance with the operating limitations for transport category airplanes and meets the requirements of paragraph (b) of this section or meets the requirements of part 4b, as in effect July 20, 1950, and the requirements of § 121.173 (a), (b), (d) and (e), except that—
+[arabic]
 .. The requirements of sections 4b.0 through 4b.19 as in effect May 18, 1954, must be complied with;
 .. The birdproof windshield requirements of section 4b.352 need not be complied with;
 .. The provisions of sections 4b.480 through 4b.490 (except sections 4b.484(a)(1) and 4b.487(e)), as in effect May 16, 1953, must be complied with; and
 .. The provisions of paragraph 4b.484(a)(1), as in effect July 20, 1950, must be complied with.
               
 . *C-46 type airplanes: cargo operations.* No certificate holder may use a nontransport category C-46 type airplane in cargo operations unless—
+[arabic]
 .. It is certificated at a maximum gross weight that is not greater than 48,000 pounds;
 .. It meets the requirements of §§ 121.199 through 121.205 using the performance data in appendix C to this part;
 .. Before each flight, each engine contains at least 25 gallons of oil; and
 .. After December 31, 1964—
+[lowerroman]
 ... It is powered by a type and model engine as set forth in appendix C of this part, when certificated at a maximum gross takeoff weight greater than 45,000 pounds; and
 ... It complies with the special airworthiness requirement set forth in §§ 121.213 through 121.287 of this part or in appendix C of this part.
 . *Commuter category airplanes.* Except as provided in paragraph (f) of this section, no certificate holder may operate under this part a nontransport category airplane type certificated after December 31, 1964, and before March 30, 1995, unless it meets the applicable requirements of § 121.173 (a), (b), (d), and (e), and was type certificated in the commuter category.
 . *Other nontransport category airplanes.* No certificate holder may operate under this part a nontransport category airplane type certificated after December 31, 1964, unless it meets the applicable requirements of § 121.173 (a), (b), (d), and (e), was manufactured before March 20, 1997, and meets one of the following:
+[arabic]
 .. Until December 20, 2010:
+[lowerroman]
 ... The airplane was type certificated in the normal category before July 1, 1970, and meets special conditions issued by the Administrator for airplanes intended for use in operations under part 135 of this chapter.
 ... The airplane was type certificated in the normal category before July 19, 1970, and meets the additional airworthiness standards in SFAR No. 23, 14 CFR part 23.
 ... The airplane was type certificated in the normal category and meets the additional airworthiness standards in appendix A of part 135 of this chapter.
@@ -57,17 +62,15 @@ This subpart prescribes aircraft requirements for all certificate holders.
 . *Certain newly manufactured airplanes.* No certificate holder may operate an airplane under this part that was type certificated as described in paragraphs (f)(1)(i) through (f)(1)(iv) of this section and that was manufactured after March 20, 1997, unless it meets the performance requirements in appendix K of this part.
 . *Newly type certificated airplanes.* No person may operate under this part an airplane for which the application for a type certificate is submitted after March 29, 1995, unless the airplane is type certificated under part 25 of this chapter.
 
-## § 121.159
-
-### Single-engine airplanes prohibited.
+## § 121.159 - Single-engine airplanes prohibited.
 
 No certificate holder may operate a single-engine airplane under this part.
 
-## § 121.161
+## § 121.161 - Airplane limitations: Type of route.
 
-### Airplane limitations: Type of route.
-
+[loweralpha]
 . Except as provided in paragraph (e) of this section, unless approved by the Administrator in accordance with Appendix P of this part and authorized in the certificate holder's operations specifications, no certificate holder may operate a turbine-engine-powered airplane over a route that contains a point—
+[arabic]
 .. Farther than a flying time from an Adequate Airport (at a one-engine-inoperative cruise speed under standard conditions in still air) of 60 minutes for a two-engine airplane or 180 minutes for a passenger-carrying airplane with more than two engines;
 .. Within the North Polar Area; or
 .. Within the South Polar Area.
@@ -76,25 +79,24 @@ No certificate holder may operate a single-engine airplane under this part.
 . Unless authorized by the Administrator based on the character of the terrain, the kind of operation, or the performance of the airplane to be used, no certificate holder may operate a reciprocating-engine-powered airplane over a route that contains a point farther than 60 minutes flying time (at a one-engine-inoperative cruise speed under standard conditions in still air) from an Adequate Airport.
 . Operators of turbine-engine powered airplanes with more than two engines do not need to meet the requirements of paragraph (a)(1) of this section until February 15, 2008.
 
-## § 121.162
-
-### ETOPS Type Design Approval Basis.
+## § 121.162 - ETOPS Type Design Approval Basis.
 
 Except for a passenger-carrying airplane with more than two engines manufactured prior to February 17, 2015 and except for a two-engine airplane that, when used in ETOPS, is only used for ETOPS of 75 minutes or less, no certificate holder may conduct ETOPS unless the airplane has been type design approved for ETOPS and each airplane used in ETOPS complies with its CMP document as follows:
 
+[loweralpha]
 . For a two-engine airplane, that is of the same model airplane-engine combination that received FAA approval for ETOPS up to 180 minutes prior to February 15, 2007, the CMP document for that model airplane-engine combination in effect on February 14, 2007.
 . For a two-engine airplane, that is not of the same model airplane-engine combination that received FAA approval for ETOPS up to 180 minutes before February 15, 2007, the CMP document for that new model airplane-engine combination issued in accordance with § 25.3(b)(1) of this chapter.
 . For a two-engine airplane approved for ETOPS beyond 180 minutes, the CMP document for that model airplane-engine combination issued in accordance with § 25.3(b)(2) of this chapter.
 . For an airplane with more than 2 engines manufactured on or after February 17, 2015, the CMP document for that model airplane-engine combination issued in accordance with § 25.3(c) of this chapter.
 
-## § 121.163
+## § 121.163 - Aircraft proving tests.
 
-### Aircraft proving tests.
-
+[loweralpha]
 . *Initial airplane proving tests.* No person may operate an airplane not before proven for use in a kind of operation under this part or part 135 of this chapter unless an airplane of that type has had, in addition to the airplane certification tests, at least 100 hours of proving tests acceptable to the Administrator, including a representative number of flights into en route airports. The requirement for at least 100 hours of proving tests may be reduced by the Administrator if the Administrator determines that a satisfactory level of proficiency has been demonstrated to justify the reduction. At least 10 hours of proving flights must be flown at night; these tests are irreducible.
 . *Proving tests for kinds of operations.* Unless otherwise authorized by the Administrator, for each type of airplane, a certificate holder must conduct at least 50 hours of proving tests acceptable to the Administrator for each kind of operation it intends to conduct, including a representative number of flights into en route airports.
 . *Proving tests for materially altered airplanes.* Unless otherwise authorized by the Administrator, for each type of airplane that is materially altered in design, a certificate holder must conduct at least 50 hours of proving tests acceptable to the Administrator for each kind of operation it intends to conduct with that airplane, including a representative number of flights into en route airports.
 . *Definition of materially altered.* For the purposes of paragraph (c) of this section, a type of airplane is considered to be materially altered in design if the alteration includes—
+[arabic]
 .. The installation of powerplants other than those of a type similar to those with which it is certificated; or
 .. Alterations to the aircraft or its components that materially affect flight characteristics.
 . No certificate holder may carry passengers in an aircraft during proving tests, except for those needed to make the test and those designated by the Administrator. However, it may carry mail, express, or other cargo, when approved.

@@ -1,26 +1,22 @@
 # Records and Reports
 :toc:
 
-## § 137.71
+## § 137.71 - Records: Commercial agricultural aircraft operator.
 
-### Records: Commercial agricultural aircraft operator.
-
+[loweralpha]
 . Each holder of a commercial agricultural aircraft operator certificate shall maintain and keep current, at the home base of operations designated in his application, the following records:
+[arabic]
 .. The name and address of each person for whom agricultural aircraft services were provided;
 .. The date of the service;
 .. The name and quantity of the material dispensed for each operation conducted; and
 .. The name, address, and certificate number of each pilot used in agricultural aircraft operations and the date that pilot met the knowledge and skill requirements of § 137.19(e).
 . The records required by this section must be kept at least 12 months and made available for inspection by the Administrator upon request.
 
-## § 137.75
-
-### Change of address.
+## § 137.75 - Change of address.
 
 Each holder of an agricultural aircraft operator certificate shall notify the FAA in writing in advance of any change in the address of his home base of operations.
 
-## § 137.77
-
-### Termination of operations.
+## § 137.77 - Termination of operations.
 
 Whenever a person holding an agricultural aircraft operator certificate ceases operations under this part, he shall surrender that certificate to the FAA Flight Standards District Office last having jurisdiction over his operation.
 

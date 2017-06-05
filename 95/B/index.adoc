@@ -1,44 +1,40 @@
 # Designated Mountainous Areas
 :toc:
 
-## § 95.11
-
-### General.
+## § 95.11 - General.
 
 The areas described in this subpart are designated mountainous areas.
 
-## § 95.13
-
-### Eastern United States Mountainous Area.
+## § 95.13 - Eastern United States Mountainous Area.
 
 All of the following area excluding those portions specified in the exceptions.
 
+[loweralpha]
 . *Area.*
               
 . *Exceptions.* The area bounded by the following coordinates:
               
 
-## § 95.15
-
-### Western United States Mountainous Area.
+## § 95.15 - Western United States Mountainous Area.
 
 All of the following area excluding that portion specified in the exceptions:
 
+[loweralpha]
 . *Area.* From the Pacific coastline of the United States, eastward along the Canadian and Mexican borders, to the following coordinates:
               
 . *Exceptions.*
                 
               
 
-## § 95.17
-
-### Alaska Mountainous Area.
+## § 95.17 - Alaska Mountainous Area.
 
 All of the following area excluding those portions specified in the exceptions:
 
+[loweralpha]
 . *Area.* The State of Alaska.
 . *Exceptions;*
               
+[arabic]
 .. *Fairbanks—Nenana Area.* Beginning at latitude 64°54′ N, longitude 147°00′ W; thence to latitude 64°50′ N, longitude 151°22′ W, thence to latitude 63°50′ N, longitude 152°50′ W; thence to latitude 63°30′ N, longitude 152°30′ W; thence to latitude 63°30′ N, longitude 151°30′ W; thence to latitude 64°05′ N, longitude 150°30′ W; thence to latitude 64°20′ N, longitude 149°00′ W; thence to latitude 64°07′ N, longitude 146°30′ W; thence to latitude 63°53′ N, longitude 146°00′ W; thence to latitude 63°53′ N, longitude 145°00′ W; thence to latitude 64°09′ N, longitude 145°16′ W; thence to latitude 64°12′ N, longitude 146°00′ W; thence to latitude 64°25′ N, longitude 146°37′ W; thence to latitude 64°54′ N, longitude 147°00′ W, point of beginning.
 .. *Anchorage—Homer Area.* Beginning at latitude 61°50′ N, longitude 151°12′ W; thence to latitude 61°24′ N, longitude 150°28′ W; thence to latitude 61°08′ N, longitude 151°47′ W; thence to latitude 59°49′ N, longitude 152°40′ W; thence to latitude 59°25′ N, longitude 153°10′ W; thence to latitude 59°00′ N, longitude 153°10′ W; thence to latitude 59°33′ N, longitude 151°28′ W; thence to latitude 60°31′ N, longitude 150°43′ W; thence to latitude 61°13′ N, longitude 149°39′ W; thence to latitude 61°37′ N, longitude 149°15′ W; thence to latitude 61°44′ N, longitude 149°48′ W; thence to latitude 62°23′ N, longitude 149°54′ W; thence to latitude 62°23′ N, longitude 150°14′ W; thence to latitude 61°50′ N, longitude 151°12′ W, point of beginning.
 .. *King Salmon—Port Heiden Area.* Beginning at latitude 58°49′ N, longitude 159°30′ W; thence to latitude 59°40′ N, longitude 157°00′ W; thence to latitude 59°40′ N, longitude 155°30′ W; thence to latitude 59°50′ N, longitude 154°50′ W; thence to latitude 59°35′ N, longitude 154°40′ W; thence to latitude 58°57′ N, longitude 156°05′ W; thence to latitude 58°00′ N, longitude 156°20′ W; thence to latitude 57°00′ N, longitude 158°20′ W; thence to latitude 56°43′ N, longitude 158°39′ W; thence to latitude 56°27′ N, longitude 160°00′ W; thence along the shoreline to latitude 58°49′ N, longitude 159°30′ W, point of beginning.
@@ -47,15 +43,11 @@ All of the following area excluding those portions specified in the exceptions:
 .. *Fort Yukon Area.* Beginning at latitude 67°20′ N, longitude 144°00′ W; thence to latitude 66°00′ N, longitude 143°00′ W; thence to latitude 66°05′ N, longitude 149°00′ W; thence to latitude 66°45′ N, longitude 148°00′ W; thence to latitude 67°00′ N, longitude 147°00′ W; thence to latitude 67°20′ N, longitude 144°00′ W; point of beginning.
 .. The islands of Saint Paul and Saint George, together known as the Pribilof Islands, in the Bering Sea.
 
-## § 95.19
-
-### Hawaii Mountainous Area.
+## § 95.19 - Hawaii Mountainous Area.
 
 The following islands of the State of Hawaii: Kauai, Oahu, Molokai, Lanai, Kehoolawe, Maui, and Hawaii.
 
-## § 95.21
-
-### Puerto Rico Mountainous Area.
+## § 95.21 - Puerto Rico Mountainous Area.
 
 The area bounded by the following coordinates:
               

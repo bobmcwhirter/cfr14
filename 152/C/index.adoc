@@ -1,18 +1,17 @@
 # Funding of Approved Projects
 :toc:
 
-## § 152.201
-
-### Applicability.
+## § 152.201 - Applicability.
 
 This subpart contains the requirements for funding projects for airport development, airport master planning, and airport system planning.
 
-## § 152.203
+## § 152.203 - Allowable project costs.
 
-### Allowable project costs.
-
+[loweralpha]
 . *Airport development.* To be an allowable project cost, for the purposes of computing the amount of an airport development grant, an item that is paid or incurred must, in the opinion of the Administrator—
+[arabic]
 .. Have been necessary to accomplish airport development in conformity with—
+[lowerroman]
 ... The approved plans and specifications for an approved project; and
 ... The terms of the grant agreement for the project;
 .. Be reasonable in amount (subject to partial disallowance to the extent the Administrator determines it is unreasonable);
@@ -21,93 +20,102 @@ This subpart contains the requirements for funding projects for airport developm
 .. Have not been included in an airport planning grant; and
 .. Be a cost determined in accordance with the cost principles for State and local governments in Federal Management Circular 74-4 (39 FR 27133; 43 FR 50977).
 . *Airport Planning.* To be an allowable project cost, for the purposes of computing the amount of an airport planning grant, an item that is paid or incurred must, in the opinion of the Administrator—
+[arabic]
 .. Have been necessary to accomplish airport planning in comformity with an approved project and the terms of the grant agreement for the project;
 .. Be reasonable in amount;
 .. Have been incurred after the date the grant agreement was entered into, except for substantiated and reasonable costs incurred in designing the study effort;
 .. Be supported by satisfactory evidence; and
 .. Be figured in accordance with Federal Management Circular 74-4 (39 FR 27133; 43 FR 50977).
 
-## § 152.205
+## § 152.205 - United States share of project costs.
 
-### United States share of project costs.
-
+[loweralpha]
 . *Airport development.* Except as provided in paragraphs (b) and (c) of this section, the following is the United States share of the allowable cost of an airport development project approved for the specified year:
+[arabic]
 .. 90 percent in the case of grants made from funds for fiscal years 1976, 1977, and 1978, and grants from funds for fiscal year 1980 made after February 17, 1980, for—
+[lowerroman]
 ... Each air carrier airport, other than a commuter service airport, which enplanes less than one quarter of one percent of the total annual passengers enplaned as determined for purposes of making the latest annual apportionment under section 15(a)(3) of the AADA;
 ... Each commuter service airport; and
 ... Each general aviation or reliever airport.
 .. 80 percent in the case of grants made from funds for fiscal year 1979 and grants from funds for fiscal year 1980 made before February 18, 1980, for the airports specified in paragraph (a)(1) of this section.
 .. 75 percent in the case of grants made from funds for fiscal years 1976 through 1980 for airports other than those specified in paragraph (a)(1) of this section.
 . In a State in which the unappropriated and unreserved public lands and nontaxable Indian lands, both individual and tribal, are more than five percent of the total land in that State, the United States' share under paragraph (a) of this section—
+[arabic]
 .. Except as provided in paragraph (b)(2) of this section, shall be increased by the smaller of—
+[lowerroman]
 ... 25 percent; or
 ... A percentage (rounded to the nearest one-tenth of a percent) equal to one-half of the percentage which the area of those lands is of the total land area of the state; and
 .. May not exceed the greater of—
+[lowerroman]
 ... The percentage share determined under paragraph (a) of this section; or
 ... The percentage share applying on June 30, 1975, as determined under paragraph (b)(1) of this section.
 . In the case of terminal development, the United States share shall be 50 percent.
 . *Airport planning.* The United States share of the allowable project costs of an airport planning project shall be—
+[arabic]
 .. In the case of an airport master plan, that percent for which a project for airport development at that airport would be eligible;
 .. In the case of an airport system plan, 75 percent.
 
-## § 152.207
-
-### Proceeds from disposition of land.
+## § 152.207 - Proceeds from disposition of land.
 
 Unless otherwise authorized by the Administrator, when a release has been granted authorizing the sponsor to dispose of land acquired with assistance under part 151 of this chapter or this part, or through conveyances under the Surplus Property Act, the proceeds realized from the disposal may not be used as matching funds for any airport development project or airport planning grant, but may be used for any other airport purpose.
 
-## § 152.209
+## § 152.209 - Grant payments: General.
 
-### Grant payments: General.
-
+[loweralpha]
 . An application for a grant payment is made on a form and in a manner prescribed by the Administrator, and must be accompanied by any supporting information, that the FAA needs to determine the allowability of any costs for which payment is requested.
 . *Methods of payment.* Grant payments to sponsors and planning agencies will be made by—
+[arabic]
 .. Letter of credit;
 .. Advance by Treasury check; or
 .. Reimbursement by Treasury checks.
 . *Letter of credit funding.* Letter of credit funding may not be used unless—
+[arabic]
 .. There is or will be a continuing relationship between a sponsor or planning agency and the FAA for at least a 12-month period and the total amount of advances to be received within that period is $120,000 or more;
 .. The sponsor or planning agency has established or demonstrated to the FAA the willingness and ability to establish procedures that will minimize the time elapsing between the transfer of funds and their disbursement by the grantee; and
 .. The sponsor's or planning agency's financial management system meets the standards for fund control and accountability prescribed in Attachment G of Office of Management and Budget Circular A-102 (42 FR 45828).
 . *Advance by Treasury check.* Advance of funds by Treasury check may be made subject to the following conditions—
+[arabic]
 .. The sponsor or planning agency meets the requirements of paragraphs (c) (2) and (3) of this section;
 .. The timing and amount of cash advances are as close as administratively feasible to actual disbursements by the sponsor or planning agency; and
 .. Except as provided in paragraph (e) of this section, in the case of an airport development project, advance payments do not exceed the estimated project costs of the airport development expected to be accomplished within 30 days after the date of the sponsor's application for the advance payment.
 . No advance payment for airport development projects may be made in an amount that would bring the aggregate amount of all partial payments to more than the lower of the following:
+[lowerroman]
+.. 90 percent of the estimated United States' share of the total estimated cost of all airport development included in the project, but not including contingency items; or
+.. 90 percent of the maximum obligation of the United States as stated in the grant agreement.
 . *Reimbursement by Treasury check.* Reimbursement by Treasury check will be made if the sponsor or planning agency does not meet the requirements of paragraphs (c) (2) and (3) of this section.
 . *Withholding of payments.* Payment to the sponsor or planning agency may be withheld at any time during the grant period under the following circumstances:
+[arabic]
 .. The sponsor or planning agency has failed to comply with the program objectives, grant award conditions, or Federal reporting requirements.
 .. The sponsor or planning agency is indebted to the United States and collection of the indebtedness will not impair accomplishment of the objectives of any grant program sponsored by the United States.
 .. The sponsor or planning agency has withheld payment to a contractor to assure satisfactory completion of work. Payment will be made to the sponsor or planning agency when it has made final payment to the contractor, including the amounts withheld.
 . *Labor violations.* If a contractor or a subcontractor fails or refuses to comply with the labor provisions of a contract under a grant agreement for an airport development project, further grant payments to the sponsor are suspended until—
+[arabic]
 .. The violations are corrected;
 .. The Administrator determines the allowability of the project costs to which the violations relate; or
 .. If the violations consist of underpayments to labor, the sponsor furnishes satisfactory assurances to the FAA that restitution has been or will be made to the affected employees.
+[lowerroman]
 ... *Excess payments.* Upon determination of the allowability of all project costs of a project, if it is found that the total of grant payments to the sponsor or planning agency was more than the total United States share of the allowable costs of the project, the sponsor or planning agency shall promptly return the excess to FAA.
 
-(i) 90 percent of the estimated United States' share of the total estimated cost of all airport development included in the project, but not including contingency items; or
-
-(ii) 90 percent of the maximum obligation of the United States as stated in the grant agreement.
-
-## § 152.211
-
-### Grant payments: Land acquisition.
+## § 152.211 - Grant payments: Land acquisition.
 
 If an approved project for airport development includes land acquisition as an item for which payment is requested, the sponsor may apply to the FAA for payment of the United States share of the allowable project costs of the acquisition, after—
 
+[loweralpha]
 . The Administrator determines that the sponsor has acquired satisfactory title to the land; or
 . In the case of a request for advance payment under § 152.209(d), the Administrator is assured that a satisfactory title will be acquired.
 
-## § 152.213
+## § 152.213 - Grant closeout requirements.
 
-### Grant closeout requirements.
-
+[loweralpha]
 . *Program income.* Sponsors or planning agencies that are units of local government shall return all interest earned on advances of grant-in-aid funds to the Federal Government in accordance with a decision of the Comptroller General (42 Comp. Gen. 289). All other program income (gross income) earned by grant-supported activities during the grant period shall be retained by the sponsor and, if required by the grant agreement—
+[arabic]
 .. Be added to funds committed to the project by the FAA and the sponsor and used to further eligible program objectives; or
 .. Be deducted from the total project cost for the purpose of determining the net costs on which the Federal share of costs will be based.
 . *Financial reports.* The sponsor or planning agency shall furnish, within 90 days after completion of all items in a grant, all reports, including financial performance reports, required as a condition of the grant.
 . *Project completion.* When the project for airport development or planning is completed in accordance with the grant agreement, the sponsor or planning agency may apply for payment for all incurred costs, as follows:
+[arabic]
 .. *Airport development.* When allowability of costs can be determined under § 152.203, payment may be made to the sponsor if—
+[lowerroman]
 ... A final inspection of all work at the airport site has been made jointly by the appropriate FAA office and representatives of the sponsor and the contractor, unless that office agrees to a different procedure for final inspection; and
 ... The sponsor has furnished final “as constructed” plans, unless otherwise agreed to by the Administrator.
 .. *Airport planning.* When the final planning report has been received and accepted by the FAA.

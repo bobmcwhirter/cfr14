@@ -1,12 +1,12 @@
 # General
 :toc:
 
-## § 142.1
+## § 142.1 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This subpart prescribes the requirements governing the certification and operation of training centers. Except as provided in paragraph (b) of this section, this part provides an alternative means to accomplish training required by parts 61, 63, 65, 91, 121, 125, 135, or 137 of this chapter.
 . Certification under this part is not required for training that is—
+[arabic]
 .. Approved under the provisions of parts 63, 91, 121, 127, 135, or 137 of this chapter;
 .. Approved under subpart Y of part 121 of this chapter, Advanced Qualification Programs, for the authorization holder's own employees;
 .. Conducted under part 61 unless that part requires certification under this part;
@@ -15,9 +15,7 @@
 .. Conducted by a part 91 fractional ownership program manager for another part 91 fractional ownership program manager.
 . Except as provided in paragraph (b) of this section, after August 3, 1998, no person may conduct training, testing, or checking in advanced flight training devices or flight simulators without, or in violation of, the certificate and training specifications required by this part.
 
-## § 142.3
-
-### Definitions.
+## § 142.3 - Definitions.
 
 As used in this part:
 
@@ -27,11 +25,10 @@ As used in this part:
 
 *Course* means—
 
-(1) A program of instruction to obtain pilot certification, qualification, authorization, or currency;
-
-(2) A program of instruction to meet a specified number of requirements of a program for pilot training, certification, qualification, authorization, or currency; or
-
-(3) A curriculum, or curriculum segment, as defined in subpart Y of part 121 of this chapter.
+[arabic]
+. A program of instruction to obtain pilot certification, qualification, authorization, or currency;
+. A program of instruction to meet a specified number of requirements of a program for pilot training, certification, qualification, authorization, or currency; or
+. A curriculum, or curriculum segment, as defined in subpart Y of part 121 of this chapter.
 
 *Courseware* means instructional material developed for each course or curriculum, including lesson plans, flight event descriptions, computer software programs, audiovisual programs, workbooks, and handouts.
 
@@ -51,39 +48,38 @@ As used in this part:
 
 *Training specifications* means a document issued to a training center certificate holder by the Administrator that prescribes that center's training, checking, and testing authorizations and limitations, and specifies training program requirements.
 
-## § 142.5
+## § 142.5 - Certificate and training specifications required.
 
-### Certificate and training specifications required.
-
+[loweralpha]
 . No person may operate a certificated training center without, or in violation of, a training center certificate and training specifications issued under this part.
 . An applicant will be issued a training center certificate and training specifications with appropriate limitations if the applicant shows that it has adequate facilities, equipment, personnel, and courseware required by § 142.11 to conduct training approved under § 142.37.
 
-## § 142.7
+## § 142.7 - Duration of a certificate.
 
-### Duration of a certificate.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, a training center certificate issued under this part is effective until the certificate is surrendered or until the Administrator suspends, revokes, or terminates it.
 . Unless sooner surrendered, suspended, or revoked, a certificate issued under this part for a training center located outside the United States expires at the end of the twelfth month after the month in which it is issued or renewed.
 . If the Administrator suspends, revokes, or terminates a training center certificate, the holder of that certificate shall return the certificate to the Administrator within 5 working days after being notified that the certificate is suspended, revoked, or terminated.
 
-## § 142.9
+## § 142.9 - Deviations or waivers.
 
-### Deviations or waivers.
-
+[loweralpha]
 . The Administrator may issue deviations or waivers from any of the requirements of this part.
 . A training center applicant requesting a deviation or waiver under this section must provide the Administrator with information acceptable to the Administrator that shows—
+[arabic]
 .. Justification for the deviation or waiver; and
 .. That the deviation or waiver will not adversely affect the quality of instruction or evaluation.
 
-## § 142.11
+## § 142.11 - Application for issuance or amendment.
 
-### Application for issuance or amendment.
-
+[loweralpha]
 . An application for a training center certificate and training specifications shall—
+[arabic]
 .. Be made on a form and in a manner prescribed by the Administrator;
 .. Be filed with the FAA Flight Standards District Office that has jurisdiction over the area in which the applicant's principal business office is located; and
 .. Be made at least 120 calendar days before the beginning of any proposed training or 60 calendar days before effecting an amendment to any approved training, unless a shorter filing period is approved by the Administrator.
 . Each application for a training center certificate and training specification shall provide—
+[arabic]
 .. A statement showing that the minimum qualification requirements for each management position are met or exceeded;
 .. A statement acknowledging that the applicant shall notify the Administrator within 10 working days of any change made in the assignment of persons in the required management positions;
 .. The proposed training authorizations and training specifications requested by the applicant;
@@ -95,11 +91,14 @@ As used in this part:
 .. A description of quality control measures proposed; and
 .. A method of demonstrating the applicant's qualification and ability to provide training for a certificate or rating in fewer than the minimum hours prescribed in part 61 of this chapter if the applicant proposes to do so.
 . The facilities and equipment described in paragraph (b)(6) of this section shall—
+[arabic]
 .. Be available for inspection and evaluation prior to approval; and
 .. Be in place and operational at the location of the proposed training center prior to issuance of a certificate under this part.
 . An applicant who meets the requirements of this part and is approved by the Administrator is entitled to—
+[arabic]
 .. A training center certificate containing all business names included on the application under which the certificate holder may conduct operations and the address of each business office used by the certificate holder; and
 .. Training specifications, issued by the Administrator to the certificate holder, containing—
+[lowerroman]
 ... The type of training authorized, including approved courses;
 ... The category, class, and type of aircraft that may be used for training, testing, and checking;
 ... For each flight simulator or flight training device, the make, model, and series of airplane or the set of airplanes being simulated and the qualification level assigned, or the make, model, and series of rotorcraft, or set of rotorcraft being simulated and the qualification level assigned;
@@ -108,97 +107,97 @@ As used in this part:
 ... Authorized deviations or waivers from this part; and
 ... Any other items the Administrator may require or allow.
 . The Administrator may deny, suspend, revoke, or terminate a certificate under this part if the Administrator finds that the applicant or the certificate holder—
+[arabic]
 .. Held a training center certificate that was revoked, suspended, or terminated within the previous 5 years; or
 .. Employs or proposes to employ a person who—
+[lowerroman]
 ... Was previously employed in a management or supervisory position by the holder of a training center certificate that was revoked, suspended, or terminated within the previous 5 years;
 ... Exercised control over any certificate holder whose certificate has been revoked, suspended, or terminated within the last 5 years; and
 ... Contributed materially to the revocation, suspension, or termination of that certificate and who will be employed in a management or supervisory position, or who will be in control of or have a substantial ownership interest in the training center.
 .. Has provided incomplete, inaccurate, fraudulent, or false information for a training center certificate;
 .. Should not be granted a certificate if the grant would not foster aviation safety.
 . At any time, the Administrator may amend a training center certificate—
+[arabic]
 .. On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429), as amended, and part 13 of this chapter; or
 .. Upon timely application by the certificate holder.
 . The certificate holder must file an application to amend a training center certificate at least 60 calendar days prior to the applicant's proposed effective amendment date unless a different filing period is approved by the Administrator.
 
-## § 142.13
-
-### Management and personnel requirements.
+## § 142.13 - Management and personnel requirements.
 
 An applicant for a training center certificate must show that—
 
+[loweralpha]
 . For each proposed curriculum, the training center has, and shall maintain, a sufficient number of instructors who are qualified in accordance with subpart C of this part to perform the duties to which they are assigned;
 . The training center has designated, and shall maintain, a sufficient number of approved evaluators to provide required checks and tests to graduation candidates within 7 calendar days of training completion for any curriculum leading to airman certificates or ratings, or both;
 . The training center has, and shall maintain, a sufficient number of management personnel who are qualified and competent to perform required duties; and
 . A management representative, and all personnel who are designated by the training center to conduct direct student training, are able to understand, read, write, and fluently speak the English language.
 
-## § 142.14
+## § 142.14 - Employment of former FAA employees.
 
-### Employment of former FAA employees.
-
+[loweralpha]
 . Except as specified in paragraph (c) of this section, no holder of a training center certificate may knowingly employ or make a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2 years—
+[arabic]
 .. Served as, or was directly responsible for the oversight of, a Flight Standards Service aviation safety inspector; and
 .. Had direct responsibility to inspect, or oversee the inspection of, the operations of the certificate holder.
               
 . For the purpose of this section, an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the agency if the individual makes any written or oral communication on behalf of the certificate holder to the agency (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a Flight Standards Service aviation safety inspector.
 . The provisions of this section do not prohibit a holder of a training center certificate from knowingly employing or making a contractual arrangement which permits an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual was employed by the certificate holder before October 21, 2011.
 
-## § 142.15
+## § 142.15 - Facilities.
 
-### Facilities.
-
+[loweralpha]
 . An applicant for, or holder of, a training center certificate shall ensure that—
+[arabic]
 .. Each room, training booth, or other space used for instructional purposes is heated, lighted, and ventilated to conform to local building, sanitation, and health codes; and
 .. The facilities used for instruction are not routinely subject to significant distractions caused by flight operations and maintenance operations at the airport.
 . An applicant for, or holder of, a training center certificate shall establish and maintain a principal business office that is physically located at the address shown on its training center certificate.
 . The records required to be maintained by this part must be located in facilities adequate for that purpose.
 . An applicant for, or holder of, a training center certificate must have available exclusively, for adequate periods of time and at a location approved by the Administrator, adequate flight training equipment and courseware, including at least one flight simulator or advanced flight training device.
 
-## § 142.17
+## § 142.17 - Satellite training centers.
 
-### Satellite training centers.
-
+[loweralpha]
 . The holder of a training center certificate may conduct training in accordance with an approved training program at a satellite training center if—
+[arabic]
 .. The facilities, equipment, personnel, and course content of the satellite training center meet the applicable requirements of this part;
 .. The instructors and evaluators at the satellite training center are under the direct supervision of management personnel of the principal training center;
 .. The Administrator is notified in writing that a particular satellite is to begin operations at least 60 days prior to proposed commencement of operations at the satellite training center; and
 .. The certificate holder's training specifications reflect the name and address of the satellite training center and the approved courses offered at the satellite training center.
 . The certificate holder's training specifications shall prescribe the operations required and authorized at each satellite training center.
 
-## §§ 142.21-142.25
+## §§ 142.21-142.25 - Reserved
 
-### Reserved
 
-## § 142.27
+Reserved
 
-### Display of certificate.
+## § 142.27 - Display of certificate.
 
+[loweralpha]
 . Each holder of a training center certificate must prominently display that certificate in a place accessible to the public in the principal business office of the training center.
 . A training center certificate and training specifications must be made available for inspection upon request by—
+[arabic]
 .. The Administrator;
 .. An authorized representative of the National Transportation Safety Board; or
 .. Any Federal, State, or local law enforcement agency.
 
-## § 142.29
-
-### Inspections.
+## § 142.29 - Inspections.
 
 Each certificate holder must allow the Administrator to inspect training center facilities, equipment, and records at any reasonable time and in any reasonable place in order to determine compliance with or to determine initial or continuing eligibility under 49 U.S.C. 44701, 44707, formerly the Federal Aviation Act of 1958, as amended, and the training center's certificate and training specifications.
 
-## § 142.31
+## § 142.31 - Advertising limitations.
 
-### Advertising limitations.
-
+[loweralpha]
 . A certificate holder may not conduct, and may not advertise to conduct, any training, testing, and checking that is not approved by the Administrator if that training is designed to satisfy any requirement of this chapter.
 . A certificate holder whose certificate has been surrendered, suspended, revoked, or terminated must—
+[arabic]
 .. Promptly remove all indications, including signs, wherever located, that the training center was certificated by the Administrator; and
 .. Promptly notify all advertising agents, or advertising media, or both, employed by the certificate holder to cease all advertising indicating that the training center is certificated by the Administrator.
 
-## § 142.33
-
-### Training agreements.
+## § 142.33 - Training agreements.
 
 A pilot school certificated under part 141 of this chapter may provide training, testing, and checking for a training center certificated under this part if—
 
+[loweralpha]
 . There is a training, testing, and checking agreement between the certificated training center and the pilot school;
 . The training, testing, and checking provided by the certificated pilot school is approved and conducted in accordance with this part;
 . The pilot school certificated under part 141 obtains the Administrator's approval for a training course outline that includes the portion of the training, testing, and checking to be conducted under part 141; and

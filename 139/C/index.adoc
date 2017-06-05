@@ -1,34 +1,34 @@
 # Airport Certification Manual
 :toc:
 
-## § 139.201
+## § 139.201 - General requirements.
 
-### General requirements.
-
+[loweralpha]
 . No person may operate an airport subject to this part unless that person adopts and complies with an Airport Certification Manual, as required under this part, that—
+[arabic]
 .. Has been approved by the Administrator;
 .. Contains only those items authorized by the Administrator;
 .. Is in printed form and signed by the certificate holder acknowledging the certificate holder's responsibility to operate the airport in compliance with the Airport Certification Manual approved by the Administrator; and
 .. Is in a form that is easy to revise and organized in a manner helpful to the preparation, review, and approval processes, including a revision log. In addition, each page or attachment must include the date of the Administrator's initial approval or approval of the latest revision.
 . Each holder of an Airport Operating Certificate must—
+[arabic]
 .. Keep its Airport Certification Manual current at all times;
 .. Maintain at least one complete and current copy of its approved Airport Certification Manual on the airport, which will be available for inspection by the Administrator; and
 .. Furnish the applicable portions of the approved Airport Certification Manual to airport personnel responsible for its implementation.
 . Each certificate holder must ensure that the Regional Airports Division Manager is provided a complete copy of its most current approved Airport Certification Manual, as specified under paragraph (b)(2) of this section, including any amendments approved under § 139.205.
 . FAA Advisory Circulars contain methods and procedures for the development of Airport Certification Manuals that are acceptable to the Administrator.
 
-## § 139.203
+## § 139.203 - Contents of Airport Certification Manual.
 
-### Contents of Airport Certification Manual.
-
+[loweralpha]
 . Except as otherwise authorized by the Administrator, each certificate holder must include in the Airport Certification Manual a description of operating procedures, facilities and equipment, responsibility assignments, and any other information needed by personnel concerned with operating the airport in order to comply with applicable provisions of subpart D of this part and paragraph (b) of this section.
 . Except as otherwise authorized by the Administrator, the certificate holder must include in the Airport Certification Manual the following elements, as appropriate for its class:
 
-## § 139.205
+## § 139.205 - Amendment of Airport Certification Manual.
 
-### Amendment of Airport Certification Manual.
-
+[loweralpha]
 . Under § 139.3, the Regional Airports Division Manager may amend any Airport Certification Manual approved under this part, either—
+[arabic]
 .. Upon application by the certificate holder or
 .. On the Regional Airports Division Manager's own initiative, if the Regional Airports Division Manager determines that safety in air transportation requires the amendment.
 . A certificate holder must submit in writing a proposed amendment to its Airport Certification Manual to the Regional Airports Division Manager at least 30 days before the proposed effective date of the amendment, unless a shorter filing period is allowed by the Regional Airports Division Manager.

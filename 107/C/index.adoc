@@ -1,96 +1,94 @@
 # Remote Pilot Certification
 :toc:
 
-## § 107.53
-
-### Applicability.
+## § 107.53 - Applicability.
 
 This subpart prescribes the requirements for issuing a remote pilot certificate with a small UAS rating.
 
-## § 107.57
+## § 107.57 - Offenses involving alcohol or drugs.
 
-### Offenses involving alcohol or drugs.
-
+[loweralpha]
 . A conviction for the violation of any Federal or State statute relating to the growing, processing, manufacture, sale, disposition, possession, transportation, or importation of narcotic drugs, marijuana, or depressant or stimulant drugs or substances is grounds for:
+[arabic]
 .. Denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of final conviction; or
 .. Suspension or revocation of a remote pilot certificate with a small UAS rating.
 . Committing an act prohibited by § 91.17(a) or § 91.19(a) of this chapter is grounds for:
+[arabic]
 .. Denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that act; or
 .. Suspension or revocation of a remote pilot certificate with a small UAS rating.
 
-## § 107.59
-
-### Refusal to submit to an alcohol test or to furnish test results.
+## § 107.59 - Refusal to submit to an alcohol test or to furnish test results.
 
 A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer in accordance with § 91.17(c) of this chapter, or a refusal to furnish or authorize the release of the test results requested by the Administrator in accordance with § 91.17(c) or (d) of this chapter, is grounds for:
 
+[loweralpha]
 . Denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that refusal; or
 . Suspension or revocation of a remote pilot certificate with a small UAS rating.
 
-## § 107.61
-
-### Eligibility.
+## § 107.61 - Eligibility.
 
 Subject to the provisions of §§ 107.57 and 107.59, in order to be eligible for a remote pilot certificate with a small UAS rating under this subpart, a person must:
 
+[loweralpha]
 . Be at least 16 years of age;
 . Be able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, the FAA may place such operating limitations on that applicant's certificate as are necessary for the safe operation of the small unmanned aircraft;
 . Not know or have reason to know that he or she has a physical or mental condition that would interfere with the safe operation of a small unmanned aircraft system; and
 . Demonstrate aeronautical knowledge by satisfying one of the following conditions:
+[arabic]
 .. Pass an initial aeronautical knowledge test covering the areas of knowledge specified in § 107.73(a); or
 .. If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, complete an initial training course covering the areas of knowledge specified in § 107.74(a) in a manner acceptable to the Administrator.
 
-## § 107.63
-
-### Issuance of a remote pilot certificate with a small UAS rating.
+## § 107.63 - Issuance of a remote pilot certificate with a small UAS rating.
 
 An applicant for a remote pilot certificate with a small UAS rating under this subpart must make the application in a form and manner acceptable to the Administrator.
 
+[loweralpha]
 . The application must include either:
+[arabic]
 .. Evidence showing that the applicant passed an initial aeronautical knowledge test. If applying using a paper application, this evidence must be an airman knowledge test report showing passage of the knowledge test; or
 .. If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, a certificate of completion of a part 107 initial training course.
 . If the application is being made pursuant to paragraph (a)(2) of this section:
+[arabic]
 .. The application must be submitted to a Flight Standards District Office, a designated pilot examiner, an airman certification representative for a pilot school, a certificated flight instructor, or other person authorized by the Administrator;
 .. The person accepting the application submission must verify the identity of the applicant in a manner acceptable to the Administrator; and
 .. The person making the application must, by logbook endorsement or other manner acceptable to the Administrator, show the applicant meets the flight review requirements specified in § 61.56 of this chapter.
 
-## § 107.64
+## § 107.64 - Temporary certificate.
 
-### Temporary certificate.
-
+[loweralpha]
 . A temporary remote pilot certificate with a small UAS rating is issued for up to 120 calendar days, at which time a permanent certificate will be issued to a person whom the Administrator finds qualified under this part.
 . A temporary remote pilot certificate with a small UAS rating expires:
+[arabic]
 .. On the expiration date shown on the certificate;
 .. Upon receipt of the permanent certificate; or
 .. Upon receipt of a notice that the certificate sought is denied or revoked.
 
-## § 107.65
-
-### Aeronautical knowledge recency.
+## § 107.65 - Aeronautical knowledge recency.
 
 A person may not operate a small unmanned aircraft system unless that person has completed one of the following, within the previous 24 calendar months:
 
+[loweralpha]
 . Passed an initial aeronautical knowledge test covering the areas of knowledge specified in § 107.73(a);
 . Passed a recurrent aeronautical knowledge test covering the areas of knowledge specified in § 107.73(b); or
 . If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § § 61.56, passed either an initial or recurrent training course covering the areas of knowledge specified in § 107.74(a) or (b) in a manner acceptable to the Administrator.
 
-## § 107.67
+## § 107.67 - Knowledge tests: General procedures and passing grades.
 
-### Knowledge tests: General procedures and passing grades.
-
+[loweralpha]
 . Knowledge tests prescribed by or under this part are given by persons and in the manner designated by the Administrator.
 . An applicant for a knowledge test must have proper identification at the time of application that contains the applicant's:
+[arabic]
 .. Photograph;
 .. Signature;
 .. Date of birth, which shows the applicant meets or will meet the age requirements of this part for the certificate and rating sought before the expiration date of the airman knowledge test report; and
 .. Permanent mailing address. If the applicant's permanent mailing address is a post office box number, then the applicant must also provide a current residential address.
 . The minimum passing grade for the knowledge test will be specified by the Administrator.
 
-## § 107.69
+## § 107.69 - Knowledge tests: Cheating or other unauthorized conduct.
 
-### Knowledge tests: Cheating or other unauthorized conduct.
-
+[loweralpha]
 . An applicant for a knowledge test may not:
+[arabic]
 .. Copy or intentionally remove any knowledge test;
 .. Give to another applicant or receive from another applicant any part or copy of a knowledge test;
               
@@ -100,21 +98,20 @@ A person may not operate a small unmanned aircraft system unless that person has
 .. Use any material or aid during the period that the test is being given, unless specifically authorized to do so by the Administrator; and
 .. Intentionally cause, assist, or participate in any act prohibited by this paragraph.
 . An applicant who the Administrator finds has committed an act prohibited by paragraph (a) of this section is prohibited, for 1 year after the date of committing that act, from:
+[arabic]
 .. Applying for any certificate, rating, or authorization issued under this chapter; and
 .. Applying for and taking any test under this chapter.
 . Any certificate or rating held by an applicant may be suspended or revoked if the Administrator finds that person has committed an act prohibited by paragraph (a) of this section.
 
-## § 107.71
-
-### Retesting after failure.
+## § 107.71 - Retesting after failure.
 
 An applicant for a knowledge test who fails that test may not reapply for the test for 14 calendar days after failing the test.
 
-## § 107.73
+## § 107.73 - Initial and recurrent knowledge tests.
 
-### Initial and recurrent knowledge tests.
-
+[loweralpha]
 . An initial aeronautical knowledge test covers the following areas of knowledge:
+[arabic]
 .. Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 .. Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation;
 .. Aviation weather sources and effects of weather on small unmanned aircraft performance;
@@ -128,6 +125,7 @@ An applicant for a knowledge test who fails that test may not reapply for the te
 .. Airport operations; and
 .. Maintenance and preflight inspection procedures.
 . A recurrent aeronautical knowledge test covers the following areas of knowledge:
+[arabic]
 .. Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 .. Airspace classification and operating requirements and flight restrictions affecting small unmanned aircraft operation;
 .. Emergency procedures;
@@ -136,11 +134,11 @@ An applicant for a knowledge test who fails that test may not reapply for the te
 .. Airport operations; and
 .. Maintenance and preflight inspection procedures.
 
-## § 107.74
+## § 107.74 - Initial and recurrent training courses.
 
-### Initial and recurrent training courses.
-
+[loweralpha]
 . An initial training course covers the following areas of knowledge:
+[arabic]
 .. Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 .. Effects of weather on small unmanned aircraft performance;
 .. Small unmanned aircraft loading;
@@ -149,28 +147,29 @@ An applicant for a knowledge test who fails that test may not reapply for the te
 .. Determining the performance of small unmanned aircraft; and
 .. Maintenance and preflight inspection procedures.
 . A recurrent training course covers the following areas of knowledge:
+[arabic]
 .. Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 .. Emergency procedures;
 .. Crew resource management; and
 .. Maintenance and preflight inspection procedures.
 
-## § 107.77
+## § 107.77 - Change of name or address.
 
-### Change of name or address.
-
+[loweralpha]
 . *Change of name.* An application to change the name on a certificate issued under this subpart must be accompanied by the applicant's:
               
+[arabic]
 .. Remote pilot certificate with small UAS rating; and
 .. A copy of the marriage license, court order, or other document verifying the name change.
 . The documents in paragraph (a) of this section will be returned to the applicant after inspection.
 . *Change of address.* The holder of a remote pilot certificate with small UAS rating issued under this subpart who has made a change in permanent mailing address may not, after 30 days from that date, exercise the privileges of the certificate unless the holder has notified the FAA of the change in address using one of the following methods:
+[arabic]
 .. By letter to the FAA Airman Certification Branch, P.O. Box 25082, Oklahoma City, OK 73125 providing the new permanent mailing address, or if the permanent mailing address includes a post office box number, then the holder's current residential address; or
 .. By using the FAA Web site portal at *www.faa.gov* providing the new permanent mailing address, or if the permanent mailing address includes a post office box number, then the holder's current residential address.
 
-## § 107.79
+## § 107.79 - Voluntary surrender of certificate.
 
-### Voluntary surrender of certificate.
-
+[loweralpha]
 . The holder of a certificate issued under this subpart may voluntarily surrender it for cancellation.
 . Any request made under paragraph (a) of this section must include the following signed statement or its equivalent: “I voluntarily surrender my remote pilot certificate with a small UAS rating for cancellation. This request is made for my own reasons, with full knowledge that my certificate will not be reissued to me unless I again complete the requirements specified in §§ 107.61 and 107.63.”
 

@@ -1,22 +1,22 @@
 # Operating Rules and Related Requirements
 :toc:
 
-## § 133.31
+## § 133.31 - Emergency operations.
 
-### Emergency operations.
-
+[loweralpha]
 . In an emergency involving the safety of persons or property, the certificate holder may deviate from the rules of this part to the extent required to meet that emergency.
 . Each person who, under the authority of this section, deviates from a rule of this part shall notify the Administrator within 10 days after the deviation. Upon the request of the Administrator, that person shall provide the certificate-holding FAA Flight Standards District Office a complete report of the aircraft operation involved, including a description of the deviation and reasons for it.
 
-## § 133.33
+## § 133.33 - Operating rules.
 
-### Operating rules.
-
+[loweralpha]
 . No person may conduct a rotorcraft external-load operation without, or contrary to, the Rotorcraft-Load Combination Flight Manual prescribed in § 133.47.
 . No person may conduct a rotorcraft external-load operation unless—
+[arabic]
 .. The rotorcraft complies with § 133.19; and
 .. The rotorcraft and rotorcraft-load combination is authorized under the Rotorcraft External-Load Operator Certificate.
 . Before a person may operate a rotorcraft with an external-load configuration that differs substantially from any that person has previously carried with that type of rotorcraft (whether or not the rotorcraft-load combination is of the same class), that person must conduct, in a manner that will not endanger persons or property on the surface, such of the following flight-operational checks as the Administrator determines are appropriate to the rotorcraft-load combination:
+[arabic]
 .. A determination that the weight of the rotorcraft-load combination and the location of its center of gravity are within approved limits, that the external load is securely fastened, and that the external load does not interfere with devices provided for its emergency release.
 .. Make an initial liftoff and verify that controllability is satisfactory.
 .. While hovering, verify that directional control is adequate.
@@ -24,35 +24,34 @@
 .. In forward flight, check for hazardous oscillations of the external load, but if the external load is not visible to the pilot, other crewmembers or ground personnel may make this check and signal the pilot.
 .. Increase the forward airspeed and determine an operational airspeed at which no hazardous oscillation or hazardous aerodynamic turbulence is encountered.
 . Notwithstanding the provisions of part 91 of this chapter, the holder of a Rotorcraft External-Load Operator Certificate may conduct (in rotorcraft type certificated under and meeting the requirements of part 27 or 29 of this chapter, including the external-load attaching means) rotorcraft external-load operations over congested areas if those operations are conducted without hazard to persons or property on the surface and comply with the following:
+[arabic]
 .. The operator must develop a plan for each complete operation, coordinate this plan with the FAA Flight Standards District Office having jurisdiction over the area in which the operation will be conducted, and obtain approval for the operation from that district office. The plan must include an agreement with the appropriate political subdivision that local officials will exclude unauthorized persons from the area in which the operation will be conducted, coordination with air traffic control, if necessary, and a detailed chart depicting the flight routes and altitudes.
 .. Each flight must be conducted at an altitude, and on a route, that will allow a jettisonable external load to be released, and the rotorcraft landed, in an emergency without hazard to persons or property on the surface.
 . Notwithstanding the provisions of part 91 of this chapter, and except as provided in § 133.45(d), the holder of a Rotorcraft External-Load Operator Certificate may conduct external-load operations, including approaches, departures, and load positioning maneuvers necessary for the operation, below 500 feet above the surface and closer than 500 feet to persons, vessels, vehicles, and structures, if the operations are conducted without creating a hazard to persons or property on the surface.
 . No person may conduct rotorcraft external-load operations under IFR unless specifically approved by the Administrator. However, under no circumstances may a person be carried as part of the external-load under IFR.
 
-## § 133.35
+## § 133.35 - Carriage of persons.
 
-### Carriage of persons.
-
+[loweralpha]
 . No certificate holder may allow a person to be carried during rotorcraft external-load operations unless that person—
+[arabic]
 .. Is a flight crewmember;
 .. Is a flight crewmember trainee;
 .. Performs an essential function in connection with the external-load operation; or
 .. Is necessary to accomplish the work activity directly associated with that operation.
 . The pilot in command shall ensure that all persons are briefed before takeoff on all pertinent procedures to be followed (including normal, abnormal, and emergency procedures) and equipment to be used during the external-load operation.
 
-## § 133.37
+## § 133.37 - Crewmember training, currency, and testing requirements.
 
-### Crewmember training, currency, and testing requirements.
-
+[loweralpha]
 . No certificate holder may use, nor may any person serve, as a pilot in operations conducted under this part unless that person—
+[arabic]
 .. Has successfully demonstrated, to the Administrator knowledge and skill with respect to the rotorcraft-load combination in accordance with § 133.23 (in the case of a pilot other than the chief pilot or an assistant chief pilot who has been designated in accordance with § 133.21(b), this demonstration may be made to the chief pilot or assistant chief pilot); and
 .. Has in his or her personal possession a letter of competency or an appropriate logbook entry indicating compliance with paragraph (a)(1) of this section.
 . No certificate holder may use, nor may any person serve as, a crewmember or other operations personnel in Class D operations conducted under this part unless, within the preceding 12 calendar months, that person has successfully completed either an approved initial or a recurrent training program.
 . Notwithstanding the provisions of paragraph (b) of this section, a person who has performed a rotorcraft external-load operation of the same class and in an aircraft of the same type within the past 12 calendar months need not undergo recurrent training.
 
-## § 133.39
-
-### Inspection authority.
+## § 133.39 - Inspection authority.
 
 Each person conducting an operation under this part shall allow the Administrator to make any inspections or tests that he considers necessary to determine compliance with the Federal Aviation Regulations and the Rotorcraft External-Load Operator Certificate.
 

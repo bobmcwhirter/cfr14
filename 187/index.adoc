@@ -1,15 +1,11 @@
 # FEES
 :toc:
 
-## § 187.1
-
-### Scope.
+## § 187.1 - Scope.
 
 This part prescribes fees only for FAA services for which fees are not prescribed in other parts of this chapter or in 49 CFR part 7. The fees for services furnished in connection with making information available to the public are prescribed exclusively in 49 CFR part 7. Appendix A to this part prescribes the methodology for computation of fees for certification services performed outside the United States. Appendix C to this part prescribes the methodology for computation of fees for production certification-related services performed outside the United States.
 
-## § 187.3
-
-### Definitions.
+## § 187.3 - Definitions.
 
 For the purpose of this part:
 
@@ -24,39 +20,32 @@ For the purpose of this part:
 
 *U.S.-controlled airspace* means all airspace over the territory of the United States, extending 12 nautical miles from the coastline of U.S. territory; any airspace delegated to the United States for U.S. control by other countries or under a regional air navigation agreement; or any international airspace, or airspace of undetermined sovereignty, for which the United States has accepted responsibility for providing air traffic control services.
 
-## § 187.5
-
-### Duplicates of licenses.
+## § 187.5 - Duplicates of licenses.
 
 The fee for furnishing to a person entitled thereto a replacement, duplicate, or facsimile of a certificate or other document evidencing a license, for which a fee is not specifically provided elsewhere in this chapter, is $2.
 
-## § 187.7
-
-### Copies; seal.
+## § 187.7 - Copies; seal.
 
 The fees for furnishing photostatic or similar copies of documents and for affixation of the seal for a certification or validation are the same as those provided in subpart H of 49 CFR part 7.
 
-## § 187.15
+## § 187.15 - Payment of fees.
 
-### Payment of fees.
-
+[loweralpha]
 . The fees of this part are payable to the Federal Aviation Administration by check, money order, wire transfers, draft, payable in U.S. currency and drawn on a U.S. bank, or by credit card payable in U.S. currency, prior to the provision of any service under this part.
 . Applicants for the FAA services provided under this part shall pay any bank processing charges on fees collected under this part, when such charges are assessed on U.S. Government.
 . Applicants for the FAA services described in Appendix A of this part shall pay bank processing charges, when such charges are assessed by banks on U.S. Government deposits.
 . The fees described in appendix B of this part are payable to the Federal Aviation Administration in U.S. currency. Remittance of fees of $1,000 or more are to be paid by electronic funds transfer. Remittance of amounts less than $1,000 may be paid by electronic funds transfer, check, money order, credit card, or draft.
 
-## § 187.17
-
-### Failure by applicant to pay prescribed fees.
+## § 187.17 - Failure by applicant to pay prescribed fees.
 
 If an applicant fails to pay fees agreed to under appendix C of this part, the FAA may suspend or deny any application for service and may suspend or revoke any production certification-related approval granted.
 
-## § 187.51
+## § 187.51 - Applicability of overflight fees.
 
-### Applicability of overflight fees.
-
+[loweralpha]
 . Except as provided in paragraphs (c) or (d) of this section, any person who conducts an overflight through either Enroute or Oceanic airspace must pay a fee as calculated in § 187.53.
 . *Services.* Persons covered by paragraph (a) of this section must pay a fee for the FAA's rendering or providing of certain services, including but not limited to the following:
+[arabic]
 .. Air traffic management.
 .. Communications.
 .. Navigation.
@@ -67,11 +56,11 @@ If an applicant fails to pay fees agreed to under appendix C of this part, the F
 . The FAA does not assess a fee for any military or civilian overflight operated by the United States Government or by any foreign government.
 . Fees for overflights through U.S.-controlled airspace covered by a written FAA agreement or other binding arrangement are charged according to the terms of that agreement or arrangement unless the terms are silent on fees.
 
-## § 187.53
+## § 187.53 - Calculation of overflight fees.
 
-### Calculation of overflight fees.
-
+[loweralpha]
 . The FAA assesses a total fee that is the sum of the Enroute and Oceanic calculated fees.
+[arabic]
 .. *Enroute fee.* The Enroute fee is calculated by multiplying the Enroute rate in paragraph (c) of this section by the total number of nautical miles flown through each segment of Enroute airspace divided by 100 (because the Enroute rate is expressed per 100 nautical miles).
 .. *Oceanic fee.* The Oceanic fee is calculated by multiplying the Oceanic rate in paragraph (c) of this section by the total number of nautical miles flown through each segment of Oceanic airspace divided by 100 (because the Oceanic rate is expressed per 100 nautical miles).
 . Distance flown through each segment of Enroute or Oceanic airspace is based on the great circle distance (GCD) from the point of entry into U.S.-controlled airspace to the point of exit from U.S.-controlled airspace based on FAA flight data. Where actual entry and exit points are not available, the FAA will use the best available flight data to calculate the entry and exit points.
@@ -80,10 +69,9 @@ If an applicant fails to pay fees agreed to under appendix C of this part, the F
             
 . The FAA will review the rates described in this section at least once every 2 years and will adjust them to reflect the current costs and volume of the services provided.
 
-## § 187.55
+## § 187.55 - Overflight fees billing and payment procedures.
 
-### Overflight fees billing and payment procedures.
-
+[loweralpha]
 . The FAA will send an invoice to each user when fees are owed to the FAA. If the FAA cannot identify the user, then an invoice will be sent to the registered owner. Users will be billed at the address of record in the country where the aircraft is registered, unless a billing address is otherwise provided.
 . The FAA will send an invoice if the monthly (based on Universal Coordinated Time) fees equal or exceed $400.
 . Payment must be made by one of the methods described in § 187.15(d).

@@ -1,15 +1,15 @@
 # Applicability
 :toc:
 
-## § 133.1
-
-### Applicability.
+## § 133.1 - Applicability.
 
 Except for aircraft subject to part 107 of this chapter, this part prescribes—
 
+[loweralpha]
 . Airworthiness certification rules for rotorcraft used in; and
 . Operating and certification rules governing the conduct of rotorcraft external-load operations in the United States by any person.
 . The certification rules of this part do not apply to—
+[arabic]
 .. Rotorcraft manufacturers when developing external-load attaching means;
 .. Rotorcraft manufacturers demonstrating compliance of equipment utilized under this part or appropriate portions of part 27 or 29 of this chapter;
 .. Operations conducted by a person demonstrating compliance for the issuance of a certificate or authorization under this part;

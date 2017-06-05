@@ -1,16 +1,13 @@
 # Mandatory Use of the New York North Shore Helicopter Route
 :toc:
 
-## § 93.101
-
-### Applicability.
+## § 93.101 - Applicability.
 
 This subpart prescribes a special air traffic rule for civil helicopters operating VFR along the North Shore, Long Island, New York, between August 6, 2012, and August 6, 2020.
 
-## § 93.103
+## § 93.103 - Helicopter operations.
 
-### Helicopter operations.
-
+[loweralpha]
 . Unless otherwise authorized, each person piloting a helicopter along Long Island, New York's northern shoreline between the VPLYD waypoint and Orient Point, shall utilize the North Shore Helicopter route and altitude, as published.
 . Pilots may deviate from the route and altitude requirements of paragraph (a) of this section when necessary for safety, weather conditions or transitioning to or from a destination or point of landing.
 

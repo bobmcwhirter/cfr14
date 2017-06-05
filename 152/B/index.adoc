@@ -1,85 +1,91 @@
 # Eligibility Requirements and Application Procedures
 :toc:
 
-## § 152.101
-
-### Applicability.
+## § 152.101 - Applicability.
 
 This subpart contains requirements and application procedures applicable to airport development and planning projects.
 
-## § 152.103
+## § 152.103 - Sponsors: Airport development.
 
-### Sponsors: Airport development.
-
+[loweralpha]
 . To be eligible to apply for a project for airport development with respect to a particular airport the following requirements must be met:
+[arabic]
 .. Each sponsor must be a public agency authorized by law to submit the project application;
 .. If a sponsor is the holder of an airport operating certificate issued for the airport under part 139 of this chapter, it must be in compliance with the requirements of part 139.
 .. When any of the following agreements is applicable to an airport which the sponsor owns or controls, the sponsor must have complied with the agreement, or show to the satisfaction of the Administrator that it will comply or, for reasons beyond its control, cannot comply with the agreement:
+[lowerroman]
 ... Each grant agreement made with it under the Federal Airport Act (49 U.S.C. 1101 *et seq.*), or the AADA.
 ... Each convenant in a conveyance to it under section 16 of the Federal Airport Act or section 23 of the AADA.
 ... Each convenant in a conveyance to it of surplus airport property under section 13(a) of the Surplus Property Act (50 U.S.C. App 1622(g)) or under Regulation 16 of the War Assets Administration.
 .. The sponsor, in the case of a single sponsor, or one or more of the cosponsors must have, or be able to obtain—
+[lowerroman]
 ... Funds to pay all estimated costs of the project that are not to be born by the United States; and
 ... Satisfactory property interests in the lands to be developed or used as part of, or in connection with, the airport as it will be after the project is completed.
 . Another public agency may act as agent of the public agency that is to own and operate the airport, for the purpose of channeling grant funds in accordance with state or local law, without becoming a sponsor.
 
-## § 152.105
+## § 152.105 - Sponsors and planning agencies: Airport planning.
 
-### Sponsors and planning agencies: Airport planning.
-
+[loweralpha]
 . To be eligible to apply for a project for airport planning—
+[arabic]
 .. If the project is for airport master planning—
+[lowerroman]
 ... Each sponsor must be a public agency and meet the requirements of § 152.103(a)(3); and
 ... The sponsor, in the case of a single sponsor, or one or more cosponsors must be legally able to implement the planning, within the existing or proposed airport boundaries, that results from the project study.
 .. If the project is for airport system planning, each sponsor must be a planning agency.
 . Another public agency or planning agency may act as agent of another public agency or planning agency, for the purpose of channeling grant funds in accordance with state or local law, without becoming a sponsor.
 
-## § 152.107
+## § 152.107 - Project eligibility: Airport development.
 
-### Project eligibility: Airport development.
-
+[loweralpha]
 . Except in the case of approved stage development, each project for airport development must provide for—
+[arabic]
 .. Development of an airport or unit of an airport that is safe, useful, and usable; or,
 .. An additional facility that increases the safety, usefulness, and usability of an airport.
 . Unless otherwise authorized by the Administrator, a project for airport development must involve more than $25,000 in United States funds.
 . The development included in a project for airport development must—
+[arabic]
 .. In the opinion of the Administrator, be “airport development” as defined in § 152.3;
 .. Be identified as airport development in the mandatory standards incorporated into this part by § 152.11; and
 .. Be described in an approved airport layout plan.
 . The airport involved in a project for airport development must be included in the current NASP.
 . In complying with paragraph (a) of this section, the sponsor must—
+[arabic]
 .. Own, acquire, or agree to acquire control over, or a property interest in, runway clear zones that the Administrator considers adequate; and
 .. Provide for approach and runway lighting systems satisfactory to the Administrator.
 
-## § 152.109
+## § 152.109 - Project eligibility: Airport planning.
 
-### Project eligibility: Airport planning.
-
+[loweralpha]
 . *Airport master planning.* A proposed project for airport master planning is not approved unless—
+[arabic]
 .. The location of the existing or proposed airport is included in the current NASP;
 .. In the opinion of the Administrator, the proposed planning would promote the effective location of public airports and the development of an adequate NASP;
 .. The project is airport master planning as defined in § 152.3;
               
 .. If the project has been determined to have areawide significance by an appropriate areawide agency, it has been incorporated into a unified planning work program; and
 .. In the case of a proposed project for airport master planning in a large or medium air traffic hub, in the opinion of the Administrator—
+[lowerroman]
 ... There is an appropriate system plan identifying the need for the airport;
 ... The absence of a system plan is due to the failure of the responsible planning agency to proceed with its preparation; or
 ... An existing system plan is not acceptable.
 . *Airport system planning.* A proposed project for airport system planning is not approved unless—
+[arabic]
 .. In the opinion of the Administrator, the project promotes the effective location of public airports;
 .. In the opinion of the Administrator, the project promotes the development of an adequate NASP;
 .. The project is airport system planning as defined in § 152.3; and
 .. When the project encompasses a metropolitan area that includes a large or medium hub airport, the project is incorporated in a unified planning work program.
 
-## § 152.111
+## § 152.111 - Application requirements: Airport development.
 
-### Application requirements: Airport development.
-
+[loweralpha]
 . An eligible sponsor that desires to obtain Federal aid for eligible airport development must apply to the FAA in accordance with this section. The sponsor must apply on a form and in a manner prescribed by the Administrator, through the FAA Airports District Office or Airports Field Office having jurisdiction over the area where the sponsor is located or, where there is no such office, the Regional Office having that jurisdiction.
 . *Preapplication for Federal assistance.* A preapplication for Federal assistance must be submitted unless—
+[arabic]
 .. The Federal fund request is for $100,000 or less; or,
 .. The project does not include construction, land acquisition, or land improvement.
 . Unless otherwise authorized by the Administrator, the preapplication required by paragraph (b) of this section must be accompanied by the following:
+[arabic]
 .. A list of the items of airport development requested for programming, together with an itemized estimated cost of the work involved.
 .. A sketch or sketches of the airport layout indicating the location for each item of work proposed, using the same item numbers used in the list required by paragraph (c)(1) of this section.
 .. If the proposed project involves the displacement of persons or the acquisition of real property, the assurances required by §§ 25.57 and 25.59, as applicable, of the Regulations of the Office of the Secretary of Transportation (49 CFR 25.57 and 25.59), whether or not reimbursement is being requested for the costs of displacement or real property acquisition.
@@ -95,8 +101,10 @@ This subpart contains requirements and application procedures applicable to airp
 . *Allocation of funds.* If the proposed project for airport development is selected by the Administrator for inclusion in a program, a tentative allocation of funds is made for the project and the sponsor is notified of the allocation. The tentative allocation may be withdrawn if the sponsor does not submit a project application in accordance with paragraph (f) of this section.
 . *Application for Federal assistance.* As soon as practicable after receiving notice of a tentative allocation or, if a preapplication is not required (as provided in paragraph (b) of this section), an application for Federal assistance must be submitted.
 . Unless otherwise authorized by the Administrator, the application required by paragraph (e) of this section must be accompanied by the following:
+[arabic]
 .. When a preapplication has not been previously submitted, the information required by paragraph (c) of this section.
 .. A property map of the airport showing—
+[lowerroman]
 ... The property interests of each sponsor in all the lands to be developed or used as part of, or in connection with, the airport as it will be when the project is completed; and
 ... All property interests acquired or to be acquired, for which U.S. aid is requested under the project.
 .. With respect to all lands to be developed or used as a part of, or in connection with, the airport (as it will be when the project is completed) in which a satisfactory property interest is not held by a sponsor, a covenant by the sponsor that it will obtain a satisfactory property interest before construction is begun or within a reasonable time if not needed for construction.
@@ -108,31 +116,40 @@ This subpart contains requirements and application procedures applicable to airp
               
 .. The applicable assurances required by appendix D to this part.
 .. If cosponsors are not willing to assume, jointly and severally, the obligations imposed on them by this part and the grant agreement, a statement satisfactory to the Administrator indicating—
+[lowerroman]
 ... The responsibilities of each sponsor with respect to the accomplishment of the proposed project and the operation and maintenance of the airport;
 ... The obligations each will assume to the United States; and
 ... The name of the sponsor or sponsors who will accept, receipt for, and disburse grant payments.
 . *Additional documentation.* The Administrator may request additional documentation as needed to support specific items of development or to comply with other Federal and local requirements as they pertain to the requested development.
 
-## § 152.113
+## § 152.113 - Application requirements: Airport planning.
 
-### Application requirements: Airport planning.
-
+[loweralpha]
 . *Application for Federal assistance.* An eligible sponsor or planning agency that desires to obtain Federal aid for eligible airport master planning or airport system planning must submit an application for Federal assistance, on a form and in a manner prescribed by the Administrator, to the appropriate FAA Airports District Office or Airports Field Office having jurisdiction over the area where the sponsor or planning agency is located or, where there is no such office, the Regional Office having that jurisdiction.
 . Unless otherwise authorized by the Administrator, the application required by paragraph (a) of this section must be accompanied by the following:
+[arabic]
 .. Any comments or statements required by appendix E, Procedures Implementing Office of Management and Budget Circular A-95, to this part.
 .. Budget (project costs) information subdivided into the following functions, as appropriate, and the basis for computation of these costs:
+[lowerroman]
 ... Third party contracts.
 ... Sponsor force account costs.
 ... Administrative costs.
 .. A program narrative describing the proposed planning project including—
+[lowerroman]
 ... The objective;
 ... The results and benefits expected;
 ... A Work Statement including—
+[upperalpha]
+.... A detailed description of each work element;
+.... A list of each organization, consultant, and key individual who will work on the planning project, and the nature of the contribution of each; and
+.... A proposed schedule of work accomplishment; and
 ... The geographic location of the airport or the boundaries of the planning area.
 .. If the sponsor proposes to accomplish the project with its own forces or those of another public or planning agency—
+[lowerroman]
 ... An assurance that adequate, competent personnel are available to satisfactorily accomplish the proposed planning project, and
 ... A description of the qualifications of the key personnel.
 .. If cosponsors are not willing to assume, jointly, and severally, the obligations imposed on them by this part and the grant agreement, a statement satisfactory to the Administrator indicating—
+[lowerroman]
 ... The responsibilities of each sponsor with respect to the accomplishment of the proposed project;
 ... The obligations each will assume to the United States; and
 ... The name of the sponsor or sponsors who will accept, receipt for, and disburse grant payments.
@@ -140,54 +157,50 @@ This subpart contains requirements and application procedures applicable to airp
 .. The applicable assurances required by appendix D of this part.
 . *Additional documentation.* The Administrator may request additional documentation as needed to support a master plan or system plan, or to comply with other Federal and local requirements as they pertain to the requested plan.
 
-(A) A detailed description of each work element;
+## § 152.115 - Grant agreement: Offer, acceptance, and amendment.
 
-(B) A list of each organization, consultant, and key individual who will work on the planning project, and the nature of the contribution of each; and
-
-(C) A proposed schedule of work accomplishment; and
-
-## § 152.115
-
-### Grant agreement: Offer, acceptance, and amendment.
-
+[loweralpha]
 . *Offer.* Upon approving a project for airport development, airport master planning, or airport system planning, the Administrator issues a written offer that sets forth the terms, limitations, and requirements of the proposed agreement.
 . *Acceptance.* The acceptance of an offer or an amendment to a grant agreement must be in writing. The sponsor's or planning agency's attorney must certify that the acceptance complies with all applicable law, and constitutes a legal and binding obligation of the sponsor or planning agency.
 . *Amendment: Airport development grants.* The maximum obligation of the United States under a grant agreement for an airport development project may be increased by an amendment if—
+[arabic]
 .. Except as otherwise provided by the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, the maximum obligation of the United States is not increased by more than 10 percent;
 .. Funds are available for the increase;
 .. The sponsor shows that the increase is justified; and
 .. The change does not prejudice the interest of the United States.
 . *Reduction of U.S. Share: Airport development grants.* When project work for which costs have been incurred is deleted from a grant agreement, the Administrator reduces the maximum obligation of the United States proportionately, based on the cost or value of the deleted work as shown on the project application.
 . *Amendment: Airport planning.* A grant agreement for airport planning may be changed if—
+[arabic]
 .. The change does not increase the maximum obligation of the United States under the grant agreement; and
 .. The change does not prejudice the interest of the United States.
 
-## § 152.117
+## § 152.117 - Public hearings.
 
-### Public hearings.
-
+[loweralpha]
 . Before submitting a preapplication for Federal assistance for an airport development project involving the location of an airport, an airport runway, or a runway extension, the sponsor must give notice of opportunity for a public hearing, in accordance with paragraph (b) of this section, for the purpose of—
+[arabic]
 .. Considering the economic, social, and environmental effects of the location of the airport, the airport runway, or the runway extension; and
 .. Determining the consistency of the location with the goals and objectives of any urban planning that has been carried out by the community.
 . The notice of opportunity for public hearing must—
+[arabic]
 .. Include a concise statement of the proposed development;
 .. Be published in a newspaper of general circulation in the communities in or near which the project may be located;
 .. Provide a minimum of 30 days from the date of the notice for submission of requests for a hearing by persons having an interest in the economic, social, or environmental effects of the project; and
 .. State that a copy is available of the sponsor's environmental assessment, if one is required by appendix 6 of FAA Order 1050.1C, “Policies and Procedures for Considering Environmental Impacts” (45 FR 2244; Jan. 10, 1980), and FAA Order 5050.4, “Airport Environmental Handbook” (45 FR 56624; Aug. 25, 1980), and will remain available, at the sponsor's place of business for examination by the public for a minimum of 30 days, beginning with the date of the notice, before any hearing held under the notice.
 . A public hearing must be provided if requested. If a public hearing is to be held, the sponsor must publish a notice of that fact, in the same newspaper in which the notice of opportunity for a hearing was published.
 . The notice required by paragraph (c) of this section must—
+[arabic]
 .. Be published not less than 15 days before the date set for the hearing;
 .. Specify the date, time, and place of the hearings;
 .. Contain a concise description of the proposed project; and
 .. Indicate where and at what time more detailed information may be obtained.
 . If a public hearing is held, the sponsor must—
+[arabic]
 .. Provide the Administrator a summary of the issues raised, the alternatives considered, the conclusion reached, and the reasons for that conclusion; and
 .. If requested by the Administrator before the hearing, prepare a verbatim transcript of the hearing for submission to the Administrator.
 . If a hearing is not held the sponsor must submit with its preapplication a certification that notice of opportunity for a hearing has been provided in accordance with this section and that no request for a public hearing has been received.
 
-## § 152.119
-
-### Contract requirements and procurement standards.
+## § 152.119 - Contract requirements and procurement standards.
 
 To the extent applicable, all grant agreements, contracts, and subcontracts involving airport development projects or airport planning must be in accordance with the contract requirements in appendices A and C, as applicable, and the procurement standards in Attachment O of Office of Management and Budget Circular A-102 (42 FR 45828).
 

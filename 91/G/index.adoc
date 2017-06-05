@@ -1,104 +1,122 @@
 # Additional Equipment and Operating Requirements for Large and Transport Category Aircraft
 :toc:
 
-## § 91.601
-
-### Applicability.
+## § 91.601 - Applicability.
 
 This subpart applies to operation of large and transport category U.S.-registered civil aircraft.
 
-## § 91.603
-
-### Aural speed warning device.
+## § 91.603 - Aural speed warning device.
 
 No person may operate a transport category airplane in air commerce unless that airplane is equipped with an aural speed warning device that complies with § 25.1303(c)(1).
 
-## § 91.605
+## § 91.605 - Transport category civil airplane weight limitations.
 
-### Transport category civil airplane weight limitations.
-
+[loweralpha]
 . No person may take off any transport category airplane (other than a turbine-engine-powered airplane certificated after September 30, 1958) unless—
+[arabic]
 .. The takeoff weight does not exceed the authorized maximum takeoff weight for the elevation of the airport of takeoff;
 .. The elevation of the airport of takeoff is within the altitude range for which maximum takeoff weights have been determined;
 .. Normal consumption of fuel and oil in flight to the airport of intended landing will leave a weight on arrival not in excess of the authorized maximum landing weight for the elevation of that airport; and
 .. The elevations of the airport of intended landing and of all specified alternate airports are within the altitude range for which the maximum landing weights have been determined.
 . No person may operate a turbine-engine-powered transport category airplane certificated after September 30, 1958, contrary to the Airplane Flight Manual, or take off that airplane unless—
+[arabic]
 .. The takeoff weight does not exceed the takeoff weight specified in the Airplane Flight Manual for the elevation of the airport and for the ambient temperature existing at the time of takeoff;
 .. Normal consumption of fuel and oil in flight to the airport of intended landing and to the alternate airports will leave a weight on arrival not in excess of the landing weight specified in the Airplane Flight Manual for the elevation of each of the airports involved and for the ambient temperatures expected at the time of landing;
 .. The takeoff weight does not exceed the weight shown in the Airplane Flight Manual to correspond with the minimum distances required for takeoff, considering the elevation of the airport, the runway to be used, the effective runway gradient, the ambient temperature and wind component at the time of takeoff, and, if operating limitations exist for the minimum distances required for takeoff from wet runways, the runway surface condition (dry or wet). Wet runway distances associated with grooved or porous friction course runways, if provided in the Airplane Flight Manual, may be used only for runways that are grooved or treated with a porous friction course (PFC) overlay, and that the operator determines are designed, constructed, and maintained in a manner acceptable to the Administrator.
 .. Where the takeoff distance includes a clearway, the clearway distance is not greater than one-half of—
+[lowerroman]
 ... The takeoff run, in the case of airplanes certificated after September 30, 1958, and before August 30, 1959; or
 ... The runway length, in the case of airplanes certificated after August 29, 1959.
               
 . No person may take off a turbine-engine-powered transport category airplane certificated after August 29, 1959, unless, in addition to the requirements of paragraph (b) of this section—
+[arabic]
 .. The accelerate-stop distance is no greater than the length of the runway plus the length of the stopway (if present); and
 .. The takeoff distance is no greater than the length of the runway plus the length of the clearway (if present); and
 .. The takeoff run is no greater than the length of the runway.
 
-## § 91.607
+## § 91.607 - Emergency exits for airplanes carrying passengers for hire.
 
-### Emergency exits for airplanes carrying passengers for hire.
-
+[loweralpha]
 . Notwithstanding any other provision of this chapter, no person may operate a large airplane (type certificated under the Civil Air Regulations effective before April 9, 1957) in passenger-carrying operations for hire, with more than the number of occupants—
+[arabic]
 .. Allowed under Civil Air Regulations § 4b.362 (a), (b), and (c) as in effect on December 20, 1951; or
 .. Approved under Special Civil Air Regulations SR-387, SR-389, SR-389A, or SR-389B, or under this section as in effect.
               
 . Occupants in addition to those authorized under paragraph (a) of this section may be carried as follows:
+[arabic]
 .. For each additional floor-level exit at least 24 inches wide by 48 inches high, with an unobstructed 20-inch-wide access aisleway between the exit and the main passenger aisle, 12 additional occupants.
 .. For each additional window exit located over a wing that meets the requirements of the airworthiness standards under which the airplane was type certificated or that is large enough to inscribe an ellipse 19 × 26 inches, eight additional occupants.
 .. For each additional window exit that is not located over a wing but that otherwise complies with paragraph (b)(2) of this section, five additional occupants.
 .. For each airplane having a ratio (as computed from the table in paragraph (a) of this section) of maximum number of occupants to number of exits greater than 14:1, and for each airplane that does not have at least one full-size, door-type exit in the side of the fuselage in the rear part of the cabin, the first additional exit must be a floor-level exit that complies with paragraph (b)(1) of this section and must be located in the rear part of the cabin on the opposite side of the fuselage from the main entrance door. However, no person may operate an airplane under this section carrying more than 115 occupants unless there is such an exit on each side of the fuselage in the rear part of the cabin.
 . No person may eliminate any approved exit except in accordance with the following:
+[arabic]
 .. The previously authorized maximum number of occupants must be reduced by the same number of additional occupants authorized for that exit under this section.
 .. Exits must be eliminated in accordance with the following priority schedule: First, non-over-wing window exits; second, over-wing window exits; third, floor-level exits located in the forward part of the cabin; and fourth, floor-level exits located in the rear of the cabin.
 .. At least one exit must be retained on each side of the fuselage regardless of the number of occupants.
 .. No person may remove any exit that would result in a ratio of maximum number of occupants to approved exits greater than 14:1.
 . This section does not relieve any person operating under part 121 of this chapter from complying with § 121.291.
 
-## § 91.609
+## § 91.609 - Flight data recorders and cockpit voice recorders.
 
-### Flight data recorders and cockpit voice recorders.
-
+[loweralpha]
 . No holder of an air carrier operating certificate or an operating certificate may conduct any operation under this part with an aircraft listed in the holder's operations specifications or current list of aircraft used in air transportation unless that aircraft complies with any applicable flight recorder and cockpit voice recorder requirements of the part under which its certificate is issued except that the operator may—
+[arabic]
 .. Ferry an aircraft with an inoperative flight recorder or cockpit voice recorder from a place where repair or replacement cannot be made to a place where they can be made;
 .. Continue a flight as originally planned, if the flight recorder or cockpit voice recorder becomes inoperative after the aircraft has taken off;
 .. Conduct an airworthiness flight test during which the flight recorder or cockpit voice recorder is turned off to test it or to test any communications or electrical equipment installed in the aircraft; or
 .. Ferry a newly acquired aircraft from the place where possession of it is taken to a place where the flight recorder or cockpit voice recorder is to be installed.
 . Notwithstanding paragraphs (c) and (e) of this section, an operator other than the holder of an air carrier or a commercial operator certificate may—
+[arabic]
 .. Ferry an aircraft with an inoperative flight recorder or cockpit voice recorder from a place where repair or replacement cannot be made to a place where they can be made;
 .. Continue a flight as originally planned if the flight recorder or cockpit voice recorder becomes inoperative after the aircraft has taken off;
 .. Conduct an airworthiness flight test during which the flight recorder or cockpit voice recorder is turned off to test it or to test any communications or electrical equipment installed in the aircraft;
 .. Ferry a newly acquired aircraft from a place where possession of it was taken to a place where the flight recorder or cockpit voice recorder is to be installed; or
 .. Operate an aircraft:
+[lowerroman]
 ... For not more than 15 days while the flight recorder and/or cockpit voice recorder is inoperative and/or removed for repair provided that the aircraft maintenance records contain an entry that indicates the date of failure, and a placard is located in view of the pilot to show that the flight recorder or cockpit voice recorder is inoperative.
 ... For not more than an additional 15 days, provided that the requirements in paragraph (b)(5)(i) are met and that a certificated pilot, or a certificated person authorized to return an aircraft to service under § 43.7 of this chapter, certifies in the aircraft maintenance records that additional time is required to complete repairs or obtain a replacement unit.
 . No person may operate a U.S. civil registered, multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration, excluding any pilot seats of 10 or more that has been manufactured after October 11, 1991, unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium, that are capable of recording the data specified in appendix E to this part, for an airplane, or appendix F to this part, for a rotorcraft, of this part within the range, accuracy, and recording interval specified, and that are capable of retaining no less than 8 hours of aircraft operation.
-. Whenever a flight recorder, required by this section, is installed, it must be operated continuously from the instant the airplane begins the takeoff roll or the rotorcraft begins lift-off until the airplane has completed the landing roll or the rotorcraft has landed at its destination.
-. Unless otherwise authorized by the Administrator, after October 11, 1991, no person may operate a U.S. civil registered multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of six passengers or more and for which two pilots are required by type certification or operating rule unless it is equipped with an approved cockpit voice recorder that:
-.. Is installed in compliance with § 23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); § 25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); § 27.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or § 29.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
-.. Is operated continuously from the use of the checklist before the flight to completion of the final checklist at the end of the flight.
-. In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that at any time during the operation of the recorder, information recorded more than 15 minutes earlier may be erased or otherwise obliterated.
-. In the event of an accident or occurrence requiring immediate notification to the National Transportation Safety Board under part 830 of its regulations that results in the termination of the flight, any operator who has installed approved flight recorders and approved cockpit voice recorders shall keep the recorded information for at least 60 days or, if requested by the Administrator or the Board, for a longer period. Information obtained from the record is used to assist in determining the cause of accidents or occurrences in connection with the investigation under part 830. The Administrator does not use the cockpit voice recorder record in any civil penalty or certificate action.
-. All airplanes required by this section to have a cockpit voice recorder and a flight data recorder, that are manufactured before April 7, 2010, must by April 7, 2012, have a cockpit voice recorder that also—
-.. Is installed in accordance with the requirements of § 23.1457 (except for paragraphs (a)(6) and (d)(5)); § 25.1457 (except for paragraphs (a)(6) and (d)(5)); § 27.1457 (except for paragraphs (a)(6) and (d)(5)); or § 29.1457 (except for paragraphs (a)(6) and (d)(5)) of this chapter, as applicable; and
-.. Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
-.. For all airplanes or rotorcraft manufactured on or after April 6, 2012, also meets the requirements of § 23.1457(a)(6) and (d)(5); § 25.1457(a)(6) and (d)(5); § 27.1457(a)(6) and (d)(5); or § 29.1457(a)(6) and (d)(5) of this chapter, as applicable.
 
 (2) All airplanes subject to paragraph (c)(1) of this section that are manufactured before April 7, 2010, by April 7, 2012, must meet the requirements of § 23.1459(a)(7) or § 25.1459(a)(8) of this chapter, as applicable.
 
 (3) All airplanes and rotorcraft subject to paragraph (c)(1) of this section that are manufactured on or after April 7, 2010, must meet the flight data recorder requirements of § 23.1459, § 25.1459, § 27.1459, or § 29.1459 of this chapter, as applicable, and retain at least the last 25 hours of recorded information using a recorder that meets the standards of TSO-C124a, or later revision.
 
+(d) Whenever a flight recorder, required by this section, is installed, it must be operated continuously from the instant the airplane begins the takeoff roll or the rotorcraft begins lift-off until the airplane has completed the landing roll or the rotorcraft has landed at its destination.
+
+(e) Unless otherwise authorized by the Administrator, after October 11, 1991, no person may operate a U.S. civil registered multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of six passengers or more and for which two pilots are required by type certification or operating rule unless it is equipped with an approved cockpit voice recorder that:
+
+[arabic]
+. Is installed in compliance with § 23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); § 25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); § 27.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or § 29.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
+. Is operated continuously from the use of the checklist before the flight to completion of the final checklist at the end of the flight.
+
+(f) In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that at any time during the operation of the recorder, information recorded more than 15 minutes earlier may be erased or otherwise obliterated.
+
+(g) In the event of an accident or occurrence requiring immediate notification to the National Transportation Safety Board under part 830 of its regulations that results in the termination of the flight, any operator who has installed approved flight recorders and approved cockpit voice recorders shall keep the recorded information for at least 60 days or, if requested by the Administrator or the Board, for a longer period. Information obtained from the record is used to assist in determining the cause of accidents or occurrences in connection with the investigation under part 830. The Administrator does not use the cockpit voice recorder record in any civil penalty or certificate action.
+
+(h) All airplanes required by this section to have a cockpit voice recorder and a flight data recorder, that are manufactured before April 7, 2010, must by April 7, 2012, have a cockpit voice recorder that also—
+
+[arabic]
+. Meets the requirements of § 23.1457(d)(6) or § 25.1457(d)(6) of this chapter, as applicable; and
+. If transport category, meets the requirements of § 25.1457(a)(3), (a)(4), and (a)(5) of this chapter.
+[lowerroman]
+.. All airplanes or rotorcraft required by this section to have a cockpit voice recorder and flight data recorder, that are manufactured on or after April 7, 2010, must have a cockpit voice recorder installed that also—
+[arabic]
+... Is installed in accordance with the requirements of § 23.1457 (except for paragraphs (a)(6) and (d)(5)); § 25.1457 (except for paragraphs (a)(6) and (d)(5)); § 27.1457 (except for paragraphs (a)(6) and (d)(5)); or § 29.1457 (except for paragraphs (a)(6) and (d)(5)) of this chapter, as applicable; and
+... Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
+... For all airplanes or rotorcraft manufactured on or after April 6, 2012, also meets the requirements of § 23.1457(a)(6) and (d)(5); § 25.1457(a)(6) and (d)(5); § 27.1457(a)(6) and (d)(5); or § 29.1457(a)(6) and (d)(5) of this chapter, as applicable.
+
 (j) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and a flight data recorder, that install datalink communication equipment on or after April 6, 2012, must record all datalink messages as required by the certification rule applicable to the aircraft.
 
 (k) An aircraft operated under this part under deviation authority from part 125 of this chapter must comply with all of the applicable flight data recorder requirements of part 125 applicable to the aircraft, notwithstanding such deviation authority.
 
-## § 91.611
+## § 91.611 - Authorization for ferry flight with one engine inoperative.
 
-### Authorization for ferry flight with one engine inoperative.
-
+[loweralpha]
 . *General.* The holder of an air carrier operating certificate or an operating certificate issued under part 125 may conduct a ferry flight of a four-engine airplane or a turbine-engine-powered airplane equipped with three engines, with one engine inoperative, to a base for the purpose of repairing that engine subject to the following:
+[arabic]
 .. The airplane model has been test flown and found satisfactory for safe flight in accordance with paragraph (b) or (c) of this section, as appropriate. However, each operator who before November 19, 1966, has shown that a model of airplane with an engine inoperative is satisfactory for safe flight by a test flight conducted in accordance with performance data contained in the applicable Airplane Flight Manual under paragraph (a)(2) of this section need not repeat the test flight for that model.
 .. The approved Airplane Flight Manual contains the following performance data and the flight is conducted in accordance with that data:
+[lowerroman]
 ... Maximum weight.
 ... Center of gravity limits.
 ... Configuration of the inoperative propeller (if applicable).
@@ -109,18 +127,22 @@ No person may operate a transport category airplane in air commerce unless that 
 ... Performance information.
 ... Operating procedures.
 .. The operator has FAA approved procedures for the safe operation of the airplane, including specific requirements for—
+[lowerroman]
 ... Limiting the operating weight on any ferry flight to the minimum necessary for the flight plus the necessary reserve fuel load;
 ... A limitation that takeoffs must be made from dry runways unless, based on a showing of actual operating takeoff techniques on wet runways with one engine inoperative, takeoffs with full controllability from wet runways have been approved for the specific model aircraft and included in the Airplane Flight Manual:
 ... Operations from airports where the runways may require a takeoff or approach over populated areas; and
 ... Inspection procedures for determining the operating condition of the operative engines.
 .. No person may take off an airplane under this section if—
+[lowerroman]
 ... The initial climb is over thickly populated areas; or
 ... Weather conditions at the takeoff or destination airport are less than those required for VFR flight.
 .. Persons other than required flight crewmembers shall not be carried during the flight.
 .. No person may use a flight crewmember for flight under this section unless that crewmember is thoroughly familiar with the operating procedures for one-engine inoperative ferry flight contained in the certificate holder's manual and the limitations and performance information in the Airplane Flight Manual.
 . *Flight tests: reciprocating-engine-powered airplanes.* The airplane performance of a reciprocating-engine-powered airplane with one engine inoperative must be determined by flight test as follows:
+[arabic]
 .. A speed not less than 1.3 V*S1* must be chosen at which the airplane may be controlled satisfactorily in a climb with the critical engine inoperative (with its propeller removed or in a configuration desired by the operator and with all other engines operating at the maximum power determined in paragraph (b)(3) of this section.
 .. The distance required to accelerate to the speed listed in paragraph (b)(1) of this section and to climb to 50 feet must be determined with—
+[lowerroman]
 ... The landing gear extended;
 ... The critical engine inoperative and its propeller removed or in a configuration desired by the operator; and
               
@@ -129,32 +151,37 @@ No person may operate a transport category airplane in air commerce unless that 
 .. The performance must be determined at a maximum weight not greater than the weight that allows a rate of climb of at least 400 feet per minute in the en route configuration set forth in § 25.67(d) of this chapter in effect on January 31, 1977, at an altitude of 5,000 feet.
 .. The performance must be determined using temperature accountability for the takeoff field length, computed in accordance with § 25.61 of this chapter in effect on January 31, 1977.
 . *Flight tests: Turbine-engine-powered airplanes.* The airplane performance of a turbine-engine-powered airplane with one engine inoperative must be determined by flight tests, including at least three takeoff tests, in accordance with the following:
+[arabic]
 .. Takeoff speeds V*R* and V*2*, not less than the corresponding speeds under which the airplane was type certificated under § 25.107 of this chapter, must be chosen at which the airplane may be controlled satisfactorily with the critical engine inoperative (with its propeller removed or in a configuration desired by the operator, if applicable) and with all other engines operating at not more than the power selected for type certification as set forth in § 25.101 of this chapter.
 .. The minimum takeoff field length must be the horizontal distance required to accelerate and climb to the 35-foot height at V*2* speed (including any additional speed increment obtained in the tests) multiplied by 115 percent and determined with—
+[lowerroman]
 ... The landing gear extended;
 ... The critical engine inoperative and its propeller removed or in a configuration desired by the operator (if applicable); and
 ... The other engine operating at not more than the power selected for type certification as set forth in § 25.101 of this chapter.
 .. The takeoff, flight, and landing procedures such as the approximate trim setting, method of power application, maximum power, and speed must be established. The airplane must be satisfactorily controllable during the entire takeoff run when operated according to these procedures.
 .. The performance must be determined at a maximum weight not greater than the weight determined under § 25.121(c) of this chapter but with—
+[lowerroman]
 ... The actual steady gradient of the final takeoff climb requirement not less than 1.2 percent at the end of the takeoff path with two critical engines inoperative; and
 ... The climb speed not less than the two-engine inoperative trim speed for the actual steady gradient of the final takeoff climb prescribed by paragraph (c)(4)(i) of this section.
 .. The airplane must be satisfactorily controllable in a climb with two critical engines inoperative. Climb performance may be shown by calculations based on, and equal in accuracy to, the results of testing.
 .. The performance must be determined using temperature accountability for takeoff distance and final takeoff climb computed in accordance with § 25.101 of this chapter.
               
 
-## § 91.613
+## § 91.613 - Materials for compartment interiors.
 
-### Materials for compartment interiors.
-
+[loweralpha]
 . No person may operate an airplane that conforms to an amended or supplemental type certificate issued in accordance with SFAR No. 41 for a maximum certificated takeoff weight in excess of 12,500 pounds unless within 1 year after issuance of the initial airworthiness certificate under that SFAR the airplane meets the compartment interior requirements set forth in § 25.853 (a), (b), (b-1), (b-2), and (b-3) of this chapter in effect on September 26, 1978.
               
 . Thermal/acoustic insulation materials. For transport category airplanes type certificated after January 1, 1958:
+[arabic]
 .. For airplanes manufactured before September 2, 2005, when thermal/acoustic insulation is installed in the fuselage as replacements after September 2, 2005, the insulation must meet the flame propagation requirements of § 25.856 of this chapter, effective September 2, 2003, if it is:
+[lowerroman]
 ... Of a blanket construction or
 ... Installed around air ducting.
 .. For airplanes manufactured after September 2, 2005, thermal/acoustic insulation materials installed in the fuselage must meet the flame propagation requirements of § 25.856 of this chapter, effective September 2, 2003.
 
-## §§ 91.615-91.699
+## §§ 91.615-91.699 - Reserved
 
-### Reserved
+
+Reserved
 

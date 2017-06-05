@@ -1,71 +1,63 @@
 # Alcohol Testing Program Requirements
 :toc:
 
-## § 120.201
-
-### Scope.
+## § 120.201 - Scope.
 
 This subpart contains the standards and components that must be included in an alcohol testing program required by this part.
 
-## § 120.203
+## § 120.203 - General.
 
-### General.
-
+[loweralpha]
 . *Purpose.* The purpose of this subpart is to establish programs designed to help prevent accidents and injuries resulting from the misuse of alcohol by employees who perform safety-sensitive functions in aviation.
 . *Alcohol testing procedures.* Each employer shall ensure that all alcohol testing conducted pursuant to this subpart complies with the procedures set forth in 49 CFR part 40. The provisions of 49 CFR part 40 that address alcohol testing are made applicable to employers by this subpart.
 . *Employer responsibility.* As an employer, you are responsible for all actions of your officials, representatives, and service agents in carrying out the requirements of the DOT agency regulations.
 
-## § 120.205
+## § 120.205 - Preemption of State and local laws.
 
-### Preemption of State and local laws.
-
+[loweralpha]
 . Except as provided in paragraph (a)(2) of this section, these regulations preempt any State or local law, rule, regulation, or order to the extent that:
+[arabic]
 .. Compliance with both the State or local requirement and this subpart is not possible; or
 .. Compliance with the State or local requirement is an obstacle to the accomplishment and execution of any requirement in this subpart.
 . The alcohol testing requirements of this title shall not be construed to preempt provisions of State criminal law that impose sanctions for reckless conduct leading to actual loss of life, injury, or damage to property, whether the provisions apply specifically to transportation employees or employers or to the general public.
 
-## § 120.207
-
-### Other requirements imposed by employers.
+## § 120.207 - Other requirements imposed by employers.
 
 Except as expressly provided in these alcohol testing requirements, nothing in this subpart shall be construed to affect the authority of employers, or the rights of employees, with respect to the use or possession of alcohol, including any authority and rights with respect to alcohol testing and rehabilitation.
 
-## § 120.209
-
-### Requirement for notice.
+## § 120.209 - Requirement for notice.
 
 Before performing an alcohol test under this subpart, each employer shall notify a covered employee that the alcohol test is required by this subpart. No employer shall falsely represent that a test is administered under this subpart.
 
-## § 120.211
-
-### Applicable Federal regulations.
+## § 120.211 - Applicable Federal regulations.
 
 The following applicable regulations appear in 49 CFR and 14 CFR:
 
+[loweralpha]
 . 49 CFR Part 40—Procedures for Transportation Workplace Drug Testing Programs
 . 14 CFR:
               
+[arabic]
 .. § 67.107—First-Class Airman Medical Certificate, Mental.
 .. § 67.207—Second-Class Airman Medical Certificate, Mental.
 .. § 67.307—Third-Class Airman Medical Certificate, Mental.
 .. § 91.147—Passenger carrying flights for compensation or hire.
 .. § 135.1—Applicability
 
-## § 120.213
-
-### Falsification.
+## § 120.213 - Falsification.
 
 No individual may make, or cause to be made, any of the following:
 
+[loweralpha]
 . Any fraudulent or intentionally false statement in any application of an alcohol testing program.
 . Any fraudulent or intentionally false entry in any record or report that is made, kept, or used to show compliance with this subpart.
 . Any reproduction or alteration, for fraudulent purposes, of any report or record required to be kept by this subpart.
 
-## § 120.215
+## § 120.215 - Covered employees.
 
-### Covered employees.
-
+[loweralpha]
 . Each employee, including any assistant, helper, or individual in a training status, who performs a safety-sensitive function listed in this section directly or by contract (including by subcontract at any tier) for an employer as defined in this subpart must be subject to alcohol testing under an alcohol testing program implemented in accordance with this subpart. This includes full-time, part-time, temporary, and intermittent employees regardless of the degree of supervision. The safety-sensitive functions are:
+[arabic]
 .. Flight crewmember duties.
 .. Flight attendant duties.
 .. Flight instruction duties.
@@ -77,30 +69,26 @@ No individual may make, or cause to be made, any of the following:
 .. Operations control specialist duties.
 . Each employer must identify any employee who is subject to the alcohol testing regulations of more than one DOT agency. Prior to conducting any alcohol test on a covered employee subject to the alcohol testing regulations of more than one DOT agency, the employer must determine which DOT agency authorizes or requires the test.
 
-## § 120.217
+## § 120.217 - Tests required.
 
-### Tests required.
-
+[loweralpha]
 . *Pre-employment alcohol testing.* As an employer, you may, but are not required to, conduct pre-employment alcohol testing under this subpart. If you choose to conduct pre-employment alcohol testing, you must comply with the following requirements:
+[arabic]
 .. You must conduct a pre-employment alcohol test before the first performance of safety-sensitive functions by every covered employee (whether a new employee or someone who has transferred to a position involving the performance of safety-sensitive functions).
 .. You must treat all safety-sensitive employees performing safety-sensitive functions the same for the purpose of pre-employment alcohol testing (*i.e.*, you must not test some covered employees and not others).
 .. You must conduct the pre-employment tests after making a contingent offer of employment or transfer, subject to the employee passing the pre-employment alcohol test.
 .. You must conduct all pre-employment alcohol tests using the alcohol testing procedures of 49 CFR part 40.
 .. You must not allow a covered employee to begin performing safety-sensitive functions unless the result of the employee's test indicates an alcohol concentration of less than 0.04. If a pre-employment test result under this paragraph indicates an alcohol concentration of 0.02 or greater but less than 0.04, the provisions of § 120.221(f) apply.
-. *Post-accident alcohol testing.* (1) As soon as practicable following an accident, each employer shall test each surviving covered employee for alcohol if that employee's performance of a safety-sensitive function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. The decision not to administer a test under this section shall be based on the employer's determination, using the best available information at the time of the determination, that the covered employee's performance could not have contributed to the accident.
-. *Random alcohol testing.* (1) Except as provided in paragraphs (c)(2) through (c)(4) of this section, the minimum annual percentage rate for random alcohol testing will be 25 percent of the covered employees.
-. *Reasonable suspicion alcohol testing.* (1) An employer shall require a covered employee to submit to an alcohol test when the employer has reasonable suspicion to believe that the employee has violated the alcohol misuse prohibitions in §§ 120.19 or 120.37.
-. *Return-to-duty alcohol testing.* Each employer shall ensure that before a covered employee returns to duty requiring the performance of a safety-sensitive function after engaging in conduct prohibited in §§ 120.19 or 120.37 the employee shall undergo a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02. The test cannot occur until after the SAP has determined that the employee has successfully complied with the prescribed education and/or treatment.
-. *Follow-up alcohol testing.* (1) Each employer shall ensure that the employee who engages in conduct prohibited by §§ 120.19 or 120.37, is subject to unannounced follow-up alcohol testing as directed by a SAP.
-. *Retesting of covered employees with an alcohol concentration of 0.02 or greater but less than 0.04.* Each employer shall retest a covered employee to ensure compliance with the provisions of § 120.221(f) if the employer chooses to permit the employee to perform a safety-sensitive function within 8 hours following the administration of an alcohol test indicating an alcohol concentration of 0.02 or greater but less than 0.04.
-
-(2) If a test required by this section is not administered within 2 hours following the accident, the employer shall prepare and maintain on file a record stating the reasons the test was not promptly administered. If a test required by this section is not administered within 8 hours following the accident, the employer shall cease attempts to administer an alcohol test and shall prepare and maintain the same record. Records shall be submitted to the FAA upon request of the Administrator or his or her designee.
-
-(3) A covered employee who is subject to post-accident testing shall remain readily available for such testing or may be deemed by the employer to have refused to submit to testing. Nothing in this section shall be construed to require the delay of necessary medical attention for injured people following an accident or to prohibit a covered employee from leaving the scene of an accident for the period necessary to obtain assistance in responding to the accident or to obtain necessary emergency medical care.
-
-(2) The Administrator's decision to increase or decrease the minimum annual percentage rate for random alcohol testing is based on the violation rate for the entire industry. All information used for this determination is drawn from MIS reports required by this subpart. In order to ensure reliability of the data, the Administrator considers the quality and completeness of the reported data, may obtain additional information or reports from employers, and may make appropriate modifications in calculating the industry violation rate. Each year, the Administrator will publish in the *Federal Register* the minimum annual percentage rate for random alcohol testing of covered employees. The new minimum annual percentage rate for random alcohol testing will be applicable starting January 1 of the calendar year following publication.
-
-(3)(i) When the minimum annual percentage rate for random alcohol testing is 25 percent or more, the Administrator may lower this rate to 10 percent of all covered employees if the Administrator determines that the data received under the reporting requirements of this subpart for two consecutive calendar years indicate that the violation rate is less than 0.5 percent.
+. *Post-accident alcohol testing.*
+[arabic]
+.. As soon as practicable following an accident, each employer shall test each surviving covered employee for alcohol if that employee's performance of a safety-sensitive function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. The decision not to administer a test under this section shall be based on the employer's determination, using the best available information at the time of the determination, that the covered employee's performance could not have contributed to the accident.
+.. If a test required by this section is not administered within 2 hours following the accident, the employer shall prepare and maintain on file a record stating the reasons the test was not promptly administered. If a test required by this section is not administered within 8 hours following the accident, the employer shall cease attempts to administer an alcohol test and shall prepare and maintain the same record. Records shall be submitted to the FAA upon request of the Administrator or his or her designee.
+.. A covered employee who is subject to post-accident testing shall remain readily available for such testing or may be deemed by the employer to have refused to submit to testing. Nothing in this section shall be construed to require the delay of necessary medical attention for injured people following an accident or to prohibit a covered employee from leaving the scene of an accident for the period necessary to obtain assistance in responding to the accident or to obtain necessary emergency medical care.
+. *Random alcohol testing.*
+[arabic]
+.. Except as provided in paragraphs (c)(2) through (c)(4) of this section, the minimum annual percentage rate for random alcohol testing will be 25 percent of the covered employees.
+.. The Administrator's decision to increase or decrease the minimum annual percentage rate for random alcohol testing is based on the violation rate for the entire industry. All information used for this determination is drawn from MIS reports required by this subpart. In order to ensure reliability of the data, the Administrator considers the quality and completeness of the reported data, may obtain additional information or reports from employers, and may make appropriate modifications in calculating the industry violation rate. Each year, the Administrator will publish in the *Federal Register* the minimum annual percentage rate for random alcohol testing of covered employees. The new minimum annual percentage rate for random alcohol testing will be applicable starting January 1 of the calendar year following publication.
+.. When the minimum annual percentage rate for random alcohol testing is 25 percent or more, the Administrator may lower this rate to 10 percent of all covered employees if the Administrator determines that the data received under the reporting requirements of this subpart for two consecutive calendar years indicate that the violation rate is less than 0.5 percent.
 
 (ii) When the minimum annual percentage rate for random alcohol testing is 50 percent, the Administrator may lower this rate to 25 percent of all covered employees if the Administrator determines that the data received under the reporting requirements of this subpart for two consecutive calendar years indicate that the violation rate is less than 1.0 percent but equal to or greater than 0.5 percent.
 
@@ -112,19 +100,16 @@ No individual may make, or cause to be made, any of the following:
 
 (6) As an employer, you must select and test a percentage of employees at least equal to the minimum annual percentage rate each year.
 
-(i) As an employer, to determine whether you have met the minimum annual percentage rate, you must divide the number of random alcohol screening test results for safety-sensitive employees by the average number of safety-sensitive employees eligible for random testing.
-
-(A) To calculate whether you have met the annual minimum percentage rate, count all random screening test results below 0.02 breath alcohol concentration, random screening test results of 0.02 or greater breath alcohol concentration, and random refusals as your “random alcohol screening test results.”
-
-(B) To calculate the average number of safety-sensitive employees eligible for random testing throughout the year, add the total number of safety-sensitive employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Only safety-sensitive employees are to be in an employer's random testing pool, and all safety-sensitive employees must be in the random pool. If you are an employer conducting random testing more often than once per month (*e.g.*, you select daily, weekly, bi-weekly) you do not need to compute this total number of safety-sensitive employees more than on a once per month basis.
-
-(ii) As an employer, you may use a service agent to perform random selections for you, and your safety-sensitive employees may be part of a larger random testing pool of safety-sensitive employees. However, you must ensure that the service agent you use is testing at the appropriate percentage established for your industry and that only safety-sensitive employees are in the random testing pool. For example:
-
-(A) If the service agent has your employees in a random testing pool for your company alone, you must ensure that the testing is conducted at least at the minimum annual percentage rate under this part.
-
-(B) If the service agent has your employees in a random testing pool combined with other FAA-regulated companies, you must ensure that the testing is conducted at least at the minimum annual percentage rate under this part.
-
-(C) If the service agent has your employees in a random testing pool combined with other DOT-regulated companies, you must ensure that the testing is conducted at least at the highest rate required for any DOT-regulated company in the pool.
+[lowerroman]
+. As an employer, to determine whether you have met the minimum annual percentage rate, you must divide the number of random alcohol screening test results for safety-sensitive employees by the average number of safety-sensitive employees eligible for random testing.
+[upperalpha]
+.. To calculate whether you have met the annual minimum percentage rate, count all random screening test results below 0.02 breath alcohol concentration, random screening test results of 0.02 or greater breath alcohol concentration, and random refusals as your “random alcohol screening test results.”
+.. To calculate the average number of safety-sensitive employees eligible for random testing throughout the year, add the total number of safety-sensitive employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Only safety-sensitive employees are to be in an employer's random testing pool, and all safety-sensitive employees must be in the random pool. If you are an employer conducting random testing more often than once per month (*e.g.*, you select daily, weekly, bi-weekly) you do not need to compute this total number of safety-sensitive employees more than on a once per month basis.
+. As an employer, you may use a service agent to perform random selections for you, and your safety-sensitive employees may be part of a larger random testing pool of safety-sensitive employees. However, you must ensure that the service agent you use is testing at the appropriate percentage established for your industry and that only safety-sensitive employees are in the random testing pool. For example:
+[upperalpha]
+.. If the service agent has your employees in a random testing pool for your company alone, you must ensure that the testing is conducted at least at the minimum annual percentage rate under this part.
+.. If the service agent has your employees in a random testing pool combined with other FAA-regulated companies, you must ensure that the testing is conducted at least at the minimum annual percentage rate under this part.
+.. If the service agent has your employees in a random testing pool combined with other DOT-regulated companies, you must ensure that the testing is conducted at least at the highest rate required for any DOT-regulated company in the pool.
 
 (7) Each employer shall ensure that random alcohol tests conducted under this subpart are unannounced and that the dates for administering random tests are spread reasonably throughout the calendar year.
 
@@ -136,10 +121,12 @@ No individual may make, or cause to be made, any of the following:
 
 (11) If an employer is required to conduct random alcohol testing under the alcohol testing rules of more than one DOT agency, the employer may—
 
-(i) Establish separate pools for random selection, with each pool containing the covered employees who are subject to testing at the same required rate; or
+[lowerroman]
+. Establish separate pools for random selection, with each pool containing the covered employees who are subject to testing at the same required rate; or
               
+. Randomly select such employees for testing at the highest percentage rate established for the calendar year by any DOT agency to which the employer is subject.
 
-(ii) Randomly select such employees for testing at the highest percentage rate established for the calendar year by any DOT agency to which the employer is subject.
+(d) *Reasonable suspicion alcohol testing.* (1) An employer shall require a covered employee to submit to an alcohol test when the employer has reasonable suspicion to believe that the employee has violated the alcohol misuse prohibitions in §§ 120.19 or 120.37.
 
 (2) The employer's determination that reasonable suspicion exists to require the covered employee to undergo an alcohol test shall be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech or body odors of the employee. The required observations shall be made by a supervisor who is trained in detecting the symptoms of alcohol misuse. The supervisor who makes the determination that reasonable suspicion exists shall not conduct the breath alcohol test on that employee.
 
@@ -149,11 +136,15 @@ No individual may make, or cause to be made, any of the following:
 
 (ii) Notwithstanding the absence of a reasonable suspicion alcohol test under this section, no covered employee shall report for duty or remain on duty requiring the performance of safety-sensitive functions while the employee is under the influence of, or impaired by, alcohol, as shown by the behavioral, speech, or performance indicators of alcohol misuse, nor shall an employer permit the covered employee to perform or continue to perform safety-sensitive functions until:
 
-(A) An alcohol test is administered and the employee's alcohol concentration measures less than 0.02; or
-
-(B) The start of the employee's next regularly scheduled duty period, but not less than 8 hours following the determination made under paragraph (d)(2) of this section that there is reasonable suspicion that the employee has violated the alcohol misuse provisions in §§ 120.19 or 120.37.
+[upperalpha]
+. An alcohol test is administered and the employee's alcohol concentration measures less than 0.02; or
+. The start of the employee's next regularly scheduled duty period, but not less than 8 hours following the determination made under paragraph (d)(2) of this section that there is reasonable suspicion that the employee has violated the alcohol misuse provisions in §§ 120.19 or 120.37.
 
 (iii) No employer shall take any action under this subpart against a covered employee based solely on the employee's behavior and appearance in the absence of an alcohol test. This does not prohibit an employer with authority independent of this subpart from taking any action otherwise consistent with law.
+
+(e) *Return-to-duty alcohol testing.* Each employer shall ensure that before a covered employee returns to duty requiring the performance of a safety-sensitive function after engaging in conduct prohibited in §§ 120.19 or 120.37 the employee shall undergo a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02. The test cannot occur until after the SAP has determined that the employee has successfully complied with the prescribed education and/or treatment.
+
+(f) *Follow-up alcohol testing.* (1) Each employer shall ensure that the employee who engages in conduct prohibited by §§ 120.19 or 120.37, is subject to unannounced follow-up alcohol testing as directed by a SAP.
 
 (2) The number and frequency of such testing shall be determined by the employer's SAP, but must consist of at least six tests in the first 12 months following the employee's return to duty.
 
@@ -163,149 +154,118 @@ No individual may make, or cause to be made, any of the following:
 
 (5) A covered employee shall be tested for alcohol under this section only while the employee is performing safety-sensitive functions, just before the employee is to perform safety-sensitive functions, or just after the employee has ceased performing such functions.
 
-## § 120.219
+(g) *Retesting of covered employees with an alcohol concentration of 0.02 or greater but less than 0.04.* Each employer shall retest a covered employee to ensure compliance with the provisions of § 120.221(f) if the employer chooses to permit the employee to perform a safety-sensitive function within 8 hours following the administration of an alcohol test indicating an alcohol concentration of 0.02 or greater but less than 0.04.
 
-### Handling of test results, record retention, and confidentiality.
+## § 120.219 - Handling of test results, record retention, and confidentiality.
 
-. *Retention of records.* (1) *General requirement.* In addition to the records required to be maintained under 49 CFR part 40, employers must maintain records required by this subpart in a secure location with controlled access.
-. *Annual reports.* (1) Annual reports of alcohol testing program results must be submitted to the FAA by March 15 of the succeeding calendar year for the prior calendar year (January 1 through December 31) in accordance with the provisions of paragraphs (b)(1)(i) through (iii) of this section.
-. *Access to records and facilities.* (1) Except as required by law or expressly authorized or required in this subpart, no employer shall release covered employee information that is contained in records required to be maintained under this subpart.
-
-(2) *Period of retention.*
+[loweralpha]
+. *Retention of records.*
+[arabic]
+.. *General requirement.* In addition to the records required to be maintained under 49 CFR part 40, employers must maintain records required by this subpart in a secure location with controlled access.
+.. *Period of retention.*
               
-
-(i) *Five years.*
+[lowerroman]
+... *Five years.*
               
-
-(A) Copies of any annual reports submitted to the FAA under this subpart for a minimum of 5 years.
-
-(B) Records of notifications to the Federal Air Surgeon of refusals to submit to testing and violations of the alcohol misuse prohibitions in this chapter by covered employees who hold medical certificates issued under part 67 of this chapter.
-
-(C) Documents presented by a covered employee to dispute the result of an alcohol test administered under this subpart.
-
-(D) Records related to other violations of §§ 120.19 or 120.37.
-
-(ii) *Two years.* Records related to the testing process and training required under this subpart.
-
-(A) Documents related to the random selection process.
-
-(B) Documents generated in connection with decisions to administer reasonable suspicion alcohol tests.
-
-(C) Documents generated in connection with decisions on post-accident tests.
-
-(D) Documents verifying existence of a medical explanation of the inability of a covered employee to provide adequate breath for testing.
-
-(E) Materials on alcohol misuse awareness, including a copy of the employer's policy on alcohol misuse.
-
-(F) Documentation of compliance with the requirements of § 120.223(a).
-
-(G) Documentation of training provided to supervisors for the purpose of qualifying the supervisors to make a determination concerning the need for alcohol testing based on reasonable suspicion.
-
-(H) Certification that any training conducted under this subpart complies with the requirements for such training.
-
-(i) Each part 121 certificate holder shall submit an annual report each year.
-
-(ii) Each entity conducting an alcohol testing program under this part, other than a part 121 certificate holder, that has 50 or more employees performing a safety-sensitive function on January 1 of any calendar year shall submit an annual report to the FAA for that calendar year.
-
-(iii) The Administrator reserves the right to require that aviation employers not otherwise required to submit annual reports prepare and submit such reports to the FAA. Employers that will be required to submit annual reports under this provision will be notified in writing by the FAA.
-
-(2) As an employer, you must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at 49 CFR 40.26 and appendix H to 49 CFR part 40). You may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (*e.g.*, electronic program transmitted via the Internet) other than hard-copy, for MIS form submission. For information on where to submit MIS forms and for the electronic version of the form, see: *http://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/drug_alcohol/.*
+[upperalpha]
+.... Copies of any annual reports submitted to the FAA under this subpart for a minimum of 5 years.
+.... Records of notifications to the Federal Air Surgeon of refusals to submit to testing and violations of the alcohol misuse prohibitions in this chapter by covered employees who hold medical certificates issued under part 67 of this chapter.
+.... Documents presented by a covered employee to dispute the result of an alcohol test administered under this subpart.
+.... Records related to other violations of §§ 120.19 or 120.37.
+... *Two years.* Records related to the testing process and training required under this subpart.
+[upperalpha]
+.... Documents related to the random selection process.
+.... Documents generated in connection with decisions to administer reasonable suspicion alcohol tests.
+.... Documents generated in connection with decisions on post-accident tests.
+.... Documents verifying existence of a medical explanation of the inability of a covered employee to provide adequate breath for testing.
+.... Materials on alcohol misuse awareness, including a copy of the employer's policy on alcohol misuse.
+.... Documentation of compliance with the requirements of § 120.223(a).
+.... Documentation of training provided to supervisors for the purpose of qualifying the supervisors to make a determination concerning the need for alcohol testing based on reasonable suspicion.
+.... Certification that any training conducted under this subpart complies with the requirements for such training.
+. *Annual reports.*
+[arabic]
+.. Annual reports of alcohol testing program results must be submitted to the FAA by March 15 of the succeeding calendar year for the prior calendar year (January 1 through December 31) in accordance with the provisions of paragraphs (b)(1)(i) through (iii) of this section.
+[lowerroman]
+... Each part 121 certificate holder shall submit an annual report each year.
+... Each entity conducting an alcohol testing program under this part, other than a part 121 certificate holder, that has 50 or more employees performing a safety-sensitive function on January 1 of any calendar year shall submit an annual report to the FAA for that calendar year.
+... The Administrator reserves the right to require that aviation employers not otherwise required to submit annual reports prepare and submit such reports to the FAA. Employers that will be required to submit annual reports under this provision will be notified in writing by the FAA.
+.. As an employer, you must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at 49 CFR 40.26 and appendix H to 49 CFR part 40). You may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (*e.g.*, electronic program transmitted via the Internet) other than hard-copy, for MIS form submission. For information on where to submit MIS forms and for the electronic version of the form, see: *http://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/drug_alcohol/.*
               
+.. A service agent may prepare the MIS report on behalf of an employer. However, a company official (*e.g.*, Designated Employer Representative as defined in 49 CFR part 40) must certify the accuracy and completeness of the MIS report, no matter who prepares it.
+. *Access to records and facilities.*
+[arabic]
+.. Except as required by law or expressly authorized or required in this subpart, no employer shall release covered employee information that is contained in records required to be maintained under this subpart.
+.. A covered employee is entitled, upon written request, to obtain copies of any records pertaining to the employee's use of alcohol, including any records pertaining to his or her alcohol tests in accordance with 49 CFR part 40. The employer shall promptly provide the records requested by the employee. Access to an employee's records shall not be contingent upon payment for records other than those specifically requested.
+.. Each employer shall permit access to all facilities utilized in complying with the requirements of this subpart to the Secretary of Transportation or any DOT agency with regulatory authority over the employer or any of its covered employees.
 
-(3) A service agent may prepare the MIS report on behalf of an employer. However, a company official (*e.g.*, Designated Employer Representative as defined in 49 CFR part 40) must certify the accuracy and completeness of the MIS report, no matter who prepares it.
+## § 120.221 - Consequences for employees engaging in alcohol-related conduct.
 
-(2) A covered employee is entitled, upon written request, to obtain copies of any records pertaining to the employee's use of alcohol, including any records pertaining to his or her alcohol tests in accordance with 49 CFR part 40. The employer shall promptly provide the records requested by the employee. Access to an employee's records shall not be contingent upon payment for records other than those specifically requested.
-
-(3) Each employer shall permit access to all facilities utilized in complying with the requirements of this subpart to the Secretary of Transportation or any DOT agency with regulatory authority over the employer or any of its covered employees.
-
-## § 120.221
-
-### Consequences for employees engaging in alcohol-related conduct.
-
-. *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §§ 120.19 or 120.37, or an alcohol misuse rule of another DOT agency.
-. *Permanent disqualification from service.* (1) An employee who violates §§ 120.19(c) or 120.37(c) is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
-. *Notice to the Federal Air Surgeon.* (1) An employer who determines that a covered employee who holds an airman medical certificate issued under part 67 of this chapter has engaged in alcohol use that violated the alcohol misuse provisions of §§ 120.19 or 120.37 shall notify the Federal Air Surgeon within 2 working days.
+[loweralpha]
+. *Removal from safety-sensitive function.*
+[arabic]
+.. Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §§ 120.19 or 120.37, or an alcohol misuse rule of another DOT agency.
+.. No employer shall permit any covered employee to perform safety-sensitive functions if the employer has determined that the employee has violated this section.
+. *Permanent disqualification from service.*
+[arabic]
+.. An employee who violates §§ 120.19(c) or 120.37(c) is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
+.. An employee who engages in alcohol use that violates another alcohol misuse provision of §§ 120.19 or 120.37, and who had previously engaged in alcohol use that violated the provisions of §§ 120.19 or 120.37 after becoming subject to such prohibitions, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
+. *Notice to the Federal Air Surgeon.*
+[arabic]
+.. An employer who determines that a covered employee who holds an airman medical certificate issued under part 67 of this chapter has engaged in alcohol use that violated the alcohol misuse provisions of §§ 120.19 or 120.37 shall notify the Federal Air Surgeon within 2 working days.
+.. Each such employer shall forward to the Federal Air Surgeon a copy of the report of any evaluation performed under the provisions of § 120.223(c) within 2 working days of the employer's receipt of the report.
+.. All documents must be sent to the Federal Air Surgeon, Federal Aviation Administration, Office of Aerospace Medicine, Attn: Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591.
+.. No covered employee who is required to hold an airman medical certificate in order to perform a safety-sensitive duty may perform that duty following a violation of this subpart until the covered employee obtains an airman medical certificate issued by the Federal Air Surgeon dated after the alcohol test result or refusal to test date. After the covered employee obtains this airman medical certificate, the SAP may recommend to the employer that the covered employee may be returned to a safety-sensitive position. The receipt of an airman medical certificate does not alter any obligations otherwise required by 49 CFR part 40 or this subpart.
+.. Once the Federal Air Surgeon has recommended under paragraph (c)(4) of this section that the employee be permitted to perform safety-sensitive duties, the employer cannot permit the employee to perform those safety-sensitive duties until the employer has ensured that the employee meets the return to duty requirements in accordance with 49 CFR part 40.
 . *Notice of refusals.* Each covered employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or part 65 of this chapter who has refused to submit to an alcohol test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
 . *Required evaluation and alcohol testing.* No covered employee who has engaged in conduct prohibited by §§ 120.19 or 120.37 shall perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40. No employer shall permit a covered employee who has engaged in such conduct to perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40.
-. *Other alcohol-related conduct.* (1) No covered employee tested under this subpart who is found to have an alcohol concentration of 0.02 or greater but less than 0.04 shall perform or continue to perform safety-sensitive functions for an employer, nor shall an employer permit the employee to perform or continue to perform safety-sensitive functions, until:
+. *Other alcohol-related conduct.*
+[arabic]
+.. No covered employee tested under this subpart who is found to have an alcohol concentration of 0.02 or greater but less than 0.04 shall perform or continue to perform safety-sensitive functions for an employer, nor shall an employer permit the employee to perform or continue to perform safety-sensitive functions, until:
+[lowerroman]
+... The employee's alcohol concentration measures less than 0.02; or
+... The start of the employee's next regularly scheduled duty period, but not less than 8 hours following administration of the test.
+.. Except as provided in paragraph (f)(1) of this section, no employer shall take any action under this rule against an employee based solely on test results showing an alcohol concentration less than 0.04. This does not prohibit an employer with authority independent of this rule from taking any action otherwise consistent with law.
 
-(2) No employer shall permit any covered employee to perform safety-sensitive functions if the employer has determined that the employee has violated this section.
+## § 120.223 - Alcohol misuse information, training, and substance abuse professionals.
 
-(2) An employee who engages in alcohol use that violates another alcohol misuse provision of §§ 120.19 or 120.37, and who had previously engaged in alcohol use that violated the provisions of §§ 120.19 or 120.37 after becoming subject to such prohibitions, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
-
-(2) Each such employer shall forward to the Federal Air Surgeon a copy of the report of any evaluation performed under the provisions of § 120.223(c) within 2 working days of the employer's receipt of the report.
-
-(3) All documents must be sent to the Federal Air Surgeon, Federal Aviation Administration, Office of Aerospace Medicine, Attn: Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591.
-
-(4) No covered employee who is required to hold an airman medical certificate in order to perform a safety-sensitive duty may perform that duty following a violation of this subpart until the covered employee obtains an airman medical certificate issued by the Federal Air Surgeon dated after the alcohol test result or refusal to test date. After the covered employee obtains this airman medical certificate, the SAP may recommend to the employer that the covered employee may be returned to a safety-sensitive position. The receipt of an airman medical certificate does not alter any obligations otherwise required by 49 CFR part 40 or this subpart.
-
-(5) Once the Federal Air Surgeon has recommended under paragraph (c)(4) of this section that the employee be permitted to perform safety-sensitive duties, the employer cannot permit the employee to perform those safety-sensitive duties until the employer has ensured that the employee meets the return to duty requirements in accordance with 49 CFR part 40.
-
-(i) The employee's alcohol concentration measures less than 0.02; or
-
-(ii) The start of the employee's next regularly scheduled duty period, but not less than 8 hours following administration of the test.
-
-(2) Except as provided in paragraph (f)(1) of this section, no employer shall take any action under this rule against an employee based solely on test results showing an alcohol concentration less than 0.04. This does not prohibit an employer with authority independent of this rule from taking any action otherwise consistent with law.
-
-## § 120.223
-
-### Alcohol misuse information, training, and substance abuse professionals.
-
-. *Employer obligation to promulgate a policy on the misuse of alcohol.* (1) *General requirements.* Each employer shall provide educational materials that explain these alcohol testing requirements and the employer's policies and procedures with respect to meeting those requirements.
+[loweralpha]
+. *Employer obligation to promulgate a policy on the misuse of alcohol.*
+[arabic]
+.. *General requirements.* Each employer shall provide educational materials that explain these alcohol testing requirements and the employer's policies and procedures with respect to meeting those requirements.
+[lowerroman]
+... The employer shall ensure that a copy of these materials is distributed to each covered employee prior to the start of alcohol testing under the employer's FAA-mandated alcohol testing program and to each individual subsequently hired for or transferred to a covered position.
+... Each employer shall provide written notice to representatives of employee organizations of the availability of this information.
+.. *Required content.* The materials to be made available to employees shall include detailed discussion of at least the following:
+[lowerroman]
+... The identity of the individual designated by the employer to answer employee questions about the materials.
+... The categories of employees who are subject to the provisions of these alcohol testing requirements.
+... Sufficient information about the safety-sensitive functions performed by those employees to make clear what period of the work day the covered employee is required to be in compliance with these alcohol testing requirements.
+... Specific information concerning employee conduct that is prohibited by this chapter.
+... The circumstances under which a covered employee will be tested for alcohol under this subpart.
+              
+... The procedures that will be used to test for the presence of alcohol, protect the employee and the integrity of the breath testing process, safeguard the validity of the test results, and ensure that those results are attributed to the correct employee.
+... The requirement that a covered employee submit to alcohol tests administered in accordance with this subpart.
+... An explanation of what constitutes a refusal to submit to an alcohol test and the attendant consequences.
+... The consequences for covered employees found to have violated the prohibitions in this chapter, including the requirement that the employee be removed immediately from performing safety-sensitive functions, and the process in 49 CFR part 40, subpart O.
+... The consequences for covered employees found to have an alcohol concentration of 0.02 or greater but less than 0.04.
+... Information concerning the effects of alcohol misuse on an individual's health, work, and personal life; signs and symptoms of an alcohol problem; available methods of evaluating and resolving problems associated with the misuse of alcohol; and intervening when an alcohol problem is suspected, including confrontation, referral to any available employee assistance program, and/or referral to management.
+... Optional provisions. The materials supplied to covered employees may also include information on additional employer policies with respect to the use or possession of alcohol, including any consequences for an employee found to have a specified alcohol level, that are based on the employer's authority independent of this subpart. Any such additional policies or consequences must be clearly and obviously described as being based on independent authority.
 . *Training for supervisors.* Each employer shall ensure that persons designated to determine whether reasonable suspicion exists to require a covered employee to undergo alcohol testing under § 120.217(d) of this subpart receive at least 60 minutes of training on the physical, behavioral, speech, and performance indicators of probable alcohol misuse.
 . *Substance abuse professional (SAP) duties.* The SAP must perform the functions set forth in 49 CFR part 40, subpart O, and this subpart.
 
-(i) The employer shall ensure that a copy of these materials is distributed to each covered employee prior to the start of alcohol testing under the employer's FAA-mandated alcohol testing program and to each individual subsequently hired for or transferred to a covered position.
+## § 120.225 - How to implement an alcohol testing program.
 
-(ii) Each employer shall provide written notice to representatives of employee organizations of the availability of this information.
-
-(2) *Required content.* The materials to be made available to employees shall include detailed discussion of at least the following:
-
-(i) The identity of the individual designated by the employer to answer employee questions about the materials.
-
-(ii) The categories of employees who are subject to the provisions of these alcohol testing requirements.
-
-(iii) Sufficient information about the safety-sensitive functions performed by those employees to make clear what period of the work day the covered employee is required to be in compliance with these alcohol testing requirements.
-
-(iv) Specific information concerning employee conduct that is prohibited by this chapter.
-
-(v) The circumstances under which a covered employee will be tested for alcohol under this subpart.
-              
-
-(vi) The procedures that will be used to test for the presence of alcohol, protect the employee and the integrity of the breath testing process, safeguard the validity of the test results, and ensure that those results are attributed to the correct employee.
-
-(vii) The requirement that a covered employee submit to alcohol tests administered in accordance with this subpart.
-
-(viii) An explanation of what constitutes a refusal to submit to an alcohol test and the attendant consequences.
-
-(ix) The consequences for covered employees found to have violated the prohibitions in this chapter, including the requirement that the employee be removed immediately from performing safety-sensitive functions, and the process in 49 CFR part 40, subpart O.
-
-(x) The consequences for covered employees found to have an alcohol concentration of 0.02 or greater but less than 0.04.
-
-(xi) Information concerning the effects of alcohol misuse on an individual's health, work, and personal life; signs and symptoms of an alcohol problem; available methods of evaluating and resolving problems associated with the misuse of alcohol; and intervening when an alcohol problem is suspected, including confrontation, referral to any available employee assistance program, and/or referral to management.
-
-(xii) Optional provisions. The materials supplied to covered employees may also include information on additional employer policies with respect to the use or possession of alcohol, including any consequences for an employee found to have a specified alcohol level, that are based on the employer's authority independent of this subpart. Any such additional policies or consequences must be clearly and obviously described as being based on independent authority.
-
-## § 120.225
-
-### How to implement an alcohol testing program.
-
+[loweralpha]
 . Each company must meet the requirements of this subpart. Use the following chart to determine whether your company must obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification, Letter of Authorization, or Drug and Alcohol Testing Program Registration from the FAA:
 . Use the following chart for implementing an alcohol testing program if you are applying for a part 119 certificate with authority to operate under part 121 or part 135 of this chapter, if you intend to begin operations as defined in § 91.147 of this chapter, or if you intend to begin air traffic control operations (not operated by the FAA or by or under contract to the U.S. Military). Use it to determine whether you need to have an Antidrug and Alcohol Misuse Prevention Program Operations Specification, Letter of Authorization, or Drug and Alcohol Testing Program Registration from the FAA. Your employees who perform safety-sensitive duties must be tested in accordance with this subpart. The chart follows:
 . If you are an individual or a company that intends to provide safety-sensitive services by contract to a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter or an operator as defined in § 91.147 of this chapter, use the following chart to determine what you must do if you opt to have your own alcohol testing program.
 . To obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification, you must contact your FAA Principal Operations Inspector or Principal Maintenance Inspector. Provide him/her with the following information:
-. *Register your Drug and Alcohol Testing Program by obtaining a Letter of Authorization from the FAA in accordance with § 91.147.* (1) A drug and alcohol testing program is considered registered when the following information is submitted to the Flight Standards District Office nearest your principal place of business:
-. *Obtaining a Drug and Alcohol Testing Program Registration from the FAA.* (1) Except as provided in paragraphs (d) and (e) of this section, to obtain a Drug and Alcohol Testing Program Registration from the FAA you must submit the following information to the Office of Aerospace Medicine, Drug Abatement Division:
-
-(i) Company name.
-
-(ii) Certificate number.
-
-(iii) Telephone number.
-
-(iv) Address where your drug and alcohol testing program records are kept.
-
-(v) Whether you have 50 or more covered employees, or 49 or fewer covered employees. (Part 119 certificate holders with authority to operate only under part 121 of this chapter are not required to provide this information.)
+[lowerroman]
+.. Company name.
+.. Certificate number.
+.. Telephone number.
+.. Address where your drug and alcohol testing program records are kept.
+.. Whether you have 50 or more covered employees, or 49 or fewer covered employees. (Part 119 certificate holders with authority to operate only under part 121 of this chapter are not required to provide this information.)
 
 (2) You must certify on your Antidrug and Alcohol Misuse Prevention Program Operations Specification, issued by your FAA Principal Operations Inspector or Principal Maintenance Inspector, that you will comply with this part and 49 CFR part 40.
               
@@ -314,17 +274,15 @@ No individual may make, or cause to be made, any of the following:
 
 (4) You must update the Antidrug and Alcohol Misuse Prevention Program Operations Specification when any changes to the information contained in the Operation Specification occur.
 
-(i) Company name.
+(e) *Register your Drug and Alcohol Testing Program by obtaining a Letter of Authorization from the FAA in accordance with § 91.147.* (1) A drug and alcohol testing program is considered registered when the following information is submitted to the Flight Standards District Office nearest your principal place of business:
 
-(ii) Telephone number.
-
-(iii) Address where your drug and alcohol testing program records are kept.
-
-(iv) Type of safety-sensitive functions you or your employees perform (such as flight instruction duties, aircraft dispatcher duties, maintenance or preventive maintenance duties, ground security coordinator duties, aviation screening duties, air traffic control duties).
-
-(v) Whether you have 50 or more covered employees, or 49 or fewer covered employees.
-
-(vi) A signed statement indicating that your company will comply with this part and 49 CFR part 40.
+[lowerroman]
+. Company name.
+. Telephone number.
+. Address where your drug and alcohol testing program records are kept.
+. Type of safety-sensitive functions you or your employees perform (such as flight instruction duties, aircraft dispatcher duties, maintenance or preventive maintenance duties, ground security coordinator duties, aviation screening duties, air traffic control duties).
+. Whether you have 50 or more covered employees, or 49 or fewer covered employees.
+. A signed statement indicating that your company will comply with this part and 49 CFR part 40.
 
 (2) This Letter of Authorization will satisfy the requirements for both your drug testing program under subpart E of this part and your alcohol testing program under this subpart.
 
@@ -332,17 +290,15 @@ No individual may make, or cause to be made, any of the following:
 
 (4) If you are a part 119 certificate holder with authority to operate under part 121 or part 135 and intend to begin operations as defined in § 91.147 of this chapter, you must also advise the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
 
-(i) Company name.
+(f) *Obtaining a Drug and Alcohol Testing Program Registration from the FAA.* (1) Except as provided in paragraphs (d) and (e) of this section, to obtain a Drug and Alcohol Testing Program Registration from the FAA you must submit the following information to the Office of Aerospace Medicine, Drug Abatement Division:
 
-(ii) Telephone number.
-
-(iii) Address where your drug and alcohol testing program records are kept.
-
-(iv) Type of safety-sensitive functions you or your employees perform (such as flight instruction duties, aircraft dispatcher duties, maintenance or preventive maintenance duties, ground security coordinator duties, aviation screening duties, air traffic control duties).
-
-(v) Whether you have 50 or more covered employees, or 49 or fewer covered employees.
-
-(vi) A signed statement indicating that: your company will comply with this part and 49 CFR part 40; and you intend to provide safety-sensitive functions by contract (including subcontract at any tier) to a part 119 certificate holder with authority to operate under part 121 or part 135 of this chapter, an operator as defined in § 91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military.
+[lowerroman]
+. Company name.
+. Telephone number.
+. Address where your drug and alcohol testing program records are kept.
+. Type of safety-sensitive functions you or your employees perform (such as flight instruction duties, aircraft dispatcher duties, maintenance or preventive maintenance duties, ground security coordinator duties, aviation screening duties, air traffic control duties).
+. Whether you have 50 or more covered employees, or 49 or fewer covered employees.
+. A signed statement indicating that: your company will comply with this part and 49 CFR part 40; and you intend to provide safety-sensitive functions by contract (including subcontract at any tier) to a part 119 certificate holder with authority to operate under part 121 or part 135 of this chapter, an operator as defined in § 91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military.
 
 (2) Send this information to the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
 
@@ -350,11 +306,11 @@ No individual may make, or cause to be made, any of the following:
 
 (4) Update the registration information as changes occur. Send the updates to the address specified in paragraph (f)(2) of this section.
 
-## § 120.227
+## § 120.227 - Employees located outside the U.S.
 
-### Employees located outside the U.S.
-
+[loweralpha]
 . No covered employee shall be tested for alcohol misuse while located outside the territory of the United States.
+[arabic]
 .. Each covered employee who is assigned to perform safety-sensitive functions solely outside the territory of the United States shall be removed from the random testing pool upon the inception of such assignment.
 .. Each covered employee who is removed from the random testing pool under this paragraph shall be returned to the random testing pool when the employee resumes the performance of safety-sensitive functions wholly or partially within the territory of the United States.
 . The provisions of this subpart shall not apply to any person who performs a safety-sensitive function by contract for an employer outside the territory of the United States.

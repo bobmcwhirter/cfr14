@@ -1,21 +1,21 @@
 # Records and Reports
 :toc:
 
-## § 125.401
+## § 125.401 - Crewmember record.
 
-### Crewmember record.
-
+[loweralpha]
 . Each certificate holder shall—
+[arabic]
 .. Maintain current records of each crewmember that show whether or not that crewmember complies with this chapter (e.g., proficiency checks, airplane qualifications, any required physical examinations, and flight time records); and
 .. Record each action taken concerning the release from employment or physical or professional disqualification of any flight crewmember and keep the record for at least 6 months thereafter.
 . Each certificate holder shall maintain the records required by paragraph (a) of this section at its principal operations base, or at another location used by it and approved by the Administrator.
 . Computer record systems approved by the Administrator may be used in complying with the requirements of paragraph (a) of this section.
 
-## § 125.403
+## § 125.403 - Flight release form.
 
-### Flight release form.
-
+[loweralpha]
 . The flight release may be in any form but must contain at least the following information concerning each flight:
+[arabic]
 .. Company or organization name.
 .. Make, model, and registration number of the airplane being used.
 .. Date of flight.
@@ -25,11 +25,11 @@
 .. A statement of the type of operation (e.g., IFR, VFR).
 . The airplane flight release must contain, or have attached to it, weather reports, available weather forecasts, or a combination thereof.
 
-## § 125.405
+## § 125.405 - Disposition of load manifest, flight release, and flight plans.
 
-### Disposition of load manifest, flight release, and flight plans.
-
+[loweralpha]
 . The pilot in command of an airplane shall carry in the airplane to its destination the original or a signed copy of the—
+[arabic]
 .. Load manifest required by § 125.383;
 .. Flight release;
 .. Airworthiness release; and
@@ -38,33 +38,34 @@
 . Except as provided in paragraph (d) of this section, if a flight originates at a place other than the principal operations base of the certificate holder, the pilot in command (or another person not aboard the airplane who is authorized by the operator) shall, before or immediately after departure of the flight, mail signed copies of the documents listed in paragraph (a) of this section to the principal operations base.
 . If a flight originates at a place other than the principal operations base of the certificate holder and there is at that place a person to manage the flight departure for the operator who does not depart on the airplane, signed copies of the documents listed in paragraph (a) of this section may be retained at that place for not more than 30 days before being sent to the principal operations base of the certificate holder. However, the documents for a particular flight need not be further retained at that place or be sent to the principal operations base, if the originals or other copies of them have been previously returned to the principal operations base.
 . The certificate holder shall:
+[arabic]
 .. Identify in its operations manual the person having custody of the copies of documents retained in accordance with paragraph (d) of this section; and
 .. Retain at its principal operations base either the original or a copy of the records required by this section for at least 30 days.
 
-## § 125.407
+## § 125.407 - Maintenance log: Airplanes.
 
-### Maintenance log: Airplanes.
-
+[loweralpha]
 . Each person who takes corrective action or defers action concerning a reported or observed failure or malfunction of an airframe, aircraft engine, propeller, or appliance shall record the action taken in the airplane maintenance log in accordance with part 43 of this chapter.
 . Each certificate holder shall establish a procedure for keeping copies of the airplane maintenance log required by this section in the airplane for access by appropriate personnel and shall include that procedure in the manual required by § 125.249.
 
-## § 125.409
+## § 125.409 - Service difficulty reports.
 
-### Service difficulty reports.
-
+[loweralpha]
 . Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect, in a form and manner prescribed by the Administrator.
 . Each certificate holder shall submit each report required by this section, covering each 24-hour period beginning at 0900 local time of each day and ending at 0900 local time on the next day, to the FAA office in Oklahoma City, Oklahoma. Each report of occurrences during a 24-hour period shall be submitted to the collection point within the next 96 hours. However, a report due on Saturday or Sunday may be submitted on the following Monday, and a report due on a holiday may be submitted on the next work day.
 
-## § 125.411
+## § 125.411 - Airworthiness release or maintenance record entry.
 
-### Airworthiness release or maintenance record entry.
-
+[loweralpha]
 . No certificate holder may operate an airplane after maintenance, preventive maintenance, or alteration is performed on the airplane unless the person performing that maintenance, preventive maintenance, or alteration prepares or causes to be prepared—
+[arabic]
 .. An airworthiness release; or
 .. An entry in the aircraft maintenance records in accordance with the certificate holder's manual.
 . The airworthiness release or maintenance record entry required by paragraph (a) of this section must—
+[arabic]
 .. Be prepared in accordance with the procedures set forth in the certificate holder's manual;
 .. Include a certification that—
+[lowerroman]
 ... The work was performed in accordance with the requirements of the certificate holder's manual;
 ... All items required to be inspected were inspected by an authorized person who determined that the work was satisfactorily completed;
 ... No known condition exists that would make the airplane unairworthy; and

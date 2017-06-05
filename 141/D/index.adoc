@@ -1,49 +1,46 @@
 # Examining Authority
 :toc:
 
-## § 141.61
-
-### Applicability.
+## § 141.61 - Applicability.
 
 This subpart prescribes the requirements for the issuance of examining authority to the holder of a pilot school certificate, and the privileges and limitations of that examining authority.
 
-## § 141.63
+## § 141.63 - Examining authority qualification requirements.
 
-### Examining authority qualification requirements.
-
+[loweralpha]
 . A pilot school must meet the following prerequisites to receive initial approval for examining authority:
               
+[arabic]
 .. The school must complete the application for examining authority on a form and in a manner prescribed by the Administrator;
 .. The school must hold a pilot school certificate and rating issued under this part;
 .. The school must have held the rating in which examining authority is sought for at least 24 consecutive calendar months preceding the month of application for examining authority;
 .. The training course for which examining authority is requested may not be a course that is approved without meeting the minimum ground and flight training time requirements of this part; and
 .. Within 24 calendar months before the date of application for examining authority, that school must meet the following requirements—
+[lowerroman]
 ... The school must have trained at least 10 students in the training course for which examining authority is sought and recommended those students for a pilot, flight instructor, or ground instructor certificate or rating; and
 ... At least 90 percent of those students passed the required practical or knowledge test, or any combination thereof, for the pilot, flight instructor, or ground instructor certificate or rating on the first attempt, and that test was given by—
+[upperalpha]
+.... An FAA inspector; or
+.... An examiner who is not an employee of the school.
 . A pilot school must meet the following requirements to retain approval of its examining authority:
+[arabic]
 .. The school must complete the application for renewal of its examining authority on a form and in a manner prescribed by the Administrator;
 .. The school must hold a pilot school certificate and rating issued under this part;
 .. The school must have held the rating for which continued examining authority is sought for at least 24 calendar months preceding the month of application for renewal of its examining authority; and
 .. The training course for which continued examining authority is requested may not be a course that is approved without meeting the minimum ground and flight training time requirements of this part.
 
-(A) An FAA inspector; or
-
-(B) An examiner who is not an employee of the school.
-
-## § 141.65
-
-### Privileges.
+## § 141.65 - Privileges.
 
 A pilot school that holds examining authority may recommend a person who graduated from its course for the appropriate pilot, flight instructor, or ground instructor certificate or rating without taking the FAA knowledge test or practical test in accordance with the provisions of this subpart.
 
-## § 141.67
-
-### Limitations and reports.
+## § 141.67 - Limitations and reports.
 
 A pilot school that holds examining authority may only recommend the issuance of a pilot, flight instructor, or ground instructor certificate and rating to a person who does not take an FAA knowledge test or practical test, if the recommendation for the issuance of that certificate or rating is in accordance with the following requirements:
 
+[loweralpha]
 . The person graduated from a training course for which the pilot school holds examining authority.
 . Except as provided in this paragraph, the person satisfactorily completed all the curriculum requirements of that pilot school's approved training course. A person who transfers from one part 141 approved pilot school to another part 141 approved pilot school may receive credit for that previous training, provided the following requirements are met:
+[arabic]
 .. The maximum credited training time does not exceed one-half of the receiving school's curriculum requirements;
 .. The person completes a knowledge and proficiency test conducted by the receiving school for the purpose of determining the amount of pilot experience and knowledge to be credited;
 .. The receiving school determines (based on the person's performance on the knowledge and proficiency test required by paragraph (b)(2) of this section) the amount of credit to be awarded, and records that credit in the person's training record;
@@ -51,10 +48,13 @@ A pilot school that holds examining authority may only recommend the issuance of
 .. The receiving school retains a copy of the person's training record from the previous school.
 . Tests given by a pilot school that holds examining authority must be approved by the Administrator and be at least equal in scope, depth, and difficulty to the comparable knowledge and practical tests prescribed by the Administrator under part 61 of this chapter.
 . A pilot school that holds examining authority may not use its knowledge or practical tests if the school:
+[arabic]
 .. Knows, or has reason to believe, the test has been compromised; or
 .. Is notified by an FAA Flight Standards District Office that there is reason to believe or it is known that the test has been compromised.
 . A pilot school that holds examining authority must maintain a record of all temporary airman certificates it issues, which consist of the following information:
+[arabic]
 .. A chronological listing that includes—
+[lowerroman]
 ... The date the temporary airman certificate was issued;
 ... The student to whom the temporary airman certificate was issued, and that student's permanent mailing address and telephone number;
 ... The training course from which the student graduated;

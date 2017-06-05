@@ -1,11 +1,11 @@
 # Certification
 :toc:
 
-## § 145.51
+## § 145.51 - Application for certificate.
 
-### Application for certificate.
-
+[loweralpha]
 . An application for a repair station certificate and rating must be made in a format acceptable to the FAA and must include the following:
+[arabic]
 .. A repair station manual acceptable to the FAA as required by § 145.207;
 .. A quality control manual acceptable to the FAA as required by § 145.211(c);
 .. A list by type, make, or model, as appropriate, of each article for which the application is made;
@@ -15,92 +15,92 @@
 .. A training program for approval by the FAA in accordance with § 145.163.
 . The equipment, personnel, technical data, and housing and facilities required for the certificate and rating, or for an additional rating, must be in place for inspection at the time of certification or rating approval by the FAA. However, the requirement to have the equipment in place at the time of initial certification or rating approval may be met if the applicant has a contract acceptable to the FAA with another person to make the equipment available to the repair station at any time it is necessary when the relevant work is being performed.
 . In addition to meeting the other applicable requirements for a repair station certificate and rating, an applicant for a repair station certificate and rating located outside the United States must meet the following requirements:
+[arabic]
 .. The applicant must show that the repair station certificate and/or rating is necessary for maintaining or altering the following:
+[lowerroman]
 ... U.S.-registered aircraft and articles for use on U.S.-registered aircraft, or
 ... Foreign-registered aircraft operated under the provisions of part 121 or part 135, and articles for use on these aircraft.
 .. The applicant must show that the fee prescribed by the FAA has been paid.
 . An application for an additional rating, amended repair station certificate, or renewal of a repair station certificate must be made in a format acceptable to the FAA. The application must include only that information necessary to substantiate the change or renewal of the certificate.
 . The FAA may deny an application for a repair station certificate if the FAA finds that:
+[arabic]
 .. The applicant holds a repair station certificate in the process of being revoked, or previously held a repair station certificate that was revoked;
 .. The applicant intends to fill or fills a management position with an individual who exercised control over or who held the same or a similar position with a certificate holder whose repair station certificate was revoked, or is in the process of being revoked, and that individual materially contributed to the circumstances causing the revocation or causing the revocation process; or
 .. An individual who will have control over or substantial ownership interest in the applicant had the same or similar control or interest in a certificate holder whose repair station certificate was revoked, or is in the process of being revoked, and that individual materially contributed to the circumstances causing the revocation or causing the revocation process.
 . If the FAA revokes a repair station certificate, an individual described in paragraphs (e)(2) and (3) of this section is subject to an order under the procedures set forth in 14 CFR 13.20, finding that the individual materially contributed to the circumstances causing the revocation or causing the revocation process.
 
-## § 145.53
+## § 145.53 - Issue of certificate.
 
-### Issue of certificate.
-
+[loweralpha]
 . Except as provided in § 145.51(e) or paragraph (b), (c), or (d) of this section, a person who meets the requirements of subparts A through E of this part is entitled to a repair station certificate with appropriate ratings prescribing such operations specifications and limitations as are necessary in the interest of safety.
 . If the person is located in a country with which the United States has a bilateral aviation safety agreement, the FAA may find that the person meets the requirements of this part based on a certification from the civil aviation authority of that country. This certification must be made in accordance with implementation procedures signed by the Administrator or the Administrator's designee.
 . Before a repair station certificate can be issued for a repair station that is located within the United States, the applicant shall certify in writing that all “hazmat employees” (see 49 CFR 171.8) for the repair station, its contractors, or subcontractors are trained as required in 49 CFR part 172 subpart H.
 . Before a repair station certificate can be issued for a repair station that is located outside the United States, the applicant shall certify in writing that all employees for the repair station, its contractors, or subcontractors performing a job function concerning the transport of dangerous goods (hazardous material) are trained as outlined in the most current edition of the International Civil Aviation Organization Technical Instructions for the Safe Transport of Dangerous Goods by Air.
 
-## § 145.55
+## § 145.55 - Duration and renewal of certificate.
 
-### Duration and renewal of certificate.
-
+[loweralpha]
 . A certificate or rating issued to a repair station located in the United States is effective from the date of issue until the repair station surrenders the certificate and the FAA accepts it for cancellation, or the FAA suspends or revokes it.
 . A certificate or rating issued to a repair station located outside the United States is effective from the date of issue until the last day of the 12th month after the date of issue unless the repair station surrenders the certificate and the FAA accepts it for cancellation, or the FAA suspends or revokes it. The FAA may renew the certificate or rating for 24 months if the repair station has operated in compliance with the applicable requirements of part 145 within the preceding certificate duration period.
 . A certificated repair station located outside the United States that applies for a renewal of its repair station certificate must—
+[arabic]
 .. Submit its request for renewal no later than 30 days before the repair station's current certificate expires. If a request for renewal is not made within this period, the repair station must follow the application procedures in § 145.51.
 .. Send its request for renewal to the FAA office that has jurisdiction over the certificated repair station.
 .. Show that the fee prescribed by the FAA has been paid.
 . The holder of an expired, surrendered, suspended, or revoked certificate must return it to the FAA.
 
-## § 145.57
+## § 145.57 - Amendment to or transfer of certificate.
 
-### Amendment to or transfer of certificate.
-
+[loweralpha]
 . A repair station certificate holder applying for a change to its certificate must submit a request in a format acceptable to the Administrator. A change to the certificate must include certification in compliance with § 145.53(c) or (d), if not previously submitted. A certificate change is necessary if the certificate holder—
+[arabic]
 .. Changes the name or location of the repair station, or
 .. Requests to add or amend a rating.
 . If the holder of a repair station certificate sells or transfers its assets and the new owner chooses to operate as a repair station, the new owner must apply for an amended or new certificate in accordance with § 145.51.
 
-## § 145.59
-
-### Ratings.
+## § 145.59 - Ratings.
 
 The following ratings are issued under this subpart:
 
-. *Airframe ratings.* (1) *Class 1:* Composite construction of small aircraft.
-. *Powerplant ratings.* (1) *Class 1:* Reciprocating engines of 400 horsepower or less.
-. *Propeller ratings.* (1) *Class 1:* Fixed-pitch and ground-adjustable propellers of wood, metal, or composite construction.
-. *Radio ratings.* (1) *Class 1:* Communication equipment. Radio transmitting and/or receiving equipment used in an aircraft to send or receive communications in flight, regardless of carrier frequency or type of modulation used. This equipment includes auxiliary and related aircraft interphone systems, amplifier systems, electrical or electronic intercrew signaling devices, and similar equipment. This equipment does not include equipment used for navigating or aiding navigation of aircraft, equipment used for measuring altitude or terrain clearance, other measuring equipment operated on radio or radar principles, or mechanical, electrical, gyroscopic, or electronic instruments that are a part of communications radio equipment.
-. *Instrument ratings.* (1) *Class 1:* Mechanical. A diaphragm, bourdon tube, aneroid, optical, or mechanically driven centrifugal instrument used on aircraft or to operate aircraft, including tachometers, airspeed indicators, pressure gauges drift sights, magnetic compasses, altimeters, or similar mechanical instruments.
-. *Accessory ratings.* (1) *Class 1:* A mechanical accessory that depends on friction, hydraulics, mechanical linkage, or pneumatic pressure for operation, including aircraft wheel brakes, mechanically driven pumps, carburetors, aircraft wheel assemblies, shock absorber struts and hydraulic servo units.
+[loweralpha]
+. *Airframe ratings.*
+[arabic]
+.. *Class 1:* Composite construction of small aircraft.
+.. *Class 2:* Composite construction of large aircraft.
+.. *Class 3:* All-metal construction of small aircraft.
+.. *Class 4:* All-metal construction of large aircraft.
+. *Powerplant ratings.*
+[arabic]
+.. *Class 1:* Reciprocating engines of 400 horsepower or less.
+.. *Class 2:* Reciprocating engines of more than 400 horsepower.
+.. *Class 3:* Turbine engines.
+. *Propeller ratings.*
+[arabic]
+.. *Class 1:* Fixed-pitch and ground-adjustable propellers of wood, metal, or composite construction.
+.. *Class 2:* Other propellers, by make.
+. *Radio ratings.*
+[arabic]
+.. *Class 1:* Communication equipment. Radio transmitting and/or receiving equipment used in an aircraft to send or receive communications in flight, regardless of carrier frequency or type of modulation used. This equipment includes auxiliary and related aircraft interphone systems, amplifier systems, electrical or electronic intercrew signaling devices, and similar equipment. This equipment does not include equipment used for navigating or aiding navigation of aircraft, equipment used for measuring altitude or terrain clearance, other measuring equipment operated on radio or radar principles, or mechanical, electrical, gyroscopic, or electronic instruments that are a part of communications radio equipment.
+.. *Class 2:* Navigational equipment. A radio system used in an aircraft for en route or approach navigation. This does not include equipment operated on radar or pulsed radio frequency principles, or equipment used for measuring altitude or terrain clearance.
+.. *Class 3:* Radar equipment. An aircraft electronic system operated on radar or pulsed radio frequency principles.
+. *Instrument ratings.*
+[arabic]
+.. *Class 1:* Mechanical. A diaphragm, bourdon tube, aneroid, optical, or mechanically driven centrifugal instrument used on aircraft or to operate aircraft, including tachometers, airspeed indicators, pressure gauges drift sights, magnetic compasses, altimeters, or similar mechanical instruments.
+.. *Class 2:* Electrical. Self-synchronous and electrical-indicating instruments and systems, including remote indicating instruments, cylinder head temperature gauges, or similar electrical instruments.
+.. *Class 3:* Gyroscopic. An instrument or system using gyroscopic principles and motivated by air pressure or electrical energy, including automatic pilot control units, turn and bank indicators, directional gyros, and their parts, and flux gate and gyrosyn compasses.
+.. *Class 4:* Electronic. An instrument whose operation depends on electron tubes, transistors, or similar devices, including capacitance type quantity gauges, system amplifiers, and engine analyzers.
+. *Accessory ratings.*
+[arabic]
+.. *Class 1:* A mechanical accessory that depends on friction, hydraulics, mechanical linkage, or pneumatic pressure for operation, including aircraft wheel brakes, mechanically driven pumps, carburetors, aircraft wheel assemblies, shock absorber struts and hydraulic servo units.
+.. *Class 2:* An electrical accessory that depends on electrical energy for its operation, and a generator, including starters, voltage regulators, electric motors, electrically driven fuel pumps magnetos, or similar electrical accessories.
+.. *Class 3:* An electronic accessory that depends on the use of an electron tube transistor, or similar device, including supercharger, temperature, air conditioning controls, or similar electronic controls.
 
-(2) *Class 2:* Composite construction of large aircraft.
+## § 145.61 - Limited ratings.
 
-(3) *Class 3:* All-metal construction of small aircraft.
-
-(4) *Class 4:* All-metal construction of large aircraft.
-
-(2) *Class 2:* Reciprocating engines of more than 400 horsepower.
-
-(3) *Class 3:* Turbine engines.
-
-(2) *Class 2:* Other propellers, by make.
-
-(2) *Class 2:* Navigational equipment. A radio system used in an aircraft for en route or approach navigation. This does not include equipment operated on radar or pulsed radio frequency principles, or equipment used for measuring altitude or terrain clearance.
-
-(3) *Class 3:* Radar equipment. An aircraft electronic system operated on radar or pulsed radio frequency principles.
-
-(2) *Class 2:* Electrical. Self-synchronous and electrical-indicating instruments and systems, including remote indicating instruments, cylinder head temperature gauges, or similar electrical instruments.
-
-(3) *Class 3:* Gyroscopic. An instrument or system using gyroscopic principles and motivated by air pressure or electrical energy, including automatic pilot control units, turn and bank indicators, directional gyros, and their parts, and flux gate and gyrosyn compasses.
-
-(4) *Class 4:* Electronic. An instrument whose operation depends on electron tubes, transistors, or similar devices, including capacitance type quantity gauges, system amplifiers, and engine analyzers.
-
-(2) *Class 2:* An electrical accessory that depends on electrical energy for its operation, and a generator, including starters, voltage regulators, electric motors, electrically driven fuel pumps magnetos, or similar electrical accessories.
-
-(3) *Class 3:* An electronic accessory that depends on the use of an electron tube transistor, or similar device, including supercharger, temperature, air conditioning controls, or similar electronic controls.
-
-## § 145.61
-
-### Limited ratings.
-
+[loweralpha]
 . The FAA may issue a limited rating to a certificated repair station that maintains or alters only a particular type of airframe, powerplant, propeller, radio, instrument, or accessory, or part thereof, or performs only specialized maintenance requiring equipment and skills not ordinarily performed under other repair station ratings. Such a rating may be limited to a specific model aircraft, engine, or constituent part, or to any number of parts made by a particular manufacturer.
 . The FAA issues limited ratings for—
+[arabic]
 .. Airframes of a particular make and model;
 .. Engines of a particular make and model;
 .. Propellers of a particular make and model;
@@ -115,6 +115,7 @@ The following ratings are issued under this subpart:
 .. Aircraft fabric work;
 .. Any other purpose for which the FAA finds the applicant's request is appropriate.
 . For a limited rating for specialized services, the operations specifications of the repair station must contain the specification used to perform the specialized service. The specification may be—
+[arabic]
 .. A civil or military specification currently used by industry and approved by the FAA, or
 .. A specification developed by the applicant and approved by the FAA.
 

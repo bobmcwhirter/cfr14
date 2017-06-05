@@ -1,15 +1,11 @@
 # Aviation Safety Inspector Access
 :toc:
 
-## § 153.1
-
-### Applicability.
+## § 153.1 - Applicability.
 
 This subpart prescribes requirements governing Aviation Safety Inspector access to public-use airports and facilities to perform official duties.
 
-## § 153.3
-
-### Definitions.
+## § 153.3 - Definitions.
 
 The following definitions apply in this subpart:
               
@@ -18,13 +14,12 @@ The following definitions apply in this subpart:
 
 *Airport* means any public-use airport, including heliports, as defined in 49 U.S.C. 47102, including:
 
-(1) A public airport; or
-
-(2) A privately-owned airport used or intended to be used for public purposes that is—
-
-(i) A reliever airport; or
-
-(ii) Determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
+[arabic]
+. A public airport; or
+. A privately-owned airport used or intended to be used for public purposes that is—
+[lowerroman]
+.. A reliever airport; or
+.. Determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
 
 *Aviation Safety Inspector* means a properly credentialed individual who bears FAA Form 110A and is authorized under the provisions of 49 U.S.C. 40113 to perform inspections and investigations.
 
@@ -34,9 +29,7 @@ The following definitions apply in this subpart:
 
 *Security Identification Display Area (SIDA)* means a portion of an airport, specified in the airport security program, in which security measures specified in Title 49 of the Code of Federal Regulations are carried out. This area includes the secured area and may include other areas of the airport.
 
-## § 153.5
-
-### Aviation safety inspector airport access.
+## § 153.5 - Aviation safety inspector airport access.
 
 Airports, aircraft operators, aircraft owners, airport tenants, and air agencies must grant Aviation Safety Inspectors bearing FAA Form 110A free and uninterrupted access to public-use airports and facilities, including AOAs, SIDAs, and other secured and restricted areas. Aviation Safety Inspectors displaying FAA Form 110A do not require access media or identification media issued or approved by an airport operator or aircraft operator in order to inspect or test compliance, or perform other such duties as the FAA may direct.
 

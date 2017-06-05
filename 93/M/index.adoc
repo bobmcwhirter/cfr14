@@ -1,34 +1,30 @@
 # Ketchikan International Airport Traffic Rule
 :toc:
 
-## § 93.151
-
-### Applicability.
+## § 93.151 - Applicability.
 
 This subpart prescribes a special air traffic rule for aircraft conducting VFR operations in the vicinity of the Ketchikan International Airport or Ketchikan Harbor, Alaska.
 
-## § 93.152
-
-### Description of area.
+## § 93.152 - Description of area.
 
 Within that airspace below 3,000 feet MSL within the lateral boundary of the surface area of the Ketchikan Class E airspace regardless of whether that airspace is in effect.
 
-## § 93.153
+## § 93.153 - Communications.
 
-### Communications.
-
+[loweralpha]
 . When the Ketchikan Flight Service Station is in operation, no person may operate an aircraft within the airspace specified in § 93.151, or taxi onto the runway at Ketchikan International Airport, unless that person has established two-way radio communications with the Ketchikan Flight Service Station for the purpose of receiving traffic advisories and continues to monitor the advisory frequency at all times while operating within the specified airspace.
 . When the Ketchikan Flight Service Station is not in operation, no person may operate an aircraft within the airspace specified in § 93.151, or taxi onto the runway at Ketchikan International Airport, unless that person continuously monitors and communicates, as appropriate, on the designated common traffic advisory frequency as follows:
+[arabic]
 .. *For inbound flights.* Announces position and intentions when no less than 10 miles from Ketchikan International Airport, and monitors the designated frequency until clear of the movement area on the airport or Ketchikan Harbor.
 .. *For departing flights.* Announces position and intentions prior to taxiing onto the active runway on the airport or onto the movement area of Ketchikan Harbor and monitors the designated frequency until outside the airspace described in § 93.151 and announces position and intentions upon departing that airspace.
 . Notwithstanding the provisions of paragraphs (a) and (b) of this section, if two-way radio communications failure occurs in flight, a person may operate an aircraft within the airspace specified in § 93.151, and land, if weather conditions are at or above basic VFR weather minimums.
 
-## § 93.155
+## § 93.155 - Aircraft operations.
 
-### Aircraft operations.
-
+[loweralpha]
 . When an advisory is received from the Ketchikan Flight Service Station stating that an aircraft is on final approach to the Ketchikan International Airport, no person may taxi onto the runway of that airport until the approaching aircraft has landed and has cleared the runway.
 . Unless otherwise authorized by ATC, each person operating a large airplane or a turbine engine powered airplane shall—
+[arabic]
 .. When approaching to land at the Ketchikan International Airport, maintain an altitude of at least 900 feet MSL until within three miles of the airport; and
 .. After takeoff from the Ketchikan International Airport, maintain runway heading until reaching an altitude of 900 feet MSL.
 

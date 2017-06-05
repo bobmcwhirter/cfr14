@@ -1,83 +1,110 @@
 # Manual Requirements
 :toc:
 
-## § 121.131
-
-### Applicability.
+## § 121.131 - Applicability.
 
 This subpart prescribes requirements for preparing and maintaining manuals by all certificate holders.
 
-## § 121.133
+## § 121.133 - Preparation.
 
-### Preparation.
-
+[loweralpha]
 . Each certificate holder shall prepare and keep current a manual for the use and guidance of flight, ground operations, and management personnel in conducting its operations.
 . For the purpose of this subpart, the certificate holder may prepare that part of the manual containing maintenance information and instructions, in whole or in part, in printed form or other form acceptable to the Administrator.
 
-## § 121.135
+## § 121.135 - Manual contents.
 
-### Manual contents.
-
+[loweralpha]
 . Each manual required by § 121.133 must—
+[arabic]
 .. Include instructions and information necessary to allow the personnel concerned to perform their duties and responsibilities with a high degree of safety;
 .. Be in a form that is easy to revise;
 .. Have the date of last revision on each page concerned; and
 .. Not be contrary to any applicable Federal regulation and, in the case of a flag or supplemental operation, any applicable foreign regulation, or the certificate holder's operations specifications or operating certificate.
 . The manual may be in two or more separate parts, containing together all of the following information, but each part must contain that part of the information that is appropriate for each group of personnel:
+[arabic]
+.. General policies.
+.. Duties and responsibilities of each crewmember, appropriate members of the ground organization, and management personnel.
+.. Reference to appropriate Federal Aviation Regulations.
+.. Flight dispatching and operational control, including procedures for coordinated dispatch or flight control or flight following procedures, as applicable.
+.. En route flight, navigation, and communication procedures, including procedures for the dispatch or release or continuance of flight if any item of equipment required for the particular type of operation becomes inoperative or unserviceable en route.
+.. For domestic or flag operations, appropriate information from the en route operations specifications, including for each approved route the types of airplanes authorized, the type of operation such as VFR, IFR, day, night, etc., and any other pertinent information.
+.. For supplemental operations, appropriate information from the operations specifications, including the area of operations authorized, the types of airplanes authorized, the type of operation such as VFR, IFR, day, night, etc., and any other pertinent information.
+.. Appropriate information from the airport operations specifications, including for each airport—
+[lowerroman]
+... Its location (domestic and flag operations only);
+... Its designation (regular, alternate, provisional, etc.) (domestic and flag operations only);
+... The types of airplanes authorized (domestic and flag operations only);
+... Instrument approach procedures;
+... Landing and takeoff minimums; and
+... Any other pertinent information.
+.. Takeoff, en route, and landing weight limitations.
+.. For ETOPS, airplane performance data to support all phases of these operations.
+.. Procedures for familiarizing passengers with the use of emergency equipment, during flight.
+.. Emergency equipment and procedures.
+.. The method of designating succession of command of flight crewmembers.
+.. Procedures for determining the usability of landing and takeoff areas, and for disseminating pertinent information thereon to operations personnel.
+.. Procedures for operating in periods of ice, hail, thunderstorms, turbulence, or any potentially hazardous meteorological condition.
+.. Each training program curriculum required by § 121.403.
+.. Instructions and procedures for maintenance, preventive maintenance, and servicing.
+.. Time limitations, or standards for determining time limitations, for overhauls, inspections, and checks of airframes, engines, propellers, appliances and emergency equipment.
+.. Procedures for refueling aircraft, eliminating fuel contamination, protection from fire (including electrostatic protection), and supervising and protecting passengers during refueling.
+.. Airworthiness inspections, including instructions covering procedures, standards, responsibilities, and authority of inspection personnel.
+.. Methods and procedures for maintaining the aircraft weight and center of gravity within approved limits.
+.. Where applicable, pilot and dispatcher route and airport qualification procedures.
+.. Accident notification procedures.
+.. After February 15, 2008, for passenger flag operations and for those supplemental operations that are not all-cargo operations outside the 48 contiguous States and Alaska,
+[lowerroman]
+... For ETOPS greater than 180 minutes a specific passenger recovery plan for each ETOPS Alternate Airport used in those operations, and
+... For operations in the North Polar Area and South Polar Area a specific passenger recovery plan for each diversion airport used in those operations.
+.. Procedures and information, as described in paragraph (b)(25)(ii) of this section, to assist each crewmember and person performing or directly supervising the following job functions involving items for transport on an aircraft:
+[upperalpha]
+... Acceptance;
+... Rejection;
+... Handling;
+... Storage incidental to transport;
+... Packaging of company material; or
+... Loading.
+
+(ii) Ensure that the procedures and information described in this paragraph are sufficient to assist the person in identifying packages that are marked or labeled as containing hazardous materials or that show signs of containing undeclared hazardous materials. The procedures and information must include:
+
+[upperalpha]
+. Procedures for rejecting packages that do not conform to the Hazardous Materials Regulations in 49 CFR parts 171 through 180 or that appear to contain undeclared hazardous materials;
+. Procedures for complying with the hazardous materials incident reporting requirements of 49 CFR 171.15 and 171.16 and discrepancy reporting requirements of 49 CFR 175.31
+. The certificate holder's hazmat policies and whether the certificate holder is authorized to carry, or is prohibited from carrying, hazardous materials; and
+. If the certificate holder's operations specifications permit the transport of hazardous materials, procedures and information to ensure the following:
+[arabic]
 .. (*1*) That packages containing hazardous materials are properly offered and accepted in compliance with 49 CFR parts 171 through 180;
 .. (*2*) That packages containing hazardous materials are properly handled, stored, packaged, loaded, and carried on board an aircraft in compliance with 49 CFR parts 171 through 180;
 .. (*3*) That the requirements for Notice to the Pilot in Command (49 CFR 175.33) are complied with; and
 .. (*4*) That aircraft replacement parts, consumable materials or other items regulated by 49 CFR parts 171 through 180 are properly handled, packaged, and transported.
-. Each certificate holder shall maintain at least one complete copy of the manual at its principal base of operations.
-
-(A) Acceptance;
-
-(B) Rejection;
-
-(C) Handling;
-
-(D) Storage incidental to transport;
-
-(E) Packaging of company material; or
-
-(F) Loading.
-
-(ii) Ensure that the procedures and information described in this paragraph are sufficient to assist the person in identifying packages that are marked or labeled as containing hazardous materials or that show signs of containing undeclared hazardous materials. The procedures and information must include:
-
-(A) Procedures for rejecting packages that do not conform to the Hazardous Materials Regulations in 49 CFR parts 171 through 180 or that appear to contain undeclared hazardous materials;
-
-(B) Procedures for complying with the hazardous materials incident reporting requirements of 49 CFR 171.15 and 171.16 and discrepancy reporting requirements of 49 CFR 175.31
-
-(C) The certificate holder's hazmat policies and whether the certificate holder is authorized to carry, or is prohibited from carrying, hazardous materials; and
-
-(D) If the certificate holder's operations specifications permit the transport of hazardous materials, procedures and information to ensure the following:
 
 (26) Other information or instructions relating to safety.
 
-## § 121.137
+(c) Each certificate holder shall maintain at least one complete copy of the manual at its principal base of operations.
 
-### Distribution and availability.
+## § 121.137 - Distribution and availability.
 
+[loweralpha]
 . Each certificate holder shall furnish copies of the manual required by § 121.133 (and the changes and additions thereto) or appropriate parts of the manual to—
+[arabic]
 .. Its appropriate ground operations and maintenance personnel;
 .. Crewmembers; and
 .. Representatives of the Administrator assigned to it.
 . Each person to whom a manual or appropriate parts of it are furnished under paragraph (a) of this section shall keep it up-to-date with the changes and additions furnished to that person and shall have the manual or appropriate parts of it accessible when performing assigned duties.
 . For the purpose of complying with paragraph (a) of this section, a certificate holder may furnish the persons listed therein the maintenance part of the manual in printed form or other form, acceptable to the Administrator, that is retrievable in the English language.
 
-## § 121.139
+## § 121.139 - Requirements for manual aboard aircraft: Supplemental operations.
 
-### Requirements for manual aboard aircraft: Supplemental operations.
-
+[loweralpha]
 . Except is provided in paragraph (b) of this section, each certificate holder conducting supplemental operations shall carry appropriate parts of the manual on each airplane when away from the principal base of operations. The appropriate parts must be available for use by ground or flight personnel. If the certificate holder carries aboard an airplane all or any portion of the maintenance part of its manual in other than printed form, it must carry a compatible reading device that produces a legible image of the maintenance information and instructions or a system that is able to retrieve the maintenance information and instructions in the English language.
 . If a certificate holder conducting supplemental operations is able to perform all scheduled maintenance at specified stations where it keeps maintenance parts of the manual, it does not have to carry those parts of the manual aboard the aircraft en route to those stations.
 
-## § 121.141
+## § 121.141 - Airplane flight manual.
 
-### Airplane flight manual.
-
+[loweralpha]
 . Each certificate holder shall keep a current approved airplane flight manual for each type of airplane that it operates except for nontransport category airplanes certificated before January 1, 1965.
 . In each airplane required to have an airplane flight manual in paragraph (a) of this section, the certificate holder shall carry either the manual required by § 121.133, if it contains the information required for the applicable flight manual and this information is clearly identified as flight manual requirements, or an approved Airplane Manual. If the certificate holder elects to carry the manual required by § 121.133, the certificate holder may revise the operating procedures sections and modify the presentation of performance data from the applicable flight manual if the revised operating procedures and modified performance date presentation are—
+[arabic]
 .. Approved by the Administrator; and
 .. Clearly identified as airplane flight manual requirements.
 

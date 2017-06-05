@@ -1,15 +1,15 @@
 # Flight Restrictions in the Vicinity of Niagara Falls, New York
 :toc:
 
-## § 93.71
+## § 93.71 - General operating procedures.
 
-### General operating procedures.
-
+[loweralpha]
 . Flight restrictions are in effect below 3,500 feet MSL in the airspace above Niagara Falls, New York, west of a line from latitude 43°06′33″ N., longitude 79°03′30″ W. (the Whirlpool Rapids Bridge) to latitude 43°04′47″ N., longitude 79°02′44″ W. (the Niagara River Inlet) to latitude 43°04′29″ N., longitude 79°03′30″ W. (the International Control Dam) to the United States/Canadian Border and thence along the border to the point of origin.
 . No flight is authorized below 3,500 feet MSL in the area described in paragraph (a) of this section, except for aircraft operations conducted directly to or from an airport/heliport within the area, aircraft operating on an ATC-approved IFR flight plan, aircraft operating the Scenic Falls Route pursuant to approval of Transport Canada, aircraft carrying law enforcement officials, or aircraft carrying properly accredited news representatives for which a flight plan has been filed with Buffalo NY (BUF) Automated Flight Service Station (AFSS).
 . Check with Transport Canada for flight restrictions in Canadian airspace. Commercial air tour operations approved by Transport Canada will be conducting a north/south orbit of the Niagara Falls area below 3,500 feet MSL over the Niagara River.
 . The minimum altitude for VFR flight over the Scenic Falls area is 3,500 feet MSL.
 . Comply with the following procedures when conducting flight over the area described in paragraph (a) of this section:
+[arabic]
 .. Fly a clockwise pattern;
 .. Do not proceed north of the Rainbow Bridge;
 .. Prior to joining the pattern, broadcast flight intentions on frequency 122.05 Mhz, giving altitude and position, and monitor the frequency while in the pattern;

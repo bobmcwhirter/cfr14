@@ -1,164 +1,166 @@
 # VFR/IFR Operating Limitations and Weather Requirements
 :toc:
 
-## § 135.201
-
-### Applicability.
+## § 135.201 - Applicability.
 
 This subpart prescribes the operating limitations for VFR/IFR flight operations and associated weather requirements for operations under this part.
 
-## § 135.203
-
-### VFR: Minimum altitudes.
+## § 135.203 - VFR: Minimum altitudes.
 
 Except when necessary for takeoff and landing, no person may operate under VFR—
 
+[loweralpha]
 . An airplane—
               
+[arabic]
 .. During the day, below 500 feet above the surface or less than 500 feet horizontally from any obstacle; or
 .. At night, at an altitude less than 1,000 feet above the highest obstacle within a horizontal distance of 5 miles from the course intended to be flown or, in designated mountainous terrain, less than 2,000 feet above the highest obstacle within a horizontal distance of 5 miles from the course intended to be flown; or
 . A helicopter over a congested area at an altitude less than 300 feet above the surface.
 
-## § 135.205
+## § 135.205 - VFR: Visibility requirements.
 
-### VFR: Visibility requirements.
-
+[loweralpha]
 . No person may operate an airplane under VFR in uncontrolled airspace when the ceiling is less than 1,000 feet unless flight visibility is at least 2 miles.
 . No person may operate a helicopter under VFR in Class G airspace at an altitude of 1,200 feet or less above the surface or within the lateral boundaries of the surface areas of Class B, Class C, Class D, or Class E airspace designated for an airport unless the visibility is at least—
+[arabic]
 .. During the day—1/2 mile; or
 .. At night—1 mile.
 
-## § 135.207
-
-### VFR: Helicopter surface reference requirements.
+## § 135.207 - VFR: Helicopter surface reference requirements.
 
 No person may operate a helicopter under VFR unless that person has visual surface reference or, at night, visual surface light reference, sufficient to safely control the helicopter.
 
-## § 135.209
+## § 135.209 - VFR: Fuel supply.
 
-### VFR: Fuel supply.
-
+[loweralpha]
 . No person may begin a flight operation in an airplane under VFR unless, considering wind and forecast weather conditions, it has enough fuel to fly to the first point of intended landing and, assuming normal cruising fuel consumption—
+[arabic]
 .. During the day, to fly after that for at least 30 minutes; or
 .. At night, to fly after that for at least 45 minutes.
 . No person may begin a flight operation in a helicopter under VFR unless, considering wind and forecast weather conditions, it has enough fuel to fly to the first point of intended landing and, assuming normal cruising fuel consumption, to fly after that for at least 20 minutes.
 
-## § 135.211
-
-### VFR: Over-the-top carrying passengers: Operating limitations.
+## § 135.211 - VFR: Over-the-top carrying passengers: Operating limitations.
 
 Subject to any additional limitations in § 135.181, no person may operate an aircraft under VFR over-the-top carrying passengers, unless—
 
+[loweralpha]
 . Weather reports or forecasts, or any combination of them, indicate that the weather at the intended point of termination of over-the-top flight—
+[arabic]
 .. Allows descent to beneath the ceiling under VFR and is forecast to remain so until at least 1 hour after the estimated time of arrival at that point; or
 .. Allows an IFR approach and landing with flight clear of the clouds until reaching the prescribed initial approach altitude over the final approach facility, unless the approach is made with the use of radar under § 91.175(i) of this chapter; or
 . It is operated under conditions allowing—
+[arabic]
 .. For multiengine aircraft, descent or continuation of the flight under VFR if its critical engine fails; or
 .. For single-engine aircraft, descent under VFR if its engine fails.
 
-## § 135.213
+## § 135.213 - Weather reports and forecasts.
 
-### Weather reports and forecasts.
-
+[loweralpha]
 . Whenever a person operating an aircraft under this part is required to use a weather report or forecast, that person shall use that of the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator. However, for operations under VFR, the pilot in command may, if such a report is not available, use weather information based on that pilot's own observations or on those of other persons competent to supply appropriate observations.
 . For the purposes of paragraph (a) of this section, weather observations made and furnished to pilots to conduct IFR operations at an airport must be taken at the airport where those IFR operations are conducted, unless the Administrator issues operations specifications allowing the use of weather observations taken at a location not at the airport where the IFR operations are conducted. The Administrator issues such operations specifications when, after investigation by the U.S. National Weather Service and the certificate-holding district office, it is found that the standards of safety for that operation would allow the deviation from this paragraph for a particular operation for which an air carrier operating certificate or operating certificate has been issued.
 
-## § 135.215
+## § 135.215 - IFR: Operating limitations.
 
-### IFR: Operating limitations.
-
+[loweralpha]
 . Except as provided in paragraphs (b), (c) and (d) of this section, no person may operate an aircraft under IFR outside of controlled airspace or at any airport that does not have an approved standard instrument approach procedure.
 . The Administrator may issue operations specifications to the certificate holder to allow it to operate under IFR over routes outside controlled airspace if—
+[arabic]
 .. The certificate holder shows the Administrator that the flight crew is able to navigate, without visual reference to the ground, over an intended track without deviating more than 5 degrees or 5 miles, whichever is less, from that track; and
 .. The Administrator determines that the proposed operations can be conducted safely.
 . A person may operate an aircraft under IFR outside of controlled airspace if the certificate holder has been approved for the operations and that operation is necessary to—
+[arabic]
 .. Conduct an instrument approach to an airport for which there is in use a current approved standard or special instrument approach procedure; or
 .. Climb into controlled airspace during an approved missed approach procedure; or
 .. Make an IFR departure from an airport having an approved instrument approach procedure.
 . The Administrator may issue operations specifications to the certificate holder to allow it to depart at an airport that does not have an approved standard instrument approach procedure when the Administrator determines that it is necessary to make an IFR departure from that airport and that the proposed operations can be conducted safely. The approval to operate at that airport does not include an approval to make an IFR approach to that airport.
 
-## § 135.217
-
-### IFR: Takeoff limitations.
+## § 135.217 - IFR: Takeoff limitations.
 
 No person may takeoff an aircraft under IFR from an airport where weather conditions are at or above takeoff minimums but are below authorized IFR landing minimums unless there is an alternate airport within 1 hour's flying time (at normal cruising speed, in still air) of the airport of departure.
 
-## § 135.219
-
-### IFR: Destination airport weather minimums.
+## § 135.219 - IFR: Destination airport weather minimums.
 
 No person may take off an aircraft under IFR or begin an IFR or over-the-top operation unless the latest weather reports or forecasts, or any combination of them, indicate that weather conditions at the estimated time of arrival at the next airport of intended landing will be at or above authorized IFR landing minimums.
 
-## § 135.221
+## § 135.221 - IFR: Alternate airport weather minimums.
 
-### IFR: Alternate airport weather minimums.
-
+[loweralpha]
 . *Aircraft other than rotorcraft.* No person may designate an alternate airport unless the weather reports or forecasts, or any combination of them, indicate that the weather conditions will be at or above authorized alternate airport landing minimums for that airport at the estimated time of arrival.
 . *Rotorcraft.* Unless otherwise authorized by the Administrator, no person may include an alternate airport in an IFR flight plan unless appropriate weather reports or weather forecasts, or a combination of them, indicate that, at the estimated time of arrival at the alternate airport, the ceiling and visibility at that airport will be at or above the following weather minimums—
               
+[arabic]
 .. If, for the alternate airport, an instrument approach procedure has been published in part 97 of this chapter or a special instrument approach procedure has been issued by the FAA to the certificate holder, the ceiling is 200 feet above the minimum for the approach to be flown, and visibility is at least 1 statute mile but never less than the minimum visibility for the approach to be flown.
 .. If, for the alternate airport, no instrument approach procedure has been published in part 97 of this chapter and no special instrument approach procedure has been issued by the FAA to the certificate holder, the ceiling and visibility minimums are those allowing descent from the minimum enroute altitude (MEA), approach, and landing under basic VFR.
 
-## § 135.223
+## § 135.223 - IFR: Alternate airport requirements.
 
-### IFR: Alternate airport requirements.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no person may operate an aircraft in IFR conditions unless it carries enough fuel (considering weather reports or forecasts or any combination of them) to—
+[arabic]
 .. Complete the flight to the first airport of intended landing;
 .. Fly from that airport to the alternate airport; and
 .. Fly after that for 45 minutes at normal cruising speed or, for helicopters, fly after that for 30 minutes at normal cruising speed.
 . Paragraph (a)(2) of this section does not apply if part 97 of this chapter prescribes a standard instrument approach procedure for the first airport of intended landing and, for at least one hour before and after the estimated time of arrival, the appropriate weather reports or forecasts, or any combination of them, indicate that—
+[arabic]
 .. The ceiling will be at least 1,500 feet above the lowest circling approach MDA; or
 .. If a circling instrument approach is not authorized for the airport, the ceiling will be at least 1,500 feet above the lowest published minimum or 2,000 feet above the airport elevation, whichever is higher; and
 .. Visibility for that airport is forecast to be at least three miles, or two miles more than the lowest applicable visibility minimums, whichever is the greater, for the instrument approach procedure to be used at the destination airport.
 
-## § 135.225
+## § 135.225 - IFR: Takeoff, approach and landing minimums.
 
-### IFR: Takeoff, approach and landing minimums.
-
+[loweralpha]
 . Except to the extent permitted by paragraph (b) of this section, no pilot may begin an instrument approach procedure to an airport unless—
+[arabic]
 .. That airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by U.S. National Weather Service, or a source approved by the Administrator; and
 .. The latest weather report issued by that weather reporting facility indicates that weather conditions are at or above the authorized IFR landing minimums for that airport.
 . A pilot conducting an eligible on-demand operation may begin an instrument approach procedure to an airport that does not have a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator if—
+[arabic]
 .. The alternate airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator; and
 .. The latest weather report issued by the weather reporting facility includes a current local altimeter setting for the destination airport. If no local altimeter setting for the destination airport is available, the pilot may use the current altimeter setting provided by the facility designated on the approach chart for the destination airport.
 . If a pilot has begun the final approach segment of an instrument approach to an airport under paragraph (b) of this section, and the pilot receives a later weather report indicating that conditions have worsened to below the minimum requirements, then the pilot may continue the approach only if the requirements of § 91.175(l) of this chapter, or both of the following conditions, are met—
+[arabic]
 .. The later weather report is received when the aircraft is in one of the following approach phases:
+[lowerroman]
 ... The aircraft is on an ILS final approach and has passed the final approach fix;
 ... The aircraft is on an ASR or PAR final approach and has been turned over to the final approach controller; or
 ... The aircraft is on a nonprecision final approach and the aircraft—
+[upperalpha]
+.... Has passed the appropriate facility or final approach fix; or
+.... Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; and
 .. The pilot in command finds, on reaching the authorized MDA or DA/DH, that the actual weather conditions are at or above the minimums prescribed for the procedure being used.
 . If a pilot has begun the final approach segment of an instrument approach to an airport under paragraph (c) of this section and a later weather report indicating below minimum conditions is received after the aircraft is—
+[arabic]
 .. On an ILS final approach and has passed the final approach fix; or
 .. On an ASR or PAR final approach and has been turned over to the final approach controller; or
 .. On a final approach using a VOR, NDB, or comparable approach procedure; and the aircraft—
+[lowerroman]
 ... Has passed the appropriate facility or final approach fix; or
 ... Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; the approach may be continued and a landing made if the pilot finds, upon reaching the authorized MDA or DH, that actual weather conditions are at least equal to the minimums prescribed for the procedure.
 . The MDA or DA/DH and visibility landing minimums prescribed in part 97 of this chapter or in the operator's operations specifications are increased by 100 feet and 1/2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered airplane who has not served at least 100 hours as pilot in command in that type of airplane.
 . Each pilot making an IFR takeoff or approach and landing at a military or foreign airport shall comply with applicable instrument approach procedures and weather minimums prescribed by the authority having jurisdiction over that airport. In addition, unless authorized by the certificate holder's operations specifications, no pilot may, at that airport—
+[arabic]
 .. Take off under IFR when the visibility is less than 1 mile; or
 .. Make an instrument approach when the visibility is less than 1/2 mile.
 . If takeoff minimums are specified in part 97 of this chapter for the take- off airport, no pilot may take off an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are less than the takeoff minimums specified for the takeoff airport in part 97 or in the certificate holder's operations specifications.
 . Except as provided in paragraph (i) of this section, if takeoff minimums are not prescribed in part 97 of this chapter for the takeoff airport, no pilot may takeoff an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are less than that prescribed in part 91 of this chapter or in the certificate holder's operations specifications.
-. At airports where straight-in instrument approach procedures are authorized, a pilot may takeoff an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are equal to or better than the lowest straight-in landing minimums, unless otherwise restricted, if—
-.. The wind direction and velocity at the time of takeoff are such that a straight-in instrument approach can be made to the runway served by the instrument approach;
-.. The associated ground facilities upon which the landing minimums are predicated and the related airborne equipment are in normal operation; and
-.. The certificate holder has been approved for such operations.
+[lowerroman]
+.. At airports where straight-in instrument approach procedures are authorized, a pilot may takeoff an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are equal to or better than the lowest straight-in landing minimums, unless otherwise restricted, if—
+[arabic]
+... The wind direction and velocity at the time of takeoff are such that a straight-in instrument approach can be made to the runway served by the instrument approach;
+... The associated ground facilities upon which the landing minimums are predicated and the related airborne equipment are in normal operation; and
+... The certificate holder has been approved for such operations.
 
-(A) Has passed the appropriate facility or final approach fix; or
+## § 135.227 - Icing conditions: Operating limitations.
 
-(B) Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; and
-
-## § 135.227
-
-### Icing conditions: Operating limitations.
-
+[loweralpha]
 . No pilot may take off an aircraft that has frost, ice, or snow adhering to any rotor blade, propeller, windshield, stabilizing or control surface; to a powerplant installation; or to an airspeed, altimeter, rate of climb, flight attitude instrument system, or wing, except that takeoffs may be made with frost under the wing in the area of the fuel tanks if authorized by the FAA.
 . No certificate holder may authorize an airplane to take off and no pilot may take off an airplane any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane unless the pilot has completed all applicable training as required by § 135.341 and unless one of the following requirements is met:
+[arabic]
 .. A pretakeoff contamination check, that has been established by the certificate holder and approved by the Administrator for the specific airplane type, has been completed within 5 minutes prior to beginning takeoff. A pretakeoff contamination check is a check to make sure the wings and control surfaces are free of frost, ice, or snow.
 .. The certificate holder has an approved alternative procedure and under that procedure the airplane is determined to be free of frost, ice, or snow.
 .. The certificate holder has an approved deicing/anti-icing program that complies with § 121.629(c) of this chapter and the takeoff complies with that program.
 . No pilot may fly under IFR into known or forecast light or moderate icing conditions or under VFR into known light or moderate icing conditions, unless—
+[arabic]
 .. The aircraft has functioning deicing or anti-icing equipment protecting each rotor blade, propeller, windshield, wing, stabilizing or control surface, and each airspeed, altimeter, rate of climb, or flight attitude instrument system;
 .. The airplane has ice protection provisions that meet section 34 of appendix A of this part; or
 .. The airplane meets transport category airplane type certification provisions, including the requirements for certification for flight in icing conditions.
@@ -166,14 +168,15 @@ No person may take off an aircraft under IFR or begin an IFR or over-the-top ope
 . Except for an airplane that has ice protection provisions that meet section 34 of appendix A, or those for transport category airplane type certification, no pilot may fly an aircraft into known or forecast severe icing conditions.
 . If current weather reports and briefing information relied upon by the pilot in command indicate that the forecast icing condition that would otherwise prohibit the flight will not be encountered during the flight because of changed weather conditions since the forecast, the restrictions in paragraphs (c), (d), and (e) of this section based on forecast conditions do not apply.
 
-## § 135.229
+## § 135.229 - Airport requirements.
 
-### Airport requirements.
-
+[loweralpha]
 . No certificate holder may use any airport unless it is adequate for the proposed operation, considering such items as size, surface, obstructions, and lighting.
 . No pilot of an aircraft carrying passengers at night may takeoff from, or land on, an airport unless—
+[arabic]
 .. That pilot has determined the wind direction from an illuminated wind direction indicator or local ground communications or, in the case of takeoff, that pilot's personal observations; and
 .. The limits of the area to be used for landing or takeoff are clearly shown—
+[lowerroman]
 ... For airplanes, by boundary or runway marker lights;
 ... For helicopters, by boundary or runway marker lights or reflective material.
 . For the purpose of paragraph (b) of this section, if the area to be used for takeoff or landing is marked by flare pots or lanterns, their use must be approved by the Administrator.

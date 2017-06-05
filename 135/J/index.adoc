@@ -1,31 +1,31 @@
 # Maintenance, Preventive Maintenance, and Alterations
 :toc:
 
-## § 135.411
+## § 135.411 - Applicability.
 
-### Applicability.
-
+[loweralpha]
 . This subpart prescribes rules in addition to those in other parts of this chapter for the maintenance, preventive maintenance, and alterations for each certificate holder as follows:
+[arabic]
 .. Aircraft that are type certificated for a passenger seating configuration, excluding any pilot seat, of nine seats or less, shall be maintained under parts 91 and 43 of this chapter and §§ 135.415, 135.417, 135.421 and 135.422. An approved aircraft inspection program may be used under § 135.419.
 .. Aircraft that are type certificated for a passenger seating configuration, excluding any pilot seat, of ten seats or more, shall be maintained under a maintenance program in §§ 135.415, 135.417, 135.423 through 135.443.
 . A certificate holder who is not otherwise required, may elect to maintain its aircraft under paragraph (a)(2) of this section.
 . Single engine aircraft used in passenger-carrying IFR operations shall also be maintained in accordance with § 135.421 (c), (d), and (e).
 . A certificate holder who elects to operate in accordance with § 135.364 must maintain its aircraft under paragraph (a)(2) of this section and the additional requirements of Appendix G of this part.
 
-## § 135.413
+## § 135.413 - Responsibility for airworthiness.
 
-### Responsibility for airworthiness.
-
+[loweralpha]
 . Each certificate holder is primarily responsible for the airworthiness of its aircraft, including airframes, aircraft engines, propellers, rotors, appliances, and parts, and shall have its aircraft maintained under this chapter, and shall have defects repaired between required maintenance under part 43 of this chapter.
 . Each certificate holder who maintains its aircraft under § 135.411(a)(2) shall—
+[arabic]
 .. Perform the maintenance, preventive maintenance, and alteration of its aircraft, including airframe, aircraft engines, propellers, rotors, appliances, emergency equipment and parts, under its manual and this chapter; or
 .. Make arrangements with another person for the performance of maintenance, preventive maintenance, or alteration. However, the certificate holder shall ensure that any maintenance, preventive maintenance, or alteration that is performed by another person is performed under the certificate holder's manual and this chapter.
 
-## § 135.415
+## § 135.415 - Service difficulty reports.
 
-### Service difficulty reports.
-
+[loweralpha]
 . Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—
+[arabic]
 .. Fires during flight and whether the related fire-warning system functioned properly;
 .. Fires during flight not protected by related fire-warning system;
 .. False fire-warning during flight;
@@ -46,6 +46,7 @@
 . In addition to the reports required by paragraph (a) of this section, each certificate holder shall report any other failure, malfunction, or defect in an aircraft that occurs or is detected at any time if, in its opinion, the failure, malfunction, or defect has endangered or may endanger the safe operation of the aircraft.
 . Each certificate holder shall submit each report required by this section, covering each 24-hour period beginning at 0900 local time of each day and ending at 0900 local time on the next day, to the FAA offices in Oklahoma City, Oklahoma. Each report of occurrences during a 24-hour period shall be submitted to the collection point within the next 96 hours. However, a report due on Saturday or Sunday may be submitted on the following Monday, and a report due on a holiday may be submitted on the next workday.
 . The certificate holder shall transmit the reports required by this section on a form and in a manner prescribed by the Administrator, and shall include as much of the following as is available:
+[arabic]
 .. The type and identification number of the aircraft.
 .. The name of the operator.
 .. The date.
@@ -57,23 +58,22 @@
 . No person may withhold a report required by this section even though all information required by this section is not available.
 . When the certificate holder gets additional information, including information from the manufacturer or other agency, concerning a report required by this section, it shall expeditiously submit it as a supplement to the first report and reference the date and place of submission of the first report.
 
-## § 135.417
-
-### Mechanical interruption summary report.
+## § 135.417 - Mechanical interruption summary report.
 
 Each certificate holder shall mail or deliver, before the end of the 10th day of the following month, a summary report of the following occurrences in multiengine aircraft for the preceding month to the certificate-holding district office:
 
+[loweralpha]
 . Each interruption to a flight, unscheduled change of aircraft en route, or unscheduled stop or diversion from a route, caused by known or suspected mechanical difficulties or malfunctions that are not required to be reported under § 135.415.
 . The number of propeller featherings in flight, listed by type of propeller and engine and aircraft on which it was installed. Propeller featherings for training, demonstration, or flight check purposes need not be reported.
 
-## § 135.419
+## § 135.419 - Approved aircraft inspection program.
 
-### Approved aircraft inspection program.
-
+[loweralpha]
 . Whenever the Administrator finds that the aircraft inspections required or allowed under part 91 of this chapter are not adequate to meet this part, or upon application by a certificate holder, the Administrator may amend the certificate holder's operations specifications under § 119.51, to require or allow an approved aircraft inspection program for any make and model aircraft of which the certificate holder has the exclusive use of at least one aircraft (as defined in § 135.25(b)).
 . A certificate holder who applies for an amendment of its operations specifications to allow an approved aircraft inspection program must submit that program with its application for approval by the Administrator.
 . Each certificate holder who is required by its operations specifications to have an approved aircraft inspection program shall submit a program for approval by the Administrator within 30 days of the amendment of its operations specifications or within any other period that the Administrator may prescribe in the operations specifications.
 . The aircraft inspection program submitted for approval by the Administrator must contain the following:
+[arabic]
 .. Instructions and procedures for the conduct of aircraft inspections (which must include necessary tests and checks), setting forth in detail the parts and areas of the airframe, engines, propellers, rotors, and appliances, including emergency equipment, that must be inspected.
 .. A schedule for the performance of the aircraft inspections under paragraph (d)(1) of this section expressed in terms of the time in service, calendar time, number of system operations, or any combination of these.
 .. Instructions and procedures for recording discrepancies found during inspections and correction or deferral of discrepancies including form and disposition of records.
@@ -82,29 +82,30 @@ Each certificate holder shall mail or deliver, before the end of the 10th day of
 . Each certificate holder who has an approved aircraft inspection program shall have each aircraft that is subject to the program inspected in accordance with the program.
 . The registration number of each aircraft that is subject to an approved aircraft inspection program must be included in the operations specifications of the certificate holder.
 
-## § 135.421
+## § 135.421 - Additional maintenance requirements.
 
-### Additional maintenance requirements.
-
+[loweralpha]
 . Each certificate holder who operates an aircraft type certificated for a passenger seating configuration, excluding any pilot seat, of nine seats or less, must comply with the manufacturer's recommended maintenance programs, or a program approved by the Administrator, for each aircraft engine, propeller, rotor, and each item of emergency equipment required by this chapter.
 . For the purpose of this section, a manufacturer's maintenance program is one which is contained in the maintenance manual or maintenance instructions set forth by the manufacturer as required by this chapter for the aircraft, aircraft engine, propeller, rotor or item of emergency equipment.
 . For each single engine aircraft to be used in passenger-carrying IFR operations, each certificate holder must incorporate into its maintenance program either:
+[arabic]
 .. The manufacturer's recommended engine trend monitoring program, which includes an oil analysis, if appropriate, or
 .. An FAA approved engine trend monitoring program that includes an oil analysis at each 100 hour interval or at the manufacturer's suggested interval, whichever is more frequent.
 . For single engine aircraft to be used in passenger-carrying IFR operations, written maintenance instructions containing the methods, techniques, and practices necessary to maintain the equipment specified in §§ 135.105, and 135.163 (f) and (h) are required.
 . No certificate holder may operate a single engine aircraft under IFR, carrying passengers, unless the certificate holder records and maintains in the engine maintenance records the results of each test, observation, and inspection required by the applicable engine trend monitoring program specified in (c) (1) and (2) of this section.
 
-## § 135.422
+## § 135.422 - Aging airplane inspections and records reviews for multiengine airplanes certificated with nine or fewer passenger seats.
 
-### Aging airplane inspections and records reviews for multiengine airplanes certificated with nine or fewer passenger seats.
-
+[loweralpha]
 . *Applicability.* This section applies to multiengine airplanes certificated with nine or fewer passenger seats, operated by a certificate holder in a scheduled operation under this part, except for those airplanes operated by a certificate holder in a scheduled operation between any point within the State of Alaska and any other point within the State of Alaska.
 . *Operation after inspections and records review.* After the dates specified in this paragraph, a certificate holder may not operate a multiengine airplane in a scheduled operation under this part unless the Administrator has notified the certificate holder that the Administrator has completed the aging airplane inspection and records review required by this section. During the inspection and records review, the certificate holder must demonstrate to the Administrator that the maintenance of age-sensitive parts and components of the airplane has been adequate and timely enough to ensure the highest degree of safety.
+[arabic]
 .. *Airplanes exceeding 24 years in service on December 8, 2003; initial and repetitive inspections and records reviews.* For an airplane that has exceeded 24 years in service on December 8, 2003, no later than December 5, 2007, and thereafter at intervals not to exceed 7 years.
 .. *Airplanes exceeding 14 years in service but not 24 years in service on December 8, 2003; initial and repetitive inspections and records reviews.* For an airplane that has exceeded 14 years in service, but not 24 years in service, on December 8, 2003, no later than December 4, 2008, and thereafter at intervals not to exceed 7 years.
 .. *Airplanes not exceeding 14 years in service on December 8, 2003; initial and repetitive inspections and records reviews.* For an airplane that has not exceeded 14 years in service on December 8, 2003, no later than 5 years after the start of the airplane's 15th year in service and thereafter at intervals not to exceed 7 years.
 . *Unforeseen schedule conflict.* In the event of an unforeseen scheduling conflict for a specific airplane, the Administrator may approve an extension of up to 90 days beyond an interval specified in paragraph (b) of this section.
 . *Airplane and records availability.* The certificate holder must make available to the Administrator each airplane for which an inspection and records review is required under this section, in a condition for inspection specified by the Administrator, together with the records containing the following information:
+[arabic]
 .. Total years in service of the airplane;
 .. Total time in service of the airframe;
 .. Date of the last inspection and records review required by this section;
@@ -116,31 +117,30 @@ Each certificate holder shall mail or deliver, before the end of the 10th day of
 .. A report of major structural repairs and the current inspection status for these repairs.
 . *Notification to the Administrator.* Each certificate holder must notify the Administrator at least 60 days before the date on which the airplane and airplane records will be made available for the inspection and records review.
 
-## § 135.423
+## § 135.423 - Maintenance, preventive maintenance, and alteration organization.
 
-### Maintenance, preventive maintenance, and alteration organization.
-
+[loweralpha]
 . Each certificate holder that performs any of its maintenance (other than required inspections), preventive maintenance, or alterations, and each person with whom it arranges for the performance of that work, must have an organization adequate to perform the work.
 . Each certificate holder that performs any inspections required by its manual under § 135.427(b) (2) or (3), (in this subpart referred to as *required inspections*), and each person with whom it arranges for the performance of that work, must have an organization adequate to perform that work.
 . Each person performing required inspections in addition to other maintenance, preventive maintenance, or alterations, shall organize the performance of those functions so as to separate the required inspection functions from the other maintenance, preventive maintenance, and alteration functions. The separation shall be below the level of administrative control at which overall responsibility for the required inspection functions and other maintenance, preventive maintenance, and alteration functions is exercised.
 
-## § 135.425
-
-### Maintenance, preventive maintenance, and alteration programs.
+## § 135.425 - Maintenance, preventive maintenance, and alteration programs.
 
 Each certificate holder shall have an inspection program and a program covering other maintenance, preventive maintenance, and alterations, that ensures that—
 
+[loweralpha]
 . Maintenance, preventive maintenance, and alterations performed by it, or by other persons, are performed under the certificate holder's manual;
 . Competent personnel and adequate facilities and equipment are provided for the proper performance of maintenance, preventive maintenance, and alterations; and
 . Each aircraft released to service is airworthy and has been properly maintained for operation under this part.
 
-## § 135.426
+## § 135.426 - Contract maintenance.
 
-### Contract maintenance.
-
+[loweralpha]
 . A certificate holder may arrange with another person for the performance of maintenance, preventive maintenance, and alterations as authorized in § 135.437(a) only if the certificate holder has met all the requirements in this section. For purposes of this section—
+[arabic]
 .. A *maintenance provider* is any person who performs maintenance, preventive maintenance, or an alteration for a certificate holder other than a person who is trained by and employed directly by that certificate holder.
 .. *Covered work* means any of the following:
+[lowerroman]
 ... Essential maintenance that could result in a failure, malfunction, or defect endangering the safe operation of an aircraft if not performed properly or if improper parts or materials are used;
 ... Regularly scheduled maintenance; or
 ... A required inspection item on an aircraft.
@@ -153,12 +153,12 @@ Each certificate holder shall have an inspection program and a program covering 
 . The policies, procedures, methods, and instructions required by paragraphs (e) and (f) of this section must be acceptable to the FAA and included in the certificate holder's maintenance manual, as required by § 135.427(b)(10).
 . Each certificate holder who contracts for maintenance, preventive maintenance, or alterations must provide to its FAA Certificate Holding District Office, in a format acceptable to the FAA, a list that includes the name and physical (street) address, or addresses, where the work is carried out for each maintenance provider that performs work for the certificate holder, and a description of the type of maintenance, preventive maintenance, or alteration that is to be performed at each location. The list must be updated with any changes, including additions or deletions, and the updated list provided to the FAA in a format acceptable to the FAA by the last day of each calendar month.
 
-## § 135.427
+## § 135.427 - Manual requirements.
 
-### Manual requirements.
-
+[loweralpha]
 . Each certificate holder shall put in its manual the chart or description of the certificate holder's organization required by § 135.423 and a list of persons with whom it has arranged for the performance of any of its required inspections, other maintenance, preventive maintenance, or alterations, including a general description of that work.
 . Each certificate holder shall put in its manual the programs required by § 135.425 that must be followed in performing maintenance, preventive maintenance, and alterations of that certificate holder's aircraft, including airframes, aircraft engines, propellers, rotors, appliances, emergency equipment, and parts, and must include at least the following:
+[arabic]
 .. The method of performing routine and nonroutine maintenance (other than required inspections), preventive maintenance, and alterations.
 .. A designation of the items of maintenance and alteration that must be inspected (required inspections) including at least those that could result in a failure, malfunction, or defect endangering the safe operation of the aircraft, if not performed properly or if improper parts or materials are used.
 .. The method of performing required inspections and a designation by occupational title of personnel authorized to perform each required inspection.
@@ -170,19 +170,20 @@ Each certificate holder shall have an inspection program and a program covering 
 .. Procedures to ensure that required inspections, other maintenance, preventive maintenance, and alterations that are not completed as a result of work interruptions are properly completed before the aircraft is released to service.
 .. Policies, procedures, methods, and instructions for the accomplishment of all maintenance, preventive maintenance, and alterations carried out by a maintenance provider. These policies, procedures, methods, and instructions must be acceptable to the FAA and ensure that, when followed by the maintenance provider, the maintenance, preventive maintenance, and alterations are performed in accordance with the certificate holder's maintenance program and maintenance manual.
 . Each certificate holder shall put in its manual a suitable system (which may include a coded system) that provides for the retention of the following information—
+[arabic]
 .. A description (or reference to data acceptable to the Administrator) of the work performed;
 .. The name of the person performing the work if the work is performed by a person outside the organization of the certificate holder; and
 .. The name or other positive identification of the individual approving the work.
 . For the purposes of this part, the certificate holder must prepare that part of its manual containing maintenance information and instructions, in whole or in part, in printed form or other form, acceptable to the Administrator, that is retrievable in the English language.
 
-## § 135.429
+## § 135.429 - Required inspection personnel.
 
-### Required inspection personnel.
-
+[loweralpha]
 . No person may use any person to perform required inspections unless the person performing the inspection is appropriately certificated, properly trained, qualified, and authorized to do so.
 . No person may allow any person to perform a required inspection unless, at the time, the person performing that inspection is under the supervision and control of an inspection unit.
 . No person may perform a required inspection if that person performed the item of work required to be inspected.
 . In the case of rotorcraft that operate in remote areas or sites, the Administrator may approve procedures for the performance of required inspection items by a pilot when no other qualified person is available, provided—
+[arabic]
 .. The pilot is employed by the certificate holder;
 .. It can be shown to the satisfaction of the Administrator that each pilot authorized to perform required inspections is properly trained and qualified;
 .. The required inspection is a result of a mechanical interruption and is not a part of a certificate holder's continuous airworthiness maintenance program;
@@ -190,41 +191,37 @@ Each certificate holder shall have an inspection program and a program covering 
 .. Each item of work that is a required inspection item that is part of the flight control system shall be flight tested and reinspected before the aircraft is approved for return to service.
 . Each certificate holder shall maintain, or shall determine that each person with whom it arranges to perform its required inspections maintains, a current listing of persons who have been trained, qualified, and authorized to conduct required inspections. The persons must be identified by name, occupational title and the inspections that they are authorized to perform. The certificate holder (or person with whom it arranges to perform its required inspections) shall give written information to each person so authorized, describing the extent of that person's responsibilities, authorities, and inspectional limitations. The list shall be made available for inspection by the Administrator upon request.
 
-## § 135.431
+## § 135.431 - Continuing analysis and surveillance.
 
-### Continuing analysis and surveillance.
-
+[loweralpha]
 . Each certificate holder shall establish and maintain a system for the continuing analysis and surveillance of the performance and effectiveness of its inspection program and the program covering other maintenance, preventive maintenance, and alterations and for the correction of any deficiency in those programs, regardless of whether those programs are carried out by the certificate holder or by another person.
 . Whenever the Administrator finds that either or both of the programs described in paragraph (a) of this section does not contain adequate procedures and standards to meet this part, the certificate holder shall, after notification by the Administrator, make changes in those programs requested by the Administrator.
 . A certificate holder may petition the Administrator to reconsider the notice to make a change in a program. The petition must be filed with the certificate-holding district office within 30 days after the certificate holder receives the notice. Except in the case of an emergency requiring immediate action in the interest of safety, the filing of the petition stays the notice pending a decision by the Administrator.
 
-## § 135.433
-
-### Maintenance and preventive maintenance training program.
+## § 135.433 - Maintenance and preventive maintenance training program.
 
 Each certificate holder or a person performing maintenance or preventive maintenance functions for it shall have a training program to ensure that each person (including inspection personnel) who determines the adequacy of work done is fully informed about procedures and techniques and new equipment in use and is competent to perform that person's duties.
 
-## § 135.435
+## § 135.435 - Certificate requirements.
 
-### Certificate requirements.
-
+[loweralpha]
 . Except for maintenance, preventive maintenance, alterations, and required inspections performed by a certificated repair station that is located outside the United States, each person who is directly in charge of maintenance, preventive maintenance, or alterations, and each person performing required inspections must hold an appropriate airman certificate.
 . For the purpose of this section, a person *directly in charge* is each person assigned to a position in which that person is responsible for the work of a shop or station that performs maintenance, preventive maintenance, alterations, or other functions affecting airworthiness. A person who is *directly in charge* need not physically observe and direct each worker constantly but must be available for consultation and decision on matters requiring instruction or decision from higher authority than that of the person performing the work.
 
-## § 135.437
+## § 135.437 - Authority to perform and approve maintenance, preventive maintenance, and alterations.
 
-### Authority to perform and approve maintenance, preventive maintenance, and alterations.
-
+[loweralpha]
 . A certificate holder may perform or make arrangements with other persons to perform maintenance, preventive maintenance, and alterations as provided in its maintenance manual. In addition, a certificate holder may perform these functions for another certificate holder as provided in the maintenance manual of the other certificate holder.
 . A certificate holder may approve any airframe, aircraft engine, propeller, rotor, or appliance for return to service after maintenance, preventive maintenance, or alterations that are performed under paragraph (a) of this section. However, in the case of a major repair or alteration, the work must have been done in accordance with technical data approved by the Administrator.
 
-## § 135.439
+## § 135.439 - Maintenance recording requirements.
 
-### Maintenance recording requirements.
-
+[loweralpha]
 . Each certificate holder shall keep (using the system specified in the manual required in § 135.427) the following records for the periods specified in paragraph (b) of this section:
+[arabic]
 .. All the records necessary to show that all requirements for the issuance of an airworthiness release under § 135.443 have been met.
 .. Records containing the following information:
+[lowerroman]
 ... The total time in service of the airframe, engine, propeller, and rotor.
 ... The current status of life-limited parts of each airframe, engine, propeller, rotor, and appliance.
 ... The time since last overhaul of each item installed on the aircraft which are required to be overhauled on a specified time basis.
@@ -233,30 +230,32 @@ Each certificate holder or a person performing maintenance or preventive mainten
 ... The current status of applicable airworthiness directives, including the date and methods of compliance, and, if the airworthiness directive involves recurring action, the time and date when the next action is required.
 ... A list of current major alterations and repairs to each airframe, engine, propeller, rotor, and appliance.
 . Each certificate holder shall retain the records required to be kept by this section for the following periods:
+[arabic]
 .. Except for the records of the last complete overhaul of each airframe, engine, propeller, rotor, and appliance the records specified in paragraph (a)(1) of this section shall be retained until the work is repeated or superseded by other work or for one year after the work is performed.
 .. The records of the last complete overhaul of each airframe, engine, propeller, rotor, and appliance shall be retained until the work is superseded by work of equivalent scope and detail.
 .. The records specified in paragraph (a)(2) of this section shall be retained and transferred with the aircraft at the time the aircraft is sold.
 . The certificate holder shall make all maintenance records required to be kept by this section available for inspection by the Administrator or any representative of the National Transportation Safety Board.
 
-## § 135.441
-
-### Transfer of maintenance records.
+## § 135.441 - Transfer of maintenance records.
 
 Each certificate holder who sells a United States registered aircraft shall transfer to the purchaser, at the time of the sale, the following records of that aircraft, in plain language form or in coded form which provides for the preservation and retrieval of information in a manner acceptable to the Administrator:
 
+[loweralpha]
 . The records specified in § 135.439(a)(2).
 . The records specified in § 135.439(a)(1) which are not included in the records covered by paragraph (a) of this section, except that the purchaser may allow the seller to keep physical custody of such records. However, custody of records by the seller does not relieve the purchaser of its responsibility under § 135.439(c) to make the records available for inspection by the Administrator or any representative of the National Transportation Safety Board.
 
-## § 135.443
+## § 135.443 - Airworthiness release or aircraft maintenance log entry.
 
-### Airworthiness release or aircraft maintenance log entry.
-
+[loweralpha]
 . No certificate holder may operate an aircraft after maintenance, preventive maintenance, or alterations are performed on the aircraft unless the certificate holder prepares, or causes the person with whom the certificate holder arranges for the performance of the maintenance, preventive maintenance, or alterations, to prepare—
+[arabic]
 .. An airworthiness release; or
 .. An appropriate entry in the aircraft maintenance log.
 . The airworthiness release or log entry required by paragraph (a) of this section must—
+[arabic]
 .. Be prepared in accordance with the procedure in the certificate holder's manual;
 .. Include a certification that—
+[lowerroman]
 ... The work was performed in accordance with the requirements of the certificate holder's manual;
 ... All items required to be inspected were inspected by an authorized person who determined that the work was satisfactorily completed;
 ... No known condition exists that would make the aircraft unairworthy; and

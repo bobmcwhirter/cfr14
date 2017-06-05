@@ -1,402 +1,321 @@
 # Private Pilots
 :toc:
 
-## § 61.102
-
-### Applicability.
+## § 61.102 - Applicability.
 
 This subpart prescribes the requirements for the issuance of private pilot certificates and ratings, the conditions under which those certificates and ratings are necessary, and the general operating rules for persons who hold those certificates and ratings.
 
-## § 61.103
-
-### Eligibility requirements: General.
+## § 61.103 - Eligibility requirements: General.
 
 To be eligible for a private pilot certificate, a person must:
 
+[loweralpha]
 . Be at least 17 years of age for a rating in other than a glider or balloon.
 . Be at least 16 years of age for a rating in a glider or balloon.
 . Be able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's pilot certificate as are necessary for the safe operation of the aircraft.
 . Receive a logbook endorsement from an authorized instructor who:
+[arabic]
 .. Conducted the training or reviewed the person's home study on the aeronautical knowledge areas listed in § 61.105(b) of this part that apply to the aircraft rating sought; and
 .. Certified that the person is prepared for the required knowledge test.
 . Pass the required knowledge test on the aeronautical knowledge areas listed in § 61.105(b) of this part.
 . Receive flight training and a logbook endorsement from an authorized instructor who:
+[arabic]
 .. Conducted the training in the areas of operation listed in § 61.107(b) of this part that apply to the aircraft rating sought; and
 .. Certified that the person is prepared for the required practical test.
 . Meet the aeronautical experience requirements of this part that apply to the aircraft rating sought before applying for the practical test.
 . Pass a practical test on the areas of operation listed in § 61.107(b) of this part that apply to the aircraft rating sought.
-. Comply with the appropriate sections of this part that apply to the aircraft category and class rating sought.
-. Hold a U.S. student pilot certificate, sport pilot certificate, or recreational pilot certificate.
+[lowerroman]
+.. Comply with the appropriate sections of this part that apply to the aircraft category and class rating sought.
 
-## § 61.105
+(j) Hold a U.S. student pilot certificate, sport pilot certificate, or recreational pilot certificate.
 
-### Aeronautical knowledge.
+## § 61.105 - Aeronautical knowledge.
 
+[loweralpha]
 . *General.* A person who is applying for a private pilot certificate must receive and log ground training from an authorized instructor or complete a home-study course on the aeronautical knowledge areas of paragraph (b) of this section that apply to the aircraft category and class rating sought.
-. *Aeronautical knowledge areas.* (1) Applicable Federal Aviation Regulations of this chapter that relate to private pilot privileges, limitations, and flight operations;
+. *Aeronautical knowledge areas.*
+[arabic]
+.. Applicable Federal Aviation Regulations of this chapter that relate to private pilot privileges, limitations, and flight operations;
               
+.. Accident reporting requirements of the National Transportation Safety Board;
+.. Use of the applicable portions of the “Aeronautical Information Manual” and FAA advisory circulars;
+.. Use of aeronautical charts for VFR navigation using pilotage, dead reckoning, and navigation systems;
+.. Radio communication procedures;
+.. Recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts;
+.. Safe and efficient operation of aircraft, including collision avoidance, and recognition and avoidance of wake turbulence;
+.. Effects of density altitude on takeoff and climb performance;
+.. Weight and balance computations;
+.. Principles of aerodynamics, powerplants, and aircraft systems;
+.. Stall awareness, spin entry, spins, and spin recovery techniques for the airplane and glider category ratings;
+.. Aeronautical decision making and judgment; and
+.. Preflight action that includes—
+[lowerroman]
+... How to obtain information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and forecasts, and fuel requirements; and
+... How to plan for alternatives if the planned flight cannot be completed or delays are encountered.
 
-(2) Accident reporting requirements of the National Transportation Safety Board;
+## § 61.107 - Flight proficiency.
 
-(3) Use of the applicable portions of the “Aeronautical Information Manual” and FAA advisory circulars;
-
-(4) Use of aeronautical charts for VFR navigation using pilotage, dead reckoning, and navigation systems;
-
-(5) Radio communication procedures;
-
-(6) Recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts;
-
-(7) Safe and efficient operation of aircraft, including collision avoidance, and recognition and avoidance of wake turbulence;
-
-(8) Effects of density altitude on takeoff and climb performance;
-
-(9) Weight and balance computations;
-
-(10) Principles of aerodynamics, powerplants, and aircraft systems;
-
-(11) Stall awareness, spin entry, spins, and spin recovery techniques for the airplane and glider category ratings;
-
-(12) Aeronautical decision making and judgment; and
-
-(13) Preflight action that includes—
-
-(i) How to obtain information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and forecasts, and fuel requirements; and
-
-(ii) How to plan for alternatives if the planned flight cannot be completed or delays are encountered.
-
-## § 61.107
-
-### Flight proficiency.
-
+[loweralpha]
 . *General.* A person who applies for a private pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section that apply to the aircraft category and class rating sought.
-. *Areas of operation.* (1) For an airplane category rating with a single-engine class rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport and seaplane base operations;
-
-(iv) Takeoffs, landings, and go-arounds;
-
-(v) Performance maneuvers;
-
-(vi) Ground reference maneuvers;
-
-(vii) Navigation;
-
-(viii) Slow flight and stalls;
-
-(ix) Basic instrument maneuvers;
-
-(x) Emergency operations;
-
-(xi) Night operations, except as provided in § 61.110 of this part; and
-
-(xii) Postflight procedures.
-
-(2) For an airplane category rating with a multiengine class rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport and seaplane base operations;
-
-(iv) Takeoffs, landings, and go-arounds;
-
-(v) Performance maneuvers;
-
-(vi) Ground reference maneuvers;
-
-(vii) Navigation;
-
-(viii) Slow flight and stalls;
-
-(ix) Basic instrument maneuvers;
-
-(x) Emergency operations;
-
-(xi) Multiengine operations;
-
-(xii) Night operations, except as provided in § 61.110 of this part; and
-
-(xiii) Postflight procedures.
-
-(3) For a rotorcraft category rating with a helicopter class rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport and heliport operations;
-
-(iv) Hovering maneuvers;
-
-(v) Takeoffs, landings, and go-arounds;
-
-(vi) Performance maneuvers;
-
-(vii) Navigation;
-
-(viii) Emergency operations;
-
-(ix) Night operations, except as provided in § 61.110 of this part; and
-
-(x) Postflight procedures.
-
-(4) For a rotorcraft category rating with a gyroplane class rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport operations;
-
-(iv) Takeoffs, landings, and go-arounds;
-
-(v) Performance maneuvers;
-
-(vi) Ground reference maneuvers;
-
-(vii) Navigation;
-
-(viii) Flight at slow airspeeds;
-
-(ix) Emergency operations;
-
-(x) Night operations, except as provided in § 61.110 of this part; and
-
-(xi) Postflight procedures.
-
-(5) For a powered-lift category rating:
-
-(i) Preflight preparation;
+. *Areas of operation.*
+[arabic]
+.. For an airplane category rating with a single-engine class rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport and seaplane base operations;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Slow flight and stalls;
+... Basic instrument maneuvers;
+... Emergency operations;
+... Night operations, except as provided in § 61.110 of this part; and
+... Postflight procedures.
+.. For an airplane category rating with a multiengine class rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport and seaplane base operations;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Slow flight and stalls;
+... Basic instrument maneuvers;
+... Emergency operations;
+... Multiengine operations;
+... Night operations, except as provided in § 61.110 of this part; and
+... Postflight procedures.
+.. For a rotorcraft category rating with a helicopter class rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport and heliport operations;
+... Hovering maneuvers;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Navigation;
+... Emergency operations;
+... Night operations, except as provided in § 61.110 of this part; and
+... Postflight procedures.
+.. For a rotorcraft category rating with a gyroplane class rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport operations;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Flight at slow airspeeds;
+... Emergency operations;
+... Night operations, except as provided in § 61.110 of this part; and
+... Postflight procedures.
+.. For a powered-lift category rating:
+[lowerroman]
+... Preflight preparation;
               
-
-(ii) Preflight procedures;
-
-(iii) Airport and heliport operations;
-
-(iv) Hovering maneuvers;
-
-(v) Takeoffs, landings, and go-arounds;
-
-(vi) Performance maneuvers;
-
-(vii) Ground reference maneuvers;
-
-(viii) Navigation;
-
-(ix) Slow flight and stalls;
-
-(x) Basic instrument maneuvers;
-
-(xi) Emergency operations;
-
-(xii) Night operations, except as provided in § 61.110 of this part; and
-
-(xiii) Postflight procedures.
-
-(6) For a glider category rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport and gliderport operations;
-
-(iv) Launches and landings;
-
-(v) Performance speeds;
-
-(vi) Soaring techniques;
-
-(vii) Performance maneuvers;
-
-(viii) Navigation;
-
-(ix) Slow flight and stalls;
-
-(x) Emergency operations; and
-
-(xi) Postflight procedures.
-
-(7) For a lighter-than-air category rating with an airship class rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport operations;
-
-(iv) Takeoffs, landings, and go-arounds;
-
-(v) Performance maneuvers;
-
-(vi) Ground reference maneuvers;
-
-(vii) Navigation;
-
-(viii) Emergency operations; and
-
-(ix) Postflight procedures.
-
-(8) For a lighter-than-air category rating with a balloon class rating:
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport operations;
-
-(iv) Launches and landings;
-
-(v) Performance maneuvers;
-
-(vi) Navigation;
-
-(vii) Emergency operations; and
-
-(viii) Postflight procedures.
-
-(9) For a powered parachute category rating—
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport and seaplane base operations, as applicable;
-
-(iv) Takeoffs, landings, and go-arounds;
-
-(v) Performance maneuvers;
-
-(vi) Ground reference maneuvers;
-
-(vii) Navigation;
-
-(viii) Night operations, except as provided in § 61.110;
-
-(ix) Emergency operations; and
-
-(x) Post-flight procedures.
-
-(10) For a weight-shift-control aircraft category rating—
-
-(i) Preflight preparation;
-
-(ii) Preflight procedures;
-
-(iii) Airport and seaplane base operations, as applicable;
-
-(iv) Takeoffs, landings, and go-arounds;
-
-(v) Performance maneuvers;
-
-(vi) Ground reference maneuvers;
-
-(vii) Navigation;
-
-(viii) Slow flight and stalls;
-
-(ix) Night operations, except as provided in § 61.110;
-
-(x) Emergency operations; and
-
-(xi) Post-flight procedures.
-
-## § 61.109
-
-### Aeronautical experience.
-
+... Preflight procedures;
+... Airport and heliport operations;
+... Hovering maneuvers;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Slow flight and stalls;
+... Basic instrument maneuvers;
+... Emergency operations;
+... Night operations, except as provided in § 61.110 of this part; and
+... Postflight procedures.
+.. For a glider category rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport and gliderport operations;
+... Launches and landings;
+... Performance speeds;
+... Soaring techniques;
+... Performance maneuvers;
+... Navigation;
+... Slow flight and stalls;
+... Emergency operations; and
+... Postflight procedures.
+.. For a lighter-than-air category rating with an airship class rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport operations;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Emergency operations; and
+... Postflight procedures.
+.. For a lighter-than-air category rating with a balloon class rating:
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport operations;
+... Launches and landings;
+... Performance maneuvers;
+... Navigation;
+... Emergency operations; and
+... Postflight procedures.
+.. For a powered parachute category rating—
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport and seaplane base operations, as applicable;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Night operations, except as provided in § 61.110;
+... Emergency operations; and
+... Post-flight procedures.
+.. For a weight-shift-control aircraft category rating—
+[lowerroman]
+... Preflight preparation;
+... Preflight procedures;
+... Airport and seaplane base operations, as applicable;
+... Takeoffs, landings, and go-arounds;
+... Performance maneuvers;
+... Ground reference maneuvers;
+... Navigation;
+... Slow flight and stalls;
+... Night operations, except as provided in § 61.110;
+... Emergency operations; and
+... Post-flight procedures.
+
+## § 61.109 - Aeronautical experience.
+
+[loweralpha]
 . *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(1) of this part, and the training must include at least—
+[arabic]
 .. 3 hours of cross-country flight training in a single-engine airplane;
 .. Except as provided in § 61.110 of this part, 3 hours of night flight training in a single-engine airplane that includes—
+[lowerroman]
 ... One cross-country flight of over 100 nautical miles total distance; and
 ... 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 .. 3 hours of flight training in a single-engine airplane on the control and maneuvering of an airplane solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
 .. 3 hours of flight training with an authorized instructor in a single-engine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
 .. 10 hours of solo flight time in a single-engine airplane, consisting of at least—
+[lowerroman]
 ... 5 hours of solo cross-country time;
 ... One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and
 ... Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 . *For an airplane multiengine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and multiengine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(2) of this part, and the training must include at least—
+[arabic]
 .. 3 hours of cross-country flight training in a multiengine airplane;
 .. Except as provided in § 61.110 of this part, 3 hours of night flight training in a multiengine airplane that includes—
+[lowerroman]
 ... One cross-country flight of over 100 nautical miles total distance; and
 ... 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 .. 3 hours of flight training in a multiengine airplane on the control and maneuvering of an airplane solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
 .. 3 hours of flight training with an authorized instructor in a multiengine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
 .. 10 hours of solo flight time in an airplane consisting of at least—
+[lowerroman]
 ... 5 hours of solo cross-country time;
 ... One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and
 ... Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 . *For a helicopter rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and helicopter class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(3) of this part, and the training must include at least—
+[arabic]
 .. 3 hours of cross-country flight training in a helicopter;
 .. Except as provided in § 61.110 of this part, 3 hours of night flight training in a helicopter that includes—
+[lowerroman]
 ... One cross-country flight of over 50 nautical miles total distance; and
 ... 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 .. 3 hours of flight training with an authorized instructor in a helicopter in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
 .. 10 hours of solo flight time in a helicopter, consisting of at least—
+[lowerroman]
 ... 3 hours cross-country time;
 ... One solo cross country flight of 100 nautical miles total distance, with landings at three points, and one segment of the flight being a straight-line distance of more than 25 nautical miles between the takeoff and landing locations; and
 ... Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 . *For a gyroplane rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and gyroplane class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(4) of this part, and the training must include at least—
+[arabic]
 .. 3 hours of cross-country flight training in a gyroplane;
 .. Except as provided in § 61.110 of this part, 3 hours of night flight training in a gyroplane that includes—
+[lowerroman]
 ... One cross-country flight of over 50 nautical miles total distance; and
 ... 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 .. 3 hours of flight training with an authorized instructor in a gyroplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
 .. 10 hours of solo flight time in a gyroplane, consisting of at least—
+[lowerroman]
 ... 3 hours of cross-country time;
 ... One solo cross country flight of 100 nautical miles total distance, with landings at three points, and one segment of the flight being a straight-line distance of more than 25 nautical miles between the takeoff and landing locations; and
 ... Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 . *For a powered-lift rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with a powered-lift category rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(5) of this part, and the training must include at least—
+[arabic]
 .. 3 hours of cross-country flight training in a powered-lift;
 .. Except as provided in § 61.110 of this part, 3 hours of night flight training in a powered-lift that includes—
+[lowerroman]
 ... One cross-country flight of over 100 nautical miles total distance; and
 ... 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 .. 3 hours of flight training in a powered-lift on the control and maneuvering of a powered-lift solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
 .. 3 hours of flight training with an authorized instructor in a powered-lift in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
 .. 10 hours of solo flight time in an airplane or powered-lift consisting of at least—
+[lowerroman]
 ... 5 hours cross-country time;
 ... One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and
 ... Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
-. *For a glider category rating.* (1) If the applicant for a private pilot certificate with a glider category rating has not logged at least 40 hours of flight time as a pilot in a heavier-than-air aircraft, the applicant must log at least 10 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least—
+. *For a glider category rating.*
+[arabic]
+.. If the applicant for a private pilot certificate with a glider category rating has not logged at least 40 hours of flight time as a pilot in a heavier-than-air aircraft, the applicant must log at least 10 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least—
+[lowerroman]
+... 20 flights in a glider in the areas of operations listed in § 61.107(b)(6) of this part, including at least 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test; and
+... 2 hours of solo flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, with not less than 10 launches and landings being performed.
+.. If the applicant has logged at least 40 hours of flight time in a heavier-than-air aircraft, the applicant must log at least 3 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least—
+[lowerroman]
+... 10 solo flights in a glider in the areas of operation listed in § 61.107(b)(6) of this part; and
+... 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test.
 . *For an airship rating.* A person who applies for a private pilot certificate with a lighter-than-air category and airship class rating must log at least:
+[arabic]
 .. 25 hours of flight training in airships on the areas of operation listed in § 61.107(b)(7) of this part, which consists of at least:
+[lowerroman]
 ... 3 hours of cross-country flight training in an airship;
 ... Except as provided in § 61.110 of this part, 3 hours of night flight training in an airship that includes:
+[upperalpha]
+.... A cross-country flight of over 25 nautical miles total distance; and
+.... Five takeoffs and five landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 .. 3 hours of flight training in an airship on the control and maneuvering of an airship solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
 .. Three hours of flight training with an authorized instructor in an airship in preparation for the practical test within the preceding 2 calendar months from the month of the test; and
 .. 5 hours performing the duties of pilot in command in an airship with an authorized instructor.
 . *For a balloon rating.* A person who applies for a private pilot certificate with a lighter-than-air category and balloon class rating must log at least 10 hours of flight training that includes at least six training flights with an authorized instructor in the areas of operation listed in § 61.107(b)(8) of this part, that includes—
-.. Three hours of cross-country flight training in a weight-shift-control aircraft;
-.. Except as provided in § 61.110, 3 hours of night flight training in a weight-shift-control aircraft that includes—
-... One cross-country flight of over 75 nautical miles total distance that includes a point of landing that is a straight-line distance of more than 50 nautical miles from the original point of departure; and
-... Ten takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
-.. Three hours of flight training with an authorized instructor in a weight-shift-control aircraft in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test;
-.. Ten hours of solo flight time in a weight-shift-control aircraft, consisting of at least—
-... Five hours of solo cross-country time; and
-... One solo cross-country flight over 100 nautical miles total distance, with landings at a minimum of three points, and one segment of the flight being a straight line distance of at least 50 nautical miles between takeoff and landing locations; and
-.. Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
-
-(i) 20 flights in a glider in the areas of operations listed in § 61.107(b)(6) of this part, including at least 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test; and
-
-(ii) 2 hours of solo flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, with not less than 10 launches and landings being performed.
-
-(2) If the applicant has logged at least 40 hours of flight time in a heavier-than-air aircraft, the applicant must log at least 3 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least—
-
-(i) 10 solo flights in a glider in the areas of operation listed in § 61.107(b)(6) of this part; and
-
-(ii) 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test.
-
-(A) A cross-country flight of over 25 nautical miles total distance; and
-
-(B) Five takeoffs and five landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+[arabic]
+.. *Gas balloon.* If the training is being performed in a gas balloon, at least two flights of 2 hours each that consists of—
+[lowerroman]
+... At least one training flight with an authorized instructor in a gas balloon in preparation for the practical test within the preceding 2 calendar months from the month of the test;
+... At least one flight performing the duties of pilot in command in a gas balloon with an authorized instructor; and
+... At least one flight involving a controlled ascent to 3,000 feet above the launch site.
+.. *Balloon with an airborne heater.* If the training is being performed in a balloon with an airborne heater, at least—
+[lowerroman]
+... *For a powered parachute rating.* A person who applies for a private pilot certificate with a powered parachute category rating must log at least 25 hours of flight time in a powered parachute that includes at least 10 hours of flight training with an authorized instructor, including 30 takeoffs and landings, and 10 hours of solo flight training in the areas of operation listed in § 61.107 (b)(9) and the training must include at least—
+[arabic]
+.... One hour of cross-country flight training in a powered parachute that includes a 1-hour cross-country flight with a landing at an airport at least 25 nautical miles from the airport of departure;
+.... Except as provided in § 61.110, 3 hours of night flight training in a powered parachute that includes 10 takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
+.... Three hours of flight training with an authorized instructor in a powered parachute in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test;
+.... Three hours of solo flight time in a powered parachute, consisting of at least—
+[lowerroman]
+..... One solo cross-country flight with a landing at an airport at least 25 nautical miles from the departure airport; and
+..... Twenty solo takeoffs and landings to a full stop (with each landing involving a flight in a traffic pattern) at an airport; and
+.... Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
 
 (j) *For a weight-shift-control aircraft rating.* A person who applies for a private pilot certificate with a weight-shift-control rating must log at least 40 hours of flight time that includes at least 20 hours of flight training with an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(10) and the training must include at least—
+
+[arabic]
+. Three hours of cross-country flight training in a weight-shift-control aircraft;
+. Except as provided in § 61.110, 3 hours of night flight training in a weight-shift-control aircraft that includes—
+[lowerroman]
+.. One cross-country flight of over 75 nautical miles total distance that includes a point of landing that is a straight-line distance of more than 50 nautical miles from the original point of departure; and
+.. Ten takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
+. Three hours of flight training with an authorized instructor in a weight-shift-control aircraft in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test;
+. Ten hours of solo flight time in a weight-shift-control aircraft, consisting of at least—
+[lowerroman]
+.. Five hours of solo cross-country time; and
+.. One solo cross-country flight over 100 nautical miles total distance, with landings at a minimum of three points, and one segment of the flight being a straight line distance of at least 50 nautical miles between takeoff and landing locations; and
+. Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
 
 (k) *Permitted credit for use of a flight simulator or flight training device.* (1) Except as provided in paragraphs (k)(2) of this section, a maximum of 2.5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section, if received from an authorized instructor.
 
@@ -404,66 +323,68 @@ To be eligible for a private pilot certificate, a person must:
 
 (3) Except when fewer hours are approved by the Administrator, an applicant for a private pilot certificate with an airplane, rotorcraft, or powered-lift rating, who has satisfactorily completed an approved private pilot course conducted by a training center certificated under part 142 of this chapter, need only have a total of 35 hours of aeronautical experience to meet the requirements of this section.
 
-## § 61.110
+## § 61.110 - Night flying exceptions.
 
-### Night flying exceptions.
-
+[loweralpha]
 . Subject to the limitations of paragraph (b) of this section, a person is not required to comply with the night flight training requirements of this subpart if the person receives flight training in and resides in the State of Alaska.
 . A person who receives flight training in and resides in the State of Alaska but does not meet the night flight training requirements of this section:
+[arabic]
 .. May be issued a pilot certificate with a limitation “Night flying prohibited”; and
 .. Must comply with the appropriate night flight training requirements of this subpart within the 12-calendar-month period after the issuance of the pilot certificate. At the end of that period, the certificate will become invalid for use until the person complies with the appropriate night training requirements of this subpart. The person may have the “Night flying prohibited” limitation removed if the person—
+[lowerroman]
 ... Accomplishes the appropriate night flight training requirements of this subpart; and
 ... Presents to an examiner a logbook or training record endorsement from an authorized instructor that verifies accomplishment of the appropriate night flight training requirements of this subpart.
 . A person who does not meet the night flying requirements in § 61.109(d)(2), (i)(2), or (j)(2) may be issued a private pilot certificate with the limitation “Night flying prohibited.” This limitation may be removed by an examiner if the holder complies with the requirements of § 61.109(d)(2), (i)(2), or (j)(2), as appropriate.
 
-## § 61.111
+## § 61.111 - Cross-country flights: Pilots based on small islands.
 
-### Cross-country flights: Pilots based on small islands.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, an applicant located on an island from which the cross-country flight training required in § 61.109 of this part cannot be accomplished without flying over water for more than 10 nautical miles from the nearest shoreline need not comply with the requirements of that section.
 . If other airports that permit civil operations are available to which a flight may be made without flying over water for more than 10 nautical miles from the nearest shoreline, the applicant must show completion of two round-trip solo flights between those two airports that are farthest apart, including a landing at each airport on both flights.
 . An applicant who complies with paragraph (a) or paragraph (b) of this section, and meets all requirements for the issuance of a private pilot certificate, except the cross-country training requirements of § 61.109 of this part, will be issued a pilot certificate with an endorsement containing the following limitation, “Passenger carrying prohibited on flights more than 10 nautical miles from (the appropriate island).” The limitation may be subsequently amended to include another island if the applicant complies with the requirements of paragraph (b) of this section for another island.
 . Upon meeting the cross-country training requirements of § 61.109 of this part, the applicant may have the limitation in paragraph (c) of this section removed.
 
-## § 61.113
+## § 61.113 - Private pilot privileges and limitations: Pilot in command.
 
-### Private pilot privileges and limitations: Pilot in command.
-
+[loweralpha]
 . Except as provided in paragraphs (b) through (h) of this section, no person who holds a private pilot certificate may act as pilot in command of an aircraft that is carrying passengers or property for compensation or hire; nor may that person, for compensation or hire, act as pilot in command of an aircraft.
               
 . A private pilot may, for compensation or hire, act as pilot in command of an aircraft in connection with any business or employment if:
+[arabic]
 .. The flight is only incidental to that business or employment; and
 .. The aircraft does not carry passengers or property for compensation or hire.
 . A private pilot may not pay less than the pro rata share of the operating expenses of a flight with passengers, provided the expenses involve only fuel, oil, airport expenditures, or rental fees.
 . A private pilot may act as pilot in command of a charitable, nonprofit, or community event flight described in § 91.146, if the sponsor and pilot comply with the requirements of § 91.146.
 . A private pilot may be reimbursed for aircraft operating expenses that are directly related to search and location operations, provided the expenses involve only fuel, oil, airport expenditures, or rental fees, and the operation is sanctioned and under the direction and control of:
+[arabic]
 .. A local, State, or Federal agency; or
 .. An organization that conducts search and location operations.
 . A private pilot who is an aircraft salesman and who has at least 200 hours of logged flight time may demonstrate an aircraft in flight to a prospective buyer.
 . A private pilot who meets the requirements of § 61.69 may act as a pilot in command of an aircraft towing a glider or unpowered ultralight vehicle.
 . A private pilot may act as pilot in command for the purpose of conducting a production flight test in a light-sport aircraft intended for certification in the light-sport category under § 21.190 of this chapter, provided that—
+[arabic]
 .. The aircraft is a powered parachute or a weight-shift-control aircraft;
 .. The person has at least 100 hours of pilot-in-command time in the category and class of aircraft flown; and
 .. The person is familiar with the processes and procedures applicable to the conduct of production flight testing, to include operations conducted under a special flight permit and any associated operating limitations.
 
-## § 61.115
+## § 61.115 - Balloon rating: Limitations.
 
-### Balloon rating: Limitations.
-
+[loweralpha]
 . If a person who applies for a private pilot certificate with a balloon rating takes a practical test in a balloon with an airborne heater:
+[arabic]
 .. The pilot certificate will contain a limitation restricting the exercise of the privileges of that certificate to a balloon with an airborne heater; and
 .. The limitation may be removed when the person obtains the required aeronautical experience in a gas balloon and receives a logbook endorsement from an authorized instructor who attests to the person's accomplishment of the required aeronautical experience and ability to satisfactorily operate a gas balloon.
 . If a person who applies for a private pilot certificate with a balloon rating takes a practical test in a gas balloon:
+[arabic]
 .. The pilot certificate will contain a limitation restricting the exercise of the privilege of that certificate to a gas balloon; and
 .. The limitation may be removed when the person obtains the required aeronautical experience in a balloon with an airborne heater and receives a logbook endorsement from an authorized instructor who attests to the person's accomplishment of the required aeronautical experience and ability to satisfactorily operate a balloon with an airborne heater.
 
-## § 61.117
-
-### Private pilot privileges and limitations: Second in command of aircraft requiring more than one pilot.
+## § 61.117 - Private pilot privileges and limitations: Second in command of aircraft requiring more than one pilot.
 
 Except as provided in § 61.113 of this part, no private pilot may, for compensation or hire, act as second in command of an aircraft that is type certificated for more than one pilot, nor may that pilot act as second in command of such an aircraft that is carrying passengers or property for compensation or hire.
 
-## §§ 61.118-61.120
+## §§ 61.118-61.120 - Reserved
 
-### Reserved
+
+Reserved
 

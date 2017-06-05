@@ -1,114 +1,98 @@
 # Flight Release Rules
 :toc:
 
-## § 125.351
+## § 125.351 - Flight release authority.
 
-### Flight release authority.
-
+[loweralpha]
 . No person may start a flight without authority from the person authorized by the certificate holder to exercise operational control over the flight.
 . No person may start a flight unless the pilot in command or the person authorized by the cetificate holder to exercise operational control over the flight has executed a flight release setting forth the conditions under which the flight will be conducted. The pilot in command may sign the flight release only when both the pilot in command and the person authorized to exercise operational control believe the flight can be made safely, unless the pilot in command is authorized by the certificate holder to exercise operational control and execute the flight release without the approval of any other person.
 . No person may continue a flight from an intermediate airport without a new flight release if the airplane has been on the ground more than 6 hours.
 
-## § 125.353
-
-### Facilities and services.
+## § 125.353 - Facilities and services.
 
 During a flight, the pilot in command shall obtain any additional available information of meteorological conditions and irregularities of facilities and services that may affect the safety of the flight.
 
-## § 125.355
-
-### Airplane equipment.
+## § 125.355 - Airplane equipment.
 
 No person may release an airplane unless it is airworthy and is equipped as prescribed.
 
-## § 125.357
-
-### Communication and navigation facilities.
+## § 125.357 - Communication and navigation facilities.
 
 No person may release an airplane over any route or route segment unless communication and navigation facilities equal to those required by § 125.51 are in satisfactory operating condition.
 
-## § 125.359
-
-### Flight release under VFR.
+## § 125.359 - Flight release under VFR.
 
 No person may release an airplane for VFR operation unless the ceiling and visibility en route, as indicated by available weather reports or forecasts, or any combination thereof, are and will remain at or above applicable VFR minimums until the airplane arrives at the airport or airports specified in the flight release.
 
-## § 125.361
-
-### Flight release under IFR or over-the-top.
+## § 125.361 - Flight release under IFR or over-the-top.
 
 Except as provided in § 125.363, no person may release an airplane for operations under IFR or over-the-top unless appropriate weather reports or forecasts, or any combination thereof, indicate that the weather conditions will be at or above the authorized minimums at the estimated time of arrival at the airport or airports to which released.
 
-## § 125.363
+## § 125.363 - Flight release over water.
 
-### Flight release over water.
-
+[loweralpha]
 . No person may release an airplane for a flight that involves extended overwater operation unless appropriate weather reports or forecasts, or any combination thereof, indicate that the weather conditions will be at or above the authorized minimums at the estimated time of arrival at any airport to which released or to any required alternate airport.
 . Each certificate holder shall conduct extended overwater operations under IFR unless it shows that operating under IFR is not necessary for safety.
 . Each certificate holder shall conduct other overwater operations under IFR if the Administrator determines that operation under IFR is necessary for safety.
 . Each authorization to conduct extended overwater operations under VFR and each requirement to conduct other overwater operations under IFR will be specified in the operations specifications.
 
-## § 125.365
+## § 125.365 - Alternate airport for departure.
 
-### Alternate airport for departure.
-
+[loweralpha]
 . If the weather conditions at the airport of takeoff are below the landing minimums in the certificate holder's operations specifications for that airport, no person may release an airplane from that airport unless the flight release specifies an alternate airport located within the following distances from the airport of takeoff:
+[arabic]
 .. *Airplanes having two engines.* Not more than 1 hour from the departure airport at normal cruising speed in still air with one engine inoperative.
 .. *Airplanes having three or more engines.* Not more than 2 hours from the departure airport at normal cruising speed in still air with one engine inoperative.
 . For the purposes of paragraph (a) of this section, the alternate airport weather conditions must meet the requirements of the certificate holder's operations specifications.
 . No person may release an airplane from an airport unless that person lists each required alternate airport in the flight release.
 
-## § 125.367
+## § 125.367 - Alternate airport for destination: IFR or over-the-top.
 
-### Alternate airport for destination: IFR or over-the-top.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, each person releasing an airplane for operation under IFR or over-the-top shall list at least one alternate airport for each destination airport in the flight release.
 . An alternate airport need not be designated for IFR or over-the-top operations where the airplane carries enough fuel to meet the requirements of §§ 125.375 and 125.377 for flights outside the 48 conterminous States and the District of Columbia over routes without an available alternate airport for a particular airport of destination.
 . For the purposes of paragraph (a) of this section, the weather requirements at the alternate airport must meet the requirements of the operator's operations specifications.
 . No person may release a flight unless that person lists each required alternate airport in the flight release.
 
-## § 125.369
-
-### Alternate airport weather minimums.
+## § 125.369 - Alternate airport weather minimums.
 
 No person may list an airport as an alternate airport in the flight release unless the appropriate weather reports or forecasts, or any combination thereof, indicate that the weather conditions will be at or above the alternate weather minimums specified in the certificate holder's operations specifications for that airport when the flight arrives.
 
-## § 125.371
+## § 125.371 - Continuing flight in unsafe conditions.
 
-### Continuing flight in unsafe conditions.
-
+[loweralpha]
 . No pilot in command may allow a flight to continue toward any airport to which it has been released if, in the opinion of the pilot in command, the flight cannot be completed safely, unless, in the opinion of the pilot in command, there is no safer procedure. In that event, continuation toward that airport is an emergency situation.
 
-## § 125.373
+## § 125.373 - Original flight release or amendment of flight release.
 
-### Original flight release or amendment of flight release.
-
+[loweralpha]
 . A certificate holder may specify any airport authorized for the type of airplane as a destination for the purpose of original release.
 . No person may allow a flight to continue to an airport to which it has been released unless the weather conditions at an alternate airport that was specified in the flight release are forecast to be at or above the alternate minimums specified in the operations specifications for that airport at the time the airplane would arrive at the alternate airport. However, the flight release may be amended en route to include any alternate airport that is within the fuel range of the airplane as specified in § 125.375 or § 125.377.
 . No person may change an original destination or alternate airport that is specified in the original flight release to another airport while the airplane is en route unless the other airport is authorized for that type of airplane.
 . Each person who amends a flight release en route shall record that amendment.
 
-## § 125.375
+## § 125.375 - Fuel supply: Nonturbine and turbopropeller-powered airplanes.
 
-### Fuel supply: Nonturbine and turbopropeller-powered airplanes.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no person may release for flight or take off a nonturbine or turbopropeller-powered airplane unless, considering the wind and other weather conditions expected, it has enough fuel—
+[arabic]
 .. To fly to and land at the airport to which it is released;
 .. Thereafter, to fly to and land at the most distant alternate airport specified in the flight release; and
 .. Thereafter, to fly for 45 minutes at normal crusing fuel consumption.
 . If the airplane is released for any flight other than from one point in the conterminous United States to another point in the conterminous United States, it must carry enough fuel to meet the requirements of paragraphs (a) (1) and (2) of this section and thereafter fly for 30 minutes plus 15 percent of the total time required to fly at normal cruising fuel consumption to the airports specified in paragraphs (a) (1) and (2) of this section, or fly for 90 minutes at normal cruising fuel consumption, whichever is less.
 . No person may release a nonturbine or turbopropeller-powered airplane to an airport for which an alternate is not specified under § 125.367(b) unless it has enough fuel, considering wind and other weather conditions expected, to fly to that airport and thereafter to fly for 3 hours at normal cruising fuel consumption.
 
-## § 125.377
+## § 125.377 - Fuel supply: Turbine-engine-powered airplanes other than turbopropeller.
 
-### Fuel supply: Turbine-engine-powered airplanes other than turbopropeller.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no person may release for flight or takeoff a turbine-powered airplane (other than a turbopropeller-powered airplane) unless, considering the wind and other weather conditions expected, it has enough fuel—
+[arabic]
 .. To fly to and land at the airport to which it is released;
 .. Thereafter, to fly to and land at the most distant alternate airport specified in the flight release; and
 .. Thereafter, to fly for 45 minutes at normal cruising fuel consumption.
 . For any operation outside the 48 conterminous United States and the District of Columbia, unless authorized by the Administrator in the operations specifications, no person may release for flight or take off a turbine-engine powered airplane (other than a turbopropeller-powered airplane) unless, considering wind and other weather conditions expected, it has enough fuel—
               
+[arabic]
 .. To fly and land at the airport to which it is released;
 .. After that, to fly for a period of 10 percent of the total time required to fly from the airport of departure and land at the airport to which it was released;
 .. After that, to fly to and land at the most distant alternate airport specified in the flight release, if an alternate is required; and
@@ -116,38 +100,38 @@ No person may list an airport as an alternate airport in the flight release unle
 . No person may release a turbine-engine-powered airplane (other than a turbopropeller airplane) to an airport for which an alternate is not specified under § 125.367(b) unless it has enough fuel, considering wind and other weather conditions expected, to fly to that airport and thereafter to fly for at least 2 hours at normal cruising fuel consumption.
 . The Administrator may amend the operations specifications of a certificate holder to require more fuel than any of the minimums stated in paragraph (a) or (b) of this section if the Administrator finds that additional fuel is necessary on a particular route in the interest of safety.
 
-## § 125.379
+## § 125.379 - Landing weather minimums: IFR.
 
-### Landing weather minimums: IFR.
-
+[loweralpha]
 . If the pilot in command of an airplane has not served 100 hours as pilot in command in the type of airplane being operated, the MDA or DA/DH and visibility landing minimums in the certificate holder's operations specification are increased by 100 feet and one-half mile (or the RVR equivalent). The MDA or DA/DH and visibility minimums need not be increased above those applicable to the airport when used as an alternate airport, but in no event may the landing minimums be less than a 300-foot ceiling and 1 mile of visibility.
 . The 100 hours of pilot-in-command experience required by paragraph (a) may be reduced (not to exceed 50 percent) by substituting one landing in operations under this part in the type of airplane for 1 required hour of pilot-in-command experience if the pilot has at least 100 hours as pilot in command of another type airplane in operations under this part.
 . Category II minimums, when authorized in the certificate holder's operations specifications, do not apply until the pilot in command subject to paragraph (a) of this section meets the requirements of that paragraph in the type of airplane the pilot is operating.
 
-## § 125.381
+## § 125.381 - Takeoff and landing weather minimums: IFR.
 
-### Takeoff and landing weather minimums: IFR.
-
+[loweralpha]
 . Regardless of any clearance from ATC, if the reported weather conditions are less than that specified in the certificate holder's operations specifications, no pilot may—
+[arabic]
 .. Take off an airplane under IFR; or
 .. Except as provided in paragraph (c) of this section, land an airplane under IFR.
 . Except as provided in paragraph (c) of this section, no pilot may execute an instrument approach procedure if the latest reported visibility is less than the landing minimums specified in the certificate holder's operations specifications.
 . If a pilot initiates an instrument approach procedure based on a weather report that indicates that the specified visibility minimums exist and subsequently receives another weather report that indicates that conditions are below the minimum requirements, then the pilot may continue with the approach only if, the requirements of § 91.175(l) of this chapter, or both of the following conditions are met—
+[arabic]
 .. The later weather report is received when the airplane is in one of the following approach phases:
+[lowerroman]
 ... The airplane is on a ILS approach and has passed the final approach fix;
 ... The airplane is on an ASR or PAR final approach and has been turned over to the final approach controller; or
 ... The airplane is on a nonprecision final approach and the airplane—
+[upperalpha]
+.... Has passed the appropriate facility or final approach fix; or
+.... Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; and
 .. The pilot in command finds, on reaching the authorized MDA, or DA/DH, that the actual weather conditions are at or above the minimums prescribed for the procedure being used.
 
-(A) Has passed the appropriate facility or final approach fix; or
+## § 125.383 - Load manifest.
 
-(B) Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; and
-
-## § 125.383
-
-### Load manifest.
-
+[loweralpha]
 . Each certificate holder is responsible for the preparation and accuracy of a load manifest in duplicate containing information concerning the loading of the airplane. The manifest must be prepared before each takeoff and must include—
+[arabic]
 .. The number of passengers;
 .. The total weight of the loaded airplane;
 .. The maximum allowable takeoff and landing weights for that flight;

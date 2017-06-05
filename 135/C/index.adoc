@@ -1,33 +1,33 @@
 # Aircraft and Equipment
 :toc:
 
-## § 135.141
-
-### Applicability.
+## § 135.141 - Applicability.
 
 This subpart prescribes aircraft and equipment requirements for operations under this part. The requirements of this subpart are in addition to the aircraft and equipment requirements of part 91 of this chapter. However, this part does not require the duplication of any equipment required by this chapter.
 
-## § 135.143
+## § 135.143 - General requirements.
 
-### General requirements.
-
+[loweralpha]
 . No person may operate an aircraft under this part unless that aircraft and its equipment meet the applicable regulations of this chapter.
 . Except as provided in § 135.179, no person may operate an aircraft under this part unless the required instruments and equipment in it have been approved and are in an operable condition.
 . ATC transponder equipment installed within the time periods indicated below must meet the performance and environmental requirements of the following TSO's:
-.. *Through January 1, 1992:* (i) Any class of TSO-C74b or any class of TSO-C74c as appropriate, provided that the equipment was manufactured before January 1, 1990; or
+[arabic]
+.. *Through January 1, 1992:*
+[lowerroman]
+... Any class of TSO-C74b or any class of TSO-C74c as appropriate, provided that the equipment was manufactured before January 1, 1990; or
+... The appropriate class of TSO-C112 (Mode S).
 .. *After January 1, 1992:* The appropriate class of TSO-C112 (Mode S). For purposes of paragraph (c)(2) of this section, “installation” does not include—
+[lowerroman]
 ... Temporary installation of TSO-C74b or TSO-C74c substitute equipment, as appropriate, during maintenance of the permanent equipment;
 ... Reinstallation of equipment after temporary removal for maintenance; or
 ... For fleet operations, installation of equipment in a fleet aircraft after removal of the equipment for maintenance from another aircraft in the same operator's fleet.
 
-(ii) The appropriate class of TSO-C112 (Mode S).
+## § 135.144 - Portable electronic devices.
 
-## § 135.144
-
-### Portable electronic devices.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, no person may operate, nor may any operator or pilot in command of an aircraft allow the operation of, any portable electronic device on any U.S.-registered civil aircraft operating under this part.
 . Paragraph (a) of this section does not apply to—
+[arabic]
 .. Portable voice recorders;
 .. Hearing aids;
 .. Heart pacemakers;
@@ -36,20 +36,22 @@ This subpart prescribes aircraft and equipment requirements for operations under
 .. Any other portable electronic device that the part 119 certificate holder has determined will not cause interference with the navigation or communication system of the aircraft on which it is to be used.
 . The determination required by paragraph (b)(6) of this section shall be made by that part 119 certificate holder operating the aircraft on which the particular device is to be used.
 
-## § 135.145
+## § 135.145 - Aircraft proving and validation tests.
 
-### Aircraft proving and validation tests.
-
+[loweralpha]
 . No certificate holder may operate an aircraft, other than a turbojet aircraft, for which two pilots are required by this chapter for operations under VFR, if it has not previously proved such an aircraft in operations under this part in at least 25 hours of proving tests acceptable to the Administrator including—
+[arabic]
 .. Five hours of night time, if night flights are to be authorized;
 .. Five instrument approach procedures under simulated or actual conditions, if IFR flights are to be authorized; and
 .. Entry into a representative number of en route airports as determined by the Administrator.
 . No certificate holder may operate a turbojet airplane if it has not previously proved a turbojet airplane in operations under this part in at least 25 hours of proving tests acceptable to the Administrator including—
+[arabic]
 .. Five hours of night time, if night flights are to be authorized;
 .. Five instrument approach procedures under simulated or actual conditions, if IFR flights are to be authorized; and
 .. Entry into a representative number of en route airports as determined by the Administrator.
 . No certificate holder may carry passengers in an aircraft during proving tests, except those needed to make the tests and those designated by the Administrator to observe the tests. However, pilot flight training may be conducted during the proving tests.
 . Validation testing is required to determine that a certificate holder is capable of conducting operations safely and in compliance with applicable regulatory standards. Validation tests are required for the following authorizations:
+[arabic]
 .. The addition of an aircraft for which two pilots are required for operations under VFR or a turbojet airplane, if that aircraft or an aircraft of the same make or similar design has not been previously proved or validated in operations under this part.
 .. Operations outside U.S. airspace.
 .. Class II navigation authorizations.
@@ -58,31 +60,28 @@ This subpart prescribes aircraft and equipment requirements for operations under
 . Proving tests and validation tests may be conducted simultaneously when appropriate.
 . The Administrator may authorize deviations from this section if the Administrator finds that special circumstances make full compliance with this section unnecessary.
 
-## § 135.147
-
-### Dual controls required.
+## § 135.147 - Dual controls required.
 
 No person may operate an aircraft in operations requiring two pilots unless it is equipped with functioning dual controls. However, if the aircraft type certification operating limitations do not require two pilots, a throwover control wheel may be used in place of two control wheels.
 
-## § 135.149
-
-### Equipment requirements: General.
+## § 135.149 - Equipment requirements: General.
 
 No person may operate an aircraft unless it is equipped with—
 
+[loweralpha]
 . A sensitive altimeter that is adjustable for barometric pressure;
 . Heating or deicing equipment for each carburetor or, for a pressure carburetor, an alternate air source;
 . For turbojet airplanes, in addition to two gyroscopic bank-and-pitch indicators (artificial horizons) for use at the pilot stations, a third indicator that is installed in accordance with the instrument requirements prescribed in § 121.305(j) of this chapter.
 . [Reserved]
 . For turbine powered aircraft, any other equipment as the Administrator may require.
 
-## § 135.150
-
-### Public address and crewmember interphone systems.
+## § 135.150 - Public address and crewmember interphone systems.
 
 No person may operate an aircraft having a passenger seating configuration, excluding any pilot seat, of more than 19 unless it is equipped with—
 
+[loweralpha]
 . A public address system which—
+[arabic]
 .. Is capable of operation independent of the crewmember interphone system required by paragraph (b) of this section, except for handsets, headsets, microphones, selector switches, and signaling devices;
 .. Is approved in accordance with § 21.305 of this chapter;
 .. Is accessible for immediate use from each of two flight crewmember stations in the pilot compartment;
@@ -91,67 +90,70 @@ No person may operate an aircraft having a passenger seating configuration, excl
 .. Is audible at all passenger seats, lavatories, and flight attendant seats and work stations; and
 .. For transport category airplanes manufactured on or after November 27, 1990, meets the requirements of § 25.1423 of this chapter.
 . A crewmember interphone system which—
+[arabic]
 .. Is capable of operation independent of the public address system required by paragraph (a) of this section, except for handsets, headsets, microphones, selector switches, and signaling devices;
 .. Is approved in accordance with § 21.305 of this chapter;
 .. Provides a means of two-way communication between the pilot compartment and—
+[lowerroman]
 ... Each passenger compartment; and
 ... Each galley located on other than the main passenger deck level;
 .. Is accessible for immediate use from each of two flight crewmember stations in the pilot compartment;
 .. Is accessible for use from at least one normal flight attendant station in each passenger compartment;
 .. Is capable of operation within 10 seconds by a flight attendant at each of those stations in each passenger compartment from which its use is accessible; and
 .. For large turbojet-powered airplanes—
+[lowerroman]
 ... Is accessible for use at enough flight attendant stations so that all floor-level emergency exits (or entryways to those exits in the case of exits located within galleys) in each passenger compartment are observable from one or more of those stations so equipped;
 ... Has an alerting system incorporating aural or visual signals for use by flight crewmembers to alert flight attendants and for use by flight attendants to alert flight crewmembers;
               
 ... For the alerting system required by paragraph (b)(7)(ii) of this section, has a means for the recipient of a call to determine whether it is a normal call or an emergency call; and
 ... When the airplane is on the ground, provides a means of two-way communication between ground personnel and either of at least two flight crewmembers in the pilot compartment. The interphone system station for use by ground personnel must be so located that personnel using the system may avoid visible detection from within the airplane.
 
-## § 135.151
+## § 135.151 - Cockpit voice recorders.
 
-### Cockpit voice recorders.
-
+[loweralpha]
 . No person may operate a multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of six or more and for which two pilots are required by certification or operating rules unless it is equipped with an approved cockpit voice recorder that:
+[arabic]
 .. Is installed in compliance with § 23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); § 25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g), § 27.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or § 29.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
 .. Is operated continuously from the use of the check list before the flight to completion of the final check list at the end of the flight.
 . No person may operate a multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of 20 or more seats unless it is equipped with an approved cockpit voice recorder that—
+[arabic]
 .. Is installed in accordance with the requirements of § 23.1457 (except paragraphs (a)(6), (d)(1)(ii), (4), and (5)); § 25.1457 (except paragraphs (a)(6), (d)(1)(ii), (4), and (5)); § 27.1457 (except paragraphs (a)(6), (d)(1)(ii), (4), and (5)); or § 29.1457 (except paragraphs (a)(6), (d)(1)(ii), (4), and (5)) of this chapter, as applicable; and
 .. Is operated continuously from the use of the check list before the flight to completion of the final check list at the end of the flight.
 . In the event of an accident, or occurrence requiring immediate notification of the National Transportation Safety Board which results in termination of the flight, the certificate holder shall keep the recorded information for at least 60 days or, if requested by the Administrator or the Board, for a longer period. Information obtained from the record may be used to assist in determining the cause of accidents or occurrences in connection with investigations. The Administrator does not use the record in any civil penalty or certificate action.
 . For those aircraft equipped to record the uninterrupted audio signals received by a boom or a mask microphone the flight crewmembers are required to use the boom microphone below 18,000 feet mean sea level. No person may operate a large turbine engine powered airplane manufactured after October 11, 1991, or on which a cockpit voice recorder has been installed after October 11, 1991, unless it is equipped to record the uninterrupted audio signal received by a boom or mask microphone in accordance with § 25.1457(c)(5) of this chapter.
 . In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that during the operation of the recorder, information:
+[arabic]
 .. Recorded in accordance with paragraph (a) of this section and recorded more than 15 minutes earlier; or
 .. Recorded in accordance with paragraph (b) of this section and recorded more than 30 minutes earlier; may be erased or otherwise obliterated.
 . By April 7, 2012, all airplanes subject to paragraph (a) or paragraph (b) of this section that are manufactured before April 7, 2010, and that are required to have a flight data recorder installed in accordance with § 135.152, must have a cockpit voice recorder that also—
+[arabic]
 .. Meets the requirements in § 23.1457(d)(6) or § 25.1457(d)(6) of this chapter, as applicable; and
 .. If transport category, meet the requirements in § 25.1457(a)(3), (a)(4), and (a)(5) of this chapter.
 . No person may operate a multiengine, turbine-powered airplane or rotorcraft that is manufactured on or after April 7, 2010, that has a passenger seating configuration of six or more seats, for which two pilots are required by certification or operating rules, and that is required to have a flight data recorder under § 135.152, unless it is equipped with an approved cockpit voice recorder that also—
-. All airplanes or rotorcraft required by this part to have a cockpit voice recorder and a flight data recorder, that install datalink communication equipment on or after December 6, 2010, must record all datalink messages as required by the certification rule applicable to the aircraft.
-
-(i) Is installed in accordance with the requirements of § 23.1457 (except for paragraph (a)(6)); § 25.1457 (except for paragraph (a)(6)); § 27.1457 (except for paragraph (a)(6)); or § 29.1457 (except for paragraph (a)(6)) of this chapter, as applicable; and
-
-(ii) Is operated continuously from the use of the check list before the flight, to completion of the final check list at the end of the flight; and
-
-(iii) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
-
-(iv) For all airplanes or rotorcraft manufactured on or after December 6, 2010, also meets the requirements of § 23.1457(a)(6); § 25.1457(a)(6); § 27.1457(a)(6); or § 29.457(a)(6) of this chapter, as applicable.
+[lowerroman]
+.. Is installed in accordance with the requirements of § 23.1457 (except for paragraph (a)(6)); § 25.1457 (except for paragraph (a)(6)); § 27.1457 (except for paragraph (a)(6)); or § 29.1457 (except for paragraph (a)(6)) of this chapter, as applicable; and
+.. Is operated continuously from the use of the check list before the flight, to completion of the final check list at the end of the flight; and
+.. Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
+.. For all airplanes or rotorcraft manufactured on or after December 6, 2010, also meets the requirements of § 23.1457(a)(6); § 25.1457(a)(6); § 27.1457(a)(6); or § 29.457(a)(6) of this chapter, as applicable.
 
 (2) No person may operate a multiengine, turbine-powered airplane or rotorcraft that is manufactured on or after April 7, 2010, has a passenger seating configuration of 20 or more seats, and that is required to have a flight data recorder under § 135.152, unless it is equipped with an approved cockpit voice recorder that also—
 
-(i) Is installed in accordance with the requirements of § 23.1457 (except for paragraph (a)(6)); § 25.1457 (except for paragraph (a)(6)); § 27.1457 (except for paragraph (a)(6)); or § 29.1457 (except for paragraph (a)(6)) of this chapter, as applicable; and
+[lowerroman]
+. Is installed in accordance with the requirements of § 23.1457 (except for paragraph (a)(6)); § 25.1457 (except for paragraph (a)(6)); § 27.1457 (except for paragraph (a)(6)); or § 29.1457 (except for paragraph (a)(6)) of this chapter, as applicable; and
+. Is operated continuously from the use of the check list before the flight, to completion of the final check list at the end of the flight; and
+. Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
+. For all airplanes or rotorcraft manufactured on or after December 6, 2010, also meets the requirements of § 23.1457(a)(6); § 25.1457(a)(6); § 27.1457(a)(6); or § 29.457(a)(6) of this chapter, as applicable.
 
-(ii) Is operated continuously from the use of the check list before the flight, to completion of the final check list at the end of the flight; and
+(h) All airplanes or rotorcraft required by this part to have a cockpit voice recorder and a flight data recorder, that install datalink communication equipment on or after December 6, 2010, must record all datalink messages as required by the certification rule applicable to the aircraft.
 
-(iii) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
+## § 135.152 - Flight data recorders.
 
-(iv) For all airplanes or rotorcraft manufactured on or after December 6, 2010, also meets the requirements of § 23.1457(a)(6); § 25.1457(a)(6); § 27.1457(a)(6); or § 29.457(a)(6) of this chapter, as applicable.
-
-## § 135.152
-
-### Flight data recorders.
-
+[loweralpha]
 . Except as provided in paragraph (k) of this section, no person may operate under this part a multi-engine, turbine-engine powered airplane or rotorcraft having a passenger seating configuration, excluding any required crewmember seat, of 10 to 19 seats, that was either brought onto the U.S. register after, or was registered outside the United States and added to the operator's U.S. operations specifications after, October 11, 1991, unless it is equipped with one or more approved flight recorders that use a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The parameters specified in either Appendix B or C of this part, as applicable must be recorded within the range, accuracy, resolution, and recording intervals as specified. The recorder shall retain no less than 25 hours of aircraft operation.
 . After October 11, 1991, no person may operate a multiengine, turbine-powered airplane having a passenger seating configuration of 20 to 30 seats or a multiengine, turbine-powered rotorcraft having a passenger seating configuration of 20 or more seats unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data, and a method of readily retrieving that data from the storage medium. The parameters in appendix D or E of this part, as applicable, that are set forth below, must be recorded within the ranges, accuracies, resolutions, and sampling intervals as specified.
+[arabic]
 .. Except as provided in paragraph (b)(3) of this section for aircraft type certificated before October 1, 1969, the following parameters must be recorded:
+[lowerroman]
 ... Time;
 ... Altitude;
 ... Airspeed;
@@ -164,6 +166,7 @@ No person may operate an aircraft having a passenger seating configuration, excl
 ... Control column or pitch control surface position; and
 ... Thrust of each engine.
 .. Except as provided in paragraph (b)(3) of this section for aircraft type certificated after September 30, 1969, the following parameters must be recorded:
+[lowerroman]
 ... Time;
 ... Altitude;
 ... Airspeed;
@@ -186,25 +189,118 @@ No person may operate an aircraft having a passenger seating configuration, excl
 . Except as provided in paragraph (c) of this section, and except for recorded data erased as authorized in this paragraph, each certificate holder shall keep the recorded data prescribed in paragraph (a) of this section until the aircraft has been operating for at least 25 hours of the operating time specified in paragraph (c) of this section. In addition, each certificate holder shall keep the recorded data prescribed in paragraph (b) of this section for an airplane until the airplane has been operating for at least 25 hours, and for a rotorcraft until the rotorcraft has been operating for at least 10 hours, of the operating time specified in paragraph (c) of this section. A total of 1 hour of recorded data may be erased for the purpose of testing the flight recorder or the flight recorder system. Any erasure made in accordance with this paragraph must be of the oldest recorded data accumulated at the time of testing. Except as provided in paragraph (c) of this section, no record need be kept more than 60 days.
 . In the event of an accident or occurrence that requires the immediate notification of the National Transportation Safety Board under 49 CFR part 830 of its regulations and that results in termination of the flight, the certificate holder shall remove the recording media from the aircraft and keep the recorded data required by paragraphs (a) and (b) of this section for at least 60 days or for a longer period upon request of the Board or the Administrator.
 . For airplanes manufactured on or before August 18, 2000, and all other aircraft, each flight recorder required by this section must be installed in accordance with the requirements of § 23.1459 (except paragraphs (a)(3)(ii) and (6)), § 25.1459 (except paragraphs (a)(3)(ii) and (7)), § 27.1459 (except paragraphs (a)(3)(ii) and (6)), or § 29.1459 (except paragraphs (a)(3)(ii) and (6)), as appropriate, of this chapter. The correlation required by paragraph (c) of §§ 23.1459, 25.1459, 27.1459, or 29.1459 of this chapter, as appropriate, need be established only on one aircraft of a group of aircraft:
-. Each flight recorder required by this section that records the data specified in paragraphs (a) and (b) of this section must have an approved device to assist in locating that recorder under water.
-. The operational parameters required to be recorded by digital flight data recorders required by paragraphs (i) and (j) of this section are as follows, the phrase “when an information source is installed” following a parameter indicates that recording of that parameter is not intended to require a change in installed equipment.
-.. Meets the requirements of § 23.1459(a)(3), (a)(6), and (a)(7), § 25.1459(a)(3), (a)(7), and (a)(8), § 27.1459(a)(3), (a)(6), and (e), or § 29.1459(a)(3), (a)(6), and (e) of this chapter, as applicable; and
-.. Retains the 25 hours of recorded information required in paragraph (d) of this section using a recorder that meets the standards of TSO-C124a, or later revision.
-
-(i) That are of the same type;
-
-(ii) On which the flight recorder models and their installations are the same; and
+[lowerroman]
+.. That are of the same type;
+.. On which the flight recorder models and their installations are the same; and
               
-
-(iii) On which there are no differences in the type designs with respect to the installation of the first pilot's instruments associated with the flight recorder. The most recent instrument calibration, including the recording medium from which this calibration is derived, and the recorder correlation must be retained by the certificate holder.
+.. On which there are no differences in the type designs with respect to the installation of the first pilot's instruments associated with the flight recorder. The most recent instrument calibration, including the recording medium from which this calibration is derived, and the recorder correlation must be retained by the certificate holder.
 
 (2) For airplanes manufactured after August 18, 2000, each flight data recorder system required by this section must be installed in accordance with the requirements of § 23.1459(a) (except paragraphs (a)(3)(ii) and (6)), (b), (d) and (e), or § 25.1459(a) (except paragraphs (a)(3)(ii) and (7)), (b), (d) and (e) of this chapter. A correlation must be established between the values recorded by the flight data recorder and the corresponding values being measured. The correlation must contain a sufficient number of correlation points to accurately establish the conversion from the recorded values to engineering units or discrete state over the full operating range of the parameter. Except for airplanes having separate altitude and airspeed sensors that are an integral part of the flight data recorder system, a single correlation may be established for any group of airplanes—
 
-(i) That are of the same type;
+[lowerroman]
+. That are of the same type;
+. On which the flight recorder system and its installation are the same; and
+. On which there is no difference in the type design with respect to the installation of those sensors associated with the flight data recorder system. Documentation sufficient to convert recorded data into the engineering units and discrete values specified in the applicable appendix must be maintained by the certificate holder.
 
-(ii) On which the flight recorder system and its installation are the same; and
+(g) Each flight recorder required by this section that records the data specified in paragraphs (a) and (b) of this section must have an approved device to assist in locating that recorder under water.
 
-(iii) On which there is no difference in the type design with respect to the installation of those sensors associated with the flight data recorder system. Documentation sufficient to convert recorded data into the engineering units and discrete values specified in the applicable appendix must be maintained by the certificate holder.
+(h) The operational parameters required to be recorded by digital flight data recorders required by paragraphs (i) and (j) of this section are as follows, the phrase “when an information source is installed” following a parameter indicates that recording of that parameter is not intended to require a change in installed equipment.
+
+[arabic]
+. Time;
+. Pressure altitude;
+. Indicated airspeed;
+. Heading—primary flight crew reference (if selectable, record discrete, true or magnetic);
+. Normal acceleration (Vertical);
+. Pitch attitude;
+. Roll attitude;
+. Manual radio transmitter keying, or CVR/DFDR synchronization reference;
+. Thrust/power of each engine—primary flight crew reference;
+. Autopilot engagement status;
+. Longitudinal acceleration;
+. Pitch control input;
+. Lateral control input;
+. Rudder pedal input;
+. Primary pitch control surface position;
+. Primary lateral control surface position;
+. Primary yaw control surface position;
+. Lateral acceleration;
+. Pitch trim surface position or parameters of paragraph (h)(82) of this section if currently recorded;
+. Trailing edge flap or cockpit flap control selection (except when parameters of paragraph (h)(85) of this section apply);
+. Leading edge flap or cockpit flap control selection (except when parameters of paragraph (h)(86) of this section apply);
+. Each Thrust reverser position (or equivalent for propeller airplane);
+. Ground spoiler position or speed brake selection (except when parameters of paragraph (h)(87) of this section apply);
+. Outside or total air temperature;
+. Automatic Flight Control System (AFCS) modes and engagement status, including autothrottle;
+. Radio altitude (when an information source is installed);
+. Localizer deviation, MLS Azimuth;
+. Glideslope deviation, MLS Elevation;
+. Marker beacon passage;
+. Master warning;
+. Air/ground sensor (primary airplane system reference nose or main gear);
+              
+. Angle of attack (when information source is installed);
+. Hydraulic pressure low (each system);
+. Ground speed (when an information source is installed);
+. Ground proximity warning system;
+. Landing gear position or landing gear cockpit control selection;
+. Drift angle (when an information source is installed);
+. Wind speed and direction (when an information source is installed);
+. Latitude and longitude (when an information source is installed);
+. Stick shaker/pusher (when an information source is installed);
+. Windshear (when an information source is installed);
+. Throttle/power lever position;
+. Additional engine parameters (as designated in appendix F of this part);
+. Traffic alert and collision avoidance system;
+. DME 1 and 2 distances;
+. Nav 1 and 2 selected frequency;
+. Selected barometric setting (when an information source is installed);
+. Selected altitude (when an information source is installed);
+. Selected speed (when an information source is installed);
+. Selected mach (when an information source is installed);
+. Selected vertical speed (when an information source is installed);
+. Selected heading (when an information source is installed);
+. Selected flight path (when an information source is installed);
+. Selected decision height (when an information source is installed);
+. EFIS display format;
+. Multi-function/engine/alerts display format;
+. Thrust command (when an information source is installed);
+. Thrust target (when an information source is installed);
+. Fuel quantity in CG trim tank (when an information source is installed);
+. Primary Navigation System Reference;
+. Icing (when an information source is installed);
+. Engine warning each engine vibration (when an information source is installed);
+. Engine warning each engine over temp. (when an information source is installed);
+. Engine warning each engine oil pressure low (when an information source is installed);
+. Engine warning each engine over speed (when an information source is installed;
+. Yaw trim surface position;
+. Roll trim surface position;
+. Brake pressure (selected system);
+. Brake pedal application (left and right);
+. Yaw or sideslip angle (when an information source is installed);
+. Engine bleed valve position (when an information source is installed);
+. De-icing or anti-icing system selection (when an information source is installed);
+. Computed center of gravity (when an information source is installed);
+. AC electrical bus status;
+. DC electrical bus status;
+. APU bleed valve position (when an information source is installed);
+. Hydraulic pressure (each system);
+. Loss of cabin pressure;
+. Computer failure;
+. Heads-up display (when an information source is installed);
+. Para-visual display (when an information source is installed);
+. Cockpit trim control input position—pitch;
+. Cockpit trim control input position—roll;
+. Cockpit trim control input position—yaw;
+. Trailing edge flap and cockpit flap control position;
+. Leading edge flap and cockpit flap control position;
+. Ground spoiler position and speed brake selection; and
+. All cockpit flight control input forces (control wheel, control column, rudder pedal).
+[lowerroman]
+.. For all turbine-engine powered airplanes with a seating configuration, excluding any required crewmember seat, of 10 to 30 passenger seats, manufactured after August 18, 2000—
+[arabic]
+... The parameters listed in paragraphs (h)(1) through (h)(57) of this section must be recorded within the ranges, accuracies, resolutions, and recording intervals specified in Appendix F of this part.
+... Commensurate with the capacity of the recording system, all additional parameters for which information sources are installed and which are connected to the recording system must be recorded within the ranges, accuracies, resolutions, and sampling intervals specified in Appendix F of this part.
 
 (j) For all turbine-engine-powered airplanes with a seating configuration, excluding any required crewmember seat, of 10 to 30 passenger seats, that are manufactured after August 19, 2002 the parameters listed in paragraph (a)(1) through (a)(88) of this section must be recorded within the ranges, accuracies, resolutions, and recording intervals specified in Appendix F of this part.
 
@@ -214,92 +310,105 @@ No person may operate an aircraft having a passenger seating configuration, excl
 
 (m) All aircraft manufactured on or after April 7, 2010, must have a flight data recorder installed that also—
 
-## § 135.153 
+[arabic]
+. Meets the requirements of § 23.1459(a)(3), (a)(6), and (a)(7), § 25.1459(a)(3), (a)(7), and (a)(8), § 27.1459(a)(3), (a)(6), and (e), or § 29.1459(a)(3), (a)(6), and (e) of this chapter, as applicable; and
+. Retains the 25 hours of recorded information required in paragraph (d) of this section using a recorder that meets the standards of TSO-C124a, or later revision.
 
-### Reserved
+## § 135.153  - Reserved
 
-## § 135.154
 
-### Terrain awareness and warning system.
+Reserved
 
+## § 135.154 - Terrain awareness and warning system.
+
+[loweralpha]
 . *Airplanes manufactured after March 29, 2002:*
               
+[arabic]
 .. No person may operate a turbine-powered airplane configured with 10 or more passenger seats, excluding any pilot seat, unless that airplane is equipped with an approved terrain awareness and warning system that meets the requirements for Class A equipment in Technical Standard Order (TSO)-C151. The airplane must also include an approved terrain situational awareness display.
 .. No person may operate a turbine-powered airplane configured with 6 to 9 passenger seats, excluding any pilot seat, unless that airplane is equipped with an approved terrain awareness and warning system that meets as a minimum the requirements for Class B equipment in Technical Standard Order (TSO)-C151.
 . *Airplanes manufactured on or before March 29, 2002:*
               
+[arabic]
 .. No person may operate a turbine-powered airplane configured with 10 or more passenger seats, excluding any pilot seat, after March 29, 2005, unless that airplane is equipped with an approved terrain awareness and warning system that meets the requirements for Class A equipment in Technical Standard Order (TSO)-C151. The airplane must also include an approved terrain situational awareness display.
 .. No person may operate a turbine-powered airplane configured with 6 to 9 passenger seats, excluding any pilot seat, after March 29, 2005, unless that airplane is equipped with an approved terrain awareness and warning system that meets as a minimum the requirements for Class B equipment in Technical Standard Order (TSO)-C151.
 . *Airplane Flight Manual.* The Airplane Flight Manual shall contain appropriate procedures for—
+[arabic]
 .. The use of the terrain awareness and warning system; and
 .. Proper flight crew reaction in response to the terrain awareness and warning system audio and visual warnings.
 
-## § 135.155
-
-### Fire extinguishers: Passenger-carrying aircraft.
+## § 135.155 - Fire extinguishers: Passenger-carrying aircraft.
 
 No person may operate an aircraft carrying passengers unless it is equipped with hand fire extinguishers of an approved type for use in crew and passenger compartments as follows—
 
+[loweralpha]
 . The type and quantity of extinguishing agent must be suitable for the kinds of fires likely to occur;
 . At least one hand fire extinguisher must be provided and conveniently located on the flight deck for use by the flight crew; and
 . At least one hand fire extinguisher must be conveniently located in the passenger compartment of each aircraft having a passenger seating configuration, excluding any pilot seat, of at least 10 seats but less than 31 seats.
 
-## § 135.156
+## § 135.156 - Flight data recorders: filtered data.
 
-### Flight data recorders: filtered data.
-
+[loweralpha]
 . A flight data signal is filtered when an original sensor signal has been changed in any way, other than changes necessary to:
+[arabic]
 .. Accomplish analog to digital conversion of the signal;
 .. Format a digital signal to be DFDR compatible; or
 .. Eliminate a high frequency component of a signal that is outside the operational bandwidth of the sensor.
 . An original sensor signal for any flight recorder parameter required to be recorded under § 135.152 may be filtered only if the recorded signal value continues to meet the requirements of Appendix D or F of this part, as applicable.
 . For a parameter described in § 135.152(h)(12) through (17), (42), or (88), or the corresponding parameter in Appendix D of this part, if the recorded signal value is filtered and does not meet the requirements of Appendix D or F of this part, as applicable, the certificate holder must:
+[arabic]
 .. Remove the filtering and ensure that the recorded signal value meets the requirements of Appendix D or F of this part, as applicable; or
 .. Demonstrate by test and analysis that the original sensor signal value can be reconstructed from the recorded data. This demonstration requires that:
+[lowerroman]
 ... The FAA determine that the procedure and test results submitted by the certificate holder as its compliance with paragraph (c)(2) of this section are repeatable; and
 ... The certificate holder maintains documentation of the procedure required to reconstruct the original sensor signal value. This documentation is also subject to the requirements of § 135.152(e).
 . *Compliance.* Compliance is required as follows:
+[arabic]
 .. No later than October 20, 2011, each operator must determine, for each aircraft on its operations specifications, whether the aircraft's DFDR system is filtering any of the parameters listed in paragraph (c) of this section. The operator must create a record of this determination for each aircraft it operates, and maintain it as part of the correlation documentation required by § 135.152 (f)(1)(iii) or (f)(2)(iii) of this part as applicable.
 .. For aircraft that are not filtering any listed parameter, no further action is required unless the aircraft's DFDR system is modified in a manner that would cause it to meet the definition of filtering on any listed parameter.
 .. For aircraft found to be filtering a parameter listed in paragraph (c) of this section the operator must either:
+[lowerroman]
 ... No later than April 21, 2014, remove the filtering; or
 ... No later than April 22, 2013, submit the necessary procedure and test results required by paragraph (c)(2) of this section.
 .. After April 21, 2014, no aircraft flight data recording system may filter any parameter listed in paragraph (c) of this section that does not meet the requirements of Appendix D or F of this part, unless the certificate holder possesses test and analysis procedures and the test results that have been approved by the FAA. All records of tests, analysis and procedures used to comply with this section must be maintained as part of the correlation documentation required by § 135.152 (f)(1)(iii) or (f)(2)(iii) of this part as applicable.
 
-## § 135.157
+## § 135.157 - Oxygen equipment requirements.
 
-### Oxygen equipment requirements.
-
+[loweralpha]
 . *Unpressurized aircraft.* No person may operate an unpressurized aircraft at altitudes prescribed in this section unless it is equipped with enough oxygen dispensers and oxygen to supply the pilots under § 135.89(a) and to supply, when flying—
+[arabic]
 .. At altitudes above 10,000 feet through 15,000 feet MSL, oxygen to at least 10 percent of the occupants of the aircraft, other than the pilots, for that part of the flight at those altitudes that is of more than 30 minutes duration; and
 .. Above 15,000 feet MSL, oxygen to each occupant of the aircraft other than the pilots.
 . *Pressurized aircraft.* No person may operate a pressurized aircraft—
+[arabic]
 .. At altitudes above 25,000 feet MSL, unless at least a 10-minute supply of supplemental oxygen is available for each occupant of the aircraft, other than the pilots, for use when a descent is necessary due to loss of cabin pressurization; and
 .. Unless it is equipped with enough oxygen dispensers and oxygen to comply with paragraph (a) of this section whenever the cabin pressure altitude exceeds 10,000 feet MSL and, if the cabin pressurization fails, to comply with § 135.89 (a) or to provide a 2-hour supply for each pilot, whichever is greater, and to supply when flying—
+[lowerroman]
 ... At altitudes above 10,000 feet through 15,000 feet MSL, oxygen to at least 10 percent of the occupants of the aircraft, other than the pilots, for that part of the flight at those altitudes that is of more than 30 minutes duration; and
 ... Above 15,000 feet MSL, oxygen to each occupant of the aircraft, other than the pilots, for one hour unless, at all times during flight above that altitude, the aircraft can safely descend to 15,000 feet MSL within four minutes, in which case only a 30-minute supply is required.
 . The equipment required by this section must have a means—
+[arabic]
 .. To enable the pilots to readily determine, in flight, the amount of oxygen available in each source of supply and whether the oxygen is being delivered to the dispensing units; or
 .. In the case of individual dispensing units, to enable each user to make those determinations with respect to that person's oxygen supply and delivery; and
 .. To allow the pilots to use undiluted oxygen at their discretion at altitudes above 25,000 feet MSL.
 
-## § 135.158
+## § 135.158 - Pitot heat indication systems.
 
-### Pitot heat indication systems.
-
+[loweralpha]
 . Except as provided in paragraph (b) of this section, after April 12, 1981, no person may operate a transport category airplane equipped with a flight instrument pitot heating system unless the airplane is also equipped with an operable pitot heat indication system that complies with § 25.1326 of this chapter in effect on April 12, 1978.
 . A certificate holder may obtain an extension of the April 12, 1981, compliance date specified in paragraph (a) of this section, but not beyond April 12, 1983, from the Director, Flight Standards Service if the certificate holder—
+[arabic]
 .. Shows that due to circumstances beyond its control it cannot comply by the specified compliance date; and
 .. Submits by the specified compliance date a schedule for compliance, acceptable to the Director, indicating that compliance will be achieved at the earliest practicable date.
 
-## § 135.159
-
-### Equipment requirements: Carrying passengers under VFR at night or under VFR over-the-top conditions.
+## § 135.159 - Equipment requirements: Carrying passengers under VFR at night or under VFR over-the-top conditions.
 
 No person may operate an aircraft carrying passengers under VFR at night or under VFR over-the-top, unless it is equipped with—
 
+[loweralpha]
 . A gyroscopic rate-of-turn indicator except on the following aircraft:
               
+[arabic]
 .. Airplanes with a third attitude instrument system usable through flight attitudes of 360 degrees of pitch-and-roll and installed in accordance with the instrument requirements prescribed in § 121.305(j) of this chapter.
 .. Helicopters with a third attitude instrument system usable through flight attitudes of ±80 degrees of pitch and ±120 degrees of roll and installed in accordance with § 29.1303(g) of this chapter.
 .. Helicopters with a maximum certificated takeoff weight of 6,000 pounds or less.
@@ -308,90 +417,99 @@ No person may operate an aircraft carrying passengers under VFR at night or unde
 . A gyroscopic direction indicator.
 . A generator or generators able to supply all probable combinations of continuous in-flight electrical loads for required equipment and for recharging the battery.
 . For night flights—
+[arabic]
 .. An anticollision light system;
 .. Instrument lights to make all instruments, switches, and gauges easily readable, the direct rays of which are shielded from the pilots' eyes; and
 .. A flashlight having at least two size “D” cells or equivalent.
 . For the purpose of paragraph (e) of this section, a continuous in-flight electrical load includes one that draws current continuously during flight, such as radio equipment and electrically driven instruments and lights, but does not include occasional intermittent loads.
 . Notwithstanding provisions of paragraphs (b), (c), and (d), helicopters having a maximum certificated takeoff weight of 6,000 pounds or less may be operated until January 6, 1988, under visual flight rules at night without a slip skid indicator, a gyroscopic bank-and-pitch indicator, or a gyroscopic direction indicator.
 
-## § 135.160
+## § 135.160 - Radio altimeters for rotorcraft operations.
 
-### Radio altimeters for rotorcraft operations.
-
+[loweralpha]
 . After April 24, 2017, no person may operate a rotorcraft unless that rotorcraft is equipped with an operable FAA-approved radio altimeter, or an FAA-approved device that incorporates a radio altimeter, unless otherwise authorized in the certificate holder's approved minimum equipment list.
 . Deviation authority. The Administrator may authorize deviations from paragraph (a) of this section for rotorcraft that are unable to incorporate a radio altimeter. This deviation will be issued as a Letter of Deviation Authority. The deviation may be terminated or amended at any time by the Administrator. The request for deviation authority is applicable to rotorcraft with a maximum gross takeoff weight no greater than 2,950 pounds. The request for deviation authority must contain a complete statement of the circumstances and justification, and must be submitted to the nearest Flight Standards District Office, not less than 60 days prior to the date of intended operations.
 
-## § 135.161
+## § 135.161 - Communication and navigation equipment for aircraft operations under VFR over routes navigated by pilotage.
 
-### Communication and navigation equipment for aircraft operations under VFR over routes navigated by pilotage.
-
+[loweralpha]
 . No person may operate an aircraft under VFR over routes that can be navigated by pilotage unless the aircraft is equipped with the two-way radio communication equipment necessary under normal operating conditions to fulfill the following:
+[arabic]
 .. Communicate with at least one appropriate station from any point on the route, except in remote locations and areas of mountainous terrain where geographical constraints make such communication impossible.
 .. Communicate with appropriate air traffic control facilities from any point within Class B, Class C, or Class D airspace, or within a Class E surface area designated for an airport in which flights are intended; and
 .. Receive meteorological information from any point en route, except in remote locations and areas of mountainous terrain where geographical constraints make such communication impossible.
 . No person may operate an aircraft at night under VFR over routes that can be navigated by pilotage unless that aircraft is equipped with—
               
+[arabic]
 .. Two-way radio communication equipment necessary under normal operating conditions to fulfill the functions specified in paragraph (a) of this section; and
 .. Navigation equipment suitable for the route to be flown.
 
-## § 135.163
-
-### Equipment requirements: Aircraft carrying passengers under IFR.
+## § 135.163 - Equipment requirements: Aircraft carrying passengers under IFR.
 
 No person may operate an aircraft under IFR, carrying passengers, unless it has—
 
+[loweralpha]
 . A vertical speed indicator;
 . A free-air temperature indicator;
 . A heated pitot tube for each airspeed indicator;
 . A power failure warning device or vacuum indicator to show the power available for gyroscopic instruments from each power source;
 . An alternate source of static pressure for the altimeter and the airspeed and vertical speed indicators;
 . For a single-engine aircraft:
+[arabic]
 .. Two independent electrical power generating sources each of which is able to supply all probable combinations of continuous inflight electrical loads for required instruments and equipment; or
 .. In addition to the primary electrical power generating source, a standby battery or an alternate source of electric power that is capable of supplying 150% of the electrical loads of all required instruments and equipment necessary for safe emergency operation of the aircraft for at least one hour;
 . For multi-engine aircraft, at least two generators or alternators each of which is on a separate engine, of which any combination of one-half of the total number are rated sufficiently to supply the electrical loads of all required instruments and equipment necessary for safe emergency operation of the aircraft except that for multi-engine helicopters, the two required generators may be mounted on the main rotor drive train; and
 . Two independent sources of energy (with means of selecting either) of which at least one is an engine-driven pump or generator, each of which is able to drive all required gyroscopic instruments powered by, or to be powered by, that particular source and installed so that failure of one instrument or source, does not interfere with the energy supply to the remaining instruments or the other energy source unless, for single-engine aircraft in all cargo operations only, the rate of turn indicator has a source of energy separate from the bank and pitch and direction indicators. For the purpose of this paragraph, for multi-engine aircraft, each engine-driven source of energy must be on a different engine.
-. For the purpose of paragraph (f) of this section, a continuous inflight electrical load includes one that draws current continuously during flight, such as radio equipment, electrically driven instruments, and lights, but does not include occasional intermittent loads.
+[lowerroman]
+.. For the purpose of paragraph (f) of this section, a continuous inflight electrical load includes one that draws current continuously during flight, such as radio equipment, electrically driven instruments, and lights, but does not include occasional intermittent loads.
 
-## § 135.165
+## § 135.165 - Communication and navigation equipment: Extended over-water or IFR operations.
 
-### Communication and navigation equipment: Extended over-water or IFR operations.
-
+[loweralpha]
 . *Aircraft navigation equipment requirements*—*General.* Except as provided in paragraph (g) of this section, no person may conduct operations under IFR or extended over-water unless—
+[arabic]
 .. The en route navigation aids necessary for navigating the aircraft along the route (e.g., ATS routes, arrival and departure routes, and instrument approach procedures, including missed approach procedures if a missed approach routing is specified in the procedure) are available and suitable for use by the navigation systems required by this section:
 .. The aircraft used in extended over-water operations is equipped with at least two-approved independent navigation systems suitable for navigating the aircraft along the route to be flown within the degree of accuracy required for ATC.
 .. The aircraft used for IFR operations is equipped with at least—
+[lowerroman]
 ... One marker beacon receiver providing visual and aural signals; and
 ... One ILS receiver.
               
 .. Any RNAV system used to meet the navigation equipment requirements of this section is authorized in the certificate holder's operations specifications.
 . *Use of a single independent navigation system for IFR operations.* The aircraft may be equipped with a single independent navigation system suitable for navigating the aircraft along the route to be flown within the degree of accuracy required for ATC if:
+[arabic]
 .. It can be shown that the aircraft is equipped with at least one other independent navigation system suitable, in the event of loss of the navigation capability of the single independent navigation system permitted by this paragraph at any point along the route, for proceeding safely to a suitable airport and completing an instrument approach; and
 .. The aircraft has sufficient fuel so that the flight may proceed safely to a suitable airport by use of the remaining navigation system, and complete an instrument approach and land.
 . *VOR navigation equipment.* Whenever VOR navigation equipment is required by paragraph (a) or (b) of this section, no person may operate an aircraft unless it is equipped with at least one approved DME or suitable RNAV system.
 . *Airplane communication equipment requirements.* Except as permitted in paragraph (e) of this section, no person may operate a turbojet airplane having a passenger seat configuration, excluding any pilot seat, of 10 seats or more, or a multiengine airplane in a commuter operation, as defined in part 119 of this chapter, under IFR or in extended over-water operations unless the airplane is equipped with—
+[arabic]
 .. At least two independent communication systems necessary under normal operating conditions to fulfill the functions specified in § 121.347(a) of this chapter; and
 .. At least one of the communication systems required by paragraph (d)(1) of this section must have two-way voice communication capability.
 . *IFR or extended over-water communications equipment requirements.* A person may operate an aircraft other than that specified in paragraph (d) of this section under IFR or in extended over-water operations if it meets all of the requirements of this section, with the exception that only one communication system transmitter is required for operations other than extended over-water operations.
 . *Additional aircraft communication equipment requirements.* In addition to the requirements in paragraphs (d) and (e) of this section, no person may operate an aircraft under IFR or in extended over-water operations unless it is equipped with at least:
+[arabic]
 .. Two microphones; and
 .. Two headsets or one headset and one speaker.
 . *Extended over-water exceptions.* Notwithstanding the requirements of paragraphs (a), (d), and (e) of this section, installation and use of a single long-range navigation system and a single long-range communication system for extended over-water operations in certain geographic areas may be authorized by the Administrator and approved in the certificate holder's operations specifications. The following are among the operational factors the Administrator may consider in granting an authorization:
+[arabic]
 .. The ability of the flight crew to navigate the airplane along the route within the degree of accuracy required for ATC;
 .. The length of the route being flown; and
 .. The duration of the very high frequency communications gap.
 
-## § 135.167
+## § 135.167 - Emergency equipment: Extended overwater operations.
 
-### Emergency equipment: Extended overwater operations.
-
+[loweralpha]
 . Except where the Administrator, by amending the operations specifications of the certificate holder, requires the carriage of all or any specific items of the equipment listed below for any overwater operation, or, upon application of the certificate holder, the Administrator allows deviation for a particular extended overwater operation, no person may operate an aircraft in extended overwater operations unless it carries, installed in conspicuously marked locations easily accessible to the occupants if a ditching occurs, the following equipment:
               
+[arabic]
 .. An approved life preserver equipped with an approved survivor locator light for each occupant of the aircraft. The life preserver must be easily accessible to each seated occupant.
 .. Enough approved liferafts of a rated capacity and buoyancy to accommodate the occupants of the aircraft.
 . Each liferaft required by paragraph (a) of this section must be equipped with or contain at least the following:
+[arabic]
 .. One approved survivor locator light.
 .. One approved pyrotechnic signaling device.
 .. Either—
+[lowerroman]
 ... One survival kit, appropriately equipped for the route to be flown; or
 ... One canopy (for sail, sunshade, or rain catcher);
 ... One radar reflector;
@@ -413,44 +531,57 @@ No person may operate an aircraft under IFR, carrying passengers, unless it has�
 ... One book on survival appropriate for the area in which the aircraft is operated.
 . No person may operate an airplane in extended overwater operations unless there is attached to one of the life rafts required by paragraph (a) of this section, an approved survival type emergency locator transmitter. Batteries used in this transmitter must be replaced (or recharged, if the batteries are rechargeable) when the transmitter has been in use for more than 1 cumulative hour, or, when 50 percent of their useful life (or for rechargeable batteries, 50 percent of their useful life of charge) has expired, as established by the transmitter manufacturer under its approval. The new expiration date for replacing (or recharging) the battery must be legibly marked on the outside of the transmitter. The battery useful life (or useful life of charge) requirements of this paragraph do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals.
 
-## § 135.168
+## § 135.168 - Emergency equipment: Overwater rotorcraft operations.
 
-### Emergency equipment: Overwater rotorcraft operations.
-
+[loweralpha]
 . *Definitions.* For the purposes of this section, the following definitions apply—
-. *Required equipment.* After April 24, 2017, except as provided for in paragraph (c), when authorized by the certificate holder's operations specifications, or when necessary only for takeoff or landing, no person may operate a rotorcraft beyond autorotational distance from the shoreline unless it carries:
-.. An approved life preserver equipped with an approved survivor locator light for each occupant of the rotorcraft. The life preserver must be worn by each occupant while the rotorcraft is beyond autorotational distance from the shoreline, except for a patient transported during a helicopter air ambulance operation, as defined in § 135.601(b)(1), when wearing a life preserver would be inadvisable for medical reasons; and
-              
-.. An approved and installed 406 MHz emergency locator transmitter (ELT) with 121.5 MHz homing capability. Batteries used in ELTs must be maintained in accordance with the following—
-... Non-rechargeable batteries must be replaced when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful lives have expired, as established by the transmitter manufacturer under its approval. The new expiration date for replacing the batteries must be legibly marked on the outside of the transmitter. The battery useful life requirements of this paragraph (b)(2) do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals; or
-... Rechargeable batteries used in the transmitter must be recharged when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful-life-of-charge has expired, as established by the transmitter manufacturer under its approval. The new expiration date for recharging the batteries must be legibly marked on the outside of the transmitter. The battery useful-life-of-charge requirements of this paragraph (b)(2) do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals.
-. *Maintenance.* The equipment required by this section must be maintained in accordance with § 135.419.
-. *ELT standards.* The ELT required by paragraph (b)(2) of this section must meet the requirements in:
-.. TSO-C126, TSO-C126a, or TSO-C126b; and
-.. Section 2 of either RTCA DO-204 or RTCA DO-204A, as specified by the TSO complied with in paragraph (d)(1) of this section.
-. *ELT alternative compliance.* Operators with an ELT required by paragraph (b)(2) of this section, or an ELT with an approved deviation under § 21.618 of this chapter, are in compliance with this section.
-. *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FAA must publish notice of change in the *Federal Register* and the material must be available to the public. All approved material is available for inspection at the FAA's Office of Rulemaking (ARM-1), 800 Independence Avenue SW., Washington, DC 20591 (telephone (202) 267-9677) and from the sources indicated below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or go to *http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.*
-              
-.. U.S. Department of Transportation, Subsequent Distribution Office, DOT Warehouse M30, Ardmore East Business Center, 3341 Q 75th Avenue, Landover, MD 20785; telephone (301) 322-5377. Copies are also available on the FAA's Web site. Use the following link and type the TSO number in the search box: *http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgTSO.nsf/Frameset?OpenPage.*
-              
-... TSO-C126, 406 MHz Emergency Locator Transmitter (ELT), Dec. 23, 1992,
-... TSO-C126a, 406 MHz Emergency Locator Transmitter (ELT), Dec. 17, 2008, and
-... TSO-C126b, 406 MHz Emergency Locator Transmitter (ELT), Nov. 26, 2012.
-.. RTCA, Inc., 1150 18th Street NW., Suite 910, Washington, DC 20036, telephone (202) 833-9339, and are also available on RTCA's Web site at *http://www.rtca.org/onlinecart/index.cfm.*
-              
-... RTCA DO-204, Minimum Operational Performance Standards (MOPS) 406 MHz Emergency Locator Transmitters (ELTs), Sept. 29, 1989, and
-... RTCA DO-204A, Minimum Operational Performance Standards (MOPS) 406 MHz Emergency Locator Transmitters (ELT), Dec. 6, 2007.
 
 *Autorotational distance* refers to the distance a rotorcraft can travel in autorotation as described by the manufacturer in the approved Rotorcraft Flight Manual.
 
 *Shoreline* means that area of the land adjacent to the water of an ocean, sea, lake, pond, river, or tidal basin that is above the high-water mark at which a rotorcraft could be landed safely. This does not include land areas which are unsuitable for landing such as vertical cliffs or land intermittently under water.
 
-## § 135.169
+(b) *Required equipment.* After April 24, 2017, except as provided for in paragraph (c), when authorized by the certificate holder's operations specifications, or when necessary only for takeoff or landing, no person may operate a rotorcraft beyond autorotational distance from the shoreline unless it carries:
 
-### Additional airworthiness requirements.
+[arabic]
+. An approved life preserver equipped with an approved survivor locator light for each occupant of the rotorcraft. The life preserver must be worn by each occupant while the rotorcraft is beyond autorotational distance from the shoreline, except for a patient transported during a helicopter air ambulance operation, as defined in § 135.601(b)(1), when wearing a life preserver would be inadvisable for medical reasons; and
+              
+. An approved and installed 406 MHz emergency locator transmitter (ELT) with 121.5 MHz homing capability. Batteries used in ELTs must be maintained in accordance with the following—
+[lowerroman]
+.. Non-rechargeable batteries must be replaced when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful lives have expired, as established by the transmitter manufacturer under its approval. The new expiration date for replacing the batteries must be legibly marked on the outside of the transmitter. The battery useful life requirements of this paragraph (b)(2) do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals; or
+.. Rechargeable batteries used in the transmitter must be recharged when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful-life-of-charge has expired, as established by the transmitter manufacturer under its approval. The new expiration date for recharging the batteries must be legibly marked on the outside of the transmitter. The battery useful-life-of-charge requirements of this paragraph (b)(2) do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals.
 
+(c) *Maintenance.* The equipment required by this section must be maintained in accordance with § 135.419.
+
+(d) *ELT standards.* The ELT required by paragraph (b)(2) of this section must meet the requirements in:
+
+[arabic]
+. TSO-C126, TSO-C126a, or TSO-C126b; and
+. Section 2 of either RTCA DO-204 or RTCA DO-204A, as specified by the TSO complied with in paragraph (d)(1) of this section.
+
+(e) *ELT alternative compliance.* Operators with an ELT required by paragraph (b)(2) of this section, or an ELT with an approved deviation under § 21.618 of this chapter, are in compliance with this section.
+
+(f) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FAA must publish notice of change in the *Federal Register* and the material must be available to the public. All approved material is available for inspection at the FAA's Office of Rulemaking (ARM-1), 800 Independence Avenue SW., Washington, DC 20591 (telephone (202) 267-9677) and from the sources indicated below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or go to *http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.*
+              
+
+[arabic]
+. U.S. Department of Transportation, Subsequent Distribution Office, DOT Warehouse M30, Ardmore East Business Center, 3341 Q 75th Avenue, Landover, MD 20785; telephone (301) 322-5377. Copies are also available on the FAA's Web site. Use the following link and type the TSO number in the search box: *http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgTSO.nsf/Frameset?OpenPage.*
+              
+[lowerroman]
+.. TSO-C126, 406 MHz Emergency Locator Transmitter (ELT), Dec. 23, 1992,
+.. TSO-C126a, 406 MHz Emergency Locator Transmitter (ELT), Dec. 17, 2008, and
+.. TSO-C126b, 406 MHz Emergency Locator Transmitter (ELT), Nov. 26, 2012.
+. RTCA, Inc., 1150 18th Street NW., Suite 910, Washington, DC 20036, telephone (202) 833-9339, and are also available on RTCA's Web site at *http://www.rtca.org/onlinecart/index.cfm.*
+              
+[lowerroman]
+.. RTCA DO-204, Minimum Operational Performance Standards (MOPS) 406 MHz Emergency Locator Transmitters (ELTs), Sept. 29, 1989, and
+.. RTCA DO-204A, Minimum Operational Performance Standards (MOPS) 406 MHz Emergency Locator Transmitters (ELT), Dec. 6, 2007.
+
+## § 135.169 - Additional airworthiness requirements.
+
+[loweralpha]
 . Except for commuter category airplanes, no person may operate a large airplane unless it meets the additional airworthiness requirements of §§ 121.213 through 121.283 and 121.307 of this chapter.
 . No person may operate a reciprocating-engine or turbopropeller-powered small airplane that has a passenger seating configuration, excluding pilot seats, of 10 seats or more unless it is type certificated—
+[arabic]
 .. In the transport category;
 .. Before July 1, 1970, in the normal category and meets special conditions issued by the Administrator for airplanes intended for use in operations under this part;
 .. Before July 19, 1970, in the normal category and meets the additional airworthiness standards in Special Federal Aviation Regulation No. 23;
@@ -459,24 +590,29 @@ No person may operate an aircraft under IFR, carrying passengers, unless it has�
 .. In the normal category and complies with section 1.(b) of Special Federal Aviation Regulation No. 41; or
 .. In the commuter category.
 . No person may operate a small airplane with a passenger seating configuration, excluding any pilot seat, of 10 seats or more, with a seating configuration greater than the maximum seating configuration used in that type airplane in operations under this part before August 19, 1977. This paragraph does not apply to—
+[arabic]
 .. An airplane that is type certificated in the transport category; or
 .. An airplane that complies with—
+[lowerroman]
 ... Appendix A of this part provided that its passenger seating configuration, excluding pilot seats, does not exceed 19 seats; or
 ... Special Federal Aviation Regulation No. 41.
 . Cargo or baggage compartments:
+[arabic]
 .. After March 20, 1991, each Class C or D compartment, as defined in § 25.857 of part 25 of this chapter, greater than 200 cubic feet in volume in a transport category airplane type certificated after January 1, 1958, must have ceiling and sidewall panels which are constructed of:
+[lowerroman]
 ... Glass fiber reinforced resin;
 ... Materials which meet the test requirements of part 25, appendix F, part III of this chapter; or
 ... In the case of liner installations approved prior to March 20, 1989, aluminum.
 .. For compliance with this paragraph, the term “liner” includes any design feature, such as a joint or fastener, which would affect the capability of the liner to safely contain a fire.
 
-## § 135.170
+## § 135.170 - Materials for compartment interiors.
 
-### Materials for compartment interiors.
-
+[loweralpha]
 . No person may operate an airplane that conforms to an amended or supplemental type certificate issued in accordance with SFAR No. 41 for a maximum certificated takeoff weight in excess of 12,500 pounds unless within one year after issuance of the initial airworthiness certificate under that SFAR, the airplane meets the compartment interior requirements set forth in § 25.853(a) in effect March 6, 1995 (formerly § 25.853 (a), (b), (b-1), (b-2), and (b-3) of this chapter in effect on September 26, 1978).
 . Except for commuter category airplanes and airplanes certificated under Special Federal Aviation Regulation No. 41, no person may operate a large airplane unless it meets the following additional airworthiness requirements:
+[arabic]
 .. Except for those materials covered by paragraph (b)(2) of this section, all materials in each compartment used by the crewmembers or passengers must meet the requirements of § 25.853 of this chapter in effect as follows or later amendment thereto:
+[lowerroman]
 ... Except as provided in paragraph (b)(1)(iv) of this section, each airplane with a passenger capacity of 20 or more and manufactured after August 19, 1988, but prior to August 20, 1990, must comply with the heat release rate testing provisions of § 25.853(d) in effect March 6, 1995 (formerly § 25.853(a-1) in effect on August 20, 1986), except that the total heat release over the first 2 minutes of sample exposure rate must not exceed 100 kilowatt minutes per square meter and the peak heat release rate must not exceed 100 kilowatts per square meter.
 ... Each airplane with a passenger capacity of 20 or more and manufactured after August 19, 1990, must comply with the heat release rate and smoke testing provisions of § 25.853(d) in effect March 6, 1995 (formerly § 25.83(a-1) in effect on September 26, 1988).
 ... Except as provided in paragraph (b)(1) (v) or (vi) of this section, each airplane for which the application for type certificate was filed prior to May 1, 1972, must comply with the provisions of § 25.853 in effect on April 30, 1972, regardless of the passenger capacity, if there is a substantially complete replacement of the cabin interior after April 30, 1972.
@@ -488,22 +624,22 @@ No person may operate an aircraft under IFR, carrying passengers, unless it has�
 ... Contrary provisions of this section notwithstanding, galley carts and standard galley containers that do not meet the flammability and smoke emission requirements of § 25.853(d) in effect March 6, 1995 (formerly § 25.853(a-1) in effect on August 20, 1986), may be used in airplanes that must meet the requirements of paragraph (b)(1)(i), (b)(1)(ii), (b)(1)(iv) or (b)(1)(vi) of this section provided the galley carts or standard containers were manufactured prior to March 6, 1995.
 .. For airplanes type certificated after January 1, 1958, seat cushions, except those on flight crewmember seats, in any compartment occupied by crew or passengers must comply with the requirements pertaining to fire protection of seat cushions in § 25.853(c) effective November 26, 1984.
 . Thermal/acoustic insulation materials. For transport category airplanes type certificated after January 1, 1958:
+[arabic]
 .. For airplanes manufactured before September 2, 2005, when thermal/acoustic insulation is installed in the fuselage as replacements after September 2, 2005, the insulation must meet the flame propagation requirements of § 25.856 of this chapter, effective September 2, 2003, if it is:
+[lowerroman]
 ... Of a blanket construction, or
 ... Installed around air ducting.
 .. For airplanes manufactured after September 2, 2005, thermal/acoustic insulation materials installed in the fuselage must meet the flame propagation requirements of § 25.856 of this chapter, effective September 2, 2003.
 
-## § 135.171
+## § 135.171 - Shoulder harness installation at flight crewmember stations.
 
-### Shoulder harness installation at flight crewmember stations.
-
+[loweralpha]
 . No person may operate a turbojet aircraft or an aircraft having a passenger seating configuration, excluding any pilot seat, of 10 seats or more unless it is equipped with an approved shoulder harness installed for each flight crewmember station.
 . Each flight crewmember occupying a station equipped with a shoulder harness must fasten the shoulder harness during takeoff and landing, except that the shoulder harness may be unfastened if the crewmember cannot perform the required duties with the shoulder harness fastened.
 
-## § 135.173
+## § 135.173 - Airborne thunderstorm detection equipment requirements.
 
-### Airborne thunderstorm detection equipment requirements.
-
+[loweralpha]
 . No person may operate an aircraft that has a passenger seating configuration, excluding any pilot seat, of 10 seats or more in passenger-carrying operations, except a helicopter operating under day VFR conditions, unless the aircraft is equipped with either approved thunderstorm detection equipment or approved airborne weather radar equipment.
 . No person may operate a helicopter that has a passenger seating configuration, excluding any pilot seat, of 10 seats or more in passenger-carrying operations, under night VFR when current weather reports indicate that thunderstorms or other potentially hazardous weather conditions that can be detected with airborne thunderstorm detection equipment may reasonably be expected along the route to be flown, unless the helicopter is equipped with either approved thunderstorm detection equipment or approved airborne weather radar equipment.
 . No person may begin a flight under IFR or night VFR conditions when current weather reports indicate that thunderstorms or other potentially hazardous weather conditions that can be detected with airborne thunderstorm detection equipment, required by paragraph (a) or (b) of this section, may reasonably be expected along the route to be flown, unless the airborne thunderstorm detection equipment is in satisfactory operating condition.
@@ -511,22 +647,22 @@ No person may operate an aircraft under IFR, carrying passengers, unless it has�
 . This section does not apply to aircraft used solely within the State of Hawaii, within the State of Alaska, within that part of Canada west of longitude 130 degrees W, between latitude 70 degrees N, and latitude 53 degrees N, or during any training, test, or ferry flight.
 . Without regard to any other provision of this part, an alternate electrical power supply is not required for airborne thunderstorm detection equipment.
 
-## § 135.175
+## § 135.175 - Airborne weather radar equipment requirements.
 
-### Airborne weather radar equipment requirements.
-
+[loweralpha]
 . No person may operate a large, transport category aircraft in passenger-carrying operations unless approved airborne weather radar equipment is installed in the aircraft.
 . No person may begin a flight under IFR or night VFR conditions when current weather reports indicate that thunderstorms, or other potentially hazardous weather conditions that can be detected with airborne weather radar equipment, may reasonably be expected along the route to be flown, unless the airborne weather radar equipment required by paragraph (a) of this section is in satisfactory operating condition.
 . If the airborne weather radar equipment becomes inoperative en route, the aircraft must be operated under the instructions and procedures specified for that event in the manual required by § 135.21.
 . This section does not apply to aircraft used solely within the State of Hawaii, within the State of Alaska, within that part of Canada west of longitude 130 degrees W, between latitude 70 degrees N, and latitude 53 degrees N, or during any training, test, or ferry flight.
 . Without regard to any other provision of this part, an alternate electrical power supply is not required for airborne weather radar equipment.
 
-## § 135.177
+## § 135.177 - Emergency equipment requirements for aircraft having a passenger seating configuration of more than 19 passengers.
 
-### Emergency equipment requirements for aircraft having a passenger seating configuration of more than 19 passengers.
-
+[loweralpha]
 . No person may operate an aircraft having a passenger seating configuration, excluding any pilot seat, of more than 19 seats unless it is equipped with the following emergency equipment:
+[arabic]
 .. At least one approved first-aid kit for treatment of injuries likely to occur in flight or in a minor accident that must:
+[lowerroman]
 ... Be readily accessible to crewmembers.
 ... Be stored securely and kept free from dust, moisture, and damaging temperatures.
 ... Contain at least the following appropriately maintained contents in the specified quantities:
@@ -535,35 +671,46 @@ No person may operate an aircraft under IFR, carrying passengers, unless it has�
 .. [Reserved]
 . Each item of equipment must be inspected regularly under inspection periods established in the operations specifications to ensure its condition for continued serviceability and immediate readiness to perform its intended emergency purposes.
 
-## § 135.178
-
-### Additional emergency equipment.
+## § 135.178 - Additional emergency equipment.
 
 No person may operate an airplane having a passenger seating configuration of more than 19 seats, unless it has the additional emergency equipment specified in paragraphs (a) through (l) of this section.
 
+[loweralpha]
 . *Means for emergency evacuation.* Each passenger-carrying landplane emergency exit (other than over-the-wing) that is more than 6 feet from the ground, with the airplane on the ground and the landing gear extended, must have an approved means to assist the occupants in descending to the ground. The assisting means for a floor-level emergency exit must meet the requirements of § 25.809(f)(1) of this chapter in effect on April 30, 1972, except that, for any airplane for which the application for the type certificate was filed after that date, it must meet the requirements under which the airplane was type certificated. An assisting means that deploys automatically must be armed during taxiing, takeoffs, and landings; however, the Administrator may grant a deviation from the requirement of automatic deployment if he finds that the design of the exit makes compliance impractical, if the assisting means automatically erects upon deployment and, with respect to required emergency exits, if an emergency evacuation demonstration is conducted in accordance with § 121.291(a) of this chapter. This paragraph does not apply to the rear window emergency exit of Douglas DC-3 airplanes operated with fewer than 36 occupants, including crewmembers, and fewer than five exits authorized for passenger use.
 . *Interior emergency exit marking.* The following must be complied with for each passenger-carrying airplane:
+[arabic]
 .. Each passenger emergency exit, its means of access, and its means of opening must be conspicuously marked. The identity and locating of each passenger emergency exit must be recognizable from a distance equal to the width of the cabin. The location of each passenger emergency exit must be indicated by a sign visible to occupants approaching along the main passenger aisle. There must be a locating sign—
+[lowerroman]
 ... Above the aisle near each over-the-wing passenger emergency exit, or at another ceiling location if it is more practical because of low headroom;
 ... Next to each floor level passenger emergency exit, except that one sign may serve two such exits if they both can be seen readily from that sign; and
 ... On each bulkhead or divider that prevents fore and aft vision along the passenger cabin, to indicate emergency exits beyond and obscured by it, except that if this is not possible, the sign may be placed at another appropriate location.
 .. Each passenger emergency exit marking and each locating sign must meet the following:
+[lowerroman]
 ... For an airplane for which the application for the type certificate was filed prior to May 1, 1972, each passenger emergency exit marking and each locating sign must be manufactured to meet the requirements of § 25.812(b) of this chapter in effect on April 30, 1972. On these airplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 100 microlamberts. The colors may be reversed if it increases the emergency illumination of the passenger compartment. However, the Administrator may authorize deviation from the 2-inch background requirements if he finds that special circumstances exist that make compliance impractical and that the proposed deviation provides an equivalent level of safety.
 ... For an airplane for which the application for the type certificate was filed on or after May 1, 1972, each passenger emergency exit marking and each locating sign must be manufactured to meet the interior emergency exit marking requirements under which the airplane was type certificated. On these airplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 250 microlamberts.
 . *Lighting for interior emergency exit markings.* Each passenger-carrying airplane must have an emergency lighting system, independent of the main lighting system; however, sources of general cabin illumination may be common to both the emergency and the main lighting systems if the power supply to the emergency lighting system is independent of the power supply to the main lighting system. The emergency lighting system must—
+[arabic]
 .. Illuminate each passenger exit marking and locating sign;
               
 .. Provide enough general lighting in the passenger cabin so that the average illumination when measured at 40-inch intervals at seat armrest height, on the centerline of the main passenger aisle, is at least 0.05 foot-candles; and
 .. For airplanes type certificated after January 1, 1958, include floor proximity emergency escape path marking which meets the requirements of § 25.812(e) of this chapter in effect on November 26, 1984.
 . *Emergency light operation.* Except for lights forming part of emergency lighting subsystems provided in compliance with § 25.812(h) of this chapter (as prescribed in paragraph (h) of this section) that serve no more than one assist means, are independent of the airplane's main emergency lighting systems, and are automatically activated when the assist means is deployed, each light required by paragraphs (c) and (h) of this section must:
+[arabic]
 .. Be operable manually both from the flightcrew station and from a point in the passenger compartment that is readily accessible to a normal flight attendant seat;
 .. Have a means to prevent inadvertent operation of the manual controls;
 .. When armed or turned on at either station, remain lighted or become lighted upon interruption of the airplane's normal electric power;
 .. Be armed or turned on during taxiing, takeoff, and landing. In showing compliance with this paragraph, a transverse vertical separation of the fuselage need not be considered;
 .. Provide the required level of illumination for at least 10 minutes at the critical ambient conditions after emergency landing; and
 .. Have a cockpit control device that has an “on,” “off,” and “armed” position.
-. *Emergency exit operating handles.* (1) For a passenger-carrying airplane for which the application for the type certificate was filed prior to May 1, 1972, the location of each passenger emergency exit operating handle, and instructions for opening the exit, must be shown by a marking on or near the exit that is readable from a distance of 30 inches. In addition, for each Type I and Type II emergency exit with a locking mechanism released by rotary motion of the handle, the instructions for opening must be shown by—
+. *Emergency exit operating handles.*
+[arabic]
+.. For a passenger-carrying airplane for which the application for the type certificate was filed prior to May 1, 1972, the location of each passenger emergency exit operating handle, and instructions for opening the exit, must be shown by a marking on or near the exit that is readable from a distance of 30 inches. In addition, for each Type I and Type II emergency exit with a locking mechanism released by rotary motion of the handle, the instructions for opening must be shown by—
+[lowerroman]
+... A red arrow with a shaft at least three-fourths inch wide and a head twice the width of the shaft, extending along at least 70° of arc at a radius approximately equal to three-fourths of the handle length; and
+... The word “open” in red letters 1 inch high placed horizontally near the head of the arrow.
+.. For a passenger-carrying airplane for which the application for the type certificate was filed on or after May 1, 1972, the location of each passenger emergency exit operating handle and instructions for opening the exit must be shown in accordance with the requirements under which the airplane was type certificated. On these airplanes, no operating handle or operating handle cover may continue to be used if its luminescence (brightness) decreases to below 100 microlamberts.
 . *Emergency exit access.* Access to emergency exits must be provided as follows for each passenger-carrying airplane:
+[arabic]
 .. Each passageway between individual passenger areas, or leading to a Type I or Type II emergency exit, must be unobstructed and at least 20 inches wide.
 .. There must be enough space next to each Type I or Type II emergency exit to allow a crewmember to assist in the evacuation of passengers without reducing the unobstructed width of the passageway below that required in paragraph (f)(1) of this section; however, the Administrator may authorize deviation from this requirement for an airplane certificated under the provisions of part 4b of the Civil Air Regulations in effect before December 20, 1951, if he finds that special circumstances exist that provide an equivalent level of safety.
 .. There must be access from the main aisle to each Type III and Type IV exit. The access from the aisle to these exits must not be obstructed by seats, berths, or other protrusions in a manner that would reduce the effectiveness of the exit. In addition, for a transport category airplane type certificated after January 1, 1958, there must be placards installed in accordance with § 25.813(c)(3) of this chapter for each Type III exit after December 3, 1992.
@@ -571,93 +718,93 @@ No person may operate an airplane having a passenger seating configuration of mo
 .. No door may be installed in any partition between passenger compartments.
 .. If it is necessary to pass through a doorway separating the passenger cabin from other areas to reach a required emergency exit from any passenger seat, the door must have a means to latch it in the open position, and the door must be latched open during each takeoff and landing. The latching means must be able to withstand the loads imposed upon it when the door is subjected to the ultimate inertia forces, relative to the surrounding structure, listed in § 25.561(b) of this chapter.
 . *Exterior exit markings.* Each passenger emergency exit and the means of opening that exit from the outside must be marked on the outside of the airplane. There must be a 2-inch colored band outlining each passenger emergency exit on the side of the fuselage. Each outside marking, including the band, must be readily distinguishable from the surrounding fuselage area by contrast in color. The markings must comply with the following:
+[arabic]
 .. If the reflectance of the darker color is 15 percent or less, the reflectance of the lighter color must be at least 45 percent.
 .. If the reflectance of the darker color is greater than 15 percent, at least a 30 percent difference between its reflectance and the reflectance of the lighter color must be provided.
 .. Exits that are not in the side of the fuselage must have the external means of opening and applicable instructions marked conspicuously in red or, if red is inconspicuous against the background color, in bright chrome yellow and, when the opening means for such an exit is located on only one side of the fuselage, a conspicuous marking to that effect must be provided on the other side. “Reflectance” is the ratio of the luminous flux reflected by a body to the luminous flux it receives.
-. *Exterior emergency lighting and escape route.* (1) Each passenger-carrying airplane must be equipped with exterior lighting that meets the following requirements:
-. For an airplane for which the application for the type certificate was filed prior to May 1, 1972, the requirements of § 25.812 (f) and (g) of this chapter in effect on April 30, 1972.
-. *Additional emergency exits.* Approved emergency exits in the passenger compartments that are in excess of the minimum number of required emergency exits must meet all of the applicable provisions of this section, except paragraphs (f) (1), (2), and (3) of this section, and must be readily accessible.
-. On each large passenger-carrying turbojet-powered airplane, each ventral exit and tailcone exit must be—
-.. Designed and constructed so that it cannot be opened during flight; and
-.. Marked with a placard readable from a distance of 30 inches and installed at a conspicuous location near the means of opening the exit, stating that the exit has been designed and constructed so that it cannot be opened during flight.
-. *Portable lights.* No person may operate a passenger-carrying airplane unless it is equipped with flashlight stowage provisions accessible from each flight attendant seat.
+. *Exterior emergency lighting and escape route.*
+[arabic]
+.. Each passenger-carrying airplane must be equipped with exterior lighting that meets the following requirements:
+[lowerroman]
+... For an airplane for which the application for the type certificate was filed prior to May 1, 1972, the requirements of § 25.812 (f) and (g) of this chapter in effect on April 30, 1972.
+... For an airplane for which the application for the type certificate was filed on or after May 1, 1972, the exterior emergency lighting requirements under which the airplane was type certificated.
+.. Each passenger-carrying airplane must be equipped with a slip-resistant escape route that meets the following requirements:
+[lowerroman]
+... *Floor level exits.* Each floor level door or exit in the side of the fuselage (other than those leading into a cargo or baggage compartment that is not accessible from the passenger cabin) that is 44 or more inches high and 20 or more inches wide, but not wider than 46 inches, each passenger ventral exit (except the ventral exits on Martin 404 and Convair 240 airplanes), and each tail cone exit, must meet the requirements of this section for floor level emergency exits. However, the Administrator may grant a deviation from this paragraph if he finds that circumstances make full compliance impractical and that an acceptable level of safety has been achieved.
 
-(i) A red arrow with a shaft at least three-fourths inch wide and a head twice the width of the shaft, extending along at least 70° of arc at a radius approximately equal to three-fourths of the handle length; and
+(j) *Additional emergency exits.* Approved emergency exits in the passenger compartments that are in excess of the minimum number of required emergency exits must meet all of the applicable provisions of this section, except paragraphs (f) (1), (2), and (3) of this section, and must be readily accessible.
 
-(ii) The word “open” in red letters 1 inch high placed horizontally near the head of the arrow.
+(k) On each large passenger-carrying turbojet-powered airplane, each ventral exit and tailcone exit must be—
 
-(2) For a passenger-carrying airplane for which the application for the type certificate was filed on or after May 1, 1972, the location of each passenger emergency exit operating handle and instructions for opening the exit must be shown in accordance with the requirements under which the airplane was type certificated. On these airplanes, no operating handle or operating handle cover may continue to be used if its luminescence (brightness) decreases to below 100 microlamberts.
+[arabic]
+. Designed and constructed so that it cannot be opened during flight; and
+. Marked with a placard readable from a distance of 30 inches and installed at a conspicuous location near the means of opening the exit, stating that the exit has been designed and constructed so that it cannot be opened during flight.
 
-(ii) For an airplane for which the application for the type certificate was filed on or after May 1, 1972, the exterior emergency lighting requirements under which the airplane was type certificated.
+(l) *Portable lights.* No person may operate a passenger-carrying airplane unless it is equipped with flashlight stowage provisions accessible from each flight attendant seat.
 
-(2) Each passenger-carrying airplane must be equipped with a slip-resistant escape route that meets the following requirements:
+## § 135.179 - Inoperable instruments and equipment.
 
-(i) For an airplane for which the application for the type certificate was filed prior to May 1, 1972, the requirements of § 25.803(e) of this chapter in effect on April 30, 1972.
-
-(ii) For an airplane for which the application for the type certificate was filed on or after May 1, 1972, the slip-resistant escape route requirements under which the airplane was type certificated.
-
-(i) *Floor level exits.* Each floor level door or exit in the side of the fuselage (other than those leading into a cargo or baggage compartment that is not accessible from the passenger cabin) that is 44 or more inches high and 20 or more inches wide, but not wider than 46 inches, each passenger ventral exit (except the ventral exits on Martin 404 and Convair 240 airplanes), and each tail cone exit, must meet the requirements of this section for floor level emergency exits. However, the Administrator may grant a deviation from this paragraph if he finds that circumstances make full compliance impractical and that an acceptable level of safety has been achieved.
-
-## § 135.179
-
-### Inoperable instruments and equipment.
-
+[loweralpha]
 . No person may take off an aircraft with inoperable instruments or equipment installed unless the following conditions are met:
+[arabic]
 .. An approved Minimum Equipment List exists for that aircraft.
 .. The certificate-holding district office has issued the certificate holder operations specifications authorizing operations in accordance with an approved Minimum Equipment List. The flight crew shall have direct access at all times prior to flight to all of the information contained in the approved Minimum Equipment List through printed or other means approved by the Administrator in the certificate holders operations specifications. An approved Minimum Equipment List, as authorized by the operations specifications, constitutes an approved change to the type design without requiring recertification.
 .. The approved Minimum Equipment List must:
+[lowerroman]
 ... Be prepared in accordance with the limitations specified in paragraph (b) of this section.
 ... Provide for the operation of the aircraft with certain instruments and equipment in an inoperable condition.
 .. Records identifying the inoperable instruments and equipment and the information required by (a)(3)(ii) of this section must be available to the pilot.
 .. The aircraft is operated under all applicable conditions and limitations contained in the Minimum Equipment List and the operations specifications authorizing use of the Minimum Equipment List.
 . The following instruments and equipment may not be included in the Minimum Equipment List:
+[arabic]
 .. Instruments and equipment that are either specifically or otherwise required by the airworthiness requirements under which the airplane is type certificated and which are essential for safe operations under all operating conditions.
 .. Instruments and equipment required by an airworthiness directive to be in operable condition unless the airworthiness directive provides otherwise.
 .. Instruments and equipment required for specific operations by this part.
 . Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit under §§ 21.197 and 21.199 of this chapter.
 
-## § 135.180
+## § 135.180 - Traffic Alert and Collision Avoidance System.
 
-### Traffic Alert and Collision Avoidance System.
-
+[loweralpha]
 . Unless otherwise authorized by the Administrator, after December 31, 1995, no person may operate a turbine powered airplane that has a passenger seat configuration, excluding any pilot seat, of 10 to 30 seats unless it is equipped with an approved traffic alert and collision avoidance system. If a TCAS II system is installed, it must be capable of coordinating with TCAS units that meet TSO C-119.
 . The airplane flight manual required by § 135.21 of this part shall contain the following information on the TCAS I system required by this section:
+[arabic]
 .. Appropriate procedures for—
+[lowerroman]
 ... The use of the equipment; and
               
 ... Proper flightcrew action with respect to the equipment operation.
 .. An outline of all input sources that must be operating for the TCAS to function properly.
 
-## § 135.181
+## § 135.181 - Performance requirements: Aircraft operated over-the-top or in IFR conditions.
 
-### Performance requirements: Aircraft operated over-the-top or in IFR conditions.
-
+[loweralpha]
 . Except as provided in paragraphs (b) and (c) of this section, no person may—
+[arabic]
 .. Operate a single-engine aircraft carrying passengers over-the-top; or
 .. Operate a multiengine aircraft carrying passengers over-the-top or in IFR conditions at a weight that will not allow it to climb, with the critical engine inoperative, at least 50 feet a minute when operating at the MEAs of the route to be flown or 5,000 feet MSL, whichever is higher.
 . Notwithstanding the restrictions in paragraph (a)(2) of this section, multiengine helicopters carrying passengers offshore may conduct such operations in over-the-top or in IFR conditions at a weight that will allow the helicopter to climb at least 50 feet per minute with the critical engine inoperative when operating at the MEA of the route to be flown or 1,500 feet MSL, whichever is higher.
 . Without regard to paragraph (a) of this section, if the latest weather reports or forecasts, or any combination of them, indicate that the weather along the planned route (including takeoff and landing) allows flight under VFR under the ceiling (if a ceiling exists) and that the weather is forecast to remain so until at least 1 hour after the estimated time of arrival at the destination, a person may operate an aircraft over-the-top.
 . Without regard to paragraph (a) of this section, a person may operate an aircraft over-the-top under conditions allowing—
+[arabic]
 .. For multiengine aircraft, descent or continuance of the flight under VFR if its critical engine fails; or
 .. For single-engine aircraft, descent under VFR if its engine fails.
 
-## § 135.183
-
-### Performance requirements: Land aircraft operated over water.
+## § 135.183 - Performance requirements: Land aircraft operated over water.
 
 No person may operate a land aircraft carrying passengers over water unless—
 
+[loweralpha]
 . It is operated at an altitude that allows it to reach land in the case of engine failure;
 . It is necessary for takeoff or landing;
 . It is a multiengine aircraft operated at a weight that will allow it to climb, with the critical engine inoperative, at least 50 feet a minute, at an altitude of 1,000 feet above the surface; or
 . It is a helicopter equipped with helicopter flotation devices.
 
-## § 135.185
+## § 135.185 - Empty weight and center of gravity: Currency requirement.
 
-### Empty weight and center of gravity: Currency requirement.
-
+[loweralpha]
 . No person may operate a multiengine aircraft unless the current empty weight and center of gravity are calculated from values established by actual weighing of the aircraft within the preceding 36 calendar months.
 . Paragraph (a) of this section does not apply to—
+[arabic]
 .. Aircraft issued an original airworthiness certificate within the preceding 36 calendar months; and
 .. Aircraft operated under a weight and balance system approved in the operations specifications of the certificate holder.
 
